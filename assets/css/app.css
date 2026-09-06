@@ -560,6 +560,7 @@
 
 .peu {
   flex: none;
+  margin-top: var(--esp-6);
   border-top: 1px solid var(--vora);
   background: var(--bg-subtil);
 }
@@ -567,25 +568,62 @@
 .peu__interior {
   max-width: var(--amplada-max);
   margin: 0 auto;
-  padding: var(--esp-5) var(--esp-4);
+  padding: var(--esp-5) var(--esp-4) var(--esp-6);
   display: flex;
   flex-direction: column;
-  gap: var(--esp-2);
+  gap: var(--esp-4);
   font-size: 0.8rem;
   line-height: 1.6;
   color: var(--text-tenue);
 }
 
-.peu__interior p { margin: 0; max-width: 82ch; }
-.peu__interior strong { color: var(--text-suau); font-weight: 600; }
+.peu__interior p { margin: 0; }
+.peu__interior strong { color: var(--text); font-weight: 600; }
 
 .peu__interior a {
-  color: inherit;
+  color: var(--text-suau);
   text-decoration: underline;
+  text-decoration-color: var(--vora-forta);
   text-underline-offset: 2px;
 }
 
-.peu__interior a:hover { color: var(--text); }
+.peu__interior a:hover { color: var(--text); text-decoration-color: currentColor; }
+
+/* Avís d'emmagatzematge local: destacat, però sense cridar. */
+.peu__avis {
+  display: flex;
+  gap: var(--esp-2);
+  align-items: flex-start;
+  max-width: 84ch;
+  padding: var(--esp-3) var(--esp-4);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radi);
+  color: var(--text-suau);
+  font-size: 0.82rem;
+}
+
+.peu__avis .icona {
+  width: 16px;
+  height: 16px;
+  margin-top: 2px;
+  color: var(--accent);
+}
+
+/* Autoria i llicència, en columnes si hi ha amplada. */
+.peu__credits {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: var(--esp-2) var(--esp-6);
+  max-width: 1000px;
+}
+
+.peu__fonts {
+  padding-top: var(--esp-3);
+  border-top: 1px solid var(--vora);
+  font-size: 0.78rem;
+}
 
 /* Icones ------------------------------------------------------------------ */
 

@@ -39,6 +39,20 @@ Els JSON de `data/dinamiques/` continuen sent la font de veritat editable; `data
 és artefacte generat per `scripts/build-data.mjs`, però es versiona perquè GitHub Pages
 serveixi el repositori sense cap pas de construcció.
 
+## Memòria cau dels assets
+
+GitHub Pages serveix els fitxers amb `Cache-Control: max-age=600`. Sense cap precaució,
+just després d'un desplegament el navegador pot combinar l'`index.html` nou amb un CSS o un
+JS vells: la pàgina surt sense estils o sense les funcions noves fins que es força una
+recàrrega.
+
+Per evitar-ho, `npm run build` reescriu les referències d'`index.html` afegint-hi un
+`?v=<resum>` calculat sobre el contingut de tots els assets (`assets/**` i
+`data/bundle.js`). Quan canvia qualsevol fitxer canvia el resum, i amb ell totes les
+adreces, de manera que el navegador les torna a demanar. El paràmetre és automàtic: no s'ha
+de tocar a mà, però sí que cal executar `npm run build` **abans de cada commit** que toqui
+CSS o JS, i incloure-hi l'`index.html` resultant.
+
 ## Espais de noms
 
 Tots els mòduls són scripts clàssics que pengen d'un únic objecte global `window.TUT`:

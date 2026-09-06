@@ -16,6 +16,7 @@
  */
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -141,3 +142,32 @@ await writeFile(
 console.log(`bundle.js generat amb ${dinamiques.length} dinàmiques de ${fitxers.length} fitxers.`);
 console.log(`${traduides} dinàmiques amb text català; ${dinamiques.length - traduides} només en castellà.`);
 if (avisos) console.log(`${avisos} avís(os) de taxonomia.`);
+
+/* --- versió dels assets a index.html --------------------------------------
+ *
+ * GitHub Pages serveix els fitxers amb `Cache-Control: max-age=600`, de manera
+ * que després d'un desplegament el navegador pot combinar l'`index.html` nou
+ * amb un CSS o un JS vells i ensenyar la pàgina mig trencada. Per evitar-ho,
+ * cada referència a un fitxer propi porta un `?v=` amb un resum del contingut
+ * de tots els assets: quan canvia qualsevol fitxer, canvia l'adreça i el
+ * navegador la torna a demanar. */
+
+const INDEX = path.join(ROOT, 'index.html');
+const REFERENCIA = /\b(href|src)="((?:assets\/[^"?]+|data\/bundle\.js))(?:\?v=[^"]*)?"/g;
+
+let index = await readFile(INDEX, 'utf8');
+const rutes = [...new Set([...index.matchAll(REFERENCIA)].map((m) => m[2]))].sort();
+
+const resum = createHash('sha1');
+for (const ruta of rutes) resum.update(await readFile(path.join(ROOT, ruta)));
+const versio = resum.digest('hex').slice(0, 8);
+
+const actualitzat = index.replace(REFERENCIA, (_, atribut, ruta) =>
+  `${atribut}="${ruta}?v=${versio}"`);
+
+if (actualitzat !== index) {
+  await writeFile(INDEX, actualitzat, 'utf8');
+  console.log(`index.html: assets marcats amb ?v=${versio} (${rutes.length} fitxers).`);
+} else {
+  console.log(`index.html: els assets ja estan marcats amb ?v=${versio}.`);
+}
