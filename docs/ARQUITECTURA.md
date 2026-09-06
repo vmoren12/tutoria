@@ -110,6 +110,12 @@ Encaminador per fragment d'URL, sense dependències:
 Els filtres del catàleg es reflecteixen a la URL amb `history.replaceState`, de manera que
 una cerca es pot desar com a marcador o compartir.
 
+`TUT.app` també en recorda els últims paràmetres (a `sessionStorage`) i els torna a posar
+a la ruta des de `TUT.app.enllac_cataleg()`. Tots els enllaços de tornada al catàleg —el de
+la fitxa, el del formulari i els de la sessió— hi passen, així que obrir una dinàmica i
+tornar enrere no perd la cerca ni els filtres. L'enllaç «Catàleg» de la capçalera apunta a
+`#/cataleg` sense paràmetres i, per tant, els neteja expressament.
+
 ## Impressió i PDF
 
 No hi ha cap biblioteca de generació de PDF. El full de sessió és HTML amb un full d'estil

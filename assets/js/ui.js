@@ -83,9 +83,25 @@
   function boto_afegeix(d, vegades, classes, textos) {
     textos = textos || ['Afegeix', 'Afegida'];
     return '<button type="button" class="boto ' + classes +
-      (vegades ? ' boto--afegida' : '') + '" data-afegeix="' + esc(d.id) + '"' +
+      (vegades ? ' boto--a-la-sessio' : '') + '" data-afegeix="' + esc(d.id) + '"' +
       (vegades ? ' aria-label="' + esc(d.titol) + ' ja és a la sessió; afegeix-la un altre cop"' : '') +
       '>' + dom.icona(vegades ? 'vist' : 'mes') + esc(vegades ? textos[1] : textos[0]) + '</button>';
+  }
+
+  /**
+   * Botó de treure de la sessió. Al catàleg, el botó d'una dinàmica que ja hi és
+   * passa a treure-la: així es pot muntar i desmuntar la sessió sense sortir de
+   * la llista. Per repetir-la a la sessió es fa des de la seva fitxa.
+   */
+  function boto_treu(d, classes, text) {
+    return '<button type="button" class="boto ' + classes + ' boto--a-la-sessio" ' +
+      'data-treu-sessio="' + esc(d.id) + '" aria-label="Treu «' + esc(d.titol) +
+      '» de la sessió">' + dom.icona('menys') + esc(text || 'Treu') + '</button>';
+  }
+
+  /** Al catàleg, el mateix botó afegeix o treu segons l'estat de la sessió. */
+  function boto_alterna(d, vegades, classes) {
+    return vegades ? boto_treu(d, classes) : boto_afegeix(d, 0, classes);
   }
 
   /** Targeta de dinàmica per al catàleg. */
@@ -112,7 +128,7 @@
       '<p class="targeta__resum">' + esc(extracte(d)) + '</p>' +
       '<div class="targeta__peu">' +
         '<div class="etiquetes creix">' + etiquetes + extra + '</div>' +
-        boto_afegeix(d, vegades, 'boto--petit') +
+        boto_alterna(d, vegades, 'boto--petit') +
       '</div>' +
     '</article>';
   }
@@ -133,7 +149,7 @@
           marca_sessio(vegades) +
         '</div>' +
       '</div>' +
-      boto_afegeix(d, vegades, 'boto--petit') +
+      boto_alterna(d, vegades, 'boto--petit') +
     '</article>';
   }
 
@@ -170,6 +186,21 @@
     });
   }
 
+  /**
+   * Treu de la sessió activa una aparició d'una dinàmica. No demana
+   * confirmació: tornar-la a afegir és un sol clic. Retorna `true` si n'ha tret.
+   */
+  function treu_de_sessio(id) {
+    var d = TUT.data.obte(id);
+    var s = TUT.store.sessio_activa();
+    if (!d || !s || !TUT.store.treu_dinamica_de_sessio(id, s.id)) return false;
+
+    var queden = TUT.store.vegades_a_sessio(id, s.id);
+    avis('«' + d.titol + '» treta de «' + s.titol + '»' +
+      (queden ? ' (encara hi és ' + queden + (queden === 1 ? ' vegada' : ' vegades') + ')' : '') + '.');
+    return true;
+  }
+
   TUT.ui = {
     avis: avis,
     confirma: confirma,
@@ -178,6 +209,9 @@
     fila: fila,
     marca_sessio: marca_sessio,
     boto_afegeix: boto_afegeix,
+    boto_treu: boto_treu,
+    boto_alterna: boto_alterna,
     afegeix_a_sessio: afegeix_a_sessio,
+    treu_de_sessio: treu_de_sessio,
   };
 })(window);

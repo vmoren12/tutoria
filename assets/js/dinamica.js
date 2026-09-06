@@ -20,16 +20,31 @@
   /* Fitxa                                                               */
   /* ------------------------------------------------------------------ */
 
-  /** Botó principal d'afegir a la sessió, amb l'estat actual de la sessió. */
-  function boto_sessio(d) {
-    return TUT.ui.boto_afegeix(d, TUT.store.vegades_a_sessio(d.id), 'boto--principal',
-      ['Afegeix a la sessió', 'Ja és a la sessió']);
+  /**
+   * Accions de sessió de la fitxa. A diferència del catàleg, aquí els dos botons
+   * conviuen: el primer permet repetir la dinàmica a la sessió (amb confirmació)
+   * i el segon la treu.
+   */
+  function botons_sessio(d) {
+    var vegades = TUT.store.vegades_a_sessio(d.id);
+    return TUT.ui.boto_afegeix(d, vegades, 'boto--principal',
+        ['Afegeix a la sessió', 'Ja és a la sessió']) +
+      (vegades ? TUT.ui.boto_treu(d, '', 'Treu de la sessió') : '');
+  }
+
+  /** Repinta els botons de sessió i el distintiu del capçal després d'un canvi. */
+  function refresca_sessio(contenidor, d) {
+    TUT.app.actualitza_comptador();
+    dom.$('#accions-sessio', contenidor).innerHTML = botons_sessio(d);
+    dom.$('#marca-sessio', contenidor).innerHTML =
+      TUT.ui.marca_sessio(TUT.store.vegades_a_sessio(d.id));
   }
 
   function render(contenidor, id) {
     var d = TUT.data.obte(id);
     if (!d) {
-      contenidor.innerHTML = '<a class="enllac-tornar" href="#/cataleg">Torna al catàleg</a>' +
+      contenidor.innerHTML = '<a class="enllac-tornar" href="' + TUT.app.enllac_cataleg() +
+        '">Torna al catàleg</a>' +
         '<div class="buit"><p>Aquesta dinàmica no existeix o s\'ha esborrat.</p></div>';
       return;
     }
@@ -48,7 +63,8 @@
     }).join(' ');
 
     contenidor.innerHTML = '' +
-      '<a class="enllac-tornar no-imprimir" href="#/cataleg">Torna al catàleg</a>' +
+      '<a class="enllac-tornar no-imprimir" href="' + TUT.app.enllac_cataleg() +
+        '">Torna al catàleg</a>' +
       '<div class="vista__capcalera">' +
         '<div>' +
           '<div class="fila" style="margin-bottom:8px">' +
@@ -62,7 +78,7 @@
           '<h1 class="vista__titol">' + esc(d.titol) + '</h1>' +
         '</div>' +
         '<div class="vista__accions no-imprimir">' +
-          boto_sessio(d) +
+          '<span class="fila" id="accions-sessio">' + botons_sessio(d) + '</span>' +
           '<a class="boto" href="#/dinamica/' + esc(d.id) + '/edita">' +
             dom.icona('llapis') + 'Edita</a>' +
           '<button type="button" class="boto" data-duplica>' + dom.icona('copia') + 'Duplica</button>' +
@@ -103,14 +119,14 @@
         '</aside>' +
       '</div>';
 
-    dom.delega(contenidor, 'click', '[data-afegeix]', function (event, boto) {
+    dom.delega(contenidor, 'click', '[data-afegeix]', function () {
       TUT.ui.afegeix_a_sessio(d.id).then(function (afegida) {
-        if (!afegida) return;
-        TUT.app.actualitza_comptador();
-        boto.outerHTML = boto_sessio(d);
-        dom.$('#marca-sessio', contenidor).innerHTML =
-          TUT.ui.marca_sessio(TUT.store.vegades_a_sessio(d.id));
+        if (afegida) refresca_sessio(contenidor, d);
       });
+    });
+
+    dom.delega(contenidor, 'click', '[data-treu-sessio]', function () {
+      if (TUT.ui.treu_de_sessio(d.id)) refresca_sessio(contenidor, d);
     });
 
     dom.delega(contenidor, 'click', '[data-imprimeix]', function () { global.print(); });
@@ -143,7 +159,7 @@
         if (d.origen === 'modificada') TUT.store.restaura_dinamica(d.id);
         else TUT.store.esborra_dinamica(d.id, d.origen === 'cataleg');
         TUT.data.reconstrueix();
-        global.location.hash = '#/cataleg';
+        global.location.hash = TUT.app.enllac_cataleg();
       });
     });
   }
@@ -176,7 +192,8 @@
     var tax = TUT.data.taxonomia;
 
     contenidor.innerHTML = '' +
-      '<a class="enllac-tornar" href="' + (nova ? '#/cataleg' : '#/dinamica/' + esc(id)) + '">' +
+      '<a class="enllac-tornar" href="' +
+        (nova ? TUT.app.enllac_cataleg() : '#/dinamica/' + esc(id)) + '">' +
         (nova ? 'Torna al catàleg' : 'Torna a la fitxa') + '</a>' +
       '<div class="vista__capcalera">' +
         '<div>' +
@@ -238,7 +255,8 @@
 
         '<div class="fila" style="margin-top:8px">' +
           '<button type="submit" class="boto boto--principal">Desa la dinàmica</button>' +
-          '<a class="boto" href="' + (nova ? '#/cataleg' : '#/dinamica/' + esc(id)) + '">Cancel·la</a>' +
+          '<a class="boto" href="' +
+            (nova ? TUT.app.enllac_cataleg() : '#/dinamica/' + esc(id)) + '">Cancel·la</a>' +
         '</div>' +
       '</form>';
 

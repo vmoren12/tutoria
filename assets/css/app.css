@@ -334,13 +334,21 @@
   box-shadow: inset 3px 0 0 var(--accent);
 }
 
-.boto--afegida {
+/* Botó d'una dinàmica que ja és a la sessió. En passar-hi per sobre vira a
+   to d'avís, perquè l'acció que fa és treure-la. */
+.boto--a-la-sessio {
   background: var(--accent-suau);
   border-color: var(--accent);
   color: var(--accent);
 }
 
-.boto--afegida:hover {
+.boto--a-la-sessio:hover {
+  background: var(--perill-suau);
+  border-color: var(--perill);
+  color: var(--perill);
+}
+
+.boto--a-la-sessio.boto--principal:hover {
   background: var(--accent-suau);
   border-color: var(--accent-fort);
   color: var(--accent-fort);
@@ -571,6 +579,8 @@
   padding: var(--esp-5) var(--esp-4) var(--esp-6);
   display: flex;
   flex-direction: column;
+  align-items: center;
+  text-align: center;
   gap: var(--esp-4);
   font-size: 0.8rem;
   line-height: 1.6;
@@ -594,11 +604,12 @@
   display: flex;
   gap: var(--esp-2);
   align-items: flex-start;
-  max-width: 84ch;
+  justify-content: center;
+  max-width: 78ch;
   padding: var(--esp-3) var(--esp-4);
   background: var(--bg-elevat);
   border: 1px solid var(--vora);
-  border-left: 3px solid var(--accent);
+  border-top: 2px solid var(--accent);
   border-radius: var(--radi);
   color: var(--text-suau);
   font-size: 0.82rem;
@@ -614,12 +625,18 @@
 /* Autoria i llicència, en columnes si hi ha amplada. */
 .peu__credits {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: var(--esp-2) var(--esp-6);
-  max-width: 1000px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  justify-items: center;
+  gap: var(--esp-3) var(--esp-6);
+  width: 100%;
+  max-width: 980px;
 }
 
+.peu__credits p { max-width: 46ch; }
+
 .peu__fonts {
+  width: 100%;
+  max-width: 980px;
   padding-top: var(--esp-3);
   border-top: 1px solid var(--vora);
   font-size: 0.78rem;

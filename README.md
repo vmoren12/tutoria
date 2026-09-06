@@ -46,7 +46,7 @@ fitxer `.nojekyll` a l'arrel.
 
 | Vista | Què hi pots fer |
 | --- | --- |
-| **Catàleg** | Cercar i filtrar dinàmiques; afegir-les a la sessió activa d'un clic. |
+| **Catàleg** | Cercar i filtrar dinàmiques; afegir-les i treure-les de la sessió activa d'un clic. |
 | **Fitxa** | Llegir la dinàmica sencera, editar-la, duplicar-la o imprimir-la. |
 | **Sessió actual** | Ordenar els blocs, repartir minuts i escriure notes per bloc. |
 | **Sessions** | Gestionar diverses sessions: duplicar, esborrar, canviar l'activa. |
@@ -55,7 +55,11 @@ fitxer `.nojekyll` a l'arrel.
 | **Ajustos** | Tema, llengua del catàleg, dades del centre, còpies de seguretat i recuperació. |
 
 Les dinàmiques que ja formen part de la sessió activa surten marcades al catàleg («A la
-sessió») i, si se n'hi afegeix una altra vegada, l'aplicació demana confirmació.
+sessió», amb el nombre de vegades si s'hi repeteixen) i el seu botó passa a **Treu**, de
+manera que la sessió es munta i es desmunta sense sortir de la llista. Per repetir una
+dinàmica dins d'una mateixa sessió cal fer-ho des de la seva fitxa, que demana confirmació.
+
+En obrir una fitxa i tornar al catàleg, els filtres i la cerca es conserven.
 
 Per desar en PDF: **Full de sessió → Imprimeix** i, al diàleg del navegador, tria
 «Desa com a PDF» com a destinació. El resultat és text seleccionable, no una imatge.

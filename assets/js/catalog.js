@@ -257,6 +257,12 @@
       });
     });
 
+    dom.delega(arrel, 'click', '[data-treu-sessio]', function (event, boto) {
+      if (!TUT.ui.treu_de_sessio(boto.dataset.treuSessio)) return;
+      TUT.app.actualitza_comptador();
+      pinta_resultats();
+    });
+
     dom.$('#obre-filtres', arrel).addEventListener('click', function (event) {
       var panell = dom.$('#filtres', arrel);
       var obert = panell.classList.toggle('es-obert');

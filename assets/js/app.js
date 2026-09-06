@@ -8,6 +8,40 @@
   var contenidor = null;
   var ruta_actual = '';
 
+  /* --- memòria del catàleg -------------------------------------------- */
+
+  /*
+   * Els filtres del catàleg viuen als paràmetres de la ruta. En obrir una fitxa
+   * i tornar enrere s'haurien de retrobar tal com eren, així que es recorden
+   * aquí i els enllaços de tornada els tornen a posar a la ruta. Es desen a
+   * `sessionStorage` perquè sobrevisquin a una recàrrega però no s'arrosseguin
+   * d'un dia per l'altre.
+   */
+  var CLAU_CATALEG = 'tutoria.cataleg';
+  var parametres_cataleg = '';
+
+  function recorda_cataleg(parametres) {
+    parametres_cataleg = parametres || '';
+    try {
+      global.sessionStorage.setItem(CLAU_CATALEG, parametres_cataleg);
+    } catch (error) {
+      /* Sense sessionStorage la memòria dura mentre no es recarregui. */
+    }
+  }
+
+  function recupera_cataleg() {
+    try {
+      parametres_cataleg = global.sessionStorage.getItem(CLAU_CATALEG) || '';
+    } catch (error) {
+      parametres_cataleg = '';
+    }
+  }
+
+  /** Enllaç al catàleg amb els últims filtres aplicats. */
+  function enllac_cataleg() {
+    return '#/cataleg' + (parametres_cataleg ? '?' + parametres_cataleg : '');
+  }
+
   /* --- tema ---------------------------------------------------------- */
 
   function aplica_tema() {
@@ -48,6 +82,7 @@
   function actualitza_hash(parametres) {
     var base = ruta_actual;
     var nou = '#' + base + (parametres ? '?' + parametres : '');
+    if (base.indexOf('/cataleg') === 0) recorda_cataleg(parametres);
     if (global.location.hash !== nou) {
       global.history.replaceState(null, '', nou);
     }
@@ -125,6 +160,7 @@
     }
 
     aplica_tema();
+    recupera_cataleg();
     TUT.data.reconstrueix();
 
     if (!TUT.store.disponible()) {
@@ -152,6 +188,7 @@
     aplica_tema: aplica_tema,
     actualitza_comptador: actualitza_comptador,
     actualitza_hash: actualitza_hash,
+    enllac_cataleg: enllac_cataleg,
   };
 
   if (document.readyState === 'loading') {

@@ -102,7 +102,8 @@
     if (!s.blocs.length) {
       return '<div class="buit"><p>La sessió encara no té cap bloc.</p>' +
         '<div class="fila" style="justify-content:center;margin-top:12px">' +
-        '<a class="boto boto--principal" href="#/cataleg">Cerca dinàmiques</a>' +
+        '<a class="boto boto--principal" href="' + TUT.app.enllac_cataleg() +
+          '">Cerca dinàmiques</a>' +
         '<button type="button" class="boto" data-afegeix-nota>Afegeix un bloc lliure</button>' +
         '</div></div>';
     }
@@ -142,7 +143,8 @@
       '</li>';
     }).join('') + '</ul>' +
     '<div class="fila" style="margin-top:16px">' +
-      '<a class="boto" href="#/cataleg">' + dom.icona('mes') + 'Afegeix dinàmiques</a>' +
+      '<a class="boto" href="' + TUT.app.enllac_cataleg() + '">' + dom.icona('mes') +
+        'Afegeix dinàmiques</a>' +
       '<button type="button" class="boto" data-afegeix-nota>' + dom.icona('mes') + 'Bloc lliure</button>' +
     '</div>';
   }

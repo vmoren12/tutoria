@@ -176,6 +176,23 @@
     }).length;
   }
 
+  /**
+   * Treu de la sessió l'últim bloc d'una dinàmica. Si hi és més d'un cop, en
+   * treu una sola aparició. Retorna `true` si n'ha tret cap.
+   */
+  function treu_dinamica_de_sessio(id_dinamica, id_sessio) {
+    var s = id_sessio ? sessio(id_sessio) : sessio_activa();
+    if (!s) return false;
+    for (var i = s.blocs.length - 1; i >= 0; i--) {
+      if (s.blocs[i].tipus === 'dinamica' && s.blocs[i].dinamica === id_dinamica) {
+        s.blocs.splice(i, 1);
+        desa();
+        return true;
+      }
+    }
+    return false;
+  }
+
   function actualitza_bloc(id_sessio, id_bloc, canvis) {
     var s = sessio(id_sessio);
     if (!s) return null;
@@ -274,6 +291,7 @@
     activa_sessio: activa_sessio,
     afegeix_bloc: afegeix_bloc,
     vegades_a_sessio: vegades_a_sessio,
+    treu_dinamica_de_sessio: treu_dinamica_de_sessio,
     actualitza_bloc: actualitza_bloc,
     treu_bloc: treu_bloc,
     mou_bloc: mou_bloc,
