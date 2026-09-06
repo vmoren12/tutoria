@@ -96,6 +96,9 @@
     rellotge: '<circle cx="8" cy="8" r="6"/><path d="M8 4.5V8l2.5 1.5"/>',
     grup: '<circle cx="6" cy="6" r="2.5"/><path d="M2 14c0-2.2 1.8-4 4-4s4 1.8 4 4"/><path d="M11 4.2a2.5 2.5 0 010 4.6M12.5 14c0-1.6-.6-3-1.6-4"/>',
     caixa: '<path d="M2 5l6-3 6 3-6 3z"/><path d="M2 5v6l6 3 6-3V5"/>',
+    vist: '<path d="M3 8.5l3.5 3.5L13 5"/>',
+    llibre: '<path d="M2 3h4.5c.8 0 1.5.7 1.5 1.5V13c0-.8-.7-1.5-1.5-1.5H2z"/>' +
+      '<path d="M14 3H9.5C8.7 3 8 3.7 8 4.5V13c0-.8.7-1.5 1.5-1.5H14z"/>',
   };
 
   function icona(nom, extra) {

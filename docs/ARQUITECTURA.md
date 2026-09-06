@@ -22,6 +22,7 @@ assets/
     ├── dinamica.js      fitxa i formulari de dinàmica
     ├── sessions.js      llista de sessions i constructor
     ├── imprimir.js      full de sessió imprimible
+    ├── bibliografia.js  obres d'origen de les dinàmiques
     ├── ajustos.js       preferències i còpies de seguretat
     └── app.js           arrencada i encaminador
 data/                    dades (vegeu CONTRIBUTING-dinamiques.md)
@@ -42,8 +43,8 @@ serveixi el repositori sense cap pas de construcció.
 
 Tots els mòduls són scripts clàssics que pengen d'un únic objecte global `window.TUT`:
 `TUT.dom`, `TUT.store`, `TUT.data`, `TUT.search`, `TUT.ui`, `TUT.catalog`, `TUT.dinamica`,
-`TUT.sessions`, `TUT.imprimir`, `TUT.ajustos` i `TUT.app`. L'ordre de les etiquetes
-`<script>` a `index.html` respecta aquestes dependències.
+`TUT.sessions`, `TUT.imprimir`, `TUT.bibliografia`, `TUT.ajustos` i `TUT.app`. L'ordre de
+les etiquetes `<script>` a `index.html` respecta aquestes dependències.
 
 ## Model de dades en execució
 
@@ -60,6 +61,22 @@ sempre es pot revertir des de la seva fitxa o des dels ajustos.
 També s'hi calcula `_cerca`, la concatenació normalitzada (minúscules, sense accents) de
 tots els camps de text, que fa de índex per a la cerca lliure.
 
+## Catàleg bilingue
+
+Cada fitxa del bundle porta el text **català** als camps principals i l'**original
+castellà** dins d'un subobjecte `es`, amb només els camps que difereixen. Amb la
+preferència `idioma` en `es`, `TUT.data.reconstrueix()` promou `es` sobre els camps
+principals; en `ca` els deixa tal com són. Cap de les dues versions es perd i el canvi de
+llengua no toca les dades desades.
+
+Les dinàmiques pròpies o editades no tenen `es`: es mostren sempre tal com les va escriure
+la persona usuària, en la llengua que sigui. Duplicar una fitxa del catàleg n'elimina el
+camp `es`, perquè la còpia passa a ser una dinàmica pròpia en una sola llengua.
+
+El text català es genera fora de línia amb `scripts/tradueix-ca.py` (Apertium) i es versiona
+a `data/traduccions/ca/`. Cada entrada porta una `_signatura` del text original, de manera
+que només es tornen a traduir les fitxes que han canviat.
+
 ## Encaminament
 
 Encaminador per fragment d'URL, sense dependències:
@@ -73,6 +90,7 @@ Encaminador per fragment d'URL, sense dependències:
 | `#/sessions` | llista de sessions |
 | `#/sessio/:id` | constructor de sessió |
 | `#/sessio/:id/impressio` | full imprimible |
+| `#/bibliografia` | obres d'origen de les dinàmiques |
 | `#/ajustos` | preferències i còpies |
 
 Els filtres del catàleg es reflecteixen a la URL amb `history.replaceState`, de manera que

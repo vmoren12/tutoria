@@ -1,0 +1,44 @@
+{
+  "1-limon-medio-limon-x-limones": {
+    "_signatura": "cbd31cb4290f18e1",
+    "descripcio": "Els participants asseguts en circulo s'enumeren en veu alta, l'animador comença el joc dient per exemple: \"una llimona, mitja llimona , 6 llimones\". Així doncs, el numero 6 haurà de dir immediatament i ràpidament, una llimona, mitja llimona, 6 llimones i x llimones, i així successivament. El que s'equivoqui surt del joc.",
+    "titol": "1 Limon, Mitja Llimona X Llimones"
+  },
+  "apartamentos-e-inquilinos": {
+    "_signatura": "ab01fcbd80dea7e7",
+    "descripcio": "Cada 2 participants s'agarren de les mans, col·locar cara a cara entre ells se situa un tercer. Els que estan agarrats reben el nom de \"apartaments\"; el que està al mitjà es diu \"inquilí\". El que dirigeix el joc diu: canvi d'inquilins i aquests han de deixar el seu apartament i córrer a la recerca d'un altre. Després diu: canvi d'apartaments i aquests han de deixar i anar a la recerca d'un altre inquilí.",
+    "titol": "Apartaments i Inquilins"
+  },
+  "el-mono-sabio": {
+    "_signatura": "3c3459761e517c1e",
+    "descripcio": "Els jugadors estan en circulo, la primera persona es posa dempeus i tocarà un objecte, la segona persona ha de tocar aquest objecte i un altre més, la tercera persona toca l'objecte del primer, del segon i el d'ell, i així les altres persones. Al mateix temps que es toquen els objectes es nomenen en veu alta. (també pot fer amb noms en lloc d'objectes).",
+    "titol": "El Mico Savi"
+  },
+  "estira-y-encoge": {
+    "_signatura": "08c3e047e3396feb",
+    "descripcio": "Els jugadors en cercle han d'estar molt atents. Qui dirigeix el joc dóna les següents ordenis: \"estirin\" i els jugadors han d'encongir els braços i en dir \"encongeixin\" els jugadors han d'estirar els braços. Al principi ha de fer a poc a poc, després més ràpid.",
+    "titol": "Estira i Encongeix"
+  },
+  "la-orquesta": {
+    "_signatura": "f50e889080e443ad",
+    "descripcio": "Tots els participants en circulo, es nomena un voluntari el qual sali del grup. Es nomena a algú perquè dirigeixi l'orquestra, la qual cosa el faci tots ho fan, el voluntari ha d'endevinar qui és el director, si s'equivoca tres vegades té penitència.",
+    "titol": "L'Orquestra"
+  },
+  "las-vacas-vuelan": {
+    "_signatura": "9119b1cb3b8d9b20",
+    "descripcio": "Es col·loquen en cercle els jugadors i col·loquen les mans palma amb palma. Quan el director (a) del joc nomena un animal que vola, tots han de separar les mans\n\ni tornar-les a ajuntar, donant una palmada. Qui dirigeix, també fa això, però tracta de fer equivocar als participants fent accions contràries a les indicades; és a dir, si nomena a un animal que vola, junta les mans i al revés. En donar l'ordre \"les vaques volen\" tots canvien de lloc.",
+    "titol": "Les Vaques Volen"
+  },
+  "los-personajes-y-sus-oficios": {
+    "_signatura": "9dd16349005d0467",
+    "descripcio": "A diversos participants triats amb anterioritat, se li reparteixen paperetes amb el nom d'algun ofici o personatge. Aquests jugadors tractaran de representar el seu paper el més fidelment possible; mitjançant mímiques, els espectadors han d'endevinar correctament. Els que no han estat endevinats paguen penitència.",
+    "materials": "paper",
+    "titol": "Els Personatges i Els seus Oficis"
+  },
+  "objetos-perdidos": {
+    "_signatura": "be94fc240fb4f4a5",
+    "descripcio": "Es divideix el grup en subgrups. El director del joc convida a tots els participants perquè col·laborin lliurant objectes d'ús personal. Qui dirigeix el joc els va detallant en veu alta i els mostra; els col·loca sobre un escriptori i els tapa. Després d'uns minuts (2 o 3) tria un representant de cada subgrup, aquests han de tenir llapis i paper, ells escriuran el major nombre d'objectes que recordin.",
+    "materials": "llapis, paper",
+    "titol": "Objectes Perduts"
+  }
+}

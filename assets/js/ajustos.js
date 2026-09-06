@@ -45,6 +45,17 @@
                 return '<option value="' + t + '"' + (prefs.tema === t ? ' selected' : '') + '>' +
                   ({ sistema: 'Segueix el sistema', clar: 'Clar', fosc: 'Fosc' })[t] + '</option>';
               }).join('') + '</select></div>' +
+            (TUT.data.hi_ha_castella
+              ? '<div><label for="a-idioma">Llengua de les dinàmiques</label>' +
+                '<select id="a-idioma">' +
+                  [['ca', 'Català'], ['es', 'Castellà (original)']].map(function (o) {
+                    return '<option value="' + o[0] + '"' +
+                      (TUT.data.idioma() === o[0] ? ' selected' : '') + '>' + o[1] + '</option>';
+                  }).join('') +
+                '</select>' +
+                '<p class="formulari__ajuda">El catàleg desa les dues versions. Les dinàmiques ' +
+                  'que hagis creat o editat es mostren sempre tal com les vas escriure.</p></div>'
+              : '') +
           '</div>' +
         '</fieldset>' +
 
@@ -99,8 +110,9 @@
           '<legend>Sobre l\'aplicació</legend>' +
           '<p class="petit tenue" style="margin-top:10px">Catàleg base: ' +
             TUT.data.tot().length + ' dinàmiques. Les fitxes provenen de reculls de dinàmiques ' +
-            'de grup en castellà i es poden editar lliurement per adaptar-les al grup i a la llengua ' +
-            'del centre.</p>' +
+            'de grup publicats en castellà; el text català és una traducció automàtica revisable ' +
+            'i qualsevol fitxa es pot editar per adaptar-la al grup. Consulta les obres d\'origen ' +
+            'a la <a href="#/bibliografia">bibliografia</a>.</p>' +
         '</fieldset>' +
       '</div>';
 
@@ -108,6 +120,17 @@
       TUT.store.actualitza_preferencies({ tema: event.target.value });
       TUT.app.aplica_tema();
     });
+
+    var tria_idioma = dom.$('#a-idioma', contenidor);
+    if (tria_idioma) {
+      tria_idioma.addEventListener('change', function (event) {
+        TUT.store.actualitza_preferencies({ idioma: event.target.value });
+        TUT.data.reconstrueix();
+        TUT.app.encamina();
+        TUT.ui.avis(event.target.value === 'es'
+          ? 'Catàleg en castellà.' : 'Catàleg en català.');
+      });
+    }
 
     ['centre', 'tutor'].forEach(function (camp) {
       dom.$('#a-' + camp, contenidor).addEventListener('input', function (event) {

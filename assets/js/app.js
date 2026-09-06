@@ -94,6 +94,8 @@
       } else if (trossos[0] === 'sessio') {
         if (trossos[2] === 'impressio') TUT.imprimir.render(vista, trossos[1]);
         else TUT.sessions.detall(vista, trossos[1]);
+      } else if (trossos[0] === 'bibliografia') {
+        TUT.bibliografia.render(vista);
       } else if (trossos[0] === 'ajustos') {
         TUT.ajustos.render(vista);
       } else {

@@ -121,6 +121,15 @@
     line-height: 1.45;
   }
 
+  /* En pantalla el cos és una columna flexible per fixar el peu a baix;
+     en paper no cal i el `min-height` allargaria la primera pàgina. */
+  body {
+    display: block;
+    min-height: 0;
+  }
+
+  .principal { flex: none; }
+
   .capcalera,
   .no-imprimir,
   .vista__accions,

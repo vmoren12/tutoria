@@ -1,0 +1,69 @@
+{
+  "baberos": {
+    "_signatura": "137b57b7afd0fdfc",
+    "descripcio": "Cada participant escriu en una fulla gran, el seu nom i alguns detalls de si mateix (edat, gustos, frases, etc.). Li ho col·loquen l'en pit, com a pitets. Després es passegen per la sala, procurant relacionar amb els altres i llegir l'escrit per l'altre.\n\n Familiaritzar amb el grup. Fulles grans, llapis, clips o agulles.",
+    "materials": "llapis",
+    "titol": "Pitets"
+  },
+  "canciones": {
+    "_signatura": "306a2baf23702098",
+    "descripcio": "Es demana a cada participant, pensar en el titulo d'una cançó que li agradi. Amb ella es presentarà en el grup i dirà per què la va triar. Se li poden fer algunes preguntes.",
+    "titol": "Cançons"
+  },
+  "cualidades": {
+    "_signatura": "cf164f35845597bb",
+    "descripcio": "Cada participant diu les qualitats del seu company de la dreta. Les escriu col·locant el seu nom i el del company, es fiquen totes les paperetes en una caixa, i després es treuen i es llegeixen. Dir qualitats. Fulla, llapis.",
+    "materials": "capsa, llapis",
+    "titol": "Qualitats"
+  },
+  "el-escudo": {
+    "_signatura": "b666294be0454371",
+    "descripcio": "Es dóna a cada participant un paper en forma d'escut on escriurà el més resaltante de la seva personalitat. Després una altra persona del grup el llegeix.",
+    "materials": "paper",
+    "titol": "L'Escut"
+  },
+  "el-gusano": {
+    "_signatura": "7979863f4736ec6d",
+    "descripcio": "Tots donant tornades en circulo es van acostant a poc a poc fins a quedar tots pegaditos, el directe (a) dóna l'ordre de asseure i tots s'han d'asseure a les cames del company, després ordena fer un pas amb el peu dret cap endavant, després amb el peu esquerre, després un pas cap endarrere. Si un cau cauen tots.",
+    "titol": "El Cuc"
+  },
+  "identificarse-con-el-lugar": {
+    "_signatura": "b6a094daeda4529d",
+    "descripcio": "Es convida a les persones a conèixer el lloc i a buscar alguna cosa (un quadre, una estàtua, un arbre, etc.) que li cridi l'atenció, durant 5 minuts. Després es presenta què va triar i perquè. L'animador pot fer altres preguntes. Al final es cometi-ho realitzat. Llapis i paper.",
+    "materials": "llapis, paper",
+    "titol": "Identificar amb el Lloc"
+  },
+  "la-clasecita": {
+    "_signatura": "20d5bc1ab057247d",
+    "descripcio": "El director (a) lliurament als participants un tema sobre el qual haurà d'exposar les seves idees durant 2 o 3 minuts. El participant posterior donarà una classificació o concepte a l'expositor. Integrar al grup quan té dificultat d'expressió.",
+    "titol": "La Clasecita"
+  },
+  "la-maquina-del-tiempo": {
+    "_signatura": "6b3bf0d21b2a0467",
+    "descripcio": "Cada participant ha de pensar que escena de la humanitat li hagués agradat ser testimoni. Després exposar el per què. Coneixement, expressió de valors.",
+    "titol": "La Maquina del Temps"
+  },
+  "la-pecera": {
+    "_signatura": "b8db241536c8dc01",
+    "descripcio": "Es formen dos grups en circulo, un grup en el mitjà i un altre fora. Els del mitjà queden immòbils, els de fora es mouen com les agulles del rellotge. Cada vegada que l'animador dóna l'ordre. Es pot parlar de diversos temes.",
+    "materials": "rellotge",
+    "titol": "La Peixera"
+  },
+  "la-verdad": {
+    "_signatura": "298410ffc9061f11",
+    "descripcio": "Un membre del grup ocupa la cadira del centre, tots els altres estan asseguts en circulo. La persona que ocupa el centre promet dir: \"solament la veritat\" a qualsevol pregunta, durant determinat temps, després passa un altre i així successivament.",
+    "materials": "cadires",
+    "titol": "La Veritat"
+  },
+  "los-curiosos": {
+    "_signatura": "76e00166a94be240",
+    "descripcio": "Se sol·licita la col·laboració de 4 o 6 voluntaris que siguin persones curioses. Passen davant del grup. Se'ls demana que per mitjà de preguntes ajudin a tots a descobrir que persones hi ha en el grup. Se'ls demana que per mitjà de preguntes ajudin a tots a descobrir que persones hi ha en el grup. A cada pregunta dels curiosos la gent respon. Conèixer que classe de persones participen.",
+    "titol": "Els Curiosos"
+  },
+  "quita-la-silla": {
+    "_signatura": "b55132655d8884c6",
+    "descripcio": "Tothom caminant, quan el director de l'ordre tots se sentin però es lleva una cadira, el que quedo sense cadira se senti damunt d'algú (o surt del joc), asi es va fent successivament es lleven 2, 3, 4, etc. fins que quedin 2 cadires i tots asseguts un damunt de l'altre (o fins que quedo un només).",
+    "materials": "cadires",
+    "titol": "Quitació la Silla"
+  }
+}

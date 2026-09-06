@@ -67,6 +67,27 @@
     return '';
   }
 
+  /* --- marca de "ja és a la sessió activa" --------------------------- */
+
+  /** Distintiu que indica que la dinàmica ja forma part de la sessió activa. */
+  function marca_sessio(vegades) {
+    if (!vegades) return '';
+    return '<span class="etiqueta etiqueta--a-la-sessio">' + dom.icona('vist') +
+      (vegades > 1 ? 'A la sessió &times;' + vegades : 'A la sessió') + '</span>';
+  }
+
+  /**
+   * Botó d'afegir, amb aspecte diferent si la dinàmica ja hi és.
+   * `textos` és opcional: [text quan no hi és, text quan ja hi és].
+   */
+  function boto_afegeix(d, vegades, classes, textos) {
+    textos = textos || ['Afegeix', 'Afegida'];
+    return '<button type="button" class="boto ' + classes +
+      (vegades ? ' boto--afegida' : '') + '" data-afegeix="' + esc(d.id) + '"' +
+      (vegades ? ' aria-label="' + esc(d.titol) + ' ja és a la sessió; afegeix-la un altre cop"' : '') +
+      '>' + dom.icona(vegades ? 'vist' : 'mes') + esc(vegades ? textos[1] : textos[0]) + '</button>';
+  }
+
   /** Targeta de dinàmica per al catàleg. */
   function targeta(d) {
     var etiquetes = d.etiquetes.slice(0, 3).map(function (t) {
@@ -74,11 +95,13 @@
     }).join('');
     var extra = d.etiquetes.length > 3
       ? '<span class="etiqueta">+' + (d.etiquetes.length - 3) + '</span>' : '';
+    var vegades = TUT.store.vegades_a_sessio(d.id);
 
-    return '<article class="targeta">' +
+    return '<article class="targeta' + (vegades ? ' targeta--a-la-sessio' : '') + '">' +
       '<div class="fila" style="gap:6px">' +
         '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.nom_categoria(d.categoria)) + '</span>' +
         marca_origen(d) +
+        marca_sessio(vegades) +
       '</div>' +
       '<h3 class="targeta__titol"><a href="#/dinamica/' + esc(d.id) + '">' + esc(d.titol) + '</a></h3>' +
       '<div class="targeta__meta">' +
@@ -89,15 +112,16 @@
       '<p class="targeta__resum">' + esc(extracte(d)) + '</p>' +
       '<div class="targeta__peu">' +
         '<div class="etiquetes creix">' + etiquetes + extra + '</div>' +
-        '<button type="button" class="boto boto--petit" data-afegeix="' + esc(d.id) + '">' +
-          dom.icona('mes') + 'Afegeix</button>' +
+        boto_afegeix(d, vegades, 'boto--petit') +
       '</div>' +
     '</article>';
   }
 
   /** Fila compacta de dinàmica (vista de llista). */
   function fila(d) {
-    return '<article class="targeta" style="flex-direction:row;align-items:center;gap:16px">' +
+    var vegades = TUT.store.vegades_a_sessio(d.id);
+    return '<article class="targeta' + (vegades ? ' targeta--a-la-sessio' : '') +
+      '" style="flex-direction:row;align-items:center;gap:16px">' +
       '<div class="creix">' +
         '<h3 class="targeta__titol"><a href="#/dinamica/' + esc(d.id) + '">' + esc(d.titol) + '</a></h3>' +
         '<div class="targeta__meta" style="margin-top:4px">' +
@@ -106,26 +130,44 @@
           '<span>' + dom.icona('grup') + esc(TUT.data.nom_grup(d.grup)) + '</span>' +
           (d.materials ? '<span>' + dom.icona('caixa') + 'Amb material</span>' : '') +
           marca_origen(d) +
+          marca_sessio(vegades) +
         '</div>' +
       '</div>' +
-      '<button type="button" class="boto boto--petit" data-afegeix="' + esc(d.id) + '">' +
-        dom.icona('mes') + 'Afegeix</button>' +
+      boto_afegeix(d, vegades, 'boto--petit') +
     '</article>';
   }
 
-  /** Afegeix una dinàmica a la sessió activa (creant-ne una si cal). */
+  /**
+   * Afegeix una dinàmica a la sessió activa (creant-ne una si cal).
+   *
+   * Si ja hi és, demana confirmació abans de repetir-la. Retorna una promesa
+   * amb `true` si s'ha afegit, per poder repintar la llista just després.
+   */
   function afegeix_a_sessio(id) {
     var d = TUT.data.obte(id);
-    if (!d) return;
-    var s = TUT.store.sessio_activa();
-    if (!s) s = TUT.store.nova_sessio();
-    TUT.store.afegeix_bloc(s.id, {
-      tipus: 'dinamica',
-      dinamica: d.id,
-      titol: d.titol,
-      durada: d.durada,
+    if (!d) return Promise.resolve(false);
+
+    var vegades = TUT.store.vegades_a_sessio(id);
+    var previ = vegades
+      ? confirma('Aquesta dinàmica ja hi és',
+          '«' + d.titol + '» ja forma part de la sessió' +
+          (vegades > 1 ? ' (' + vegades + ' vegades)' : '') +
+          '. Vols afegir-la un altre cop?', 'Afegeix-la igualment')
+      : Promise.resolve(true);
+
+    return previ.then(function (ok) {
+      if (!ok) return false;
+      var s = TUT.store.sessio_activa();
+      if (!s) s = TUT.store.nova_sessio();
+      TUT.store.afegeix_bloc(s.id, {
+        tipus: 'dinamica',
+        dinamica: d.id,
+        titol: d.titol,
+        durada: d.durada,
+      });
+      avis('«' + d.titol + '» afegida a «' + s.titol + '».');
+      return true;
     });
-    avis('«' + d.titol + '» afegida a «' + s.titol + '».');
   }
 
   TUT.ui = {
@@ -134,6 +176,8 @@
     extracte: extracte,
     targeta: targeta,
     fila: fila,
+    marca_sessio: marca_sessio,
+    boto_afegeix: boto_afegeix,
     afegeix_a_sessio: afegeix_a_sessio,
   };
 })(window);

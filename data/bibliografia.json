@@ -1,0 +1,41 @@
+{
+  "introduccio": "Les fitxes del catàleg són adaptacions al català de reculls de dinàmiques de grup publicats en obert. A sota hi ha les obres d'on provenen, amb el nombre de dinàmiques que n'han sortit. Si n'afegiu de noves, indiqueu-ne la font al camp «Font» de la fitxa i afegiu l'obra en aquesta llista.",
+  "obres": [
+    {
+      "titol": "700 dinámicas grupales",
+      "autoria": "CENEAM — Centro Nacional de Educación Ambiental",
+      "publicacio": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+      "url": "https://www.miteco.gob.es/es/ceneam/recursos/pag-web/700-dinamicas-grupales.html",
+      "nota": "Compilació d'on prové tot el catàleg base. Aplega les quatre obres següents."
+    },
+    {
+      "titol": "456 juegos y dinámicas de integración grupal",
+      "autoria": "Enrique González",
+      "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+    },
+    {
+      "titol": "Juegos y dinámicas",
+      "autoria": "Recopilació d'autoria diversa",
+      "font": "Juegos y Dinamicas (recopilacio)"
+    },
+    {
+      "titol": "100 formas de animar grupos: juegos para usar en talleres, reuniones y en la comunidad",
+      "autoria": "Alianza Internacional contra el VIH/SIDA",
+      "publicacio": "2002",
+      "font": "100 Formas de Animar Grupos (Alianza Internacional contra el VIH/SIDA, 2002)"
+    },
+    {
+      "titol": "22 juegos para conocerse",
+      "autoria": "Recopilació d'autoria diversa",
+      "font": "22 Juegos para conocerse"
+    }
+  ],
+  "eines": [
+    {
+      "titol": "Apertium",
+      "autoria": "Projecte de traducció automàtica lliure",
+      "url": "https://www.apertium.org/",
+      "nota": "Motor emprat per traduir el catàleg del castellà al català. Les traduccions són automàtiques: reviseu-les i editeu-les si cal abans de dur-les a l'aula."
+    }
+  ]
+}

@@ -250,8 +250,11 @@
     });
 
     dom.delega(arrel, 'click', '[data-afegeix]', function (event, boto) {
-      TUT.ui.afegeix_a_sessio(boto.dataset.afegeix);
-      TUT.app.actualitza_comptador();
+      TUT.ui.afegeix_a_sessio(boto.dataset.afegeix).then(function (afegida) {
+        if (!afegida) return;
+        TUT.app.actualitza_comptador();
+        pinta_resultats();   // per marcar la targeta com a "A la sessió"
+      });
     });
 
     dom.$('#obre-filtres', arrel).addEventListener('click', function (event) {

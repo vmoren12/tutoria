@@ -8,6 +8,7 @@
 
   var PREFERENCIES_INICIALS = {
     tema: 'sistema',
+    idioma: 'ca',     // llengua de les fitxes del catàleg: 'ca' o 'es'
     centre: '',
     tutor: '',
     vista: 'graella',
@@ -166,6 +167,15 @@
     return s;
   }
 
+  /** Quantes vegades una dinàmica ja és en una sessió (per defecte, l'activa). */
+  function vegades_a_sessio(id_dinamica, id_sessio) {
+    var s = id_sessio ? sessio(id_sessio) : sessio_activa();
+    if (!s) return 0;
+    return s.blocs.filter(function (b) {
+      return b.tipus === 'dinamica' && b.dinamica === id_dinamica;
+    }).length;
+  }
+
   function actualitza_bloc(id_sessio, id_bloc, canvis) {
     var s = sessio(id_sessio);
     if (!s) return null;
@@ -263,6 +273,7 @@
     sessio_activa: sessio_activa,
     activa_sessio: activa_sessio,
     afegeix_bloc: afegeix_bloc,
+    vegades_a_sessio: vegades_a_sessio,
     actualitza_bloc: actualitza_bloc,
     treu_bloc: treu_bloc,
     mou_bloc: mou_bloc,

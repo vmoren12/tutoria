@@ -47,6 +47,21 @@
     return g && g.detall ? g.detall : '';
   }
 
+  /* Les fitxes del bundle porten el text català com a principal i l'original
+     castellà dins de `es`. Amb la preferència en castellà, es promou `es`. */
+  var hi_ha_castella = base.dinamiques.some(function (d) { return !!d.es; });
+
+  function idioma() {
+    var triat = TUT.store.estat.preferencies.idioma;
+    return triat === 'es' && hi_ha_castella ? 'es' : 'ca';
+  }
+
+  /** La fitxa en la llengua triada, sense perdre l'altra versió. */
+  function en_llengua(d) {
+    if (idioma() !== 'es' || !d.es) return Object.assign({}, d);
+    return Object.assign({}, d, d.es);
+  }
+
   /** Reconstrueix el catàleg fusionant base + canvis locals. */
   function reconstrueix() {
     var propies = TUT.store.estat.dinamiques;
@@ -55,7 +70,7 @@
 
     base.dinamiques.forEach(function (d) {
       if (esborrades.indexOf(d.id) >= 0) return;
-      acumulat[d.id] = Object.assign({}, d, { origen: 'cataleg' });
+      acumulat[d.id] = Object.assign(en_llengua(d), { origen: 'cataleg' });
     });
 
     Object.keys(propies).forEach(function (id) {
@@ -131,6 +146,9 @@
     nom_etiqueta: nom_etiqueta,
     nom_grup: nom_grup,
     detall_grup: detall_grup,
+    idioma: idioma,
+    hi_ha_castella: hi_ha_castella,
+    bibliografia: base.bibliografia || { introduccio: '', obres: [], eines: [] },
     hi_ha_catleg: base.dinamiques.length > 0,
   };
 })(window);

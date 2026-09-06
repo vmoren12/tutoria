@@ -20,6 +20,12 @@
   /* Fitxa                                                               */
   /* ------------------------------------------------------------------ */
 
+  /** Botó principal d'afegir a la sessió, amb l'estat actual de la sessió. */
+  function boto_sessio(d) {
+    return TUT.ui.boto_afegeix(d, TUT.store.vegades_a_sessio(d.id), 'boto--principal',
+      ['Afegeix a la sessió', 'Ja és a la sessió']);
+  }
+
   function render(contenidor, id) {
     var d = TUT.data.obte(id);
     if (!d) {
@@ -51,12 +57,12 @@
             (d.origen !== 'cataleg'
               ? '<span class="etiqueta etiqueta--propia">' +
                 (d.origen === 'propia' ? 'Pròpia' : 'Editada') + '</span>' : '') +
+            '<span id="marca-sessio">' + TUT.ui.marca_sessio(TUT.store.vegades_a_sessio(d.id)) + '</span>' +
           '</div>' +
           '<h1 class="vista__titol">' + esc(d.titol) + '</h1>' +
         '</div>' +
         '<div class="vista__accions no-imprimir">' +
-          '<button type="button" class="boto boto--principal" data-afegeix="' + esc(d.id) + '">' +
-            dom.icona('mes') + 'Afegeix a la sessió</button>' +
+          boto_sessio(d) +
           '<a class="boto" href="#/dinamica/' + esc(d.id) + '/edita">' +
             dom.icona('llapis') + 'Edita</a>' +
           '<button type="button" class="boto" data-duplica>' + dom.icona('copia') + 'Duplica</button>' +
@@ -80,6 +86,13 @@
           (etiquetes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes</div>' +
             '<div class="etiquetes">' + etiquetes + '</div></div>' : '') +
           (d.font ? '<p class="petit tenue" style="margin-top:16px">Font: ' + esc(d.font) + '</p>' : '') +
+          (d.es
+            ? '<p class="petit tenue" style="margin-top:8px">' +
+              (TUT.data.idioma() === 'ca'
+                ? 'Text català traduït automàticament de l\'original castellà.'
+                : 'Text original en castellà.') +
+              ' <a href="#/bibliografia">Bibliografia</a></p>'
+            : '') +
           (d.origen !== 'propia'
             ? '<p class="petit tenue" style="margin-top:12px">' +
               '<button type="button" class="boto boto--pla boto--petit" data-esborra>' +
@@ -90,9 +103,14 @@
         '</aside>' +
       '</div>';
 
-    dom.delega(contenidor, 'click', '[data-afegeix]', function () {
-      TUT.ui.afegeix_a_sessio(d.id);
-      TUT.app.actualitza_comptador();
+    dom.delega(contenidor, 'click', '[data-afegeix]', function (event, boto) {
+      TUT.ui.afegeix_a_sessio(d.id).then(function (afegida) {
+        if (!afegida) return;
+        TUT.app.actualitza_comptador();
+        boto.outerHTML = boto_sessio(d);
+        dom.$('#marca-sessio', contenidor).innerHTML =
+          TUT.ui.marca_sessio(TUT.store.vegades_a_sessio(d.id));
+      });
     });
 
     dom.delega(contenidor, 'click', '[data-imprimeix]', function () { global.print(); });
@@ -101,6 +119,7 @@
       var copia = Object.assign({}, d);
       delete copia.origen;
       delete copia._cerca;
+      delete copia.es;     // la còpia és una dinàmica pròpia en una sola llengua
       copia.id = dom.identificador('d');
       copia.titol = d.titol + ' (còpia)';
       copia.font = d.font || '';
