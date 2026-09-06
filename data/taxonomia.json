@@ -1,0 +1,59 @@
+{
+  "categories": [
+    { "id": "presentacio", "nom": "Presentació", "descripcio": "Primer contacte: aprendre noms i trencar distàncies el primer dia de curs." },
+    { "id": "coneixement", "nom": "Coneixement mutu", "descripcio": "Anar més enllà del nom: interessos, històries i afinitats del grup." },
+    { "id": "trencagel", "nom": "Trencagel", "descripcio": "Activitats breus per activar el grup i baixar la tensió inicial." },
+    { "id": "cohesio", "nom": "Cohesió de grup", "descripcio": "Construir sentiment de grup i integració de tothom a l'aula." },
+    { "id": "afirmacio", "nom": "Afirmació i autoestima", "descripcio": "Reforçar la imatge positiva de cadascú dins del grup." },
+    { "id": "confianca", "nom": "Confiança", "descripcio": "Crear seguretat i confiança mútua entre l'alumnat." },
+    { "id": "comunicacio", "nom": "Comunicació", "descripcio": "Escolta activa, expressió verbal i no verbal, i qualitat del missatge." },
+    { "id": "cooperacio", "nom": "Cooperació", "descripcio": "Reptes que només es resolen treballant en equip." },
+    { "id": "conflictes", "nom": "Resolució de conflictes", "descripcio": "Negociació, mediació i gestió de les tensions del grup." },
+    { "id": "valors", "nom": "Valors i convivència", "descripcio": "Drets, responsabilitats, diversitat i convivència." },
+    { "id": "relacions", "nom": "Relacions humanes", "descripcio": "Dinàmiques generals de relació i tracte dins del grup." },
+    { "id": "animacio", "nom": "Animació i escalfament", "descripcio": "Activar el grup quan hi ha cansament o desconnexió." },
+    { "id": "distensio", "nom": "Distensió", "descripcio": "Jocs curts per relaxar l'ambient entre activitats." },
+    { "id": "atencio", "nom": "Atenció i memòria", "descripcio": "Concentració, reflexos i memorització." },
+    { "id": "aire-lliure", "nom": "Aire lliure", "descripcio": "Activitats per al pati, sortides i espais oberts." },
+    { "id": "tallers", "nom": "Tallers", "descripcio": "Propostes de format taller, més llargues i estructurades." },
+    { "id": "vetllades", "nom": "Vetllades", "descripcio": "Jocs d'espectacle i vetllada per a convivències i colònies." },
+    { "id": "autobus", "nom": "Desplaçaments", "descripcio": "Jocs per a l'autobús i les estones d'espera en sortides." },
+    { "id": "varies", "nom": "Diverses", "descripcio": "Dinàmiques que no encaixen en cap altra categoria." }
+  ],
+  "etiquetes": [
+    { "id": "sense-material", "nom": "Sense material" },
+    { "id": "moviment", "nom": "Amb moviment" },
+    { "id": "cercle", "nom": "En cercle" },
+    { "id": "parelles", "nom": "Per parelles" },
+    { "id": "subgrups", "nom": "Per subgrups" },
+    { "id": "silenci", "nom": "En silenci" },
+    { "id": "escriptura", "nom": "Amb escriptura" },
+    { "id": "expressio-corporal", "nom": "Expressió corporal" },
+    { "id": "reflexio", "nom": "Amb reflexió final" },
+    { "id": "emocions", "nom": "Educació emocional" },
+    { "id": "interior", "nom": "Espai interior" },
+    { "id": "exterior", "nom": "Espai exterior" },
+    { "id": "memoria", "nom": "Memòria" },
+    { "id": "atencio", "nom": "Atenció" },
+    { "id": "competitiu", "nom": "Competitiu" },
+    { "id": "cooperatiu", "nom": "Cooperatiu" },
+    { "id": "musica", "nom": "Amb música" },
+    { "id": "ulls-tapats", "nom": "Amb ulls tapats" }
+  ],
+  "grups": [
+    { "id": "petit", "nom": "Grup petit", "detall": "fins a 12" },
+    { "id": "mitja", "nom": "Grup mitjà", "detall": "13 a 30" },
+    { "id": "gran", "nom": "Grup gran", "detall": "més de 30" }
+  ],
+  "moments": [
+    { "id": "obertura", "nom": "Obertura" },
+    { "id": "nucli", "nom": "Nucli" },
+    { "id": "tancament", "nom": "Tancament" }
+  ],
+  "nivells": [
+    { "id": "1eso", "nom": "1r d'ESO" },
+    { "id": "2eso", "nom": "2n d'ESO" },
+    { "id": "3eso", "nom": "3r d'ESO" },
+    { "id": "4eso", "nom": "4t d'ESO" }
+  ]
+}

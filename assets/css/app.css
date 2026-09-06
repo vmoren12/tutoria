@@ -1,0 +1,569 @@
+/* ==========================================================================
+   app.css - estructura i components de l'aplicació
+   ========================================================================== */
+
+/* Capçalera ------------------------------------------------------------ */
+
+.capcalera {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: var(--bg-elevat);
+  border-bottom: 1px solid var(--vora);
+}
+
+.capcalera__interior {
+  max-width: var(--amplada-max);
+  margin: 0 auto;
+  padding: 0 var(--esp-4);
+  display: flex;
+  align-items: center;
+  gap: var(--esp-4);
+  min-height: 56px;
+}
+
+.marca {
+  display: flex;
+  align-items: baseline;
+  gap: var(--esp-2);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+
+.marca__sufix {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-tenue);
+}
+
+.navegacio {
+  display: flex;
+  gap: var(--esp-1);
+  margin-left: auto;
+  align-items: center;
+}
+
+.navegacio__enllac {
+  padding: 6px 11px;
+  border-radius: var(--radi);
+  font-size: 0.875rem;
+  text-decoration: none;
+  color: var(--text-suau);
+  white-space: nowrap;
+}
+
+.navegacio__enllac:hover { background: var(--bg-subtil); color: var(--text); }
+
+.navegacio__enllac[aria-current='page'] {
+  background: var(--accent-suau);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.comptador {
+  display: inline-block;
+  min-width: 18px;
+  padding: 0 5px;
+  margin-left: 5px;
+  border-radius: 9px;
+  background: var(--accent);
+  color: var(--accent-text);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 18px;
+}
+
+/* Estructura general --------------------------------------------------- */
+
+.principal {
+  max-width: var(--amplada-max);
+  margin: 0 auto;
+  padding: var(--esp-5) var(--esp-4) var(--esp-8);
+}
+
+.vista__capcalera {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--esp-4);
+  flex-wrap: wrap;
+  margin-bottom: var(--esp-5);
+}
+
+.vista__titol { margin-bottom: var(--esp-1); }
+.vista__descripcio { color: var(--text-suau); max-width: var(--amplada-lectura); }
+.vista__accions { margin-left: auto; display: flex; gap: var(--esp-2); flex-wrap: wrap; }
+
+.enllac-tornar {
+  display: inline-block;
+  margin-bottom: var(--esp-4);
+  font-size: 0.85rem;
+  color: var(--text-suau);
+  text-decoration: none;
+}
+
+.enllac-tornar:hover { color: var(--text); text-decoration: underline; }
+
+/* Catàleg: graella de dues columnes ------------------------------------ */
+
+.cataleg {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: var(--esp-6);
+  align-items: start;
+}
+
+.filtres {
+  position: sticky;
+  top: 72px;
+  max-height: calc(100vh - 96px);
+  overflow-y: auto;
+  padding-right: var(--esp-2);
+}
+
+.filtres__grup { border-top: 1px solid var(--vora); padding: var(--esp-4) 0; }
+.filtres__grup:first-child { border-top: 0; padding-top: 0; }
+
+.filtres__llista {
+  list-style: none;
+  margin: var(--esp-3) 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.filtres__opcio {
+  display: flex;
+  align-items: center;
+  gap: var(--esp-2);
+  padding: 3px 5px;
+  margin: 0 -5px;
+  border-radius: var(--radi);
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.filtres__opcio:hover { background: var(--bg-subtil); }
+.filtres__opcio input { margin: 0; accent-color: var(--accent); flex: none; }
+.filtres__recompte { margin-left: auto; font-size: 0.75rem; color: var(--text-tenue); font-variant-numeric: tabular-nums; }
+
+.filtres__mes {
+  margin-top: var(--esp-2);
+  background: none;
+  border: 0;
+  padding: 2px 0;
+  font-size: 0.8rem;
+  color: var(--accent);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.filtres__cinta { display: none; }
+
+/* Barra d'eines --------------------------------------------------------- */
+
+.eines {
+  display: flex;
+  gap: var(--esp-3);
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: var(--esp-4);
+}
+
+.cerca { position: relative; flex: 1 1 260px; }
+
+.cerca input {
+  padding-left: 32px;
+  height: 38px;
+}
+
+.cerca__icona {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  color: var(--text-tenue);
+  pointer-events: none;
+}
+
+.eines__select { width: auto; min-width: 170px; height: 38px; }
+
+.resultats-info {
+  display: flex;
+  align-items: center;
+  gap: var(--esp-3);
+  flex-wrap: wrap;
+  margin-bottom: var(--esp-4);
+  font-size: 0.85rem;
+  color: var(--text-suau);
+}
+
+.xip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 6px 2px 9px;
+  border: 1px solid var(--vora-forta);
+  border-radius: 20px;
+  background: var(--bg-elevat);
+  font-size: 0.78rem;
+}
+
+.xip button {
+  border: 0;
+  background: none;
+  padding: 0 2px;
+  cursor: pointer;
+  color: var(--text-tenue);
+  line-height: 1;
+  font-size: 1rem;
+}
+
+.xip button:hover { color: var(--text); }
+
+/* Targetes de dinàmica -------------------------------------------------- */
+
+.graella {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--esp-3);
+}
+
+.targeta {
+  display: flex;
+  flex-direction: column;
+  gap: var(--esp-2);
+  padding: var(--esp-4);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+  transition: border-color var(--transicio);
+}
+
+.targeta:hover { border-color: var(--vora-forta); }
+
+.targeta__titol {
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.targeta__titol a { text-decoration: none; }
+.targeta__titol a:hover { text-decoration: underline; }
+
+.targeta__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--esp-2);
+  font-size: 0.76rem;
+  color: var(--text-tenue);
+}
+
+.targeta__meta > span { display: inline-flex; align-items: center; gap: 4px; }
+
+.targeta__resum {
+  font-size: 0.85rem;
+  color: var(--text-suau);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.targeta__peu {
+  margin-top: auto;
+  padding-top: var(--esp-3);
+  display: flex;
+  align-items: center;
+  gap: var(--esp-2);
+}
+
+.etiquetes { display: flex; flex-wrap: wrap; gap: 4px; }
+
+.etiqueta {
+  padding: 1px 7px;
+  border-radius: 3px;
+  background: var(--bg-subtil);
+  border: 1px solid var(--vora);
+  font-size: 0.72rem;
+  color: var(--text-suau);
+  white-space: nowrap;
+}
+
+.etiqueta--categoria {
+  background: var(--accent-suau);
+  border-color: transparent;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.etiqueta--propia {
+  background: transparent;
+  border-style: dashed;
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Fitxa de dinàmica ----------------------------------------------------- */
+
+.fitxa { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: var(--esp-6); align-items: start; }
+
+.fitxa__cos { max-width: var(--amplada-lectura); }
+
+.fitxa__seccio { margin-bottom: var(--esp-5); }
+
+.fitxa__etiqueta-seccio {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-tenue);
+  margin-bottom: var(--esp-2);
+}
+
+.fitxa__text p { margin-bottom: var(--esp-3); }
+
+.fitxa__lateral {
+  position: sticky;
+  top: 72px;
+  padding: var(--esp-4);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+}
+
+.propietats { display: grid; grid-template-columns: auto 1fr; gap: var(--esp-2) var(--esp-3); font-size: 0.85rem; margin: 0; }
+.propietats dt { color: var(--text-tenue); }
+.propietats dd { margin: 0; }
+
+/* Sessió ---------------------------------------------------------------- */
+
+.sessio { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: var(--esp-6); align-items: start; }
+
+.blocs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--esp-2); }
+
+.bloc {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) auto;
+  gap: var(--esp-3);
+  align-items: start;
+  padding: var(--esp-3) var(--esp-4);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+}
+
+.bloc__hora {
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-tenue);
+  padding-top: 2px;
+}
+
+.bloc__titol { font-weight: 600; font-size: 0.95rem; margin-bottom: 2px; }
+.bloc__titol a { text-decoration: none; }
+.bloc__titol a:hover { text-decoration: underline; }
+.bloc__notes { margin-top: var(--esp-2); }
+.bloc__accions { display: flex; gap: 2px; align-items: center; }
+
+.bloc__durada {
+  width: 62px;
+  padding: 3px 6px;
+  font-size: 0.8rem;
+  text-align: right;
+}
+
+.buit {
+  padding: var(--esp-7) var(--esp-4);
+  border: 1px dashed var(--vora-forta);
+  border-radius: var(--radi-gran);
+  text-align: center;
+  color: var(--text-tenue);
+}
+
+.resum-sessio { display: flex; flex-direction: column; gap: var(--esp-3); }
+
+.resum-sessio__xifra {
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.barra-temps {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-subtil);
+  overflow: hidden;
+}
+
+.barra-temps__ple { height: 100%; background: var(--accent); }
+.barra-temps__ple--excedit { background: var(--perill); }
+
+/* Llistes de sessions ---------------------------------------------------- */
+
+.llista-sessions { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--esp-2); }
+
+.element-sessio {
+  display: flex;
+  align-items: center;
+  gap: var(--esp-4);
+  padding: var(--esp-4);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+  flex-wrap: wrap;
+}
+
+.element-sessio__titol { font-weight: 600; }
+.element-sessio__titol a { text-decoration: none; }
+.element-sessio__titol a:hover { text-decoration: underline; }
+.element-sessio__accions { margin-left: auto; display: flex; gap: var(--esp-2); }
+
+.element-sessio--activa { border-color: var(--accent); box-shadow: inset 3px 0 0 var(--accent); }
+
+/* Formularis llargs ------------------------------------------------------ */
+
+.formulari { max-width: 720px; display: flex; flex-direction: column; gap: var(--esp-4); }
+.formulari__fila { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: var(--esp-4); }
+.formulari__ajuda { font-size: 0.78rem; color: var(--text-tenue); margin-top: var(--esp-1); }
+
+.caselles { display: flex; flex-wrap: wrap; gap: var(--esp-2); }
+
+.casella {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border: 1px solid var(--vora-forta);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--text);
+  cursor: pointer;
+  margin: 0;
+}
+
+.casella:has(input:checked) {
+  background: var(--accent-suau);
+  border-color: var(--accent);
+}
+
+.casella input { margin: 0; accent-color: var(--accent); }
+
+/* Diàleg ----------------------------------------------------------------- */
+
+.dialeg {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--esp-4);
+  background: rgba(20, 20, 20, 0.45);
+}
+
+.dialeg__caixa {
+  width: 100%;
+  max-width: 460px;
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+  padding: var(--esp-5);
+}
+
+.dialeg__accions { display: flex; justify-content: flex-end; gap: var(--esp-2); margin-top: var(--esp-5); }
+
+/* Avís temporal ----------------------------------------------------------- */
+
+.avis {
+  position: fixed;
+  left: 50%;
+  bottom: var(--esp-5);
+  transform: translateX(-50%);
+  z-index: 70;
+  padding: 9px 16px;
+  background: var(--bg-invers);
+  color: var(--text-invers);
+  border-radius: var(--radi);
+  font-size: 0.85rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
+
+/* Icones ------------------------------------------------------------------ */
+
+.icona { width: 15px; height: 15px; flex: none; stroke: currentColor; fill: none; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+
+/* Responsiu --------------------------------------------------------------- */
+
+@media (max-width: 980px) {
+  .fitxa, .sessio { grid-template-columns: minmax(0, 1fr); }
+  .fitxa__lateral, .filtres { position: static; max-height: none; }
+}
+
+@media (max-width: 860px) {
+  .cataleg { grid-template-columns: minmax(0, 1fr); gap: var(--esp-4); }
+
+  .filtres {
+    display: none;
+    padding: var(--esp-4);
+    background: var(--bg-elevat);
+    border: 1px solid var(--vora);
+    border-radius: var(--radi-gran);
+  }
+
+  .filtres.es-obert { display: block; }
+  .filtres__cinta { display: inline-flex; }
+}
+
+@media (max-width: 700px) {
+  .capcalera__interior {
+    flex-wrap: wrap;
+    gap: 0;
+    padding: var(--esp-2) var(--esp-3);
+    min-height: 0;
+  }
+
+  .marca { width: 100%; padding: var(--esp-1) 0; }
+  .marca__sufix { display: none; }
+
+  /* La navegació ocupa tota l'amplada i es desplaça si no hi cap. */
+  .navegacio {
+    width: 100%;
+    margin-left: 0;
+    gap: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+    border-top: 1px solid var(--vora);
+    padding-top: var(--esp-1);
+  }
+
+  .navegacio::-webkit-scrollbar { display: none; }
+  .navegacio__enllac { padding: 6px 10px; font-size: 0.85rem; }
+
+  .principal { padding: var(--esp-4) var(--esp-3) var(--esp-7); }
+
+  .eines { gap: var(--esp-2); }
+  .cerca { flex: 1 1 100%; }
+  .eines__select { flex: 1 1 140px; min-width: 0; width: auto; }
+  .filtres__cinta { flex: 0 0 auto; }
+
+  .graella { grid-template-columns: minmax(0, 1fr); }
+  .bloc { grid-template-columns: minmax(0, 1fr); }
+  .bloc__hora { padding-top: 0; }
+  .bloc__accions { justify-content: flex-end; }
+  .vista__accions { margin-left: 0; width: 100%; }
+  .formulari__fila > div[style*='span 2'] { grid-column: auto !important; }
+  .full-imprimible { padding: var(--esp-4); }
+}

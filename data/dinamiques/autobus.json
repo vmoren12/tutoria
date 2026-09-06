@@ -1,0 +1,200 @@
+[
+  {
+    "id": "deletread-la-palabra",
+    "titol": "Deletread la Palabra",
+    "categoria": "autobus",
+    "etiquetes": [
+      "sense-material"
+    ],
+    "durada": 30,
+    "grup": "petit",
+    "materials": "",
+    "resum": "Este juego es una variante del anterior.",
+    "objectius": "Formar palabras que empiecen por una letra, para ello deben ver primero el objeto. Desarrollar la capacidad de observación y el dominio del lenguaje.",
+    "participants": "Mínimo 2, máximo 10, a partir de 9 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: ninguna. 6.",
+    "descripcio": "Se elige una palabra compuesta por tantas o más letras que número de jugadores. Por ejemplo: si hay 9 jugadores. Por ejemplo: si hay 9 letras, se podrá elegir \"cocodrilo\", palabra que tiene 9 letras, o \"coleccionador\", que tiene 13, o cualquier otra palabra de más de 8 letras. A una señal dada por el árbitro, los jugadores miran por los cristales para intentar descubrir un objeto cuyo nombre empiece por cada una de las letras de la palabra\n\nelegida. Uno dice: \"caballo\", otro \"olivo\", un tercero \"labrador\" , etc., hasta que la palabra elegida \"coleccionador\" quede completamente deletreada. Resulta evidente que hay que seguir el orden de las letras; y no decir \"labrador\", por ejemplo, antes de que las palabras que empiecen por las dos primeras letras - en nuestro caso \"caballo\" y \"olivo\" - hayan sido encontradas. Si varios jugadores nombran objetos que empiecen por la misma letra, únicamente cuenta el primero nombrado (excepto, desde luego, si esta letra es doble en la misma palabra: dos C en \"coleccionador\"). Si dos jugadores nombran al mismo tiempo un mismo objeto, se produce nula, y hay que encontrar otro objeto que empiece por la misma letra. Los jugadores que no hayan dicho nada cuando la palabra haya sido deletreada pagan penda.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "el-detalle-cambiado",
+    "titol": "El Detalle Cambiado",
+    "categoria": "autobus",
+    "etiquetes": [
+      "competitiu",
+      "sense-material"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Detectar con rapidez los cambios realizados en el atuendo de los jugadores.",
+    "objectius": "Desarrollar la capacidad de observación.",
+    "participants": "Mínimo 6, máximo 15, a partir de 6 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: Para evitar confusiones, resulta confusiones que el director del juego anote los cambios realizados.",
+    "descripcio": "Se designa a dos jugadores para que salgan. Estos examinan antes atentamente el atuendo de los demás jugadores. Salen de la zona de juegos, y mientras tanto los demás jugadores cambian - o no cambian - un detalle de su atuendo. Vueltos los jugadores resulta ganador el que descubra más cambios en un tiempo convenido de antemano. El ganador elige un sustituto. Éste sale a su vez acompañado del \"perdedor\", que procurará no serlo una segunda vez. Aumentar progresivamente el número de cambios realizados.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "el-telegrama",
+    "titol": "El Telegrama",
+    "categoria": "autobus",
+    "etiquetes": [
+      "escriptura"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Papel y lápices.",
+    "resum": "Redactar un telegrama partiendo de una frase escogida.",
+    "objectius": "Conseguir un ambiente alegre y distendido. Es sorprendente los telegramas que llegan a redactar los niños. Os vais a reír a carcajadas.",
+    "participants": "Mínimo 2, máximo 10, a partir de 10 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: Se elige de común acuerdo una de las numerosas inscripciones que pueden leerse en un autobús. Con preferencia no elegirla demasiado larga: \"Prohibido fumar\" o \"Ventanilla de emergencia\".",
+    "descripcio": "El árbitro sugiere un tema, como por ejemplo, un periodista que telegrafía una información. Cada jugador redacta un telegrama sobre este tema, utilizando por orden todas las letras de la inscripción elegida Un número e la inscripción elegida equivale a las letras que ocupan este lugar en el alfabeto. Así : 1 = A, 2 = B, 3 = C, 10 = I. Cuando todos han terminado cada uno se levanta para leer en alta voz su telegrama, siendo proclamado vencedor el autor del que resulte mejor redactado.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "la-carrera-de-las-letras",
+    "titol": "La Carrera de las Letras",
+    "categoria": "autobus",
+    "etiquetes": [
+      "atencio",
+      "competitiu",
+      "moviment",
+      "sense-material"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Juego de palabras",
+    "objectius": "Formar palabras que empiecen por una letra, parta ello deben ver primero el objeto. Desarrollar la capacidad de observación y el dominio del lenguaje.",
+    "participants": "Mínimo 2, máximo 10, a partir de 9 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: El árbitro tiene que vigilar atentamente las repeticiones, ya que los niños, preocupados en la busca, no se acuerdan siempre de lo que ya se ha dicho.",
+    "descripcio": "Se elige (o se saca a suertes) una letra muy usual. Evitar las letras raras como K, Ñ, W, X, Y, Z. A una señal dada por el árbitro, los jugadores miran por los cristales, y gritan el nombre de todo lo que ven, cuyo nombre empieza por la letra elegida (caballo, colina, arado, cisterna, etc..). No se debe señalar un objeto que haya sido nombrado. Se suma un punto por objeto designado. Se restan dos puntos por repetición de objeto ya nombrado. Resulta ganador el primero que llega a cinco (o diez o quince, según el humor y la costumbre de los jugadores). cada uno cuenta sus puntos con los dedos.",
+    "avaluacio": "",
+    "notes": "Abandonar el juego antes de cansar la atención de los más pequeños, de los menos dotados, o de los mal situados (de diez minutos a una media hora). Si al cabo de este tiempo nadie ha obtenido todavía 5 puntos, se designa como ganador al que suma más.",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "la-moneda-que-corre",
+    "titol": "La Moneda que Corre",
+    "categoria": "autobus",
+    "etiquetes": [
+      "moviment"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Una moneda. Cuanto más pequeña es la moneda, más difícil es el juego.",
+    "resum": "Juego de habilidad.",
+    "objectius": "Fomentar la habilidad y la destreza manual.",
+    "participants": "Mínimo 4, máximo 20, a partir de 8 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: Los jugadores se hallan sentados en los asientos, con la mano derecha colocada, palma hacia arriba sobre la rodilla.",
+    "descripcio": "El jugador sentado en el extremo de cada asiento coloca en su mano derecha una moneda que pasa a sus vecino si cerrar ni doblar la mano, sino, impulsándola con la palma hacia abajo en la mano derecha de su vecino de la izquierda. La moneda pasa así en dirección izquierda hasta el extremo del asiento. Vuelve de nuevo en sentido inverso por el mismo medio: mano derecha chocando con mano derecha del vecino de la derecha. Esto es ya más difícil. A la segunda vez se procede igual con las manos izquierdas. Ida y vuelta. A la tercera vez se utilizan las manos derechas, que ya no deben tocarse: se deja caer la moneda en la mano del vecino. Ida y vuelta. A la cuarta vez, ídem, con las manos izquierdas. Ida y vuelta. A la quinta vez se utilizan las manos derechas, que ya no pueden inclinarse: tiene que permanecer horizontales con al palma hacia arriba. Se pasa la moneda haciéndola saltar en la mano del vecino. Ida y vuelta. Cuando la moneda cae, se imputa la falta al lanzador. El receptor no mueve nunca la mano, colocada extendida sobre la rodilla.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "los-espaguetis",
+    "titol": "Los Espaguetis",
+    "categoria": "autobus",
+    "etiquetes": [
+      "competitiu",
+      "subgrups"
+    ],
+    "durada": 30,
+    "grup": "petit",
+    "materials": "Aproximadamente 80 cm. de cordel de grosor medio y de idéntica calidad para cada uno de los jugadores. Para el árbitro, cronómetro o reloj con segundero.",
+    "resum": "Desenredar el cordel antes que los demás.",
+    "objectius": "Fomentar la destreza y la habilidad manual.",
+    "participants": "Mínimo 2 jugadores, máximo 10. De 7 a 11 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: El árbitro distribuye los cordeles: uno a cada jugador.",
+    "descripcio": "A una señal, cada uno se esfuerza en anudar y liar su cordel lo mejor que puede. Al cabo de treinta segundos, nueva señal. Cada uno pasa su cordel a su vecino de la derecha (o de enfrente para los que no tengan vecino a la derecha). Éste prosigue el trabajo tan bien comenzado, anuda, y lía lo mejor que puede. Quince o treinta segundos más tarde, cada uno pasa de nuevo a su vecino el cordel que tiene en la mano, y sigue anudando el que recibe; y siempre a la señal, lo pasa a su vecino de la derecha. En este momento el conductor del juego grita: \"¡Desenredad!\", e inmediatamente todos se apresuran a desenredar el cordel que acaban de recibir. Resulta ganador el primero que desenreda el cordel que acaban de recibir. Para aumentar el interés, se puede pedir una prenda al último jugador.",
+    "avaluacio": "",
+    "notes": "Este juego puede jugarse por equipos o por asientos. Cada uno enreda los cordeles como mejor sabe. Luego los equipos intercambian sus cordeles; y el que primero lo ha desenredado todo resulta ganador.",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "ni-si-ni-no",
+    "titol": "Ni Sí, Ni No",
+    "categoria": "autobus",
+    "etiquetes": [
+      "atencio",
+      "competitiu",
+      "sense-material"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Juego de atención.",
+    "objectius": "Conseguir un ambiente alegre y distendido.",
+    "participants": "Mínimo 2, máximo 15, a partir de 7 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: ninguna.",
+    "descripcio": "El conductor del juego inicia la conversación y formula sucesivamente a los jugadores diferentes preguntas a las cuales tienen que contestar, sin pronunciar ni sí, ni no. Cada equivocación hace perder un punto. Al cabo de un tiempo determinado - cinco minutos por ejemplo - se cuentan los puntos perdidos. Resulta ganador el que ha perdido menos.",
+    "avaluacio": "",
+    "notes": "Para complicar el juego o renovar el interés cuando los jugadores están bien entrenados, se pueden cambiar las palabras prohibidas, o añadir otras nuevas; por ejemplo: \"Blanco y negro...., ayer, hoy y mañana....\", según la fantasía del conductor del juego.",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "has-visto",
+    "titol": "¿Has Visto?",
+    "categoria": "autobus",
+    "etiquetes": [
+      "competitiu",
+      "escriptura",
+      "exterior"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Papel, lápices.",
+    "resum": "Juego de observación.",
+    "objectius": "Este juego permite explicar ciertas palabras poco conocidas por los pequeños, y hacerles descubrir el objeto correspondiente: noria, máquina forrajera, trilladora. También les brinda la ocasión de aprende a distinguir desde lejos, un campo de trigo, las remolachas de las patatas, etc..",
+    "participants": "Mínimo 3, máximo 16, a partir de 6 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: Se prepara antes de salir (o durante una parada en alguna Estación) una serie de papelitos, llevando cada uno un nombre de persona, de animal o de objeto visible a lo largo del trayecto : niño saludando a los viajeros, señora en la ventana, perro, vaca, almiar de paja o heno, árbol abatido, río, iglesia, camión en marcha, carro tirado por caballo, arado, tractor, etc..",
+    "descripcio": "Una vez en marcha, el conductor del juego coloca los papelitos doblados en cuatro dentro de una gorra. Los mezcla. Cada jugador coge uno o varios, según el número de jugadores y de papeles. Todos observan por las ventanillas y, cuando alguno ve el objeto escrito en su papel, se lo enseña al árbitro y vuelve a meter el papel en la gorra. El primer jugador que se desembaraza de todos sus papelitos resulta ganador. El último al que todavía le quedan en la mano, paga prenda.",
+    "avaluacio": "",
+    "notes": "Este juego mantiene a los niños tranquilos durante un buen rato.",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  },
+  {
+    "id": "que-ves",
+    "titol": "¿Qué Ves?",
+    "categoria": "autobus",
+    "etiquetes": [
+      "sense-material"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Juego de observación.",
+    "objectius": "Desarrollar la capacidad de observación y el dominio del lenguaje.",
+    "participants": "Mínimo 6, máximo 10, a partir de 7 años.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "DE PARTIDA: Ningún nombre tiene que ser repetido, y la clase de objetos cambia cada vez.",
+    "descripcio": "El conductor del juego interpela a un jugador por su nombre: \"Francisco o María, ¿qué ves en el autobús? \". El interpelado tiene que contestar inmediatamente : \"Veo una\n\nventana, o una maleta\", etc., es decir, dando el nombre de un objeto que realmente exista en el autobús. Inmediatamente después el jugador situado a la derecha (o delante) del jugador tiene que continuar diciendo: \"veo una ventana y una maleta\", y añadir otro nombre y así sucesivamente, hasta que todos los jugadores hayan hablado. En este momento el conductor inicia otra partida interpelando a otro jugador y preguntándole otra clase de nombre. Por ejemplo, dirá: \"Pedro, ¿qué ves por la ventanilla....?\". Para variar el juego, resulta entretenido preguntar nombres de la región a dónde se va, o de la ciudad de donde se viene( objetos, lugares, personajes, etc.). Por ejemplo: \"María, ¿qué ves en Cádiz?\", o \"¿qué ves en Córdoba?\", etc.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
+  }
+]

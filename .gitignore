@@ -1,0 +1,17 @@
+# Material font (PDF de tercers, 16 MB): es manté fora del repositori.
+# Cal tenir-lo a l'arrel per tornar a executar `npm run extract`.
+*.pdf
+
+# Fitxers temporals de proves
+_*.html
+_*.js
+
+# Sistema operatiu i editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*

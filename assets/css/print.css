@@ -1,0 +1,175 @@
+/* ==========================================================================
+   print.css - full imprimible de sessió i de fitxa (Imprimir / Desa com a PDF)
+   ========================================================================== */
+
+.full-imprimible {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: var(--esp-6);
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora);
+  border-radius: var(--radi-gran);
+}
+
+.full-imprimible h1 { font-size: 1.5rem; margin-bottom: var(--esp-2); }
+.full-imprimible h2 { font-size: 1.05rem; }
+
+.full__capcalera {
+  padding-bottom: var(--esp-4);
+  border-bottom: 2px solid var(--text);
+  margin-bottom: var(--esp-5);
+}
+
+.full__centre {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-tenue);
+  margin-bottom: var(--esp-2);
+}
+
+.full__dades {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--esp-2) var(--esp-4);
+  margin-top: var(--esp-3);
+  font-size: 0.85rem;
+}
+
+.full__dada dt { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tenue); }
+.full__dada dd { margin: 0; font-weight: 500; }
+
+.full__bloc {
+  padding: var(--esp-4) 0;
+  border-top: 1px solid var(--vora);
+  break-inside: avoid;
+}
+
+.full__bloc-capcalera {
+  display: flex;
+  align-items: baseline;
+  gap: var(--esp-3);
+  margin-bottom: var(--esp-2);
+}
+
+.full__bloc-hora {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.8rem;
+  color: var(--text-tenue);
+  min-width: 82px;
+}
+
+.full__bloc-titol { font-size: 1rem; font-weight: 600; }
+
+.full__camp { margin-top: var(--esp-3); font-size: 0.88rem; }
+
+.full__camp-nom {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-tenue);
+  margin-bottom: 2px;
+}
+
+.full__peu {
+  margin-top: var(--esp-6);
+  padding-top: var(--esp-3);
+  border-top: 1px solid var(--vora);
+  font-size: 0.75rem;
+  color: var(--text-tenue);
+}
+
+.full__signatura {
+  margin-top: var(--esp-7);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--esp-6);
+}
+
+.full__linia-signatura {
+  border-top: 1px solid var(--vora-forta);
+  padding-top: var(--esp-2);
+  font-size: 0.78rem;
+  color: var(--text-tenue);
+}
+
+/* --------------------------------------------------------------------- */
+
+@page {
+  size: A4;
+  margin: 16mm 15mm 18mm;
+}
+
+@media print {
+  :root {
+    --bg: #ffffff;
+    --bg-elevat: #ffffff;
+    --bg-subtil: #ffffff;
+    --text: #000000;
+    --text-suau: #222222;
+    --text-tenue: #555555;
+    --vora: #bbbbbb;
+    --vora-forta: #888888;
+    --accent: #000000;
+    --accent-suau: #f0f0f0;
+  }
+
+  html, body {
+    background: #ffffff;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+
+  .capcalera,
+  .no-imprimir,
+  .vista__accions,
+  .enllac-tornar,
+  .avis,
+  .dialeg {
+    display: none !important;
+  }
+
+  .principal { max-width: none; padding: 0; margin: 0; }
+
+  .full-imprimible {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .full__bloc { break-inside: avoid; page-break-inside: avoid; }
+  .full__capcalera { break-after: avoid; }
+
+  /* Fitxa d'una dinàmica impresa des de la seva pàgina */
+  .fitxa { display: block; }
+  .fitxa__cos { max-width: none; }
+
+  .fitxa__lateral {
+    position: static;
+    margin: 0 0 var(--esp-4);
+    border: 1px solid var(--vora);
+    break-inside: avoid;
+  }
+
+  .fitxa__seccio { break-inside: avoid; }
+
+  /* Elements de navegació que no tenen sentit en paper */
+  .eines,
+  .filtres,
+  .resultats-info,
+  .targeta__peu,
+  .filtres__cinta,
+  .blocs textarea,
+  .bloc__accions {
+    display: none !important;
+  }
+
+  h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
+
+  a { text-decoration: none; color: inherit; }
+
+  .full__peu { position: static; }
+}

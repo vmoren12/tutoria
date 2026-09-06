@@ -1,0 +1,21 @@
+{
+  "name": "tutoria",
+  "version": "1.0.0",
+  "description": "Catàleg de dinàmiques i constructor de sessions de tutoria per a l'ESO.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmoren12/tutoria.git"
+  },
+  "scripts": {
+    "build": "node scripts/build-data.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/build-data.mjs && node scripts/serve.mjs",
+    "extract": "python scripts/extract_pdf.py --pdf \"700-Dinámicas-grupales.pdf\" --out data/dinamiques"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

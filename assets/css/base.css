@@ -1,0 +1,340 @@
+/* ==========================================================================
+   base.css - tokens de disseny, reinici i elements bàsics
+   ========================================================================== */
+
+:root {
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --bg: #fbfbfa;
+  --bg-elevat: #ffffff;
+  --bg-subtil: #f2f2f0;
+  --bg-invers: #1b1b1a;
+
+  --text: #1b1b1a;
+  --text-suau: #57564f;
+  --text-tenue: #83817a;
+  --text-invers: #fbfbfa;
+
+  --vora: #e0dfda;
+  --vora-forta: #c9c7c0;
+
+  --accent: #2f4858;
+  --accent-fort: #1d2f3a;
+  --accent-suau: #e8eef1;
+  --accent-text: #ffffff;
+
+  --perill: #8c2f2f;
+  --perill-suau: #f7eaea;
+
+  --radi: 4px;
+  --radi-gran: 8px;
+
+  --esp-1: 4px;
+  --esp-2: 8px;
+  --esp-3: 12px;
+  --esp-4: 16px;
+  --esp-5: 24px;
+  --esp-6: 32px;
+  --esp-7: 48px;
+  --esp-8: 64px;
+
+  --amplada-max: 1360px;
+  --amplada-lectura: 68ch;
+
+  --transicio: 120ms ease;
+}
+
+:root[data-theme='fosc'] {
+  --bg: #16181a;
+  --bg-elevat: #1e2124;
+  --bg-subtil: #26292d;
+  --bg-invers: #f0f0ee;
+
+  --text: #e9e9e6;
+  --text-suau: #b3b2ac;
+  --text-tenue: #8a8983;
+  --text-invers: #16181a;
+
+  --vora: #32363a;
+  --vora-forta: #464b50;
+
+  --accent: #9dc0d4;
+  --accent-fort: #b9d4e4;
+  --accent-suau: #22303a;
+  --accent-text: #10181e;
+
+  --perill: #e0908c;
+  --perill-suau: #35211f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='clar']) {
+    --bg: #16181a;
+    --bg-elevat: #1e2124;
+    --bg-subtil: #26292d;
+    --bg-invers: #f0f0ee;
+
+    --text: #e9e9e6;
+    --text-suau: #b3b2ac;
+    --text-tenue: #8a8983;
+    --text-invers: #16181a;
+
+    --vora: #32363a;
+    --vora-forta: #464b50;
+
+    --accent: #9dc0d4;
+    --accent-fort: #b9d4e4;
+    --accent-suau: #22303a;
+    --accent-text: #10181e;
+
+    --perill: #e0908c;
+    --perill-suau: #35211f;
+  }
+}
+
+/* --------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.011em;
+}
+
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.2rem; }
+h3 { font-size: 1rem; }
+
+p { margin: 0 0 var(--esp-3); }
+p:last-child { margin-bottom: 0; }
+
+a {
+  color: inherit;
+  text-decoration-color: var(--vora-forta);
+  text-underline-offset: 2px;
+}
+
+a:hover { text-decoration-color: currentColor; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--vora);
+  margin: var(--esp-5) 0;
+}
+
+img { max-width: 100%; }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--accent-suau);
+}
+
+/* Formularis --------------------------------------------------------- */
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+  color: inherit;
+}
+
+input[type='text'],
+input[type='search'],
+input[type='number'],
+input[type='date'],
+select,
+textarea {
+  width: 100%;
+  padding: 7px 10px;
+  background: var(--bg-elevat);
+  border: 1px solid var(--vora-forta);
+  border-radius: var(--radi);
+  transition: border-color var(--transicio);
+}
+
+input[type='text']:focus,
+input[type='search']:focus,
+input[type='number']:focus,
+input[type='date']:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--accent);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--accent-suau);
+}
+
+textarea {
+  min-height: 90px;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+select {
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 15px) 50%, calc(100% - 10px) 50%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  padding-right: 28px;
+}
+
+label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--text-suau);
+  margin-bottom: var(--esp-1);
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+legend {
+  padding: 0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-tenue);
+}
+
+/* Botons -------------------------------------------------------------- */
+
+.boto {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--esp-2);
+  padding: 7px 14px;
+  min-height: 34px;
+  background: var(--bg-elevat);
+  color: var(--text);
+  border: 1px solid var(--vora-forta);
+  border-radius: var(--radi);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: background var(--transicio), border-color var(--transicio);
+}
+
+.boto:hover {
+  background: var(--bg-subtil);
+  border-color: var(--text-tenue);
+}
+
+.boto:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.boto--principal {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+.boto--principal:hover {
+  background: var(--accent-fort);
+  border-color: var(--accent-fort);
+}
+
+.boto--pla {
+  background: transparent;
+  border-color: transparent;
+}
+
+.boto--pla:hover {
+  background: var(--bg-subtil);
+  border-color: transparent;
+}
+
+.boto--perill {
+  color: var(--perill);
+  border-color: var(--vora-forta);
+}
+
+.boto--perill:hover {
+  background: var(--perill-suau);
+  border-color: var(--perill);
+}
+
+.boto--petit {
+  min-height: 28px;
+  padding: 3px 9px;
+  font-size: 0.8rem;
+}
+
+/* Utilitats ----------------------------------------------------------- */
+
+.nomes-lector {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.salta-al-contingut {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: var(--esp-3);
+  background: var(--bg-elevat);
+  border: 1px solid var(--accent);
+}
+
+.salta-al-contingut:focus {
+  left: var(--esp-3);
+  top: var(--esp-3);
+}
+
+.pila { display: flex; flex-direction: column; gap: var(--esp-3); }
+.fila { display: flex; align-items: center; gap: var(--esp-2); flex-wrap: wrap; }
+.creix { flex: 1 1 auto; min-width: 0; }
+.tenue { color: var(--text-tenue); }
+.suau { color: var(--text-suau); }
+.petit { font-size: 0.8rem; }
+.centrat { text-align: center; }
