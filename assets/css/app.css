@@ -581,13 +581,13 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: var(--esp-4);
+  gap: var(--esp-2);
   font-size: 0.8rem;
   line-height: 1.6;
   color: var(--text-tenue);
 }
 
-.peu__interior p { margin: 0; }
+.peu__interior p { margin: 0; max-width: 78ch; }
 .peu__interior strong { color: var(--text); font-weight: 600; }
 
 .peu__interior a {
@@ -598,49 +598,6 @@
 }
 
 .peu__interior a:hover { color: var(--text); text-decoration-color: currentColor; }
-
-/* Avís d'emmagatzematge local: destacat, però sense cridar. */
-.peu__avis {
-  display: flex;
-  gap: var(--esp-2);
-  align-items: flex-start;
-  justify-content: center;
-  max-width: 78ch;
-  padding: var(--esp-3) var(--esp-4);
-  background: var(--bg-elevat);
-  border: 1px solid var(--vora);
-  border-top: 2px solid var(--accent);
-  border-radius: var(--radi);
-  color: var(--text-suau);
-  font-size: 0.82rem;
-}
-
-.peu__avis .icona {
-  width: 16px;
-  height: 16px;
-  margin-top: 2px;
-  color: var(--accent);
-}
-
-/* Autoria i llicència, en columnes si hi ha amplada. */
-.peu__credits {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  justify-items: center;
-  gap: var(--esp-3) var(--esp-6);
-  width: 100%;
-  max-width: 980px;
-}
-
-.peu__credits p { max-width: 46ch; }
-
-.peu__fonts {
-  width: 100%;
-  max-width: 980px;
-  padding-top: var(--esp-3);
-  border-top: 1px solid var(--vora);
-  font-size: 0.78rem;
-}
 
 /* Icones ------------------------------------------------------------------ */
 
