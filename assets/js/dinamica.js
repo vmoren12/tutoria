@@ -40,12 +40,38 @@
       TUT.ui.marca_sessio(TUT.store.vegades_a_sessio(d.id));
   }
 
+  /**
+   * Les activitats d'una unitat didàctica, o la unitat d'on surt una activitat.
+   *
+   * És el que fa navegable el Programa HEBE: una unitat és una proposta de
+   * diverses sessions i cada activitat seva també es pot fer per separat.
+   */
+  function relacions(d) {
+    var filles = TUT.data.filles(d);
+    if (filles.length) {
+      return '<section class="fitxa__seccio">' +
+        '<h2 class="fitxa__etiqueta-seccio">Activitats de la unitat</h2>' +
+        '<div class="graella" style="grid-template-columns:minmax(0,1fr)">' +
+          filles.map(TUT.ui.fila).join('') +
+        '</div>' +
+      '</section>';
+    }
+    var pare = d.unitat ? TUT.data.obte(d.unitat) : null;
+    if (!pare) return '';
+    return '<section class="fitxa__seccio">' +
+      '<h2 class="fitxa__etiqueta-seccio">Forma part de</h2>' +
+      '<div class="graella" style="grid-template-columns:minmax(0,1fr)">' +
+        TUT.ui.fila(pare) +
+      '</div>' +
+    '</section>';
+  }
+
   function render(contenidor, id) {
     var d = TUT.data.obte(id);
     if (!d) {
       contenidor.innerHTML = '<a class="enllac-tornar" href="' + TUT.app.enllac_cataleg() +
         '">Torna al catàleg</a>' +
-        '<div class="buit"><p>Aquesta dinàmica no existeix o s\'ha esborrat.</p></div>';
+        '<div class="buit"><p>Aquesta proposta no existeix o s\'ha esborrat.</p></div>';
       return;
     }
 
@@ -68,8 +94,15 @@
       '<div class="vista__capcalera">' +
         '<div>' +
           '<div class="fila" style="margin-bottom:8px">' +
+            '<a class="etiqueta etiqueta--tipus etiqueta--' + esc(d.tipus) +
+              '" href="#/cataleg?tip=' + esc(d.tipus) + '">' +
+              esc(TUT.data.nom_tipus(d.tipus)) + '</a>' +
             '<a class="etiqueta etiqueta--categoria" href="#/cataleg?cat=' + esc(d.categoria) + '">' +
               esc(TUT.data.nom_categoria(d.categoria)) + '</a>' +
+            (d.nivells || []).map(function (n) {
+              return '<a class="etiqueta etiqueta--nivell" href="#/cataleg?niv=' + esc(n) + '">' +
+                esc(TUT.data.nom_nivell(n)) + '</a>';
+            }).join('') +
             (d.origen !== 'cataleg'
               ? '<span class="etiqueta etiqueta--propia">' +
                 (d.origen === 'propia' ? 'Pròpia' : 'Editada') + '</span>' : '') +
@@ -88,13 +121,17 @@
 
       '<div class="fitxa">' +
         '<div class="fitxa__cos">' + (seccions ||
-          '<div class="fitxa__text">' + dom.paragrafs(d.descripcio) + '</div>') + '</div>' +
+          '<div class="fitxa__text">' + dom.paragrafs(d.descripcio) + '</div>') +
+          relacions(d) + '</div>' +
         '<aside class="fitxa__lateral">' +
           '<dl class="propietats">' +
             '<dt>Durada</dt><dd>' + dom.minuts(d.durada) + '</dd>' +
             '<dt>Grup</dt><dd>' + esc(TUT.data.nom_grup(d.grup)) +
               (TUT.data.detall_grup(d.grup) ? ' <span class="tenue">(' +
                 esc(TUT.data.detall_grup(d.grup)) + ')</span>' : '') + '</dd>' +
+            '<dt>Nivell</dt><dd>' + ((d.nivells || []).length
+              ? esc(d.nivells.map(TUT.data.nom_nivell).join(', '))
+              : 'Qualsevol curs') + '</dd>' +
             (d.participants ? '<dt>Participants</dt><dd>' + esc(d.participants) + '</dd>' : '') +
             (d.espai ? '<dt>Espai</dt><dd>' + esc(d.espai) + '</dd>' : '') +
             '<dt>Material</dt><dd>' + (d.materials ? esc(d.materials) : 'No cal material') + '</dd>' +
@@ -115,18 +152,26 @@
               (d.origen === 'modificada' ? 'Desfés els canvis' : 'Amaga del catàleg') + '</button></p>'
             : '<p style="margin-top:12px">' +
               '<button type="button" class="boto boto--pla boto--petit boto--perill" data-esborra>' +
-              'Esborra la dinàmica</button></p>') +
+              'Esborra la proposta</button></p>') +
         '</aside>' +
       '</div>';
 
-    dom.delega(contenidor, 'click', '[data-afegeix]', function () {
-      TUT.ui.afegeix_a_sessio(d.id).then(function (afegida) {
-        if (afegida) refresca_sessio(contenidor, d);
+    /* Els botons de les fitxes relacionades porten el seu propi identificador;
+       quan és un altre, cal repintar la fitxa sencera per refrescar-ne la fila. */
+    dom.delega(contenidor, 'click', '[data-afegeix]', function (event, boto) {
+      var quina = boto.dataset.afegeix;
+      TUT.ui.afegeix_a_sessio(quina).then(function (afegida) {
+        if (!afegida) return;
+        if (quina === d.id) refresca_sessio(contenidor, d);
+        else render(contenidor, d.id);
       });
     });
 
-    dom.delega(contenidor, 'click', '[data-treu-sessio]', function () {
-      if (TUT.ui.treu_de_sessio(d.id)) refresca_sessio(contenidor, d);
+    dom.delega(contenidor, 'click', '[data-treu-sessio]', function (event, boto) {
+      var quina = boto.dataset.treuSessio;
+      if (!TUT.ui.treu_de_sessio(quina)) return;
+      if (quina === d.id) refresca_sessio(contenidor, d);
+      else render(contenidor, d.id);
     });
 
     dom.delega(contenidor, 'click', '[data-imprimeix]', function () { global.print(); });
@@ -147,8 +192,8 @@
 
     dom.delega(contenidor, 'click', '[data-esborra]', function () {
       var propia = d.origen === 'propia';
-      var titol = propia ? 'Esborra la dinàmica'
-        : (d.origen === 'modificada' ? 'Desfés els canvis' : 'Amaga la dinàmica');
+      var titol = propia ? 'Esborra la proposta'
+        : (d.origen === 'modificada' ? 'Desfés els canvis' : 'Amaga la proposta');
       var missatge = propia
         ? 'S\'esborrarà definitivament del teu navegador. Aquesta acció no es pot desfer.'
         : (d.origen === 'modificada'
@@ -185,10 +230,12 @@
     var nova = !id || id === 'nova';
     var original = nova ? null : TUT.data.obte(id);
     if (!nova && !original) {
-      contenidor.innerHTML = '<div class="buit"><p>Aquesta dinàmica no existeix.</p></div>';
+      contenidor.innerHTML = '<div class="buit"><p>Aquesta proposta no existeix.</p></div>';
       return;
     }
     var d = nova ? TUT.data.plantilla() : Object.assign({}, original);
+    d.nivells = d.nivells || [];
+    d.tipus = d.tipus || 'dinamica';
     var tax = TUT.data.taxonomia;
 
     contenidor.innerHTML = '' +
@@ -197,9 +244,9 @@
         (nova ? 'Torna al catàleg' : 'Torna a la fitxa') + '</a>' +
       '<div class="vista__capcalera">' +
         '<div>' +
-          '<h1 class="vista__titol">' + (nova ? 'Nova dinàmica' : 'Edita la dinàmica') + '</h1>' +
+          '<h1 class="vista__titol">' + (nova ? 'Nova proposta' : 'Edita la proposta') + '</h1>' +
           '<p class="vista__descripcio">' + (nova
-            ? 'La dinàmica es desa al teu navegador. Pots exportar-la des dels ajustos per compartir-la o afegir-la al repositori.'
+            ? 'La proposta es desa al teu navegador. Pots exportar-la des dels ajustos per compartir-la o afegir-la al repositori.'
             : 'Els canvis es desen al teu navegador i no afecten el catàleg original, que sempre pots recuperar.') +
           '</p>' +
         '</div>' +
@@ -209,6 +256,13 @@
         camp_text('titol', 'Títol', d.titol) +
 
         '<div class="formulari__fila">' +
+          '<div><label for="c-tipus">Tipus de proposta</label>' +
+            '<select id="c-tipus" name="tipus">' +
+              (tax.tipus || []).map(function (t) {
+                return '<option value="' + esc(t.id) + '"' +
+                  (t.id === d.tipus ? ' selected' : '') + '>' + esc(t.nom) + '</option>';
+              }).join('') +
+            '</select></div>' +
           '<div><label for="c-categoria">Categoria</label>' +
             '<select id="c-categoria" name="categoria">' +
               tax.categories.map(function (c) {
@@ -228,6 +282,16 @@
             '<input type="number" id="c-durada" name="durada" min="1" max="240" value="' +
               esc(d.durada) + '"></div>' +
         '</div>' +
+
+        '<fieldset><legend>Nivell</legend>' +
+          '<p class="formulari__ajuda">Deixa-ho tot sense marcar si serveix per a qualsevol curs.</p>' +
+          '<div class="caselles" style="margin-top:8px">' +
+          (tax.nivells || []).map(function (n) {
+            return '<label class="casella"><input type="checkbox" name="nivells" value="' +
+              esc(n.id) + '"' + (d.nivells.indexOf(n.id) >= 0 ? ' checked' : '') + '>' +
+              esc(n.nom) + '</label>';
+          }).join('') +
+        '</div></fieldset>' +
 
         '<fieldset><legend>Etiquetes</legend><div class="caselles" style="margin-top:8px">' +
           tax.etiquetes.map(function (t) {
@@ -254,7 +318,7 @@
         camp_text('font', 'Font', d.font, 'Referència d\'on prové la dinàmica, si escau.') +
 
         '<div class="fila" style="margin-top:8px">' +
-          '<button type="submit" class="boto boto--principal">Desa la dinàmica</button>' +
+          '<button type="submit" class="boto boto--principal">Desa la proposta</button>' +
           '<a class="boto" href="' +
             (nova ? TUT.app.enllac_cataleg() : '#/dinamica/' + esc(id)) + '">Cancel·la</a>' +
         '</div>' +
@@ -268,12 +332,12 @@
       var descripcio = String(dades.get('descripcio') || '').trim();
 
       if (!titol) {
-        TUT.ui.avis('Cal un títol per desar la dinàmica.');
+        TUT.ui.avis('Cal un títol per desar la proposta.');
         dom.$('#c-titol', form).focus();
         return;
       }
       if (!descripcio) {
-        TUT.ui.avis('Cal explicar el desenvolupament de la dinàmica.');
+        TUT.ui.avis('Cal explicar el desenvolupament de la proposta.');
         dom.$('#c-descripcio', form).focus();
         return;
       }
@@ -281,12 +345,18 @@
       var resultat = {
         id: nova ? dom.identificador('d') : d.id,
         titol: titol,
+        tipus: String(dades.get('tipus') || 'dinamica'),
         categoria: String(dades.get('categoria')),
         grup: String(dades.get('grup')),
         durada: Math.max(1, Number(dades.get('durada')) || 15),
         etiquetes: dades.getAll('etiquetes'),
+        nivells: dades.getAll('nivells'),
         descripcio: descripcio,
       };
+      /* Els vincles entre unitat i activitats no s'editen des del formulari,
+         però s'han de conservar en desar la fitxa. */
+      if (d.unitat) resultat.unitat = d.unitat;
+      if (d.activitats && d.activitats.length) resultat.activitats = d.activitats.slice();
       ['materials', 'participants', 'espai', 'resum', 'objectius', 'preparacio',
         'consignes', 'avaluacio', 'notes', 'font'].forEach(function (camp) {
         var valor = String(dades.get(camp) || '').trim();
@@ -295,7 +365,7 @@
 
       TUT.store.desa_dinamica(resultat);
       TUT.data.reconstrueix();
-      TUT.ui.avis(nova ? 'Dinàmica creada.' : 'Canvis desats.');
+      TUT.ui.avis(nova ? 'Proposta creada.' : 'Canvis desats.');
       global.location.hash = '#/dinamica/' + resultat.id;
     });
   }

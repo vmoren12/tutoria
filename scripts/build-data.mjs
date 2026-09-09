@@ -50,6 +50,8 @@ const taxonomia = JSON.parse(await readFile(path.join(ROOT, 'data', 'taxonomia.j
 const categories = new Set(taxonomia.categories.map((c) => c.id));
 const etiquetes = new Set(taxonomia.etiquetes.map((t) => t.id));
 const grups = new Set(taxonomia.grups.map((g) => g.id));
+const tipus = new Set(taxonomia.tipus.map((t) => t.id));
+const nivells = new Set(taxonomia.nivells.map((n) => n.id));
 
 const bibliografia = await llegeix_opcional(
   path.join(ROOT, 'data', 'bibliografia.json'), { introduccio: '', obres: [], eines: [] });
@@ -92,15 +94,31 @@ for (const fitxer of fitxers) {
       console.warn(`  avís  ${d.id}: mida de grup desconeguda "${d.grup}"`);
       avisos++;
     }
+    if (d.tipus && !tipus.has(d.tipus)) {
+      console.warn(`  avís  ${d.id}: tipus de fitxa desconegut "${d.tipus}"`);
+      avisos++;
+    }
+    for (const n of d.nivells || []) {
+      if (!nivells.has(n)) {
+        console.warn(`  avís  ${d.id}: nivell desconegut "${n}"`);
+        avisos++;
+      }
+    }
 
     const net = {
       id: d.id,
       titol: d.titol,
+      /* El catàleg base són dinàmiques de grup; els altres tipus de proposta
+         (activitats i unitats didàctiques) ho diuen expressament. */
+      tipus: d.tipus || 'dinamica',
       categoria: d.categoria,
       etiquetes: [...new Set(d.etiquetes || [])].sort(),
       durada: Number(d.durada) || 15,
       grup: d.grup || 'mitja',
     };
+    if (d.nivells && d.nivells.length) net.nivells = [...d.nivells];
+    if (d.unitat) net.unitat = d.unitat;
+    if (d.activitats && d.activitats.length) net.activitats = [...d.activitats];
     for (const camp of CAMPS_TEXT) {
       if (d[camp]) net[camp] = String(d[camp]).trim();
     }
@@ -127,10 +145,44 @@ for (const fitxer of fitxers) {
 
 dinamiques.sort((a, b) => a.titol.localeCompare(b.titol, 'ca'));
 
+/* Els enllaços entre unitats didàctiques i les seves activitats han d'apuntar
+   a fitxes que existeixin: si no, la fitxa mostraria un enllaç trencat. */
+for (const d of dinamiques) {
+  if (d.unitat && !vistos.has(d.unitat)) {
+    fatal(`${d.id}: la unitat "${d.unitat}" no existeix.`);
+  }
+  for (const fill of d.activitats || []) {
+    if (!vistos.has(fill)) fatal(`${d.id}: l'activitat "${fill}" no existeix.`);
+  }
+}
+
+/* Els títols repetits solen ser fitxes duplicades. `npm run deduplica` treu les
+   que a més tenen el mateix contingut; les que queden són propostes diferents
+   que comparteixen nom i es distingeixen per la categoria. */
+const per_titol = new Map();
+for (const d of dinamiques) {
+  const clau = d.titol.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ').trim();
+  if (!per_titol.has(clau)) per_titol.set(clau, []);
+  per_titol.get(clau).push(d);
+}
+const repetits = [...per_titol.values()].filter((llista) => llista.length > 1);
+for (const llista of repetits) {
+  console.warn(`  avís  títol repetit «${llista[0].titol}»: ` +
+    llista.map((d) => d.id).join(', '));
+}
+
+const recompte = {};
+for (const d of dinamiques) recompte[d.tipus] = (recompte[d.tipus] || 0) + 1;
+const resum_tipus = taxonomia.tipus
+  .filter((t) => recompte[t.id])
+  .map((t) => `${recompte[t.id]} ${t.plural}`).join(', ');
+
 const capcalera = `/* Fitxer generat per scripts/build-data.mjs. No l'editeu a mà.\n` +
   `   Font: data/taxonomia.json + data/dinamiques/*.json\n` +
   `         + data/traduccions/ca/*.json + data/bibliografia.json\n` +
-  `   Dinàmiques: ${dinamiques.length} (${traduides} amb versió catalana) */\n`;
+  `   Fitxes: ${dinamiques.length} — ${resum_tipus}\n` +
+  `           (${traduides} amb versió catalana) */\n`;
 
 await writeFile(
   OUT,
@@ -139,9 +191,10 @@ await writeFile(
   'utf8',
 );
 
-console.log(`bundle.js generat amb ${dinamiques.length} dinàmiques de ${fitxers.length} fitxers.`);
-console.log(`${traduides} dinàmiques amb text català; ${dinamiques.length - traduides} només en castellà.`);
+console.log(`bundle.js generat amb ${dinamiques.length} fitxes de ${fitxers.length} fitxers: ${resum_tipus}.`);
+console.log(`${traduides} fitxes amb text català; ${dinamiques.length - traduides} només en castellà.`);
 if (avisos) console.log(`${avisos} avís(os) de taxonomia.`);
+if (repetits.length) console.log(`${repetits.length} títol(s) repetit(s).`);
 
 /* --- versió dels assets a index.html --------------------------------------
  *

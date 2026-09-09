@@ -99,6 +99,7 @@
     vist: '<path d="M3 8.5l3.5 3.5L13 5"/>',
     llibre: '<path d="M2 3h4.5c.8 0 1.5.7 1.5 1.5V13c0-.8-.7-1.5-1.5-1.5H2z"/>' +
       '<path d="M14 3H9.5C8.7 3 8 3.7 8 4.5V13c0-.8.7-1.5 1.5-1.5H14z"/>',
+    llista: '<path d="M6 4h8M6 8h8M6 12h8"/><path d="M2.5 4h.01M2.5 8h.01M2.5 12h.01"/>',
   };
 
   function icona(nom, extra) {

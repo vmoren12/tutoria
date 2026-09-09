@@ -1,7 +1,7 @@
 {
   "name": "tutoria",
   "version": "1.0.0",
-  "description": "Catàleg de dinàmiques i constructor de sessions de tutoria per a l'ESO.",
+  "description": "Catàleg de dinàmiques, activitats i unitats de tutoria per a l'ESO, amb constructor de sessions.",
   "private": true,
   "type": "module",
   "license": "MIT",
@@ -14,6 +14,8 @@
     "serve": "node scripts/serve.mjs",
     "start": "node scripts/build-data.mjs && node scripts/serve.mjs",
     "extract": "python scripts/extract_pdf.py --pdf \"700-Dinámicas-grupales.pdf\" --out data/dinamiques",
+    "extract-hebe": "python scripts/extract_hebe.py --pdf \"Programa_HEBE_Una_propuesta_de_acció_z_library_sk,_1lib_sk,.pdf\" --out data/dinamiques",
+    "deduplica": "node scripts/deduplica.mjs",
     "tradueix": "python scripts/tradueix-ca.py"
   },
   "engines": {

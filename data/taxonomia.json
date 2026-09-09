@@ -1,24 +1,39 @@
 {
+  "tipus": [
+    { "id": "dinamica", "nom": "Dinàmica de grup", "plural": "dinàmiques", "descripcio": "Joc o exercici breu per treballar el grup: es fa en una estona i no necessita continuïtat." },
+    { "id": "activitat", "nom": "Activitat de tutoria", "plural": "activitats", "descripcio": "Activitat d'aula d'un programa de tutoria, amb material propi i pauta de treball. Forma part d'una unitat." },
+    { "id": "unitat", "nom": "Unitat didàctica", "plural": "unitats", "descripcio": "Proposta de diverses sessions que agrupa un conjunt d'activitats al voltant d'un tema." }
+  ],
+  "families": [
+    { "id": "grup", "nom": "Dinàmiques de grup", "descripcio": "Categories del recull «700 dinámicas grupales»." },
+    { "id": "hebe", "nom": "Programa HEBE", "descripcio": "Blocs del programa d'acció tutorial per a 3r i 4t d'ESO." }
+  ],
   "categories": [
-    { "id": "presentacio", "nom": "Presentació", "descripcio": "Primer contacte: aprendre noms i trencar distàncies el primer dia de curs." },
-    { "id": "coneixement", "nom": "Coneixement mutu", "descripcio": "Anar més enllà del nom: interessos, històries i afinitats del grup." },
-    { "id": "trencagel", "nom": "Trencagel", "descripcio": "Activitats breus per activar el grup i baixar la tensió inicial." },
-    { "id": "cohesio", "nom": "Cohesió de grup", "descripcio": "Construir sentiment de grup i integració de tothom a l'aula." },
-    { "id": "afirmacio", "nom": "Afirmació i autoestima", "descripcio": "Reforçar la imatge positiva de cadascú dins del grup." },
-    { "id": "confianca", "nom": "Confiança", "descripcio": "Crear seguretat i confiança mútua entre l'alumnat." },
-    { "id": "comunicacio", "nom": "Comunicació", "descripcio": "Escolta activa, expressió verbal i no verbal, i qualitat del missatge." },
-    { "id": "cooperacio", "nom": "Cooperació", "descripcio": "Reptes que només es resolen treballant en equip." },
-    { "id": "conflictes", "nom": "Resolució de conflictes", "descripcio": "Negociació, mediació i gestió de les tensions del grup." },
-    { "id": "valors", "nom": "Valors i convivència", "descripcio": "Drets, responsabilitats, diversitat i convivència." },
-    { "id": "relacions", "nom": "Relacions humanes", "descripcio": "Dinàmiques generals de relació i tracte dins del grup." },
-    { "id": "animacio", "nom": "Animació i escalfament", "descripcio": "Activar el grup quan hi ha cansament o desconnexió." },
-    { "id": "distensio", "nom": "Distensió", "descripcio": "Jocs curts per relaxar l'ambient entre activitats." },
-    { "id": "atencio", "nom": "Atenció i memòria", "descripcio": "Concentració, reflexos i memorització." },
-    { "id": "aire-lliure", "nom": "Aire lliure", "descripcio": "Activitats per al pati, sortides i espais oberts." },
-    { "id": "tallers", "nom": "Tallers", "descripcio": "Propostes de format taller, més llargues i estructurades." },
-    { "id": "vetllades", "nom": "Vetllades", "descripcio": "Jocs d'espectacle i vetllada per a convivències i colònies." },
-    { "id": "autobus", "nom": "Desplaçaments", "descripcio": "Jocs per a l'autobús i les estones d'espera en sortides." },
-    { "id": "varies", "nom": "Diverses", "descripcio": "Dinàmiques que no encaixen en cap altra categoria." }
+    { "id": "presentacio", "familia": "grup", "nom": "Presentació", "descripcio": "Primer contacte: aprendre noms i trencar distàncies el primer dia de curs." },
+    { "id": "coneixement", "familia": "grup", "nom": "Coneixement mutu", "descripcio": "Anar més enllà del nom: interessos, històries i afinitats del grup." },
+    { "id": "trencagel", "familia": "grup", "nom": "Trencagel", "descripcio": "Activitats breus per activar el grup i baixar la tensió inicial." },
+    { "id": "cohesio", "familia": "grup", "nom": "Cohesió de grup", "descripcio": "Construir sentiment de grup i integració de tothom a l'aula." },
+    { "id": "afirmacio", "familia": "grup", "nom": "Afirmació i autoestima", "descripcio": "Reforçar la imatge positiva de cadascú dins del grup." },
+    { "id": "confianca", "familia": "grup", "nom": "Confiança", "descripcio": "Crear seguretat i confiança mútua entre l'alumnat." },
+    { "id": "comunicacio", "familia": "grup", "nom": "Comunicació", "descripcio": "Escolta activa, expressió verbal i no verbal, i qualitat del missatge." },
+    { "id": "cooperacio", "familia": "grup", "nom": "Cooperació", "descripcio": "Reptes que només es resolen treballant en equip." },
+    { "id": "conflictes", "familia": "grup", "nom": "Resolució de conflictes", "descripcio": "Negociació, mediació i gestió de les tensions del grup." },
+    { "id": "valors", "familia": "grup", "nom": "Valors i convivència", "descripcio": "Drets, responsabilitats, diversitat i convivència." },
+    { "id": "relacions", "familia": "grup", "nom": "Relacions humanes", "descripcio": "Dinàmiques generals de relació i tracte dins del grup." },
+    { "id": "animacio", "familia": "grup", "nom": "Animació i escalfament", "descripcio": "Activar el grup quan hi ha cansament o desconnexió." },
+    { "id": "distensio", "familia": "grup", "nom": "Distensió", "descripcio": "Jocs curts per relaxar l'ambient entre activitats." },
+    { "id": "atencio", "familia": "grup", "nom": "Atenció i memòria", "descripcio": "Concentració, reflexos i memorització." },
+    { "id": "aire-lliure", "familia": "grup", "nom": "Aire lliure", "descripcio": "Activitats per al pati, sortides i espais oberts." },
+    { "id": "tallers", "familia": "grup", "nom": "Tallers", "descripcio": "Propostes de format taller, més llargues i estructurades." },
+    { "id": "vetllades", "familia": "grup", "nom": "Vetllades", "descripcio": "Jocs d'espectacle i vetllada per a convivències i colònies." },
+    { "id": "autobus", "familia": "grup", "nom": "Desplaçaments", "descripcio": "Jocs per a l'autobús i les estones d'espera en sortides." },
+    { "id": "varies", "familia": "grup", "nom": "Diverses", "descripcio": "Dinàmiques que no encaixen en cap altra categoria." },
+
+    { "id": "pensar-aprendre", "familia": "hebe", "nom": "Ensenyar a pensar i a aprendre", "descripcio": "Bloc 1 del Programa HEBE: hàbits d'estudi, autoregulació de l'aprenentatge i argumentació." },
+    { "id": "ser-persona", "familia": "hebe", "nom": "Ensenyar a ser persona", "descripcio": "Bloc 2 del Programa HEBE: identitat, afectivitat, compromís social i ciutadania." },
+    { "id": "conviure", "familia": "hebe", "nom": "Ensenyar a conviure", "descripcio": "Bloc 3 del Programa HEBE: família, igualtat, assetjament i conflictes." },
+    { "id": "comportar-se", "familia": "hebe", "nom": "Ensenyar a comportar-se", "descripcio": "Bloc 4 del Programa HEBE: assertivitat, crítica constructiva i medi ambient." },
+    { "id": "prendre-decisions", "familia": "hebe", "nom": "Ensenyar a prendre decisions", "descripcio": "Bloc 5 del Programa HEBE: orientació acadèmica i professional i projecte de vida." }
   ],
   "etiquetes": [
     { "id": "sense-material", "nom": "Sense material" },

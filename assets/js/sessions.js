@@ -103,7 +103,7 @@
       return '<div class="buit"><p>La sessió encara no té cap bloc.</p>' +
         '<div class="fila" style="justify-content:center;margin-top:12px">' +
         '<a class="boto boto--principal" href="' + TUT.app.enllac_cataleg() +
-          '">Cerca dinàmiques</a>' +
+          '">Cerca al catàleg</a>' +
         '<button type="button" class="boto" data-afegeix-nota>Afegeix un bloc lliure</button>' +
         '</div></div>';
     }
@@ -123,7 +123,10 @@
           '</div>' +
           '<div class="petit tenue">' +
             (b.tipus === 'dinamica'
-              ? (enllac ? esc(TUT.data.nom_categoria(enllac.categoria)) : 'Dinàmica no disponible')
+              ? (enllac
+                ? esc(TUT.data.nom_tipus(enllac.tipus)) + ' · ' +
+                  esc(TUT.data.nom_categoria(enllac.categoria))
+                : 'Proposta no disponible')
               : 'Bloc lliure') + '</div>' +
           '<textarea class="bloc__notes" data-notes rows="2" ' +
             'placeholder="Notes per a aquest bloc (materials, agrupaments, avisos…)">' +
@@ -144,7 +147,7 @@
     }).join('') + '</ul>' +
     '<div class="fila" style="margin-top:16px">' +
       '<a class="boto" href="' + TUT.app.enllac_cataleg() + '">' + dom.icona('mes') +
-        'Afegeix dinàmiques</a>' +
+        'Afegeix del catàleg</a>' +
       '<button type="button" class="boto" data-afegeix-nota>' + dom.icona('mes') + 'Bloc lliure</button>' +
     '</div>';
   }

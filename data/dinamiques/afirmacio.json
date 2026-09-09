@@ -92,27 +92,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "carta-al-tio-de-america-2",
-    "titol": "Carta al Tío de América",
-    "categoria": "afirmacio",
-    "etiquetes": [
-      "escriptura"
-    ],
-    "durada": 40,
-    "grup": "mitja",
-    "materials": "cartes, daus",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Se hace la siguiente presentación a los participantes: \"Un tío vuestro marchó a América antes de que vosotros nacieseis, y vuelve ahora. No le conocéis, así que ¿cómo os reconocerá cuando salgáis a recibirle al aeropuerto?. Vais a escribirle una carta dándole una descripción de vuestra personalidad de modo que él pueda reconoceros. Ahora bien, no vale indicar la ropa que llevaréis, ni el color de vuestro pelo, ni el de vuestros ojos, ni la altura, ni el peso, ni el nombre. Tiene que ser una carta más personal: tus aficiones, lo que haces, lo que te preocupa, los problemas que tienes, qué piensas de las cosas, cómo te diviertes, lo que te gusta y lo que no te gusta, etc.\" Una vez hecha la explicación, se dan 20-30 minutos para escribirla. Se recogen todas las cartas y a cada uno se le da una que no sea la suya. Cada uno lee en voz alta la carta que le ha correspondido, y tiene que adivinar a qué persona del grupo corresponde. Pueden dársele dos oportunidades. Si no lo adivina, otro cualquiera del grupo, si cree saberlo, puede intervenir. Tras adivinar a quién corresponde, se pregunta qué datos son los que le han dado la pista o los que nos han despistado.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
     "id": "cuidado",
     "titol": "Cuidado",
     "categoria": "afirmacio",
@@ -533,29 +512,5 @@
     "avaluacio": "Comentar las reacciones de las personas que reciben las \"valentinas\".",
     "notes": "",
     "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
-  },
-  {
-    "id": "un-que-2",
-    "titol": "¿Un Qué?",
-    "categoria": "afirmacio",
-    "etiquetes": [
-      "atencio",
-      "cercle",
-      "expressio-corporal",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "El juego consiste en poner dos mensajes en diferentes direcciones. Todos los participantes se colocan sentados en círculo.",
-    "objectius": "Este juego favorece la distensión y estimula la concentración en el grupo.",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "El mensaje y el gesto que se comunica se puede modificar (apretón de manos, utilización de un clip, goma...) según las características del grupo. Que comienza el juego (A) dice al de su derecha (B): \"esto es un abrazo\" y le da uno, B pregunta : \"¿un qué?\" y A le responde: \"un abrazo\" y se lo vuelve a dar. Luego B dice a C (el de su derecha): \"Esto es un abrazo\" y le da uno, C pregunta a B : \"¿un qué?\" y A contesta a B: \"un abrazo\" y se lo da. Así sucesivamente. La pregunta \"¿un qué?\" siempre vuelve a \"A\", quien envía de nuevo los abrazos. Simultáneamente manda por su izquierda otro menaje y gesto: \"esto es un beso\" y se lo da, se sigue la misma dinámica que en el ejemplo anterior. Cuando los besos comienzan a cruzarse en una de las partes del círculo comienza el jaleo y la diversión",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
   }
 ]

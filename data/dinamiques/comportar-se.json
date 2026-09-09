@@ -1,0 +1,484 @@
+[
+  {
+    "id": "hebe-3-11",
+    "titol": "Aprendo a expresarme",
+    "tipus": "unitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "activitats": [
+      "hebe-3-11-a1",
+      "hebe-3-11-a2",
+      "hebe-3-11-a3",
+      "hebe-3-11-a4"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 220,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Las habilidades sociales constituyen una herramienta básica para superar conflictos y/o prevenirlos. En esta unidad didáctica nos proponemos iniciar en el alumnado el desarrollo de un conjunto de habilidades sociales que les permita…",
+    "objectius": "• Dotar al alumnado de un repertorio de conocimientos y estrategias para resolver o prevenir problemas o dificultades en sus relaciones con otras personas.\n\n• Formar al alumnado en las estrategias de habilidades sociales.",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Las habilidades sociales constituyen una herramienta básica para superar conflictos y/o prevenirlos. En esta unidad didáctica nos proponemos iniciar en el alumnado el desarrollo de un conjunto de habilidades sociales que les permita modificar sus repertorios conductuales adaptándolos a las diversas situaciones de la cotidianeidad.\n\nActividades de la unidad:\n\n1. Una historia cualquiera\n\n2. En la piel del otro\n\n3. Reflejo lo que siento\n\n4. Buscando habilidades",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 3 o 4 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencia social y cívica.\n\nContenidos: De conceptos:\n\n• Habilidades sociales.\n\n• Empatía.\n\n• Asertividad.\n\n• Agresividad.\n\n• Resolución de conflictos.\n\nDe procedimientos:\n\n• Utilización de habilidades de expresión y comunicación asertiva.\n\n• Identificación de posturas que favorezcan la crítica constructiva.\n\n• Exploración de las distintas dinámicas de grupo sobre habilidades sociales.\n\nDe actitudes:\n\n• Empatía hacia los demás compañeros.\n\n• Valoración del diálogo como instrumento para solucionar los conflictos en el aula.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-11-a1",
+    "titol": "Una historia cualquiera",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-11",
+    "etiquetes": [
+      "cooperatiu",
+      "emocions",
+      "escriptura",
+      "interior",
+      "reflexio",
+      "silenci"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Pizarra, cartulinas y material de escritura.",
+    "resum": "La conducta asertiva es la más hábil socialmente porque supone la expresión abierta de los sentimientos, deseos y derechos, pero sin atacar a nadie.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "La conducta asertiva es la más hábil socialmente porque supone la expresión abierta de los sentimientos, deseos y derechos, pero sin atacar a nadie. Ser asertivo no significa la ausencia de conflicto con otras personas, sino el saber gestionar los problemas cuando surgen. Mostrarnos asertivos resulta más eficaz para que nos tomen en serio y nos valoren, para reflexionar sobre los pasos que vamos a dar a la hora de defender nuestras opiniones, posturas o derechos, y nos permite argumentar con corrección y firmeza si la situación lo requiere.\n\nEl alumnado analizará el caso que se presenta a continuación y contestará a las siguientes preguntas.\n\n«María solía ser la compañera de clase callada. Cuando era insultada por los compañeros y compañeras del aula, ella nunca replicaba. Cuando algún compañero o compañera de la clase la intimidaba para que le dejara los deberes, María seguía sin queja. Cuando alguna compañera de la clase la acosaba en los aseos, María no se defendía. Cuando salía a la pizarra y sus compañeros se reían de ella, María se cubría de silencio. Cuando salían de excursión con el instituto y los compañeros la aislaban, María callaba».\n\n— ¿Qué reflexión extraes de este texto? — ¿Qué tipo de respuestas presenta María ante esta situación? — Si tuvieses la posibilidad de ayudar a María, ¿qué orientaciones le darías para que se defendiese de ese trato? — ¿Podrías aplicar esa situación vivida por María a algún incidente que te haya ocurrido en tu vida cotidiana? ¿Qué tipo de respuesta utilizaste ante ese trato? ¿Usaste respuestas asertivas para defender tus derechos? — Crea un relato nuevo en el que se refleje una conducta no deseable para ti y describe las consecuencias que se derivan de emplear ante ella respuestas agresivas en lugar de respuestas asertivas.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-11-a2",
+    "titol": "En la piel del otro",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-11",
+    "etiquetes": [
+      "atencio",
+      "emocions",
+      "expressio-corporal",
+      "parelles"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "La empatía consiste en ponerte en la piel del otro entendiendo los sentimientos, motivos y razones de nuestros interlocutores, haciendo explícita nuestra aceptación global de las personas (demostramos interés, prestamos atención,…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "La empatía consiste en ponerte en la piel del otro entendiendo los sentimientos, motivos y razones de nuestros interlocutores, haciendo explícita nuestra aceptación global de las personas (demostramos interés, prestamos atención, mantenemos el contacto visual, utilizamos expresiones como «me hago a la idea», «entiendo cómo te sientes», etc.). Sin embargo, empatizar no implica que coincidamos y estemos de acuerdo siempre con la conducta, el posicionamiento o la opinión de las personas con las que entablamos una conversación.\n\nEl profesorado-tutor pedirá al alumnado que analice los casos que se proponen a continuación y se ponga en el lugar de cada uno de sus protagonistas. Le pregunta al alumnado:\n\n«¿Serías capaz de introducirte en el pensamiento de los protagonistas y exponer a tus compañeros las razones que le han llevado a actuar de esa manera, aunque no estés de acuerdo con ellas?»\n\nCasos propuestos\n\n— Por fin he llegado: Yosuf tiene quince años. Acaba de llegar en una patera tras una travesía de seis días. Le han tenido que atender por principio de hipotermia. No le han importado las dificultades de la travesía, no sabe adónde lo van a trasladar y, sin embargo, no deja de repetir en francés a los miembros de la Cruz Roja las palabras «feliz» y «gracias».\n\n— Quiero empezar a trabajar: María tiene cincuenta años, lleva veintiséis años casada y tiene seis hijos. Toda la vida ha estado trabajando en el hogar cuidando de los suyos. Hace un mes ha sorprendido a su marido y a sus hijos al manifestarles que pensaba ir a la Agencia Canaria de Empleo y ponerse en la lista del paro porque desea encontrar algún trabajo. Su familia se lo ha tomado a guasa y la llaman la abuela obrera, pero ella sigue decidida a llevar a cabo su empeño.\n\n— No puedo hacerlo: Martín tiene treinta y ocho años y es concejal del ayuntamiento de un municipio de Tenerife. Por delegación del alcalde le corresponde, en ausencia del mismo, efectuar los enlaces matrimoniales que se celebran en dicha institución. Hasta ahora no ha habido problemas porque todas las parejas solicitantes han sido heterosexuales. Sin embargo, en la última ocasión se ha negado a llevar a cabo sus funciones por tratarse de una pareja homosexual. Compañeros de su partido y representantes de determinados colectivos sociales han criticado su actitud, e incluso se le ha insinuado la posibilidad de que tenga que dimitir de su cargo, pero él ha señalado que no piensa dar marcha atrás en su decisión.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-11-a3",
+    "titol": "Reflejo lo que siento",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-11",
+    "etiquetes": [
+      "emocions",
+      "escriptura",
+      "parelles"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "La expresión de sentimientos es una habilidad social que facilita la comunicación en situaciones conflictivas. Dicha habilidad implica que seamos capaces de dar a entender a nuestros interlocutores lo que sus actos suponen para nosotros, y…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "La expresión de sentimientos es una habilidad social que facilita la comunicación en situaciones conflictivas. Dicha habilidad implica que seamos capaces de dar a entender a nuestros interlocutores lo que sus actos suponen para nosotros, y de explicar de manera sosegada las razones por las que esos comportamientos nos producen determinadas sensaciones.\n\nTeniendo estas premisas en cuenta, el profesorado-tutor pedirá al alumnado que responda a los supuestos que aparecen a continuación y conteste atendiendo a los siguientes criterios:\n\n— Describe brevemente la conducta que te afecta utilizando mensajes en forma de «Cuando tú… (haces tal cosa)».\n\n— Expresa con la mayor claridad posible los sentimientos que te produce esa conducta, utilizando mensajes en forma de «yo me siento…».\n\n— Justifica la razón por la que te afecta esta situación.\n\nSupuestos\n\n— Estás de marcha en una discoteca y tu amigo o amiga ha bebido muchísimo y no para de decir que va a coger el coche porque él o ella está bien y tiene control sobre todo lo que hace.\n\nCuando tú ________________________________________ Me siento _________________________________________ Porque ___________________________________________\n\n— Uno de tus compañeros o compañeras de clase te está dando la lata durante el recreo impidiéndote participar en determinadas actividades diciéndote que eres un «chulito».\n\nCuando tú ________________________________________ Me siento _________________________________________ Porque ___________________________________________\n\n— Tu pareja te ha gastado todo el saldo del móvil descargándose aplicaciones y, en cambio, el de él/ella sigue con la recarga completa.\n\nCuando tú ________________________________________ Me siento _________________________________________ Porque ___________________________________________\n\n— Uno de tus amigos te ha cogido sin tu permiso tu iPad o MP4, que te has comprado con tus ahorros, y cuando te lo devuelve no funciona.\n\nCuando tú ________________________________________ Me siento _________________________________________ Porque ___________________________________________",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-11-a4",
+    "titol": "Buscando habilidades",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-11",
+    "etiquetes": [
+      "emocions",
+      "interior",
+      "subgrups"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "Las habilidades sociales son cada vez más valoradas en las empresas. Poseer habilidades sociales significa desenvolverse en situaciones arduas (entrevistas, resolución de problemas, reivindicación de derechos propios sin negar los ajenos,…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Las habilidades sociales son cada vez más valoradas en las empresas. Poseer habilidades sociales significa desenvolverse en situaciones arduas (entrevistas, resolución de problemas, reivindicación de derechos propios sin negar los ajenos, resolución de conflictos, etc.) y, sobre todo, mantener unas relaciones laborales constructivas y pacíficas, haciendo más llevadero su paso diario por el lugar de trabajo.\n\nEn el siguiente cuadro presentamos distintos tipos de habilidades sociales. En grupos de cuatro, el alumnado comentará y propondrá qué habilidades deberían ser puestas en práctica para afrontar las siguientes situaciones:\n\n• Ser optimista, saber ver el lado positivo de las cosas.\n\n• Saber asumir riesgos y responsabilidades.\n\n• Tener vocación de servicio.\n\n• Tener confianza en sí mismo.\n\n• Saber trabajar en equipo.\n\n• Comprender, valorar y respetar los sentimientos y emociones de los demás.\n\n• Defender nuestros derechos cuando los veamos amenazados.\n\n• Ser capaz de comprender lo que me están comunicando.\n\n• Iniciar una conversación y mantenerla.\n\n• Saber dar las gracias.\n\n• Presentarse correctamente ataviado.\n\n• Saber expresar sentimientos.\n\n• Ser capaz de adquirir compromisos.\n\n• Autocontrolarse.\n\n• Saber presentarnos a otros y presentar a los demás.\n\n• Saber pedir disculpas.\n\n• Saber convencer a los demás, ser persuasivo.\n\n• Hacer un cumplido, sin zalamerías y con afecto.\n\n• Enfrentarse con el enfado del otro y gestionar bien la situación.\n\n• Negociar, consensuar, llegar a acuerdos.\n\n• Resolver el miedo personal.\n\n• Pedir permiso.\n\n• Rehuir las peleas dialécticas y físicas.\n\na) Una entrevista de trabajo: ¡Hola!, me llamo Nacho. Tengo 25 años y hace un año he terminado los estudios de Ciencias de la Información. He estado buscando trabajo en algún medio de comunicación que me permita poder pagarme un alquiler, y finalmente me han llamado de una emisora local para realizar una entrevista. Es mi primera oportunidad para empezar a trabajar en lo que me gusta y quiero aprovecharla. ¿Cómo debo actuar durante la misma? ¿Podrías aconsejarme señalándome qué tipo de habilidades sociales debería desplegar durante la entrevista y por qué?\n\nb) Una situación de conflicto: ¡Hola!, soy Beatriz. Tengo 18 años y en la actualidad soy capitana del equipo de balonmano femenino de mi IES. Hasta ahora no ha habido problemas con el equipo directivo a la hora de utilizar las canchas para entrenar, pero esta semana nos han notificado sin más explicaciones que las canchas son de uso preferente del equipo de fútbol sala, por lo que se nos reduce al mínimo las posibilidades de entrenar. Otra compañera y yo hemos quedado con el director y las dos profesoras de Educación Física para analizar la situación. ¿Cómo debo actuar? ¿Podrías aconsejarme señalándome qué tipo de habilidades sociales debería emplear durante el encuentro para lograr una mayor flexibilidad en el uso de las canchas y por qué?",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-12",
+    "titol": "Proyecto de vida y conservación del medioambiente",
+    "tipus": "unitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "activitats": [
+      "hebe-3-12-a1",
+      "hebe-3-12-a2",
+      "hebe-3-12-a3"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 165,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "A menudo se habla de respeto hacia el medioambiente como si la Tierra fuese algo que hay que conservar por obligación moral. Sin embargo, la necesidad de preservar el buen estado del planeta es una cuestión de supervivencia.",
+    "objectius": "• Destacar la importancia del medioambiente para la vida de nuestra especie.\n\n• Proporcionar pautas para la integración de hábitos ecológicos en la vida diaria.\n\n• Percibir las consecuencias de nuestras decisiones en el medio en el que vivimos.",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "A menudo se habla de respeto hacia el medioambiente como si la Tierra fuese algo que hay que conservar por obligación moral. Sin embargo, la necesidad de preservar el buen estado del planeta es una cuestión de supervivencia. La Tierra es nuestro hábitat y de su salud depende la existencia del género humano y de los demás seres vivos. En esta unidad se van a dar pautas para incluir el respeto hacia el medioambiente entre nuestros valores y hábitos diarios.\n\nActividades de la unidad:\n\n1. No estamos solos en el planeta\n\n2. Yo no contamino\n\n3. Una profesión ecológica",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 3 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\n• Conciencia y expresiones culturales.\n\nContenidos: De conceptos:\n\n• Ecología.\n\n• Contaminación.\n\n• Sostenibilidad.\n\n• Desarrollismo.\n\nDe procedimientos:\n\n• Reflexión y debate.\n\n• Desarrollo de normas de comportamiento.\n\n• Identificación de las consecuencias de la explotación de los recursos naturales.\n\n• Reconocimiento de los estilos de vida ecológico y no ecológico.\n\nDe actitudes:\n\n• Compromiso e interés ante los problemas ambientales.\n\n• Toma de conciencia de las posibilidades personales de conservar el medioambiente.\n\n• Responsabilidad ante nuestras decisiones.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-12-a1",
+    "titol": "No estamos solos en el planeta",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-12",
+    "etiquetes": [
+      "atencio",
+      "competitiu",
+      "exterior",
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido.",
+    "resum": "Los seres humanos nos consideramos el centro del mundo, los dueños de la naturaleza, pero en realidad somos infinitamente diminutos en el ambiente en el que vivimos.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Los seres humanos nos consideramos el centro del mundo, los dueños de la naturaleza, pero en realidad somos infinitamente diminutos en el ambiente en el que vivimos. Si tenemos en cuenta que La Tierra tiene millones de años, es evidente que los 70 u 80 años que nosotros viviremos en ella son un tiempo insignificante.\n\nEn esta actividad veremos algunas de las consecuencias producidas por la explotación desenfrenada de los recursos naturales. El alumnado, dividido en 4 grupos, leerá los artículos del cuadro 1 (dos grupos un texto y dos grupos el otro) para identificar las ideas principales. Luego los comentarán en un debate en el que se ofrecerán argumentos a favor o en contra de cada idea principal, se llegará a un consenso y se propondrán acciones a seguir.\n\nCUADRO 1. La sexta extinción\n\nEL MEDIOAMBIENTE, ÚNICA FORMA DE CREACIÓN DE «RIQUEZA» PARA 825 MILLONES DE POBRES\n\nLos recursos naturales son el «único medio» del que disponen tres cuartas partes de los hogares pobres del mundo para crear riqueza, es decir, 825 millones de personas, según el informe de la ONU y el Banco Mundial «Recursos mundiales 2006: la riqueza de los pobres». Por ello, los autores del informe, pertenecientes al Instituto de Recursos Mundiales, al Programa de las Naciones Unidas para el Medioambiente y para el Desarrollo, y al Banco Mundial, reclaman mayor atención del manejo de los ecosistemas en la lucha contra la pobreza. Según este estudio, tres cuartas partes de los 1.100 millones de personas que viven en la extrema pobreza en todo el mundo se encuentran en el medio rural, por lo que su medioambiente es «lo único» de lo que pueden depender para salir de esa situación.\n\nEl informe, publicado en castellano por Ecoespaña, denuncia que el medioambiente «no se ha considerado lo suficiente en el pasado», cuando el poder de la naturaleza es un «medio eficaz» para el cambio democrático. Los recursos naturales —tierras, bosques, agua y pesquerías manejadas a nivel local— suelen ser, según el informe, los medios «más efectivos» de la gente pobre del mundo rural para crear riqueza ellos mismos, para lo que su gestión ha de ir pareja a prácticas de «buen gobierno».\n\nEl medioambiente es también una fuente de vulnerabilidad, ya que, según el informe, las familias con bajos ingresos son «especialmente sensibles» a los desastres naturales y a los «impactos crecientes» del cambio climático que provocan escasez de agua, variación de las lluvias o reducción de cosechas.\n\nF\n\n: http://www.elmundo.es.\n\nALERTAN SOBRE EL DETERIORO DE LA TIERRA\n\nAsistir a la Conferencia de las Naciones Unidas sobre medioambiente y biodiversidad, en Curitiba, provoca la misma sensación que volver a ver las escenas iniciales de la película «El día después de mañana». Es como un viaje a un mundo inhóspito, solo que actual y descrito científicamente. Son los propios documentos de la ONU los que alertan: la Tierra está entrando en la sexta mayor extinción de la historia.\n\nEn el dosier hay otro dato aterrador. Los humanos se encaminan a un consumo insostenible a corto plazo: la demanda actual de recursos globales, exigida por la especie que «piensa y habla», excede en un 20 % la capacidad de la Tierra de renovarlos. Así reza el informe sobre «Una visión de la biodiversidad global». Elaborado con la participación de 1.300 científicos de 95 países, relata que la desaparición de especies vegetales y animales está en el punto más alto desde que, hace 65 millones de años, desaparecieron los dinosaurios.\n\nLa causa debe buscarse en la destrucción de selvas y océanos, originada por la actividad humana. En los últimos 80 años, el mundo perdió la mitad del total de florestas vírgenes que desaparecieron a lo largo de 100 siglos. Peor aún, bastaron los últimos 30 años para que se extinguiera la mitad de aquella otra temible mitad de bosques y florestas. Al arrasar ese denso entramado de árboles y plantas, el hombre arrastró también a las especies animales y empobreció la diversidad biológica del mundo.\n\nDe los 24 sistemas ecológicos evaluados por los científicos para el estudio de las Naciones Unidas, 15 mostraron un franco deterioro. La degradación incluye una menor disponibilidad de agua potable, menos pesca marina, menor capacidad de la atmósfera para librarse de los contaminantes y un descontrol de las plagas que terminan por afectar a los sistemas agrícolas.\n\nF\n\n: https://www.clarin.com.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-12-a2",
+    "titol": "Yo no contamino",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-12",
+    "etiquetes": [
+      "competitiu",
+      "escriptura",
+      "expressio-corporal",
+      "exterior",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "Si pensamos en la contaminación es muy probable que se nos ocurran imágenes de grandes desastres ecológicos. En realidad, existe otro tipo de contaminación de menor proporción, pero igual de peligrosa.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Si pensamos en la contaminación es muy probable que se nos ocurran imágenes de grandes desastres ecológicos. En realidad, existe otro tipo de contaminación de menor proporción, pero igual de peligrosa. Se trata de la contaminación que producimos todos los días cada uno de nosotros.\n\nEn esta actividad hacemos una confrontación entre dos estilos de vida: uno no ecológico y otro en equilibrio con el medioambiente. El alumnado leerá la información contenida en el cuadro 2 y después contestará a una serie de preguntas.\n\nCUADRO 2. Dos estilos de vida muy diferentes\n\nCARLOS\n\n7:00 Se despierta. Abre el agua de la ducha para que se vaya calentando el cuarto de baño y después de unos cinco minutos, se baña. Usa gel de ducha y champú en gran cantidad, no cierra el grifo mientras se enjabona.\n\nSe lava los dientes y se afeita con el grifo abierto.\n\nMARÍA\n\n7:00 Se despierta. Enciende un pequeño calentador eléctrico durante unos minutos, después entra en la ducha. María ha puesto un cabezal de ducha de bajo consumo que reduce el gasto de agua, cierra el grifo mientras se enjabona y usa detergentes biológicos, con moderación.\n\nCierra el grifo mientras se lava los dientes.\n\n8:00 Va al trabajo en coche.\n\n8:00 Va al trabajo en autobús.\n\n9:00 En el despacho siempre hay un gran desperdicio de papel, pero nadie lo recicla.\n\n9:00 Ha pedido que en el taller sustituyan los alógenos por bombillas led, que suponen un ahorro de energía y no son dañinas para la salud.\n\n17:00 Va al supermercado. Compra cervezas en lata, una bandeja de muslitos de pollo, vasos de plástico, jamón y queso envasados, huevos, papel de aluminio, desodorante espray, detergentes para la limpieza. Se lleva la compra en dos bolsas plásticas.\n\n17:00 Va al supermercado. Compra cervezas en botella, hace cola en el mostrador de carne y compra un pollo de corral, en la frutería elige productos biológicos y huevos de gallinas criadas al aire libre. No compra nada envasado por no cargar con las bandejas de corcho blanco y los envases de plástico. Además, compra una fiambrera de cristal, un desodorante con vaporizador y detergentes sin fosfatos ni tensioactivos. Se lleva la compra en su bolsa de tela.\n\n18:30 Llega a casa, hace frío y enciende la calefacción; la pone a 28 °C. Después de una hora parece estar en el Caribe y se queda en camiseta y vaqueros.\n\n18:30 Llega a casa, hace frío y pone la calefacción en 20 °C.\n\nCARLOS 21:00 Prepara la cena. Pone una bandeja de comida precocinada en el microondas. Después de cenar, pone en función el lavavajillas, aunque esté medio vacío.\n\n24:00 Apaga la tele con el mando y se va a la cama.\n\nMARÍA\n\n21:00 Prepara la cena. Cocina un potaje de verduras y pollo al horno aprovechando el calor residual. Después de cenar, enjuaga los platos y los deja en el lavavajillas medio vacío. En la cocina solo tiene electrodomésticos de bajo consumo energético, los que llevan en su etiqueta la calificación A.\n\n24:00 Apaga la tele con el botón y se va a la cama.\n\n1. Reflexiona sobre tus hábitos de vida. ¿Crees que la gente que te rodea respeta el medioambiente?\n\n2. ¿En tu instituto se observan las normas básicas de respeto hacia el medioambiente, como por ejemplo la reutilización o el reciclaje?\n\n3. ¿Y en tu casa? ¿Cuáles son los hábitos que podrían cambiar tus familiares para respetar más el medioambiente?\n\n4. ¿Crees que respetas el medioambiente como deberías? ¿Cuáles son los hábitos que podrías cambiar tú para respetar más el medioambiente?\n\n5. ¿Por qué crees que las personas tienen tanta resistencia a la reutilización y al reciclaje?\n\nEn la segunda parte de esta actividad, proponemos que el alumnado redacte un listado de normas para ahorrar energía y respetar el medioambiente. Proponemos varios apartados y algunos ejemplos en el cuadro 3.\n\nCUADRO 3. Gestos que cuidan el medioambiente\n\nEn el baño\n\n— Cierra bien todos los grifos. — Dúchate en vez de bañarte y enjabónate con el grifo cerrado. — No vacíes la cisterna sin necesidad. — _________________________________________________________________ — _________________________________________________________________\n\nEn la cocina — Utiliza la lavadora y el lavavajillas solo cuando estén llenos. — No tires el aceite por el fregadero, es muy difícil de eliminar. Llévalo a un punto limpio. — _________________________________________________________________ — _________________________________________________________________\n\nEn el comedor — No uses vajillas de usar y tirar. — Elige bombillas led. — _________________________________________________________________ — _________________________________________________________________\n\nEn el jardín — El mejor momento para regar es la última hora de la tarde ya que evita la evaporación. — Las plantas autóctonas resisten mejor nuestro clima y necesitan menos agua. — El agua de cocer alimentos se puede utilizar para regar las plantas. — _________________________________________________________________ — _________________________________________________________________\n\nEn el trabajo — Usa iluminación led. Los incandescentes crean un campo electromagnético dañino para la salud y gastan más electricidad. — Asegúrate de que los residuos peligrosos se desechen en los puntos limpios. — Fomenta el reciclaje de papel, cristal, pilas usadas, etc. — _________________________________________________________________ — _________________________________________________________________\n\nFinalmente, el alumnado puede recopilar estas normas en uno o más carteles para colgarlos en el aula o en los espacios comunes de su instituto.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-12-a3",
+    "titol": "Una profesión ecológica",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-12",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "El tutor comentará al alumnado que, en el futuro, cuando esté desempeñando la actividad profesional elegida, deberá tomar decisiones que, directa o indirectamente, pueden afectar a la preservación del medioambiente.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El tutor comentará al alumnado que, en el futuro, cuando esté desempeñando la actividad profesional elegida, deberá tomar decisiones que, directa o indirectamente, pueden afectar a la preservación del medioambiente. Para ejemplificar estos comentarios, propondrá la lectura del siguiente cuadro (cuadro 4), en el que se presenta cómo distintos profesionales pueden desarrollar acciones en contra del medioambiente en su trabajo.\n\nCUADRO 4. Acciones contaminantes\n\nPROFESIÓN Mecánico Carpintero\n\nAdministrativo Comerciante\n\nAgricultor\n\nACCIONES\n\nTirar el aceite usado de los coches al alcantarillado.\n\nUtilizar madera barata conseguida mediante talas ilegales.\n\nTirar las fotocopias inservibles a la basura.\n\nTirar las cajas de cartón en los contenedores de la basura doméstica. Usar perfumes corporativos en sus establecimientos.\n\nUso de pesticidas en las cosechas.\n\nA continuación, se propone a los estudiantes que formen grupos en función de sus afinidades profesionales, para que señalen de qué manera sus actividades podrían llegar a afectar negativamente al medioambiente, y discutan si es inevitable que esto suceda en el desarrollo de su profesión. A partir de las conclusiones, cada grupo deberá diseñar un proyecto de actividad profesional respetuoso con el medioambiente.\n\nEnseñar a tomar decisiones",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-10",
+    "titol": "Piensa y siente en verde",
+    "tipus": "unitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "activitats": [
+      "hebe-4-10-a1",
+      "hebe-4-10-a2",
+      "hebe-4-10-a3"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 220,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Durante siglos, los seres humanos hemos vivido en contacto directo con el medio. Sin embargo, desde hace unos años las ciudades se han convertido en nuestro hábitat.",
+    "objectius": "• Destacar la importancia del medio para la vida de nuestra especie.\n\n• Proporcionar pautas para la integración de hábitos ecológicos en la vida diaria.\n\n• Percibir las consecuencias de nuestras decisiones en el medio en el que vivimos.",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Durante siglos, los seres humanos hemos vivido en contacto directo con el medio. Sin embargo, desde hace unos años las ciudades se han convertido en nuestro hábitat. En muchos casos, estos asentamientos en lugar de mejorar las condiciones de vida se transforman en junglas malsanas donde rigen normas despiadadas.\n\nActividades de la unidad:\n\n1. Ciudades sostenibles\n\n2. Medioambiente, salud y trabajo\n\n3. Un proyecto de vida ecológico en el trabajo",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 3 o 4 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\nContenidos: De conceptos:\n\n• Ciudades sostenibles.\n\n• Salud y trabajo.\n\nDe procedimientos:\n\n• Elaboración de un proyecto de ciudad sostenible.\n\n• Búsqueda de información.\n\nDe actitudes:\n\n• Compromiso e interés ante los problemas ambientales.\n\n• Toma de conciencia de las posibilidades personales de conservar el medioambiente.\n\n• Responsabilidad ante nuestras decisiones.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-10-a1",
+    "titol": "Ciudades sostenibles",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-10",
+    "etiquetes": [],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Ordenadores o tabletas con conexion a internet.",
+    "resum": "En esta actividad proponemos que el alumnado elabore el proyecto de una «ciudad sostenible». Una «ciudad sostenible» es un lugar habitable donde el desarrollo económico está ligado al equilibrio social y medioambiental.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En esta actividad proponemos que el alumnado elabore el proyecto de una «ciudad sostenible». Una «ciudad sostenible» es un lugar habitable donde el desarrollo económico está ligado al equilibrio social y medioambiental. El proyecto tiene que encontrar solución a los problemas comunes a la mayoría de las ciudades como, por ejemplo:\n\n1. Contaminación atmosférica debida al transporte privado, los sistemas de calefacción, las industrias, etc.\n\n2. Gestión de la enorme cantidad de residuos orgánicos e inorgánicos.\n\n3. Contaminación acústica y contaminación lumínica.\n\n4. Falta de infraestructuras (carreteras, red hídrica, red eléctrica, red de teléfono, etc.), servicios (escuelas, hospitales, transporte, etc.) y viviendas.\n\n5. Falta de zonas verdes.\n\n6. Falta de lugares de entretenimiento para jóvenes, niños y mayores.\n\n7. Enorme consumo de energía eléctrica.\n\n8. Presencia de barrios marginales y asentamientos ilegales.\n\n9. Distribución racional de los lugares de trabajo (industrias, oficinas, zonas comerciales, etc.).\n\n10. Presencia de servicios en las principales zonas de trabajo (guarderías, escuelas, transporte público, etc.).\n\nEn la segunda parte de esta actividad, proponemos que el alumnado realice una maqueta o un plano del proyecto de ciudad sostenible y que lo compare con la ciudad donde vive o el barrio. Los problemas del barrio pueden recopilarse en unos carteles que serán colgados en la clase.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-10-a2",
+    "titol": "Medioambiente, salud y trabajo",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-10",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "Todo tipo de actividad laboral incluye unos riesgos para la salud de los trabajadores y el medioambiente. En el entorno laboral, podemos entrar en contacto con sustancias tóxicas o encontrarnos con problemas relativos a la gestión del…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Todo tipo de actividad laboral incluye unos riesgos para la salud de los trabajadores y el medioambiente. En el entorno laboral, podemos entrar en contacto con sustancias tóxicas o encontrarnos con problemas relativos a la gestión del agua, la seguridad alimentaria, los residuos, o participar en procesos dañinos para nuestra salud.\n\nObviamente existen oficios que tienen una repercusión mínima y otros que son extremadamente peligrosos y dañinos.\n\nEn esta actividad, veremos cuáles son las consecuencias en el medio de determinadas profesiones. Proponemos que el alumnado identifique los riesgos para el medioambiente de diferentes profesiones (cuadro 1). Asimismo, pedimos al alumnado que elabore algunas recomendaciones para contribuir a la conservación del medio. También es importante tener en cuenta los lugares en los que se llevan a cabo estas profesiones y las consecuencias sobre la salud de los trabajadores. Esta actividad se puede hacer en pequeño grupo para, posteriormente, hacer una puesta en común.\n\nCUADRO 1. Riesgos ambientales causados por distintas actividades laborales\n\nAdministrativo\n\nArquitecto\n\nQuímico\n\nOperario de industria\n\nTU PROFESIÓN FUTURA: _________________________________",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-10-a3",
+    "titol": "Un proyecto de vida ecológico en el trabajo",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-10",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "En esta actividad pedimos que el alumnado reflexione sobre si el respeto al medioambiente tiene cabida en su proyecto de vida laboral y profesional. Se formarán grupos de 4-6 personas.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En esta actividad pedimos que el alumnado reflexione sobre si el respeto al medioambiente tiene cabida en su proyecto de vida laboral y profesional. Se formarán grupos de 4-6 personas. Cada grupo se encargará de buscar y recopilar los riesgos para el medioambiente y para la salud relacionados con la actividad laboral a la que ha decido dedicarse cada uno de sus miembros.\n\nDespués, el profesorado-tutor abrirá un debate planteando las siguientes preguntas:\n\n— ¿A la hora de tomar decisiones sobre tu futuro profesional tienes en cuenta el impacto que puede causar en el medio?\n\n— ¿Crees que las personas trabajadoras pueden contribuir a mejorar las condiciones sociales y de salud laboral en sus centros de trabajo?\n\n— ¿Crees que en el lugar de trabajo se pueda alcanzar un desarrollo sostenible basado en la integración de valores económicos, sociales y ecológicos?\n\n— ¿Qué puedo exigirle a la empresa y a los compañeros de trabajo para que respeten el medioambiente?\n\n— ¿A quién crees que puedes recurrir en el caso de que la empresa pase por alto la legislación sobre el respeto del medioambiente exponiéndote a riesgos para tu salud?",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-11",
+    "titol": "Criticar no es atacar",
+    "tipus": "unitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "activitats": [
+      "hebe-4-11-a1",
+      "hebe-4-11-a2",
+      "hebe-4-11-a3"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 220,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Las habilidades sociales constituyen una herramienta básica para superar conflictos y/o prevenirlos. En esta unidad se pretende favorecer el desarrollo de estas habilidades en el alumnado con el fin de que mantenga interacciones sociales…",
+    "objectius": "• Dotar al alumnado de un repertorio de habilidades sociales que pueda utilizar para prevenir o resolver problemas en sus relaciones interpersonales.\n\n• Desarrollar un sistema de valores en el que prime el respeto a los derechos de los demás.",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Las habilidades sociales constituyen una herramienta básica para superar conflictos y/o prevenirlos. En esta unidad se pretende favorecer el desarrollo de estas habilidades en el alumnado con el fin de que mantenga interacciones sociales positivas en su entorno próximo.\n\nActividades de la unidad:\n\n1. Si yo fuera la persona que toma la decisión…\n\n2. Mis compañeros… ¿me critican?\n\n3. Entrenamiento a cuatro",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 4 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\nContenidos: De conceptos:\n\n• Habilidades sociales.\n\n• Empatía.\n\n• Asertividad y agresividad.\n\n• Conflicto.\n\nDe procedimientos:\n\n• Resolución de conflictos.\n\nDe actitudes:\n\n• Empatía hacia los demás compañeros.\n\n• Adoptar posturas que favorezcan la crítica constructiva.\n\n• Valoración del diálogo como instrumento para solucionar los conflictos en el aula.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-11-a1",
+    "titol": "Si yo fuera la persona que toma la decisión…",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-11",
+    "etiquetes": [
+      "emocions",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "El profesorado-tutor comentará al alumnado que en nuestra vida cotidiana nos enfrentamos a situaciones que debemos afrontar y en las que influyen nuestras emociones, sentimientos y expectativas.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El profesorado-tutor comentará al alumnado que en nuestra vida cotidiana nos enfrentamos a situaciones que debemos afrontar y en las que influyen nuestras emociones, sentimientos y expectativas. A continuación, el alumnado, dividido en pequeños grupos de 4-6 personas, leerá un texto (cuadro 1) y responderá a la pregunta planteada.\n\nCUADRO 1\n\nImagina que tienes un pequeño barco en el que transportas a los habitantes de una pequeña isla al continente. En la isla hay una epidemia y tienes que trasladar en tu barco a los enfermos para que sean tratados, con carácter de urgencia, en un hospital. Teniendo en cuenta que en el barco solo puedes transportar de una vez a cinco personas, ¿a quiénes de las siguientes personas elegirías trasladar para que sean atendidas en primer lugar?\n\nHabitantes de la isla que requieren traslado:\n\n• Una madre soltera de 20 años que trabaja como camarera.\n\n• Un hombre soltero de 85 años con Alzheimer.\n\n• Una chica de 17 años drogadicta que está en rehabilitación.\n\n• Un maestro de 45 años casado, sin hijos, que pesa 120 kilos.\n\n• Un guía turístico soltero de 33 años oriundo de Senegal.\n\n• Un médico iraní de 50 años casado con dos hijos.\n\n• Una monja de 59 años que atiende ancianos.\n\n• Un hombre de 34 años que sufre una enfermedad mental.\n\n• Una mujer lesbiana de 55 años propietaria de una tienda de muebles.\n\n• Una inmigrante china de 19 años que vive de la venta ambulante.\n\n• Un carpintero gitano de 47 años casado con 3 hijos.\n\n• Una mujer de 38 años propietaria de un hotel rural, casada con 5 hijos.\n\n• Una chica de 15 años estudiante de Educación Secundaria.\n\n• Un oficinista de 30 años casado con dos hijos y detenido por estafa.\n\n• Un panadero de 58 años que vive con su madre y no se relaciona con nadie.\n\n• Un tendero musulmán de 45 años casado sin hijos, que está en pleno ramadán.\n\n• Un mecánico ucraniano soltero de 39 años.\n\n• Una empleada de servicio de hotel de 24 años casada y con 1 hijo.\n\n• Un abogado de 32 años alcohólico casado con 2 hijos.\n\n• Una psicóloga de 27 años soltera que va en silla de ruedas.\n\n• Un matrimonio de turistas alemanes de 60 años.\n\n• Un artesano de 24 años soltero con síndrome de Down.\n\nPosteriormente, se realizará una puesta en común, exponiendo los acuerdos y desacuerdos que se han producido en el grupo y el porqué de las decisiones. El profesorado-tutor finalizará esta actividad con una reflexión final sobre los sentimientos y expectativas que los han llevado a tomar esa decisión, generando así un debate sobre la importancia de los prejuicios en nuestra vida diaria, el papel que desempeñan, su origen…",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-11-a2",
+    "titol": "Mis compañeros… ¿me critican?",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-11",
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "El profesorado-tutor comentará que a través de las críticas constructivas nuestros allegados nos transmiten algún aspecto negativo relativo a nuestra conducta, sin que esto afecte a nuestra relación afectiva con ellos.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El profesorado-tutor comentará que a través de las críticas constructivas nuestros allegados nos transmiten algún aspecto negativo relativo a nuestra conducta, sin que esto afecte a nuestra relación afectiva con ellos. Hay que tener en cuenta, además, que para asimilar una crítica constructiva es imprescindible:\n\n— Escuchar la queja sin interrumpir. — Pensar si el otro tiene razón en lo que nos dice. — Si se está de acuerdo, darle la razón y pedirle disculpas siempre que sea posible. — Intentar buscar la solución para que no vuelva a suceder.\n\nLuego, se formarán pequeños grupos (4-6 personas), a cada uno de los cuales se les asignará una de las situaciones que se exponen a continuación (cuadro 2). Cada grupo deberá completar las siguientes frases:\n\n1. Yo reaccionaría a la crítica…\n\n2. Yo transformaría la crítica destructiva en una crítica constructiva del siguiente modo…\n\nCUADRO 2. «Cómo reaccionaría si…»\n\nCaso 1: Tu compañero o compañera de trabajo te quita continuamente el material de oficina y, ante tu superior, te deja en evidencia diciendo que eres tú el que siempre roba los bolígrafos de su mesa.\n\nCaso 2: Estás en una entrevista de trabajo y el entrevistador critica, con un tono despectivo, que tienes muy pocos cursos relacionados con tu profesión y que además, estos, no son nada cualificados.\n\nCaso 3:\n\nEstás en la universidad, ante tus compañeros de clase, y el profesor critica en voz alta el examen que hiciste diciendo que eres un vago o vaga y que no llegarás a nada.\n\nCaso 4:\n\nAcabas de llegar a casa y tu madre te critica, delante de una vecina, por no haber limpiado tu cuarto.\n\nCaso 5:\n\nEstás en la Oficina de Empleo y el funcionario te comenta que tu currículum es pobre y que no tienes mucho futuro en tu profesión.\n\nPara finalizar, se expondrán en gran grupo las distintas respuestas, reflexionando sobre las estrategias seguidas para transformar una crítica destructiva en constructiva.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-11-a3",
+    "titol": "Entrenamiento a cuatro",
+    "tipus": "activitat",
+    "categoria": "comportar-se",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-11",
+    "etiquetes": [
+      "moviment",
+      "reflexio",
+      "subgrups"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "Para presentar la actividad, el profesorado-tutor comentará que tener habilidades sociales resulta muy útil en el ámbito profesional.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Para presentar la actividad, el profesorado-tutor comentará que tener habilidades sociales resulta muy útil en el ámbito profesional. Tanto en las relaciones entre compañeros como en el trato con personas externas al lugar de trabajo (clientes, proveedores, alumnos, padres…), estas habilidades nos permiten actuar manteniendo siempre una actitud positiva. De esta circunstancia se han percatado los empresarios de todos los sectores ya que, en los últimos años, han empezado a solicitar personas que tengan capacidad de comunicación, empatía, que sean flexibles, capaces de trabajar en grupo, etcétera.\n\nCada pequeño grupo de alumnos (4 a 6 personas) elegirá una de las cuatro situaciones (cuadro 3). Deberán responder a la pregunta final y elaborar un guion para escenificar la resolución del conflicto que en ellas se plantea. Cada grupo elegirá a los miembros que realizarán dicha escenificación. Tras la escenificación de cada situación, se reflexionará, en gran grupo, sobre las habilidades sociales para resolverlas, haciendo hincapié sobre las dificultades personales que se han producido y las estrategias que se han utilizado.\n\nCRITICAR NO ES ATACAR\n\nCaso 1:\n\nTrabajas a tiempo parcial en una empresa publicitaria como ejecutivo de cuentas júnior. Tu único compañero o compañera de departamento va a hablar con el jefe para negociar sus horarios. La cuestión es que tu compañero o compañera quiere hacer jornada completa y salir a las 17:00 h porque le han surgido problemas familiares, pero la oficina cierra a las 19:00 h y tu departamento siempre se ha encargado del cierre. Después de la conversación, el jefe convoca una reunión en la que presenta el nuevo tablón de horarios. En tu caso, que habías pactado un horario de lunes a viernes de 9:00 a 13:00 h (estás terminando la carrera y por las tardes tienes clase o vas a estudiar a la biblioteca), te toca empezar a trabajar todos los días de 15:00 h a 19:00 h. Te quedas boquiabierto. Lo primero que piensas es que tu compañero o compañera le ha «comido el coco» al jefe para poder salir antes y no ha tenido ningún escrúpulo a la hora de dañarte a ti para sacar su provecho. Tratas de calmar los nervios y vas a hablar primero con tu compañero o compañera y luego con el jefe. ¿Qué les dirías (al tu compañero o compañera y al superior)?\n\nCaso 2:\n\nEres administrativo en una inmobiliaria. El jefe llama a su despacho a tu compañero o compañera de trabajo. Al terminar la reunión, este te cuenta que el jefe le ha reprochado no haber colgado todavía los anuncios de los pisos recién captados en el escaparate de la inmobiliaria. Tú le dices (como has hecho ya muchas veces) que cuando él/ella quiera le puedes echar una mano, ya que sabes que se le dan muy mal los ordenadores y peor el programa para hacer las fichas. Tu compañero o compañera te lo agradece y te dice si podéis dejarlo para la próxima semana, total ya es jueves. Después de veinte minutos te llama tu jefe y te echa una bronca monumental por no haber ayudado tu compañero o compañera a hacer las fichas, te reprocha que creía que sabías trabajar en equipo y que te implicabas en los problemas de los demás, y que no entiendes cuáles son las cosas que hacen el bien de la empresa. En ese momento te das cuenta de que tu compañero o compañera, para salvarse, te ha echado la culpa a ti diciéndole al jefe que no le ayudaste. ¿Qué les dirías (a tu compañero o compañera y al superior)?\n\nCaso 3:\n\nTrabajas cómo técnico de ofimática en el Museo de la Ciencia. Según tu contrato trabajas dos fines de semana al mes. Desde que el padre del otro técnico se rompió la cadera, estás haciendo el esfuerzo de trabajar tres fines de semana y uno descansas. Después de cuatro meses, de repente un día te enteras de que el padre de tu compañero o compañera no solo ya está en casa, sino que dentro de un par de semanas volverá al trabajo. En ese momento te indignas porque entiendes que tu compañero o compañera ha estado aprovechándose de la situación. No sabes si ir a quejarte con el encargado primero o hablar antes con tu compañero. ¿Cómo solucionas el conflicto?\n\nEnseñar a tomar decisiones",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  }
+]

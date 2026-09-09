@@ -1,5 +1,5 @@
 {
-  "introduccio": "Les fitxes del catàleg són adaptacions al català de reculls de dinàmiques de grup publicats en obert. A sota hi ha les obres d'on provenen, amb el nombre de dinàmiques que n'han sortit. Si n'afegiu de noves, indiqueu-ne la font al camp «Font» de la fitxa i afegiu l'obra en aquesta llista.",
+  "introduccio": "Les fitxes del catàleg són adaptacions al català de dos reculls publicats: un aplec de dinàmiques de grup i un programa d'acció tutorial per a 3r i 4t d'ESO. A sota hi ha les obres d'on provenen, amb el nombre de fitxes que n'han sortit. Si n'afegiu de noves, indiqueu-ne la font al camp «Font» de la fitxa i afegiu l'obra en aquesta llista.",
   "obres": [
     {
       "titol": "700 dinámicas grupales",
@@ -28,6 +28,13 @@
       "titol": "22 juegos para conocerse",
       "autoria": "Recopilació d'autoria diversa",
       "font": "22 Juegos para conocerse"
+    },
+    {
+      "titol": "Programa HEBE. Una propuesta de acción tutorial para 3.º y 4.º de Educación Secundaria Obligatoria",
+      "autoria": "Lidia E. Santana Vega, Zuleica Ruiz Alfonso i Milena Trenta",
+      "publicacio": "Ediciones Pirámide (Grupo Anaya), 2023 — ISBN 978-84-368-4808-3",
+      "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)",
+      "nota": "Programa complet d'acció tutorial: 34 unitats didàctiques repartides en cinc blocs (ensenyar a pensar i a aprendre, a ser persona, a conviure, a comportar-se i a prendre decisions) amb les seves activitats d'aula. Al catàleg, cada unitat és una fitxa de tipus «Unitat didàctica» i cada activitat seva, una fitxa de tipus «Activitat de tutoria»."
     }
   ],
   "eines": [

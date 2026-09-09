@@ -55,11 +55,6 @@
     "materials": "cadires",
     "titol": "La Veritat"
   },
-  "los-curiosos": {
-    "_signatura": "76e00166a94be240",
-    "descripcio": "Se sol·licita la col·laboració de 4 o 6 voluntaris que siguin persones curioses. Passen davant del grup. Se'ls demana que per mitjà de preguntes ajudin a tots a descobrir que persones hi ha en el grup. Se'ls demana que per mitjà de preguntes ajudin a tots a descobrir que persones hi ha en el grup. A cada pregunta dels curiosos la gent respon. Conèixer que classe de persones participen.",
-    "titol": "Els Curiosos"
-  },
   "quita-la-silla": {
     "_signatura": "b55132655d8884c6",
     "descripcio": "Tothom caminant, quan el director de l'ordre tots se sentin però es lleva una cadira, el que quedo sense cadira se senti damunt d'algú (o surt del joc), asi es va fent successivament es lleven 2, 3, 4, etc. fins que quedin 2 cadires i tots asseguts un damunt de l'altre (o fins que quedo un només).",

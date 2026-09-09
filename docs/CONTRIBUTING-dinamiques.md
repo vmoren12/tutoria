@@ -1,8 +1,16 @@
-# Com afegir o modificar dinàmiques
+# Com afegir o modificar fitxes del catàleg
 
 El catàleg viu a `data/dinamiques/`, amb **un fitxer JSON per categoria**. Cada fitxer és
-una llista de dinàmiques. Afegir-ne de noves vol dir editar un d'aquests fitxers (o crear-ne
+una llista de fitxes. Afegir-ne de noves vol dir editar un d'aquests fitxers (o crear-ne
 un de nou) i tornar a generar el paquet de dades.
+
+El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
+
+| `tipus` | Què és | D'on surt |
+| --- | --- | --- |
+| `dinamica` | Joc o exercici breu de grup, que es fa sol. És el valor per defecte. | *700 dinámicas grupales* |
+| `activitat` | Activitat d'aula amb material i pauta de treball, part d'una unitat. | Programa HEBE |
+| `unitat` | Unitat didàctica de diverses sessions que agrupa activitats. | Programa HEBE |
 
 ```
 data/
@@ -24,21 +32,25 @@ data/
 2. Si la fitxa és en castellà, executa `npm run tradueix` per generar-ne la versió
    catalana (vegeu «Les dues llengües» més avall). Si ja l'escrius en català, salta-t'ho.
 3. Executa `npm run build`. Això valida les dades i regenera `data/bundle.js`.
-4. Obre l'aplicació i comprova que la dinàmica surt al catàleg.
+4. Obre l'aplicació i comprova que la fitxa surt al catàleg.
 5. Fes el commit dels fitxers `data/dinamiques/*.json`, `data/traduccions/ca/*.json` **i**
    de `data/bundle.js`.
 
-`npm run build` avisa si una dinàmica té una categoria o una etiqueta que no existeix a
-`data/taxonomia.json`, i falla si hi ha identificadors repetits o falta un camp obligatori.
+`npm run build` avisa si una fitxa té una categoria, una etiqueta, un tipus o un nivell
+que no existeix a `data/taxonomia.json`, i falla si hi ha identificadors repetits, falta un
+camp obligatori o un vincle entre unitat i activitat apunta a una fitxa inexistent. També
+avisa dels **títols repetits**, que solen ser fitxes duplicades.
 
-## Esquema d'una dinàmica
+## Esquema d'una fitxa
 
 ```jsonc
 {
   "id": "la-teranyina",              // obligatori, únic a tot el catàleg, en minúscules i amb guions
   "titol": "La teranyina",           // obligatori
+  "tipus": "dinamica",               // dinamica (per defecte) | activitat | unitat
   "categoria": "presentacio",        // obligatori, id de data/taxonomia.json
   "etiquetes": ["cercle", "sense-material"],
+  "nivells": ["3eso"],               // opcional; sense nivells serveix per a qualsevol curs
   "durada": 20,                      // minuts, nombre enter
   "grup": "mitja",                   // petit | mitja | gran
   "materials": "Un cabdell de llana",
@@ -65,6 +77,24 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
   `data/dinamiques/`.
 - **`grup`**: `petit` (fins a 12), `mitja` (13 a 30) o `gran` (més de 30).
 - **`durada`**: minuts orientatius; a la sessió es pot ajustar bloc a bloc.
+- **`tipus`** i **`nivells`**: han d'existir a `data/taxonomia.json`. Si s'ometen, la fitxa
+  és una `dinamica` sense nivell assignat, i el filtre de nivell no la descarta mai.
+
+### Unitats didàctiques i les seves activitats
+
+Una unitat i les seves activitats s'enllacen amb dos camps que es corresponen:
+
+```jsonc
+// la unitat
+{ "id": "hebe-3-01", "tipus": "unitat",
+  "activitats": ["hebe-3-01-a1", "hebe-3-01-a2"] }
+
+// cada activitat
+{ "id": "hebe-3-01-a1", "tipus": "activitat", "unitat": "hebe-3-01" }
+```
+
+`npm run build` comprova que tots dos apuntin a fitxes que existeixin. A l'aplicació, la
+fitxa de la unitat llista les seves activitats i la de l'activitat enllaça amb la unitat.
 
 ## Afegir una categoria nova
 
@@ -75,12 +105,12 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
 2. Crea `data/dinamiques/orientacio.json` amb `[]` i hi vas afegint dinàmiques.
 3. `npm run build`.
 
-## Aportar dinàmiques creades des de l'aplicació
+## Aportar fitxes creades des de l'aplicació
 
-Les dinàmiques que es creen o s'editen des de la interfície es desen al navegador. Per
+Les fitxes que es creen o s'editen des de la interfície es desen al navegador. Per
 portar-les al repositori:
 
-1. **Ajustos → Exporta les dinàmiques pròpies**. Es descarrega un JSON amb el mateix
+1. **Ajustos → Exporta les fitxes pròpies**. Es descarrega un JSON amb el mateix
    format que els fitxers de `data/dinamiques/`.
 2. Enganxa les entrades al fitxer de la categoria que toqui.
 3. Revisa que cada `id` sigui únic i descriptiu (l'exportació en genera d'automàtics
@@ -106,7 +136,7 @@ forma:
 
 `npm run build` combina totes dues fonts: el bundle porta el català com a text principal i
 l'original castellà dins del camp `es` de cada fitxa. L'aplicació les intercanvia des
-d'**Ajustos → Llengua de les dinàmiques**.
+d'**Ajustos → Llengua del catàleg**.
 
 ```bash
 npm run tradueix              # només el que ha canviat
@@ -122,7 +152,7 @@ La traducció és automàtica i no revisada. Per corregir-la a mà, edita direct
 `data/traduccions/ca/<categoria>.json` i deixa la `_signatura` tal com està: mentre no
 canviï l'original castellà, l'script respectarà el text que hi hagis posat.
 
-Si escrius una dinàmica **directament en català**, posa-la a `data/dinamiques/` i no li
+Si escrius una fitxa **directament en català**, posa-la a `data/dinamiques/` i no li
 afegeixis entrada de traducció: sense `es`, el bundle la mostrarà igual en totes dues
 llengües.
 
@@ -141,19 +171,35 @@ llengües.
 }                                        // de les fitxes, per comptar-les
 ```
 
-Quan `font` coincideix amb el camp `font` de les dinàmiques, la vista mostra quantes n'hi
+Quan `font` coincideix amb el camp `font` de les fitxes, la vista mostra quantes n'hi
 ha al catàleg. Després d'editar el fitxer, `npm run build`.
 
-## Tornar a generar el catàleg des del PDF
+## Tornar a generar el catàleg des dels PDF
 
-`scripts/extract_pdf.py` reconstrueix tot `data/dinamiques/` a partir del PDF original i
-**sobreescriu** els fitxers existents. Si has afegit dinàmiques a mà als mateixos fitxers,
-les perdràs: guarda-les en un fitxer de categoria propi que l'extractor no toqui, o fes
-còpia abans.
+Hi ha un extractor per obra. Tots dos **sobreescriuen** els fitxers de categoria que
+generen: si hi has afegit fitxes a mà, guarda-les en un fitxer de categoria propi que
+l'extractor no toqui, o fes-ne còpia abans.
 
 ```bash
-python scripts/extract_pdf.py --pdf "700-Dinámicas-grupales.pdf" --out data/dinamiques
+npm run extract        # 700 dinámicas grupales  -> categories de dinàmiques de grup
+npm run extract-hebe   # Programa HEBE           -> categories dels cinc blocs
+npm run deduplica      # treu les fitxes repetides que deixa l'extracció
+npm run tradueix       # tradueix al català el que hagi canviat
 npm run build
 ```
 
-Cal `pdftotext` (Xpdf o Poppler) al PATH. El PDF no forma part del repositori.
+Cal `pdftotext` (Xpdf o Poppler) al PATH. Els PDF no formen part del repositori.
+
+### Fitxes repetides
+
+Les quatre obres que aplega *700 dinámicas grupales* comparteixen molts jocs, i
+l'extracció els repeteix amb el mateix títol i el text lleugerament diferent.
+`npm run deduplica` les detecta comparant el desenvolupament (llindar més tolerant si el
+títol és idèntic), conserva la fitxa més completa —omplint-li els camps buits amb els de
+les germanes— i esborra la resta, també de `data/traduccions/ca/`. Es pot executar amb
+`--prova` per veure què faria sense tocar res, i és idempotent.
+
+Del que queda, encara hi ha una vintena de parells que **comparteixen títol però són
+propostes diferents** (dos jocs anomenats «El nus», per exemple). No s'esborren: es
+distingeixen per la categoria, que surt a la targeta, i `npm run build` els llista com a
+avís.

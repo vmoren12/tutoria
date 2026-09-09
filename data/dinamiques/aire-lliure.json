@@ -436,12 +436,11 @@
       "expressio-corporal",
       "exterior",
       "musica",
-      "parelles",
-      "sense-material"
+      "parelles"
     ],
     "durada": 20,
     "grup": "mitja",
-    "materials": "",
+    "materials": "musica",
     "resum": "Se trata de presentarse al ritmo de la música.",
     "objectius": "Aprender los nombres y permitir un primer contacto.",
     "participants": "Grupo, clase,.... a partir de 8 años.",
@@ -450,7 +449,7 @@
     "consignes": "DE PARTIDA: ninguna.",
     "descripcio": "Se divide el grupo en dos partes iguales. Se forman dos círculos concéntricos. Las personas del círculo interior miran hacia afuera y las del círculo exterior hacia adentro. Tendrán que quedar, por tanto, formando parejas frente a frente. Se puede poner música mientras cada pareja se presenta, se saluda con las manos y dice su nombre: \"Hola, soy ....\" Después de presentarse, los de adentro dicen \"gente a gente\" que es la señal para que el círculo de afuera cambie un lugar hacia la izquierda. El juego continúa con la misma dinámica hasta dar la vuelta competa. El animador/a puede ir cambiando el ritmo de la música, así como el gesto del saludo: ahora codo con codo, cabeza con cabeza, rodilla con rodilla.",
     "avaluacio": "",
-    "notes": "",
+    "notes": "Un buen juego de presentación para grupos muy numerosas.",
     "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
   },
   {

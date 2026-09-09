@@ -1,0 +1,842 @@
+[
+  {
+    "id": "hebe-3-04",
+    "titol": "El arte de vivir y el arte de amar",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "activitats": [
+      "hebe-3-04-a1",
+      "hebe-3-04-a2",
+      "hebe-3-04-a3",
+      "hebe-3-04-a4"
+    ],
+    "etiquetes": [
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 165,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Vivir es algo así como realizar un largo viaje en el cual nos esperan sorpresas, acontecimientos y dificultades. El ser humano tiene una serie de capacidades (intelectuales, afectivas, de comunicación...) que, bien desarrolladas, le…",
+    "objectius": "• Tomar conciencia de lo que podemos hacer para aprender el arte de vivir y para relacionarnos mejor con los demás.\n\n• Reflexionar sobre el potencial, la fuerza y el poder del amor.",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Vivir es algo así como realizar un largo viaje en el cual nos esperan sorpresas, acontecimientos y dificultades. El ser humano tiene una serie de capacidades (intelectuales, afectivas, de comunicación...) que, bien desarrolladas, le permiten hacer de su paso por la vida una obra de arte. La capacidad de amar tiene mucha importancia para el equilibrio y la realización personal. El amor no consiste solo en lo que podemos sentir hacia una pareja, sino hacia todo lo que nos rodea. En esta unidad proponemos reflexionar sobre el amor y la importancia que tiene en nuestra vida.\n\nActividades de la unidad:\n\n1. ¿Qué es el amor?\n\n2. Cuatro ideas sobre el amor\n\n3. La caja de herramientas para enfrentarse a la vida\n\n4. Localizando mis pensamientos sobre el amor",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 2-3 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\n• Aprender a aprender.\n\nContenidos: De conceptos:\n\n• El amor.\n\n• Creencias sobre la vida.\n\n• Creencias sobre el amor.\n\n• Las relaciones familiares y sociales.\n\nDe procedimientos:\n\n• Utilización de habilidades y destrezas para el trabajo individual y en grupo.\n\n• Experimentación y utilización de habilidades y destrezas argumentativas.\n\n• Lectura e interpretación de textos.\n\nDe actitudes:\n\n• Respeto hacia las opiniones de los compañeros.\n\n• Participación activa en las actividades grupales.\n\n• Disposición sincera frente a los sentimientos de amor.\n\n• Actitud crítica hacia las propias acciones y creencias.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-04-a1",
+    "titol": "¿Qué es el amor?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-04",
+    "etiquetes": [
+      "cooperatiu",
+      "emocions",
+      "interior",
+      "musica"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Proyector o pantalla con sonido.",
+    "resum": "El amor suele estar presente en canciones, libros, películas, etc., pero, ¿qué es el amor? Algunas personas han definido este sentimiento en frases que se han hecho famosas y que pueden servir de inspiración en los momentos en los que nos…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El amor suele estar presente en canciones, libros, películas, etc., pero, ¿qué es el amor? Algunas personas han definido este sentimiento en frases que se han hecho famosas y que pueden servir de inspiración en los momentos en los que nos sentimos confusos:\n\nQuien bien te quiere te hará llorar (Refrán). Amar no es mirarse el uno al otro; es mirar juntos en la misma dirección (Antoine de Saint-Exupéry). La medida del amor es amar sin medida (San Agustín).\n\nEn grupos de 4 a 6 personas, el alumnado elegirá la frase con la que se sienta más identificado, pudiendo, además, proponer otras alternativas; después elegirá una canción que coincida con lo expresado en ella. Por último, la frase que reciba más elecciones se convertirá en el lema de la clase, y se buscarán imágenes para elaborar un cartel que se colgará en el aula.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-04-a2",
+    "titol": "Cuatro ideas sobre el amor",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-04",
+    "etiquetes": [
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
+    "resum": "A veces no sabemos muy bien cómo amar y hasta nos gustaría que alguien nos dijera cuáles son los pasos que debemos dar. Sabemos que lo necesitamos, aunque no siempre somos conscientes de cómo dar amor, recibir amor y ser amado.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "A veces no sabemos muy bien cómo amar y hasta nos gustaría que alguien nos dijera cuáles son los pasos que debemos dar. Sabemos que lo necesitamos, aunque no siempre somos conscientes de cómo dar amor, recibir amor y ser amado. En esta actividad le proponemos al alumnado reflexionar sobre este sentimiento para que llegue a tener una idea propia sobre el amor. Para empezar, le ofrecemos al alumnado cuatro ideas (cuadro 1):\n\nCUADRO 1. Cuatro ideas sobre el amor\n\n1. El amor es una emoción y un estado que con su energía llena y transforma todo a su alrededor.\n\n2. Dejarse amar es abrirse y cambiar porque alguien te ama.\n\n3. En el amor tú creas tu realidad. Cuando reduces tus expectativas y te limitas, disminuyes tu posibilidad de realizarte.\n\n4. El miedo (miedo a fracasar, por ejemplo) es una energía negativa que perjudica al amor.\n\nTras leer estas frases sobre el amor, el profesorado-tutor pedirá al alumnado que se reúna en pequeños grupos, formados por afinidades, para propiciar una mayor confianza en la expresión de cada uno. Cada grupo priorizará las frases presentadas mediante un pequeño debate interno en el que se justificará tal priorización. Posteriormente, se realizará una puesta en común, coordinada por el profesorado-tutor, de las conclusiones de cada grupo. El profesorado-tutor podrá pedir a los grupos que justifiquen su elección con ejemplos sacados de situaciones de la vida cotidiana y de experiencias personales en las que estas frases se hacen realidad. Al final, mediante la técnica del diamante, se establecerá una priorización común de las frases. Según esta técnica, cada grupo irá leyendo su propuesta y el profesorado-tutor irá marcando el puesto asignado por cada grupo a la idea concreta sobre el amor, ya escrita en la pizarra. La idea que haya sido colocada más veces en el puesto número 1, ocupará dicho puesto, y así sucesivamente.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-04-a3",
+    "titol": "La caja de herramientas para enfrentarse a la vida",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-04",
+    "etiquetes": [
+      "emocions",
+      "expressio-corporal",
+      "parelles"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
+    "resum": "Más allá de nuestro aspecto físico, lo que verdaderamente nos define son nuestras creencias sobre la vida, sobre lo que es bueno y lo que es malo, y también nuestros sentimientos, deseos, expectativas, decisiones y acciones.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Más allá de nuestro aspecto físico, lo que verdaderamente nos define son nuestras creencias sobre la vida, sobre lo que es bueno y lo que es malo, y también nuestros sentimientos, deseos, expectativas, decisiones y acciones. Todas estas cosas son herramientas que podemos usar para aprender el arte de vivir y el arte de amar. Según lo que pongamos en la caja de herramientas tendremos más o menos oportunidades de vivir en armonía y de amar y ser amados. Si no tenemos las herramientas adecuadas, difícilmente conseguiremos lo que queremos: es como si un escultor fuera a modelar sus obras con una sierra de carpintero.\n\nEn esta actividad proponemos que el alumnado piense en cuáles son sus herramientas para enfrentarse a la vida. El profesoradotutor repartirá unas fichas con el ejemplo del cuadro 2.\n\nUna vez visto el ejemplo, el alumnado irá redactando su listado, teniendo 20 minutos para hacerlo. Sucesivamente el alumnado leerá las opciones elegidas en cada categoría, y el profesoradotutor las irá apuntando en la pizarra para obtener una representación de las creencias, sentimientos y valores más difundidos en la clase.\n\nCUADRO 2. Mi caja de herramientas para enfrentarme a la vida\n\nCREENCIAS SOBRE LA VIDA BUENO Y MALO SENTIMIENTOS\n\nDESEOS Y EXPECTATIVAS\n\nEn la vida lo importante es ser feliz. La felicidad consiste en tener el amor y el cariño de nuestros seres queridos (amigos, parejas, familia).\n\nBueno: es respetar a los demás, ser solidario y altruista. Malo: es la violencia, la prepotencia y el abuso.\n\nLos sentimientos más importantes para mí son el cariño para mi familia y la amistad de mis amigos. Pero hay algunas personas por las que siento antipatía y rencor porque, en algunas ocasiones, me han hecho daño.\n\nEn mi vida espero tener muchos amigos, un trabajo que me guste, y viajar por el mundo para conocer otras culturas y maneras de vivir.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-04-a4",
+    "titol": "Localizando mis pensamientos sobre el amor",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-04",
+    "etiquetes": [
+      "emocions",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "Ya sabemos algo más sobre qué es el amor y sobre nuestras actitudes frente a la vida. Es el momento de comprobar si actuamos de forma coherente con nuestras creencias e ideales.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Ya sabemos algo más sobre qué es el amor y sobre nuestras actitudes frente a la vida. Es el momento de comprobar si actuamos de forma coherente con nuestras creencias e ideales. En esta actividad los discentes tendrán que redactar sus creencias sobre el amor, la importancia que el amor tiene en su vida y confrontar sus creencias e ideas con su manera de actuar.\n\nHaz una lista de tus creencias sobre el amor _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________\n\nEl alumnado se dividirá a continuación en grupos de 3 a 4 personas y contestará a las siguientes preguntas:\n\n1. ¿Qué clase de pensamientos y sentimientos esperas que surjan de estas creencias?\n\n2. ¿Qué clase de amistades esperas?\n\n3. ¿Qué seguridad, qué confianza y qué felicidad les proporcionas a los demás?\n\nUna vez redactadas tus creencias sobre el amor, es el momento de cuestionarte si hay alguna que pueda estar perjudicándote o que esté dañando a otros (cuadro 3).\n\nCUADRO 3. Mis creencias sobre el amor\n\nME DAÑA A MÍ\n\nDAÑA A OTROS\n\nSi observas en ti creencias o pensamientos negativos, puedes cambiarlos. Darse cuenta de cuáles son las actitudes negativas es el primer paso para cambiarlas. Por otro lado, reconoce y continúa con aquellas creencias que están funcionando y que te hacen sentir bien contigo mismo y con los demás. El alumnado escribirá cuáles son los recursos y habilidades que tienen y que quieren utilizar para cambiar aquellos hábitos y actitudes que dañan su relación con los demás.\n\nMis recursos o habilidades para mejorar la situación _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________\n\nDespués pensarán en situaciones de su vida diaria en las que han puesto en práctica estos recursos. Mediante la puesta en común de estas situaciones, se elegirá una, que se escenificará (no necesariamente por el alumno implicado o la alumna implicada), a fin de que los demás propongan otras posibles estrategias.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-05",
+    "titol": "Mi vida como compromiso social",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "activitats": [
+      "hebe-3-05-a1",
+      "hebe-3-05-a2",
+      "hebe-3-05-a3"
+    ],
+    "etiquetes": [
+      "interior",
+      "reflexio"
+    ],
+    "durada": 165,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Dados los acontecimientos actuales en materia de inmigración, desigualdades y discriminación social, resulta fundamental abordar estos temas desde una perspectiva de tolerancia e inclusión.",
+    "objectius": "• Favorecer la convivencia dentro del aula.\n\n• Promover nuevas formas de relación social, construidas a partir de la reformulación del conflicto (prevención y resolución) y de la riqueza que conllevan los contextos pluriculturales.\n\n• Trabajar a favor de la cohesión social y de una integración de todo el alumnado en un plano de igualdad.\n\n• Educar en valores potenciando la convivencia democrática, la solidaridad y la tolerancia, así como el pensamiento crítico y abierto como elementos preventivos de la xenofobia y el racismo.",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Dados los acontecimientos actuales en materia de inmigración, desigualdades y discriminación social, resulta fundamental abordar estos temas desde una perspectiva de tolerancia e inclusión. Por ello, las actividades que se plantean en esta unidad proponen un análisis de la diversidad que caracteriza nuestra sociedad, así como de los estereotipos y prejuicios existentes en ella, para potenciar actitudes favorables a la integración.\n\nActividades de la unidad:\n\n1. Yo también tengo un país\n\n2. Boutique de los orígenes\n\n3. Fotogramas",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 3 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\n• Conciencia y expresiones culturales.\n\nContenidos: De conceptos:\n\n• Prejuicios.\n\n• Estereotipos.\n\n• Discriminación.\n\n• Tolerancia.\n\n• Inclusión.\n\n• Resolución de conflictos.\n\n• Empatía.\n\nDe procedimientos:\n\n• Búsqueda, análisis y procesamiento de información en torno a la interculturalidad.\n\n• Utilización de herramientas de comunicación, acercamiento, comprensión mutua y diálogo.\n\nDe actitudes:\n\n• Actitud crítica respecto al valor que se otorga a otras culturas diferentes a la propia.\n\n• Adopción de posturas favorables con la integración de otras culturas.\n\n• Solidaridad y comprensión ante la situación económica, social y política de los países emisores de inmigrantes.\n\n• Valoración de la diversidad cultural como punto de encuentro entre culturas.\n\n• Sensibilidad y respeto hacia la vestimenta, culto, etc., propios de otras culturas.\n\n• Valoración del diálogo como instrumento para solucionar los problemas de convivencia.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-05-a1",
+    "titol": "Yo también tengo un país",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-05",
+    "etiquetes": [
+      "competitiu",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "El tutor dividirá la clase en grupos de 4-6 estudiantes para leer los siguientes poemas. A continuación, les invitará a reflexionar sobre los mismos, en función de los siguientes puntos: — ¿Qué idea subyace en cada poema? — ¿Qué…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El tutor dividirá la clase en grupos de 4-6 estudiantes para leer los siguientes poemas. A continuación, les invitará a reflexionar sobre los mismos, en función de los siguientes puntos:\n\n— ¿Qué idea subyace en cada poema? — ¿Qué consecuencias se derivan de ellos respecto a la inmigración y a la integración social?\n\nCada grupo expondrá los resultados de su reflexión para llegar a conclusiones comunes.\n\nPoesía 1 Querido hermano blanco\n\nPoesía 2 No me llames extranjero\n\nCuando nací, era negro. Cuando crecí, era negro. Cuando me pongo al sol, soy negro. Cuando tengo frío, soy negro. Cuando estoy enfermo, soy negro. Cuando muera, seguiré siendo negro.\n\nCuando tú naciste, eras rosa. Cuando creciste, eras blanco.\n\nNo me llames extranjero porque haya nacido lejos o porque tenga otro nombre la tierra de donde vengo.\n\nNo me llames extranjero porque fue distinto el seno o porque acunó mi infancia otro idioma de los cuentos.\n\nCuando te pones al sol, eres rojo. Cuando tienes frío, eres azul. Cuando tienes miedo, te pones verde. Cuando estás enfermo, te vuelves amarillo. Cuando mueras, serás gris.\n\nY, después de esto ¿todavía tienes cara para llamarme «hombre de color»?\n\n(Trad. Por S. G. P )\n\nMI VIDA COMO COMPROMISO SOCIAL\n\nNo me llames extranjero porque tu pan y tu fuego calman mi hambre y mi frío y me cobija tu techo.\n\nNo me llames extranjero, tu trigo es como mi trigo, tu mano como la mía, tu fuego como mi fuego, y el hambre no avisa nunca, vive cambiando de dueño.\n\nNo me llames extranjero, ni pienses de dónde vengo, mejor saber dónde vamos, adónde nos lleva el tiempo.\n\n(Adaptado de F. C y A. C\n\n)",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-05-a2",
+    "titol": "Boutique de los orígenes",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-05",
+    "etiquetes": [],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Pizarra, cartulinas y material de escritura.",
+    "resum": "Muchas veces el rechazo y la discriminación nacen del desconocimiento. Para conocer los diferentes pueblos del mundo, el alumnado, dividido en grupos de 4-6 alumnos, deberá realizar una búsqueda de información sobre los países de donde…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Muchas veces el rechazo y la discriminación nacen del desconocimiento. Para conocer los diferentes pueblos del mundo, el alumnado, dividido en grupos de 4-6 alumnos, deberá realizar una búsqueda de información sobre los países de donde proviene la mayor parte del alumnado inmigrante de España. Posteriormente, cada grupo deberá elegir un país concreto y documentarse sobre su situación económica, en qué áreas de trabajo se ocupa la población, cómo vive, dónde vive, qué costumbres tiene, etc. Los resultados del trabajo se expondrán a la clase a través de un mural. Finalmente, se hará una discusión grupal sobre los motivos que tienen los inmigrantes para trasladarse a otros países.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-05-a3",
+    "titol": "Fotogramas",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-05",
+    "etiquetes": [],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Ordenadores o tabletas con conexion a internet. Pizarra, cartulinas y material de escritura.",
+    "resum": "El alumnado, a la vista de las viñetas de corte racista que se muestran a continuación, buscará en diferentes fuentes (revistas, periódicos, Internet, bibliotecas, etc.) otras viñetas que contrasten con esta dura realidad, es decir,…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El alumnado, a la vista de las viñetas de corte racista que se muestran a continuación, buscará en diferentes fuentes (revistas, periódicos, Internet, bibliotecas, etc.) otras viñetas que contrasten con esta dura realidad, es decir, realizará una búsqueda de fotogramas en donde se eliminen actitudes de tipo racista, abusos de poder, etc., y que, en definitiva, sustituyan las expuestas por otras de corte tolerante, que apuesten por la no discriminación entre las diferentes etnias. Estas fotos pueden colgarse en la clase, a modo de mural, con comentarios sobre las mismas. Para finalizar, proponemos que el alumnado se agrupe por afinidades profesionales y discutan qué tipo de aportaciones podrían hacer desde el ámbito profesional que han elegido para paliar/abolir situaciones de este tipo.\n\nViñeta 1\n\nViñeta 2\n\nViñeta 3\n\nViñeta 4",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-06",
+    "titol": "Videojuegos para aprender a argumentar frente al ciberacoso",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "activitats": [
+      "hebe-3-06-a1",
+      "hebe-3-06-a2",
+      "hebe-3-06-a3",
+      "hebe-3-06-a4"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 220,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "El videojuego es una práctica cultural que está presente en la vida diaria de las generaciones más jóvenes, e incluso de muchos adultos.",
+    "objectius": "• Conocer el concepto de argumentación y su implicación en el ámbito social, familiar, laboral, escolar, etc.\n\n• Aprender a argumentar para comprender y convencer.\n\n• Ensayar la argumentación para la defensa de opiniones y derechos propios y ajenos.\n\n• Aplicar la alfabetización digital para el aprendizaje.\n\n• Expresar ideas con criterio propio.",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El videojuego es una práctica cultural que está presente en la vida diaria de las generaciones más jóvenes, e incluso de muchos adultos. Gracias a esta gran difusión y a la familiaridad de los jóvenes con las tecnologías informáticas, el videojuego se configura como un medio a través del cual es posible plantear y afrontar temas de actualidad para su discusión. Argumentar es una habilidad fundamental para desenvolverse en la vida cotidiana, comunicar pensamientos, exponer ideas y saber defenderlas, y establecer diálogos abiertos con otras personas; saber argumentar facilita la defensa de los derechos de las personas. Con esta unidad se pretende que el alumnado experimente el proceso de argumentación en el contexto de una situación crítica, simulada a través de un videojuego.\n\nActividades de la unidad:\n\n1. ¿Qué es el ciberacoso?\n\n2. ¿Se lo tiene merecido o hay que defenderla?\n\n3. ¿Existen límites al ciberacoso?\n\n4. ¿Qué podemos hacer frente al ciberacoso?",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, a lo largo de 3-4 sesiones de tutoría.\n\nCompetencias: • Competencias digitales.\n\n• Competencia de comunicación y de colaboración.\n\nContenidos: De conceptos:\n\n• Argumentación.\n\n• Colaboración.\n\n• Pensamiento crítico.\n\n• Negociación.\n\nDe procedimientos:\n\n• Práctica de destrezas lingüísticas y argumentativas.\n\n• Aplicación del proceso de argumentación.\n\n• Debate sobre temas de actualidad.\n\nDe actitudes:\n\n• Interés por el proceso de argumentación y su utilidad en situaciones cotidianas.\n\n• Actitud crítica frente a temas de actualidad.\n\n• Actitud reflexiva para comprender posturas ajenas y contrarias.\n\n• Tolerancia hacia diferentes posturas y opiniones.\n\n• Actitud reflexiva para argumentar ideas y opiniones.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-06-a1",
+    "titol": "¿Qué es el ciberacoso?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-06",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Ordenadores o tabletas con conexion a internet. Proyector o pantalla con sonido. Pizarra, cartulinas y material de escritura.",
+    "resum": "Esta actividad se llevará a cabo con el apoyo del videojuego Concordia Blogger V (https://www.concordiabloggers.com/game_ ciberbullying.html).",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Esta actividad se llevará a cabo con el apoyo del videojuego Concordia Blogger V (https://www.concordiabloggers.com/game_ ciberbullying.html). En el juego una joven sufre ciberacoso de su exnovio; este difunde en la red fotos que la retratan en una situación de intimidad.\n\nEn la primera parte de la actividad, se propondrá al alumnado que realice un torbellino de ideas sobre la noción de ciberacoso y sobre los aspectos más relevantes que aparecen en el videojuego Concordia Blogger V, haciendo un vaciado en la pizarra con las ideas principales. A continuación, el profesorado-tutor iniciará un debate para compartir las ideas expresadas en clase por el alumnado:\n\nIdea 1 Idea 2 Idea 3 Idea...\n\nIdeas del alumnado sobre ciberacoso\n\nEn la segunda parte de la actividad, se propondrá al alumnado que proporcione una definición del concepto de ciberacoso, también en esta ocasión el profesorado-tutor hará un vaciado en la pizarra con las definiciones principales. Después, el profesorado-tutor leerá una definición de ciberacoso comentándola con el alumnado:\n\nDefinición de ciberacoso\n\nEl ciberacoso, también conocido como acoso virtual, tiene lugar a través de dispositivos digitales como teléfonos móviles, ordenadores y tabletas. El ciberacoso puede llevarse a cabo mediante mensajes de texto e imágenes, o bien por Internet en las redes sociales, foros o juegos donde las personas pueden ver, participar o compartir contenido.\n\nEl ciberacoso incluye enviar, publicar o compartir contenido negativo, perjudicial, falso, o cruel sobre otra persona. Esto puede incluir compartir información personal o privada sobre alguien, provocándole humillación o vergüenza.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-06-a2",
+    "titol": "¿Se lo tiene merecido o hay que defenderla?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-06",
+    "etiquetes": [
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Ordenadores o tabletas con conexion a internet. Proyector o pantalla con sonido.",
+    "resum": "El profesorado-tutor pedirá al alumnado que vea la introducción de Horror en la red, el videojuego en el que se trata el tema del ciberacoso; después formarán grupos de 4-6 personas para hacer un debate entre los que están a favor de…",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El profesorado-tutor pedirá al alumnado que vea la introducción de Horror en la red, el videojuego en el que se trata el tema del ciberacoso; después formarán grupos de 4-6 personas para hacer un debate entre los que están a favor de Miarka, la joven acosada, y los que están en su contra. La actividad tendrá una duración de aproximadamente quince minutos, y han de elaborar un listado de argumentos en contra y a favor de la protagonista del videojuego. Seguidamente, cada grupo jugará al videojuego hasta llegar al final del primer nivel del juego (la primera actualización del blog). La actividad terminará con una puesta en común en el que un/una representante de cada grupo explicará los argumentos a los que han llegado tanto a favor como en contra de Miarka.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-06-a3",
+    "titol": "¿Existen límites al ciberacoso?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-06",
+    "etiquetes": [
+      "expressio-corporal"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Ordenadores o tabletas con conexion a internet.",
+    "resum": "En la primera parte de esta actividad, los mismos grupos formados por el alumnado para el desarrollo de la actividad 1 se dedicarán a superar el segundo nivel del juego Horror en la red (la segunda actualización del blog).",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En la primera parte de esta actividad, los mismos grupos formados por el alumnado para el desarrollo de la actividad 1 se dedicarán a superar el segundo nivel del juego Horror en la red (la segunda actualización del blog).\n\nUna vez terminado el segundo nivel, el profesorado-tutor propondrá al alumnado una serie de frases para que, de forma individual, escoja aquella con la que se sientan más identificados (cuadro 1), teniendo unos 15 minutos para pensar en los argumentos que apoyan o refutan la frase elegida.\n\nA continuación, el alumnado que haya seleccionado la misma frase (esté a favor o en contra) se reunirá en grupo para intercambiar opiniones. Al terminar, cada representante del grupo deberá exponer al resto de la clase, de forma argumentada, la interpretación de la frase elegida.\n\nCUADRO 1. Temas propuestos\n\n1. No es ningún delito opinar acerca de lo que hace o dice una persona, o sobre lo que publica en sus perfiles en redes sociales. Una opinión, guste o no guste, siempre debe poder expresarse, si a la persona que la recibe le parece ofensiva o denigrante, es su problema.\n\n2. Hoy en día, reenviar material ofensivo, inapropiado o que atenta contra la intimidad de alguien es normal. Si no somos los autores de tal material, no tenemos ninguna culpa ni ninguna responsabilidad.\n\n3. Si recibimos material que puede ofender, injuriar o humillar a alguien es mejor no hacer nada. Por mucho que hagamos, ya se habrá difundido en todos los grupos y redes sociales.\n\n4. Enviar fotos íntimas o vídeos es lo que hace todo el mundo. Si le envías ese material a alguien tan vil como para usarlo para hacerte daño, la culpa es tuya.\n\n5. Si te sacas fotos sin ropa y las envías, te estás poniendo en evidencia. Después, no puedes quejarte si la gente te hace propuestas de índole sexual.\n\nAl finalizar la actividad, se hará un pequeño muestreo para conocer la opinión de cada alumno sobre el tema debatido y saber si alguno ha cambiado de planteamiento tras el ejercicio realizado y por qué.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-3-06-a4",
+    "titol": "¿Qué podemos hacer frente al ciberacoso?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "3eso"
+    ],
+    "unitat": "hebe-3-06",
+    "etiquetes": [
+      "interior"
+    ],
+    "durada": 55,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Ordenadores o tabletas con conexion a internet. Proyector o pantalla con sonido.",
+    "resum": "El alumnado volverá a separarse en grupos y terminará de jugar al videojuego Horror en la red. El juego finaliza con una conversación con Miarka, la chica acosada.",
+    "objectius": "",
+    "participants": "Alumnado de 3.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El alumnado volverá a separarse en grupos y terminará de jugar al videojuego Horror en la red. El juego finaliza con una conversación con Miarka, la chica acosada.\n\nSeguidamente, el profesorado-tutor propondrá al alumnado la redacción de un listado de buenas prácticas para prevenir y reaccionar frente al ciberacoso a partir de los argumentos aprendidos en el videojuego y los argumentos surgidos en el aula (cuadro 2).\n\nCUADRO 2. Listado de buenas prácticas para prevenir y enfrentarse al ciberacoso\n\nPARTE I. BUENAS PRÁCTICAS PARA PREVENIR EL CIBERACOSO Ej.: No utilizamos el móvil o Internet para difundir material ofensivo, humillante o que atenta contra la intimidad de otras personas.\n\nPARTE II. BUENAS PRÁCTICAS PARA ENFRENTARSE AL CIBERACOSO Ej.: Si somos víctimas de ciberacoso, debemos buscar apoyo.\n\nEnseñar a convivir",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04",
+    "titol": "8 cosas que hacer, 8 cosas que dar en el arte de vivir",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "activitats": [
+      "hebe-4-04-a1",
+      "hebe-4-04-a2",
+      "hebe-4-04-a3",
+      "hebe-4-04-a4",
+      "hebe-4-04-a5"
+    ],
+    "etiquetes": [
+      "competitiu",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 165,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Las emociones son muy importantes en nuestra vida y de ellas dependen nuestras decisiones más significativas, por lo que debemos conocer nuestros sentimientos y aprender a manifestarlos y controlarlos.",
+    "objectius": "• Desarrollar competencias afectivas en las relaciones con los demás.\n\n• Conocer estrategias activas para aprender a amar.\n\n• Reconocer la igualdad emocional de los chicos y las chicas.\n\n• Reflexionar sobre la masculinización/feminización de ciertas profesiones y sobre la elección sociolaboral por razón de género.",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Las emociones son muy importantes en nuestra vida y de ellas dependen nuestras decisiones más significativas, por lo que debemos conocer nuestros sentimientos y aprender a manifestarlos y controlarlos. Además, está ampliamente extendida la creencia de que la realidad emocional de hombres y mujeres es diferente, considerándose que las primeras se mueven más con el corazón y los segundos con la cabeza. Se precisa, por lo tanto, de una educación emocional que permita cuestionar los estereotipos afectivos que el alumnado utiliza en sus relaciones; estos, además, pueden influir en su elección profesional.\n\nActividades de la unidad:\n\n1. El amor siempre está a tu alcance\n\n2. Ocho cosas que hacer por amor\n\n3. Ocho cosas que dar por amor\n\n4. ¿Aman por igual chicos y chicas?\n\n5. ¿Tienen sexo las profesiones?",
+    "avaluacio": "",
+    "notes": "Temporalización: La unidad se desarrollará, aproximadamente, en 2 o 3 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\n• Conciencia y expresiones culturales.\n\nContenidos: De conceptos:\n\n• Relaciones familiares y sociales.\n\n• Género.\n\n• Estereotipos.\n\nDe procedimientos:\n\n• Lectura de textos.\n\n• Trabajo individual con puesta en común y síntesis final.\n\n• Análisis crítico de textos.\n\nDe actitudes:\n\n• Disposición sincera frente a los sentimientos y expresiones de amor.\n\n• Actitud crítica hacia nuestras mismas acciones y creencias.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04-a1",
+    "titol": "El amor siempre está a tu alcance",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-04",
+    "etiquetes": [
+      "emocions",
+      "moviment",
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "En nuestro camino vital, es posible que vivamos desengaños, decepciones y sinsabores. Recuperarnos de estas situaciones puede ser muy difícil; sentimos tristeza, rabia, resentimiento.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En nuestro camino vital, es posible que vivamos desengaños, decepciones y sinsabores. Recuperarnos de estas situaciones puede ser muy difícil; sentimos tristeza, rabia, resentimiento. Todas estas sensaciones se transforman, a veces, en una marca indeleble que nos cambia para siempre. El propósito de esta actividad es aprender a superar esos momentos en los que nos sentimos heridos, o culpables por haber dañado a los demás, y seguir adelante sin dejar de confiar en el amor. El alumnado dispondrá de 20 minutos para leer el siguiente texto (cuadro 1) y después se dividirán en grupos de 4-6 personas para hacer una puesta en común sobre el tema.\n\nCUADRO 1\n\n• Piensa y no te dejes influir por lo negativo. Recuerda cómo actuaste en tus mejores momentos y cómo te sentiste (con la familia, con los amigos, con tu pareja…) ¿Estás de acuerdo con el siguiente texto?\n\nEl amor siempre está ahí, a tu alcance, pero depende mucho de tu actitud. Es posible que cuando te des cuenta de que está a tu alcance te eches para atrás. Puede que dudes o tengas miedo a ser rechazado o rechazada, a no estar a la altura y saberlo llevar. A lo mejor quieres negarlo para proteger tus sentimientos, actitudes o creencias; incluso puede ser que niegues lo evidente para probar que tenías razón al pensar lo que pensabas. Puede suceder también que te sientas tonto o tonta por haber excluido el amor durante tanto tiempo o que pienses que no lo mereces…\n\n¿No te das cuenta de que actuando así tú pierdes? Si descubres que es fácil, no te eches para atrás (¡o no te eches a correr!). Si un día «metiste la pata» no te castigues más. Si dudas o tienes temor de no estar a la altura, no lo pospongas más dejándolo para más tarde. Recuerda que el amor está a tu alcance usando los pensamientos y actitudes adecuadas.\n\n¡Comienza a amar!",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04-a2",
+    "titol": "Ocho cosas que hacer por amor",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-04",
+    "etiquetes": [
+      "cercle",
+      "competitiu",
+      "emocions"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "En esta actividad te proponemos hacer un test que te dice cómo es tu estado de amor en este momento hacia ti mismo o misma y hacia los demás (amigos, familia, etc.).",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En esta actividad te proponemos hacer un test que te dice cómo es tu estado de amor en este momento hacia ti mismo o misma y hacia los demás (amigos, familia, etc.). Estas son ocho cosas que hacer por amor (cuadro 2), es decir, ocho pautas a seguir si quieres aprender a amarte a ti mismo o misma y a tus seres queridos. Léelas atentamente y analiza si haces lo que cada una implica. Después valora cada cuestión desde 0 (no estás nada de acuerdo) hasta 4 (estás totalmente de acuerdo).\n\nCUADRO 2. Ocho cosas que hacer por amor\n\n1. Dar\n\n2. Responder\n\n3. Respetar\n\n4. Comprender\n\n5. Ser abierto y afable\n\n6. Cercanía\n\nSoy capaz de entregarme a los demás de muchas maneras. No me preocupa recibir, sino desarrollar mi capacidad para dar.\n\nCreo que responder es ser responsable. Es importante responderme a mí mismo y a los demás.\n\nRespeto mis emociones y las de los demás; las personas debemos expresar nuestras emociones sin herir a los otros/as.\n\nInvierto mucho tiempo tratando de comprenderme o de comprender a otros/as: lo importante no es ser comprendido/a, sino ser comprensivo/a.\n\nCreo que ser tierno/a, cercano/a o afable no implica que los demás me consideren débil.\n\nNo me alejo de las personas que no entiendo, pues creo que pueden cambiar.\n\nPUNTOS 01234 01234 01234 01234\n\n01234 01234\n\n7. Implicación y compromiso\n\n8. Interés\n\nTengo el valor de implicarme y comprometerme, de amar y ser responsable cuidando el amor. No temo al rechazo o a la humillación.\n\nTengo interés en mí mismo, en la manera en que va marchando mi vida y en los demás.\n\nTotal puntos\n\n01234 01234\n\n¿Cuántos puntos has sumado? Confirma tus resultados.\n\n— Si tienes entre 35 y 40 puntos, estás actuando muy bien. Sigue practicando las ocho pautas, y una vez que tengas bastante destreza, expande ese amor aún más. Al expandir el círculo, se intensifica el amor hacia ti mismo y hacia los demás. Todo esto genera una situación anímica mejor.\n\n— Si son entre 30 y 25, vas por buen camino. Sigue en tu actitud, pero intenta mejorar y no hagas difícil el amar para poder justificar y racionalizar algunos aspectos de tu vida. Sabes cómo amar, lo que pasa es que a veces te resulta más sencillo pensar que no es así y no amar. La clave está en pensar que el amor siempre comienza contigo mismo o misma. — Si son menos de 25 puntos, la cuestión es que practiques las ocho pautas de forma consciente. Practica tu hacer y ser de amor. Luego, el siguiente paso es expandir el amor para incluir a alguien específico que sea importante para ti y después seguir expandiendo el amor cada vez más.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04-a3",
+    "titol": "Ocho cosas que dar por amor",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-04",
+    "etiquetes": [
+      "competitiu",
+      "emocions",
+      "escriptura"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad.",
+    "resum": "El amor no es solo hacer, sino también dar, y contagiar estados de ánimo y sentimientos. Entregar a los demás nuestros recursos más preciados como el apoyo, la seguridad o la comunicación significa desempeñar un papel activo en nuestras…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El amor no es solo hacer, sino también dar, y contagiar estados de ánimo y sentimientos. Entregar a los demás nuestros recursos más preciados como el apoyo, la seguridad o la comunicación significa desempeñar un papel activo en nuestras relaciones de afecto, cariño, amistad, amor, etc. En esta actividad te proponemos un test para comprobar tu capacidad de dar y vivir el amor de forma activa. Lee las pautas que siguen y analiza si haces lo que cada una implica. Después valora cada cuestión desde 0 (no estás nada de acuerdo) hasta 4 (estás totalmente de acuerdo).\n\nCUADRO 3. Ocho cosas que dar por amor\n\n1. Seguridad para ti y para otros\n\n2. Bienestar para ti o los otros\n\n3. Sinceridad\n\n4. Confianza en ti mismo\n\n5. Confianza en los otros\n\nSuelo apoyar a los demás, pues es el punto de partida para sentirnos protegidos en los momentos más difíciles.\n\nSuelo dar, responder, conocerme a mí mismo o a los demás, a fin de proporcionarles bienestar a corto y a largo plazo.\n\nSoy sincero, justo y razonable. Soy capaz de crear el espacio para exponer sin miedo mis ansiedades y dudas, y de bajar los muros defensivos tras los que me oculto.\n\nTengo confianza en mí mismo; ello me aporta la energía necesaria para superar los retos de cada día.\n\nConfío en los demás: es uno de los mejores regalos que puedo ofrecerles.\n\nPUNTOS 01234 01234 01234\n\n01234 01234\n\n6. Reducción del miedo a la pérdida del amor\n\n7. Comunicación\n\n8. Conocimiento de la fuerza y de la debilidad\n\nProcuro reducir mi miedo cada vez que temo perder el amor; así facilito que el amor fluya. El truco es respirar hondo, dar, responder, respetar… e interesarme.\n\nActúo de manera tal que genero una buena comunicación: cercanía, libertad y seguridad.\n\nAdmito mi fuerza y mi debilidad, incluso me permito amarlas. Hago saber al otro que veo su belleza y su lado no bello y que, de todos modos, lo amo.\n\nTotal puntos\n\nPUNTOS 01234\n\n01234 01234\n\n¿Cuántos puntos has sumado? Confirma tus resultados:\n\n— Si tienes entre 35 y 40 puntos, estás creando un alto nivel de amor a tu alrededor. Estarás disfrutando de estos estados de ánimo y probablemente los estarás compartiendo con otros.\n\n— Si tienes entre 30 y 25 puntos, vas por buen camino. Sigue compartiendo tus estados de ánimo de amor con los demás, todavía puedes mejorar.\n\n— Si tienes menos de 25 puntos, debes practicar estas pautas, empezando con las personas más cercanas a ti. No desesperes, aún estás a tiempo.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04-a4",
+    "titol": "¿Aman por igual chicos y chicas?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-04",
+    "etiquetes": [
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "En esta actividad se propone una reflexión sobre los resultados obtenidos en las actividades 2 y 3, con la finalidad de cuestionar los estereotipos afectivos que el alumnado utiliza en sus relaciones.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En esta actividad se propone una reflexión sobre los resultados obtenidos en las actividades 2 y 3, con la finalidad de cuestionar los estereotipos afectivos que el alumnado utiliza en sus relaciones. Para abrir el debate el profesorado-tutor puede plantear preguntas tales como: ¿Creen que los chicos tendrán una puntuación diferente a la de las chicas?, ¿Quiénes creen que obtendrán una puntuación mayor, las chicas o los chicos? ¿Expresan mejor sus sentimientos las chicas? ¿Tienen miedo a mostrar sus sentimientos los chicos?\n\n¿Por qué? Con la reflexión sobre cuestiones como estas se pretende lograr un consenso en el que se reconozca la igualdad emocional de chicos y chicas.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-04-a5",
+    "titol": "¿Tienen sexo las profesiones?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-04",
+    "etiquetes": [
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "En el debate anterior se puso de manifiesto las diferentes percepciones que el alumnado tiene de la realidad emocional de los chicos y las chicas, percepciones en las que se tiende a asociar a la mujer con los sentimientos y al hombre con…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En el debate anterior se puso de manifiesto las diferentes percepciones que el alumnado tiene de la realidad emocional de los chicos y las chicas, percepciones en las que se tiende a asociar a la mujer con los sentimientos y al hombre con la cabeza. Puesto que esta asociación tiene graves consecuencias para la elección sociolaboral del alumnado, se propone un debate en torno a la masculinización o feminización de ciertas profesiones, en el que se reflexionará si las chicas deben elegir profesiones relacionadas con los sentimientos (tales como las Humanidades y Sociales) y los chicos, con el razonamiento (tales como las Matemáticas).",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-05",
+    "titol": "¡Soy ciudadano del mundo!",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "activitats": [
+      "hebe-4-05-a1",
+      "hebe-4-05-a2",
+      "hebe-4-05-a3"
+    ],
+    "etiquetes": [
+      "competitiu",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 110,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "La movilidad es uno de los retos de vivir en un mundo globalizado y con espacios de educación superior comunes. Ahora bien, cambiar de residencia exige realizar previamente un análisis crítico de la situación, de los medios y recursos…",
+    "objectius": "• Analizar el papel de la movilidad en nuestros días.\n\n• Tomar conciencia de la importancia de la movilidad en el mundo actual.\n\n• Conocer las posibilidades de cercanía y contacto que ofrecen las nuevas tecnologías y los avances en los medios de transporte para el fenómeno de la movilidad.\n\n• Suscitar el interés por la búsqueda de información antes de emprender un proceso de movilidad laboral o académica.",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "La movilidad es uno de los retos de vivir en un mundo globalizado y con espacios de educación superior comunes. Ahora bien, cambiar de residencia exige realizar previamente un análisis crítico de la situación, de los medios y recursos disponibles para el proceso de movilidad y de los beneficios que nos puede aportar esta decisión. Por ello, es importante que el alumnado reflexione sobre este punto en un momento tan decisivo para su futuro como es la etapa de la educación secundaria.\n\nActividades de la unidad:\n\n1. ¿Estamos tan lejos?\n\n2. La información es poder\n\n3. Elaboro mi propio decálogo",
+    "avaluacio": "",
+    "notes": "Temporalización: Esta unidad se desarrollará, aproximadamente, en 2 sesiones de tutoría.\n\nCompetencias: • Comunicación lingüística.\n\n• Competencia digital.\n\n• Competencias sociales y cívicas.\n\n• Conciencia y expresiones culturales.\n\nContenidos: De conceptos:\n\n• Movilidad.\n\n• Globalización.\n\nDe procedimientos:\n\n• Búsqueda de las diferencias y similitudes entre los procesos de movilidad de los antepasados y los que se producen en el momento presente.\n\n• Síntesis y presentación de información relevante sobre la movilidad.\n\nDe actitudes:\n\n• Interés por la búsqueda de información antes de emprender un proceso de movilidad.\n\n• Valoración de las posibilidades de cercanía y contacto que ofrecen las nuevas tecnologías y los avances en los medios de transporte.\n\n• Valoración de los aspectos positivos de la movilidad en la formación del carácter y en la interacción interpersonal.",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-05-a1",
+    "titol": "¿Estamos tan lejos?",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-05",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "En nuestro entorno trasladarse a vivir a un lugar diferente del que se ha nacido era algo habitual hasta hace algunas décadas.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En nuestro entorno trasladarse a vivir a un lugar diferente del que se ha nacido era algo habitual hasta hace algunas décadas. Sin embargo, la mejora en las condiciones de vida ha supuesto un mayor sedentarismo y apego al lugar de nacimiento.\n\nEn este momento, entre las exigencias de vivir en un mundo globalizado se encuentra la de ser flexible para cambiar el lugar de residencia. Con esta actividad se trata de que analices las diferencias y similitudes existentes entre el proceso migratorio de nuestros antepasados y los que se están produciendo en la actualidad.\n\nEn grupos de 3 o 4 personas se contestará a las siguientes cuestiones:\n\n1. ¿Crees que los motivos por los que viajaban nuestros antepasados eran los mismos por los que se viaja en la actualidad? ¿Por qué?\n\n2. ¿Consideras que existen diferencias entre las condiciones que se encontraban nuestros antepasados al llegar al destino y las que se pueden dar en la actualidad cuando se decide cambiar de residencia por motivos de estudio o trabajo?\n\n3. ¿Cuáles eran las principales dificultades con las que se encontraban nuestros antepasados para mantener el contacto con los familiares del lugar de nacimiento? ¿Sucede lo mismo en estos momentos?\n\n4. ¿Crees que existen ventajas en la movilidad actual sobre la que se llevaba a cabo hace unas décadas? ¿Cuáles?\n\n5. Si tuvieras que trasladarte a vivir lejos de tu comunidad, ¿qué medios utilizarías para estar en contacto con tus familiares y amigos?\n\nEl paso final de la actividad consiste en una puesta en común de las respuestas de cada grupo y un debate sobre las cuestiones planteadas.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-05-a2",
+    "titol": "La información es poder",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-05",
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Imagina que has terminado el curso y has decidido viajar lejos de donde vives habitualmente para cursar estudios superiores. Contesta de manera individual a las siguientes cuestiones: 1.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Imagina que has terminado el curso y has decidido viajar lejos de donde vives habitualmente para cursar estudios superiores. Contesta de manera individual a las siguientes cuestiones:\n\n1. En el caso de que el lugar de destino fuera otra comunidad autónoma, ¿qué harías antes de emprender el viaje para conocer el lugar? ¿Y si hubieses decidido ir a otro país?\n\n2. ¿Qué tipo de información te parece más relevante conocer antes de llegar?\n\n3. ¿Dónde buscarías la información necesaria? ¿Pedirías ayuda a alguien?\n\n4. Una vez que hayas llegado, ¿qué pasos seguirías para facilitar tu proceso de transición?\n\n5. En el caso de que tuvieses dificultades con el idioma del país, ¿qué estrategias pondrías en marcha para conocer gente (antes de llegar y una vez instalado)?\n\n6. ¿Consideras que el trasladarte a vivir lejos de tu residencia habitual puede producir cambios en tu personalidad? ¿De qué tipo?\n\n7. ¿Crees que la formación inicial que se da en nuestro país prepara al alumnado para la movilidad? ¿Por qué?\n\nEl paso final de la actividad consistirá en la puesta en común de las respuestas de cada uno y el correspondiente debate de las cuestiones planteadas.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-05-a3",
+    "titol": "Elaboro mi propio decálogo",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-05",
+    "etiquetes": [
+      "competitiu"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pizarra, cartulinas y material de escritura.",
+    "resum": "Con lo que se ha trabajado en esta unidad y los conocimientos previos del alumnado se elaborará (por grupos de 3 o 4 personas) un mural donde queden plasmados diez puntos a tener en cuenta sobre la movilidad.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "Con lo que se ha trabajado en esta unidad y los conocimientos previos del alumnado se elaborará (por grupos de 3 o 4 personas) un mural donde queden plasmados diez puntos a tener en cuenta sobre la movilidad. Cada grupo podrá darle el enfoque que desee a su decálogo (consejos a tener en cuenta antes de viajar, recomendaciones al llegar al lugar de destino, ventajas de la movilidad, pasos a seguir antes de tomar una decisión sobre el traslado a otro lugar para estudiar o trabajar, lugares donde se puede buscar información antes del viaje, etc.). Lo interesante es que cada grupo haga un mural diferente y que se aborden los principales tópicos sobre el fenómeno de la movilidad.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06",
+    "titol": "Soy moro, negro, cristiano, sudaca…, ¿y tú?…",
+    "tipus": "unitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "activitats": [
+      "hebe-4-06-a1",
+      "hebe-4-06-a2",
+      "hebe-4-06-a3",
+      "hebe-4-06-a4",
+      "hebe-4-06-a5"
+    ],
+    "etiquetes": [
+      "interior",
+      "reflexio"
+    ],
+    "durada": 165,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "La interculturalidad es uno de los grandes desafíos para el siglo . Con esta unidad se pretende que el alumnado desarrolle acciones que favorezcan una verdadera educación intercultural, promoviendo el conocimiento de las culturas…",
+    "objectius": "• Favorecer la convivencia intercultural dentro del aula a través de la comunicación, el acercamiento, la comprensión mutua, el diálogo, etc., con la consiguiente superación de prejuicios e impulso de cambios en las actitudes.\n\n• Promover foros de discusión, debate, reflexión e intercambio de experiencias educativas en torno a la interculturalidad.\n\n• Educar en valores, potenciando la convivencia democrática, la solidaridad, la tolerancia, así como el pensamiento crítico y abierto como elementos preventivos de la xenofobia y el racismo.",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "La interculturalidad es uno de los grandes desafíos para el siglo . Con esta unidad se pretende que el alumnado desarrolle acciones que favorezcan una verdadera educación intercultural, promoviendo el conocimiento de las culturas minoritarias, normalizando la diversidad y desarrollando actitudes, valores y conductas que modifiquen estereotipos y prejuicios, y eviten la discriminación dentro y fuera del aula.\n\nActividades de la unidad:\n\n1. Un paseo por las ONG\n\n2. Cine de colores\n\n3. Álbum de fotos\n\n4. ¡Tararea tolerancia!\n\n5. Lobos con piel de cordero",
+    "avaluacio": "",
+    "notes": "Competencias: • Comunicación lingüística.\n\n• Competencias sociales y cívicas.\n\n• Conciencia y expresiones culturales.\n\nContenidos: De conceptos:\n\nDe procedimientos:\n\n• Inmigración, interculturalidad, identidad, multiculturalidad.\n\n• Procesos migratorios.\n\n• Actitudes, prejuicios, estereotipos, discriminación.\n\n• Empatía.\n\n• Dramatización de situaciones de empatía con otras etnias.\n\n• Participación como voluntarios en programas de ayuda al inmigrante (canalizando esta ayuda a través de las ONG).\n\n• Participación en foros de discusión, reflexión y análisis, debate, etc., en torno a la inmigración.\n\nDe actitudes:\n\n• Actitud crítica con respecto al valor que le otorgamos a otras culturas diferentes a la nuestra.\n\n• Adopción de posturas a favor de la integración de otras culturas.\n\n• Valoración de la diversidad cultural como punto de encuentro entre las culturas.\n\n• Sensibilidad y respeto hacia la vestimenta, culto, etc., de las minorías.\n\n• Valoración del diálogo y de la música como instrumentos para solucionar los problemas de convivencia. TEMPORALIZACIÓN\n\nLa unidad se desarrollará, aproximadamente, en 4 o 5 sesiones de tutoría. ACTIVIDADES\n\n1. Un paseo por las ONG.\n\n2. Cine de colores.\n\n3. Álbum de fotos.\n\n4. ¡Tararea tolerancia!\n\n5. «Lobos con piel de cordero».",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06-a1",
+    "titol": "Un paseo por las ONG",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-06",
+    "etiquetes": [
+      "interior"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Ordenadores o tabletas con conexion a internet.",
+    "resum": "En esta primera actividad proponemos que un pequeño grupo de voluntarios que participan en diversas ONG (Médicos sin Fronteras, Red Acoge, CEAR, Cruz Roja, etc.) imparta una charla informativa en el aula con el objetivo de mostrar al…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "En esta primera actividad proponemos que un pequeño grupo de voluntarios que participan en diversas ONG (Médicos sin Fronteras, Red Acoge, CEAR, Cruz Roja, etc.) imparta una charla informativa en el aula con el objetivo de mostrar al alumnado las diferentes «fotografías de la realidad» de la inmigración. El profesorado-tutor deberá dinamizar esta charla haciendo partícipe al alumnado, creando foros de discusión, intercambio de impresiones, debates, etc.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06-a2",
+    "titol": "Cine de colores",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-06",
+    "etiquetes": [
+      "interior",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Proyector o pantalla con sonido.",
+    "resum": "El profesor-tutor proyectará en el aula diferentes películas que «fotografían» el calvario de la inmigración en los diferentes países emisores de inmigrantes.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El profesor-tutor proyectará en el aula diferentes películas que «fotografían» el calvario de la inmigración en los diferentes países emisores de inmigrantes. Se abrirá un debate en clase en torno a ellas con el fin de fomentar el espíritu crítico dentro del aula y de potenciar la empatía con los más desfavorecidos, además de trabajar con el alumnado los conceptos de: proceso migratorio, interculturalidad, etnias, asilo, etc. Algunas de estas películas podrían ser:\n\n— Jaula de oro (2013). — El viaje de Said (cortometraje, 2007). — Nuevo Mundo (2006). — En este mundo (2002).",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06-a3",
+    "titol": "Álbum de fotos",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-06",
+    "etiquetes": [
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
+    "resum": "El tutor repartirá a cada grupo de alumnos formados por 4 personas un álbum de fotos que contenga fotografías de personas de diferentes etnias y procedencias.",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El tutor repartirá a cada grupo de alumnos formados por 4 personas un álbum de fotos que contenga fotografías de personas de diferentes etnias y procedencias. Tras una observación detenida, el alumnado contestará a las siguientes preguntas:\n\nSi tuvieras que: — Hacer un trabajo de clase, preferiría que fuera una persona de etnia/procedencia _________________________________ — Ir al cine, preferiría que fuera una persona de etnia/procedencia _______________________________________________ — Elegir a un compañero de clase para hacer un trabajo de investigación, preferiría que fuera una persona de etnia/ procedencia __________________________________________ — Pedir consejo, preferiría que fuera una persona de etnia/ procedencia __________________________________________ — Estudiar para un examen, preferiría que fuera una persona de etnia/procedencia _________________________________ — Irme de marcha, preferiría que fuera una persona de etnia/ procedencia __________________________________________ — Elegir a un compañero o compañera de trabajo, preferiría que fuera una persona de etnia/procedencia _____________ — Elegir una pareja, preferiría que fuera una persona de etnia/ procedencia __________________________________________ — Elegir a un compañero o compañera de clase para irme de viaje con el IES, preferiría que fuera una persona de etnia/ procedencia __________________________________________\n\n— Presentarme a una entrevista de trabajo, preferiría que el entrevistador fuera una persona de etnia/procedencia ____\n\n— Elegir a un amigo o amiga para contarle mis confidencias, preferiría que fuera una persona de etnia/procedencia ____\n\n— Asistir a distintas sesiones para que me asesoraran a nivel vocacional y profesional, preferiría que mi orientador fuera una persona de etnia/procedencia ______________________\n\n— Elegir un trabajo para desempeñar en un futuro, preferiría que mis compañeros y usuarios fueran todos de etnia/procedencia _____________________________________________\n\nEl profesorado-tutor analizará las respuestas del alumnado a través de la dinamización de una puesta en común, en donde se recogerán, en una tabla en la pizarra, las diferentes opciones propuestas por el alumnado. El fin último será que el profesoradotutor, posteriormente, trabaje con el alumnado los prejuicios y estereotipos que giran en torno a cada una de las etnias.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06-a4",
+    "titol": "¡Tararea tolerancia!",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-06",
+    "etiquetes": [
+      "competitiu",
+      "musica"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Proyector o pantalla con sonido.",
+    "resum": "El alumnado escuchará la canción de Jorge Drexler: Milonga del moro judío. A continuación, a nivel grupal, analizarán las diferentes religiones que aparecen en el texto, los mensajes subliminales, el fenómeno de las guerras santas, la…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El alumnado escuchará la canción de Jorge Drexler: Milonga del moro judío. A continuación, a nivel grupal, analizarán las diferentes religiones que aparecen en el texto, los mensajes subliminales, el fenómeno de las guerras santas, la tolerancia a otras religiones, culturas, etc. A continuación, el profesorado-tutor repartirá cada una de las estrofas de la canción a los diferentes grupos, formados por dos personas cada uno, y reinventarán una nueva estrofa con contenidos que apelen al respeto y a la tolerancia entre culturas.\n\nMilonga del moro judío (J. Drexler)\n\nPor cada muro un lamento, en Jerusalén la dorada, y mil vidas malgastadas por cada mandamiento. Yo soy polvo de tu viento y aunque sangro de tu herida, y cada piedra querida guarda mi amor más profundo, no hay una piedra en el mundo que valga lo que una vida. Yo soy un moro judío que vive con los cristianos, no sé qué dios es el mío ni cuáles son mis hermanos. no sé qué dios es el mío ni cuáles son mis hermanos. No hay muerto que no me duela, no hay un bando ganador, no hay nada más que dolor y otra vida que se vuela.\n\nLa guerra es muy mala escuela, no importa el disfraz que viste, perdonen que no me aliste bajo ninguna bandera, Vale más cualquier quimera que un trozo de tela triste. Yo soy un moro judío que vive con los cristianos, no sé qué dios es el mío ni cuáles son mis hermanos. No sé qué dios es el mío ni cuáles son mis hermanos. Yo a nadie le di permiso para matar en mi nombre, un hombre no es más que un hombre y si hay dios así lo quiso. El mismo suelo que piso seguirá, yo me habré ido rumbo también del olvido, no hay doctrina que no vaya, Y no hay pueblo que no se haya creído el pueblo elegido. Yo soy un moro judío que vive con los cristianos, no sé qué dios es el mío ni cuáles son mis hermanos. No sé qué dios es el mío ni cuáles son mis hermanos.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  },
+  {
+    "id": "hebe-4-06-a5",
+    "titol": "Lobos con piel de cordero",
+    "tipus": "activitat",
+    "categoria": "ser-persona",
+    "nivells": [
+      "4eso"
+    ],
+    "unitat": "hebe-4-06",
+    "etiquetes": [
+      "cooperatiu",
+      "escriptura",
+      "expressio-corporal",
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "El objetivo de esta actividad es que los estudiantes identifiquen y analicen las formas, encubiertas y/o explícitas, de respuesta social que existen en su entorno ante la diferencia de cultura, la procedencia, etc., de ciertos colectivos…",
+    "objectius": "",
+    "participants": "Alumnado de 4.º de ESO.",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El objetivo de esta actividad es que los estudiantes identifiquen y analicen las formas, encubiertas y/o explícitas, de respuesta social que existen en su entorno ante la diferencia de cultura, la procedencia, etc., de ciertos colectivos de inmigrantes. Un pequeño grupo de estudiantes representarán distintas situaciones de acuerdo con unos papeles previamente fijados.\n\n— En primer lugar, se seleccionarán a los «actores» y «actrices» y se distribuirán los papeles. A continuación, se leerán en voz alta, para todo el grupo, los rasgos que caracterizan a cada personaje. Posteriormente, se describirá la situación a representar, acordando y aclarando todos los pormenores que sean necesarios. La duración estimada es de 30 a 40 minutos.\n\n— A continuación, se representará la situación, tratando de que esta se ajuste lo más posible a lo que los participantes crean que, en la realidad, harían y dirían los distintos personajes. Si la persona que coordine lo estima oportuno, puede dejar un tiempo (10-15 min.) para que los «actores» y «actrices» preparen la situación; no obstante la espontaneidad juega un importante papel. Mientras tanto el resto del grupo puede preparar un mínimo decorado para ambientar las situaciones que se van a representar. Las presentaciones tendrán una duración máxima de 20 minutos; mientras estas se desarrollan, el resto del grupo observa y toma nota de todas las intervenciones o incidencias que consideren significativas.\n\n— Al término de la representación, la persona que coordine abrirá un diálogo, recogiendo, en primer lugar, las opiniones de los observadores y las observadoras y, luego, las impresiones y opiniones de los actores y actrices. El coordinador o coordinadora podrá ayudar a la reflexión y el diálogo lanzando algunas preguntas tales como:\n\n• ¿La representación ha sido «fiel» a la realidad? ¿Se parece mucho o poco a lo que ocurre en la vida cotidiana? ¿Qué hemos echado en falta?¿Qué sobraba?\n\n• ¿Cuál/es de los personajes nos parece que refleja/n de forma más destacada las posturas mayoritarias en nuestro entorno?\n\n• A partir de lo que hemos visto y representado de nuestra experiencia personal, ¿podemos hacer una lista o relación de las actitudes sociales más comunes, en nuestro medio, ante las diferencias en función de la cultura, el origen, etc.?\n\nLa duración aproximada del debate será de 60 min.\n\nLOS PERSONAJES\n\nEl grupo puede elaborar los perfiles que considere más representativos o significativos de la realidad de su entorno. También puede utilizar todos o algunos de los personajes que se proponen a continuación:\n\nPersonaje A: una persona de unos cuarenta o cuarenta y cinco años, de nivel socioeconómico medio, con estudios medios. Tiene dos hijos y una hija, todos ellos entre los 12 y 17 años. Piensa que muchos de los crecientes problemas de inseguridad ciudadana están ligados al tráfico de drogas y al número, cada vez mayor, de inmigrantes extranjeros sin trabajo que se ven por las calles.\n\nPersonaje B: una persona joven, de veinte o veinticinco años. Acaba de terminar sus estudios. Se encuentra sin empleo, es soltera y vive en casa de sus padres, aunque quisiera poder vivir por su cuenta cuanto antes. Piensa que las condiciones de vida en los países de origen de los inmigrantes extranjeros son muy duras, lo que va a favorecer que sigan viniendo a países como el nuestro, y eso va a complicar aún más las posibilidades futuras de desarrollo personal y profesional de personas como ella.\n\nPersonaje C: una persona de treinta o treinta y cinco años. Tiene una pareja con la que vive desde hace tres años en una casa que están terminando de pagar. Desde hace siete años, esta persona es la encargada de un videoclub cuya propiedad comparte con otros dos socios. Cree que las costumbres y las formas de vida de los inmigrantes extranjeros son muy distintas de las nuestras, y que eso complica mucho las relaciones. Piensa que, a medio plazo, los inmigrantes traerán a sus familias, y ello planteará problemas de escuelas, servicios, vivienda, etc.\n\nPersonaje D: una persona de cincuenta o cincuenta y cinco años. Trabaja en la construcción o en la limpieza de oficinas. Su nivel socioeconómico es medio bajo y tiene estudios primarios. Está casada y tiene dos hijas y un hijo, entre los 20 y los 25 años de edad; la mayor de sus hijas está casada y los otros dos se encuentran en paro. En los dos últimos años está viendo, en su empresa, cómo muchos puestos de trabajo están siendo cubiertos con inmigrantes en condiciones muy precarias, sin derechos laborales y con sueldos bajos. Teme que esta situación deteriore sus propias condiciones de trabajo.\n\nLAS SITUACIONES\n\nIgual que en el caso anterior, el grupo puede elegir las situaciones que considere más representativas o significativas de su entorno o, en caso contrario, utilizar algunas de las que se proponen:\n\nSituación A: los personajes viajan en el mismo autobús. La persona que conduce (que puede ser representada por cualquier participante) ha echado violentamente del autobús a un inmigrante que pedía limosna, diciéndole en voz alta «¡Todos los de vuestra calaña sois unos ladrones!». Los personajes hablan entre sí.\n\nSituación B: los personajes están en el mismo bar. Quien hace el papel de camarero (que puede ser representado por cualquier participante) se niega a servir a una persona emigrante magrebí que ha pedido un vaso de agua y le empuja hacia la puerta alegando que «los moros alejan a los clientes». Los personajes comentan la situación.\n\nSituación C: los personajes forman parte de una comisión de vecinos que asesora al ayuntamiento en la adjudicación de diez viviendas sociales en el barrio. Entre las doce peticiones preseleccionadas, en igualdad de condiciones, se encuentran una familia de inmigrantes de raza negra. Tienen que decidir qué peticiones se desestimarán.\n\nSituación D: la asociación de vecinos a la que pertenecen los personajes ha solicitado una subvención al ayuntamiento para realizar un campamento de verano con los niños del barrio. El ayuntamiento condiciona esta subvención a que una cuarta parte de las plazas se destinen a hijos o hijas de inmigrantes. Los personajes discuten la situación para tomar una decisión.\n\nContenidos y/o temas que se deben tratar\n\nLas formas ocultas del rechazo social. En muchas ocasiones el rechazo no se manifiesta abiertamente de una forma verbal, sino a través de discriminaciones que tienen lugar en la vida cotidiana.\n\nLos rechazos socialmente «aceptados». Aquellas actitudes y comportamientos sociales discriminatorios o excluyentes que se consideran justificados o de importancia menor.\n\nLa pasividad como una forma de rechazo. La inhibición ante la discriminación y la injusticia o el rechazo «por omisión».\n\nEnseñar a convivir",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Programa HEBE. Una propuesta de accion tutorial para 3.º y 4.º de Educacion Secundaria Obligatoria (Santana Vega, Ruiz Alfonso y Trenta; Ediciones Piramide, 2023)"
+  }
+]

@@ -61,6 +61,34 @@
     return text.length > longitud ? text.slice(0, longitud).replace(/\s\S*$/, '') + '…' : text;
   }
 
+  /** Distintiu del tipus de proposta: dinàmica, activitat o unitat didàctica. */
+  function marca_tipus(d) {
+    return '<span class="etiqueta etiqueta--tipus etiqueta--' + esc(d.tipus) + '">' +
+      esc(TUT.data.nom_tipus(d.tipus)) + '</span>';
+  }
+
+  /** Nivells als quals s'adreça la proposta; buit vol dir «qualsevol curs». */
+  function marca_nivells(d) {
+    return (d.nivells || []).map(function (n) {
+      return '<span class="etiqueta etiqueta--nivell">' +
+        esc(TUT.data.nom_nivell(n)) + '</span>';
+    }).join('');
+  }
+
+  /** Peça de context: de quantes activitats consta o de quina unitat surt. */
+  function meta_relacio(d) {
+    if (d.activitats && d.activitats.length) {
+      return '<span>' + dom.icona('llista') + d.activitats.length + ' activitats</span>';
+    }
+    if (d.unitat) {
+      var pare = TUT.data.obte(d.unitat);
+      if (pare) {
+        return '<span>' + dom.icona('llista') + 'De «' + esc(pare.titol) + '»</span>';
+      }
+    }
+    return '';
+  }
+
   function marca_origen(d) {
     if (d.origen === 'propia') return '<span class="etiqueta etiqueta--propia">Pròpia</span>';
     if (d.origen === 'modificada') return '<span class="etiqueta etiqueta--propia">Editada</span>';
@@ -113,9 +141,12 @@
       ? '<span class="etiqueta">+' + (d.etiquetes.length - 3) + '</span>' : '';
     var vegades = TUT.store.vegades_a_sessio(d.id);
 
-    return '<article class="targeta' + (vegades ? ' targeta--a-la-sessio' : '') + '">' +
+    return '<article class="targeta targeta--' + esc(d.tipus) +
+      (vegades ? ' targeta--a-la-sessio' : '') + '">' +
       '<div class="fila" style="gap:6px">' +
+        marca_tipus(d) +
         '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.nom_categoria(d.categoria)) + '</span>' +
+        marca_nivells(d) +
         marca_origen(d) +
         marca_sessio(vegades) +
       '</div>' +
@@ -124,6 +155,7 @@
         '<span>' + dom.icona('rellotge') + dom.minuts(d.durada) + '</span>' +
         '<span>' + dom.icona('grup') + esc(TUT.data.nom_grup(d.grup)) + '</span>' +
         (d.materials ? '<span>' + dom.icona('caixa') + 'Amb material</span>' : '') +
+        meta_relacio(d) +
       '</div>' +
       '<p class="targeta__resum">' + esc(extracte(d)) + '</p>' +
       '<div class="targeta__peu">' +
@@ -136,15 +168,19 @@
   /** Fila compacta de dinàmica (vista de llista). */
   function fila(d) {
     var vegades = TUT.store.vegades_a_sessio(d.id);
-    return '<article class="targeta' + (vegades ? ' targeta--a-la-sessio' : '') +
+    return '<article class="targeta targeta--' + esc(d.tipus) +
+      (vegades ? ' targeta--a-la-sessio' : '') +
       '" style="flex-direction:row;align-items:center;gap:16px">' +
       '<div class="creix">' +
         '<h3 class="targeta__titol"><a href="#/dinamica/' + esc(d.id) + '">' + esc(d.titol) + '</a></h3>' +
         '<div class="targeta__meta" style="margin-top:4px">' +
+          marca_tipus(d) +
           '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.nom_categoria(d.categoria)) + '</span>' +
+          marca_nivells(d) +
           '<span>' + dom.icona('rellotge') + dom.minuts(d.durada) + '</span>' +
           '<span>' + dom.icona('grup') + esc(TUT.data.nom_grup(d.grup)) + '</span>' +
           (d.materials ? '<span>' + dom.icona('caixa') + 'Amb material</span>' : '') +
+          meta_relacio(d) +
           marca_origen(d) +
           marca_sessio(vegades) +
         '</div>' +
@@ -165,7 +201,7 @@
 
     var vegades = TUT.store.vegades_a_sessio(id);
     var previ = vegades
-      ? confirma('Aquesta dinàmica ja hi és',
+      ? confirma('Aquesta proposta ja hi és',
           '«' + d.titol + '» ja forma part de la sessió' +
           (vegades > 1 ? ' (' + vegades + ' vegades)' : '') +
           '. Vols afegir-la un altre cop?', 'Afegeix-la igualment')
@@ -206,6 +242,8 @@
     confirma: confirma,
     extracte: extracte,
     targeta: targeta,
+    marca_tipus: marca_tipus,
+    marca_nivells: marca_nivells,
     fila: fila,
     marca_sessio: marca_sessio,
     boto_afegeix: boto_afegeix,

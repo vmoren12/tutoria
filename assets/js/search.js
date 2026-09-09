@@ -7,6 +7,8 @@
 
   var FILTRES_INICIALS = {
     consulta: '',
+    tipus: [],
+    nivells: [],
     categories: [],
     etiquetes: [],
     grups: [],
@@ -20,7 +22,8 @@
   }
 
   function actius(filtres) {
-    return !!(filtres.consulta || filtres.categories.length || filtres.etiquetes.length ||
+    return !!(filtres.consulta || filtres.tipus.length || filtres.nivells.length ||
+      filtres.categories.length || filtres.etiquetes.length ||
       filtres.grups.length || filtres.durada_max || filtres.material !== 'tot' ||
       filtres.origen !== 'tot');
   }
@@ -39,6 +42,16 @@
           if (d._cerca.indexOf(termes[i]) < 0) return false;
         }
       }
+      if (excepte !== 'tipus' && filtres.tipus.length &&
+          filtres.tipus.indexOf(d.tipus) < 0) return false;
+
+      /* Les fitxes sense nivell (la major part de les dinàmiques de grup) valen
+         per a qualsevol curs, així que el filtre de nivell no les descarta. */
+      if (excepte !== 'nivells' && filtres.nivells.length && d.nivells.length &&
+          !d.nivells.some(function (n) { return filtres.nivells.indexOf(n) >= 0; })) {
+        return false;
+      }
+
       if (excepte !== 'categories' && filtres.categories.length &&
           filtres.categories.indexOf(d.categoria) < 0) return false;
 
@@ -64,8 +77,14 @@
     });
   }
 
+  /* Ordre de presentació dels tipus: primer les propostes més estructurades. */
+  var PES_TIPUS = { unitat: 0, activitat: 1, dinamica: 2 };
+
   var ORDRES = {
     titol: function (a, b) { return a.titol.localeCompare(b.titol, 'ca'); },
+    tipus: function (a, b) {
+      return (PES_TIPUS[a.tipus] || 9) - (PES_TIPUS[b.tipus] || 9) || ORDRES.titol(a, b);
+    },
     'durada-asc': function (a, b) { return a.durada - b.durada || ORDRES.titol(a, b); },
     'durada-desc': function (a, b) { return b.durada - a.durada || ORDRES.titol(a, b); },
     categoria: function (a, b) {
@@ -83,6 +102,8 @@
   function a_parametres(filtres, ordre) {
     var p = new URLSearchParams();
     if (filtres.consulta) p.set('q', filtres.consulta);
+    if (filtres.tipus.length) p.set('tip', filtres.tipus.join(','));
+    if (filtres.nivells.length) p.set('niv', filtres.nivells.join(','));
     if (filtres.categories.length) p.set('cat', filtres.categories.join(','));
     if (filtres.etiquetes.length) p.set('eti', filtres.etiquetes.join(','));
     if (filtres.grups.length) p.set('grup', filtres.grups.join(','));
@@ -97,6 +118,8 @@
     var p = new URLSearchParams(cadena || '');
     var f = inicials();
     f.consulta = p.get('q') || '';
+    f.tipus = (p.get('tip') || '').split(',').filter(Boolean);
+    f.nivells = (p.get('niv') || '').split(',').filter(Boolean);
     f.categories = (p.get('cat') || '').split(',').filter(Boolean);
     f.etiquetes = (p.get('eti') || '').split(',').filter(Boolean);
     f.grups = (p.get('grup') || '').split(',').filter(Boolean);

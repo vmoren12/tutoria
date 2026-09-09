@@ -67,6 +67,7 @@ FIELD_MAP = OrderedDict([
     ("destinatarios", "participants"), ("edades", "participants"), ("edad", "participants"),
     ("consignas de partida", "consignes"), ("consignas", "consignes"),
     ("desarrollo del juego", "desenvolupament"), ("desarrollo", "desenvolupament"),
+    ("metodologia", "desenvolupament"),
     ("reglas", "desenvolupament"), ("procedimiento", "desenvolupament"),
     ("instrucciones", "desenvolupament"),
     ("preparacion", "preparacio"), ("organizacion", "preparacio"),

@@ -6,7 +6,7 @@
   var dom = TUT.dom;
   var esc = dom.esc;
 
-  /** Quantes dinàmiques del catàleg citen una obra determinada. */
+  /** Quantes fitxes del catàleg citen una obra determinada. */
   function recompte(font) {
     if (!font) return 0;
     return TUT.data.tot().filter(function (d) { return d.font === font; }).length;
@@ -27,7 +27,7 @@
       (o.url ? '<div class="obra__enllac petit">' + esc(o.url) + '</div>' : '') +
       (o.nota ? '<p class="petit suau" style="margin-top:6px">' + esc(o.nota) + '</p>' : '') +
       (n ? '<div class="obra__recompte petit">' + n +
-        (n === 1 ? ' dinàmica del catàleg' : ' dinàmiques del catàleg') + '</div>' : '') +
+        (n === 1 ? ' fitxa del catàleg' : ' fitxes del catàleg') + '</div>' : '') +
     '</li>';
   }
 

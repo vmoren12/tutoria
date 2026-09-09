@@ -23,14 +23,15 @@
 
   /* --- plantilles ---------------------------------------------------- */
 
-  function opcions_faceta(clau, opcions, seleccionades, recomptes, tipus) {
+  function opcions_faceta(clau, nom, opcions, seleccionades, recomptes, tipus) {
     var desplegat = estat.desplegat[clau];
     var visibles = desplegat ? opcions : opcions.slice(0, VISIBLES_PER_FACETA);
     var html = visibles.map(function (o) {
       var n = recomptes[o.id] || 0;
       var marcat = seleccionades.indexOf(o.id) >= 0;
-      return '<li><label class="filtres__opcio">' +
-        '<input type="' + tipus + '" name="' + clau + '" value="' + esc(o.id) + '"' +
+      return '<li><label class="filtres__opcio"' +
+        (o.descripcio ? ' title="' + esc(o.descripcio) + '"' : '') + '>' +
+        '<input type="' + tipus + '" name="' + nom + '" value="' + esc(o.id) + '"' +
           (marcat ? ' checked' : '') + (n === 0 && !marcat ? ' disabled' : '') + '>' +
         '<span>' + esc(o.nom) + '</span>' +
         '<span class="filtres__recompte">' + n + '</span>' +
@@ -45,34 +46,61 @@
     return '<ul class="filtres__llista">' + html + '</ul>';
   }
 
+  /* Les categories venen de dues fonts amb lògiques diferents (les dinàmiques
+     de grup i els blocs del Programa HEBE) i es presenten separades perquè es
+     vegi d'on surt cada una. */
+  function faceta_categories(seleccionades, recomptes) {
+    return TUT.data.families().map(function (f) {
+      var opcions = TUT.data.categories_de(f.id);
+      if (!opcions.length) return '';
+      return '<p class="filtres__familia">' + esc(f.nom) + '</p>' +
+        opcions_faceta('categories:' + f.id, 'categories', opcions,
+          seleccionades, recomptes, 'checkbox');
+    }).join('');
+  }
+
   function panell_filtres() {
     var tot = TUT.data.tot();
     var tax = TUT.data.taxonomia;
     var f = estat.filtres;
 
+    var rt = TUT.data.recomptes(TUT.search.filtra(tot, f, 'tipus'));
+    var rn = TUT.data.recomptes(TUT.search.filtra(tot, f, 'nivells'));
     var rc = TUT.data.recomptes(TUT.search.filtra(tot, f, 'categories'));
     var re = TUT.data.recomptes(TUT.search.filtra(tot, f, 'etiquetes'));
     var rg = TUT.data.recomptes(TUT.search.filtra(tot, f, 'grups'));
 
     return '' +
       '<div class="filtres__grup">' +
+        '<legend>Tipus de proposta</legend>' +
+        opcions_faceta('tipus', 'tipus', tax.tipus || [], f.tipus, rt.tipus, 'checkbox') +
+        '<p class="filtres__ajuda">Les unitats didàctiques agrupen activitats; ' +
+          'les dinàmiques de grup es fan soltes.</p>' +
+      '</div>' +
+      '<div class="filtres__grup">' +
+        '<legend>Nivell</legend>' +
+        opcions_faceta('nivells', 'nivells', tax.nivells || [], f.nivells, rn.nivells, 'checkbox') +
+        '<p class="filtres__ajuda">Les propostes sense nivell assignat serveixen per a ' +
+          'qualsevol curs i surten sempre.</p>' +
+      '</div>' +
+      '<div class="filtres__grup">' +
         '<legend>Categoria</legend>' +
-        opcions_faceta('categories', tax.categories, f.categories, rc.categories, 'checkbox') +
+        faceta_categories(f.categories, rc.categories) +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Etiquetes</legend>' +
-        opcions_faceta('etiquetes', tax.etiquetes, f.etiquetes, re.etiquetes, 'checkbox') +
+        opcions_faceta('etiquetes', 'etiquetes', tax.etiquetes, f.etiquetes, re.etiquetes, 'checkbox') +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Mida del grup</legend>' +
-        opcions_faceta('grups', tax.grups.map(function (g) {
+        opcions_faceta('grups', 'grups', tax.grups.map(function (g) {
           return { id: g.id, nom: g.nom + (g.detall ? ' (' + g.detall + ')' : '') };
         }), f.grups, rg.grups, 'checkbox') +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Durada màxima</legend>' +
         '<ul class="filtres__llista">' +
-          [0, 10, 15, 20, 30, 45].map(function (m) {
+          [0, 10, 15, 20, 30, 45, 60].map(function (m) {
             return '<li><label class="filtres__opcio">' +
               '<input type="radio" name="durada_max" value="' + m + '"' +
                 (f.durada_max === m ? ' checked' : '') + '>' +
@@ -118,6 +146,8 @@
     }
 
     if (f.consulta) xip('«' + f.consulta + '»', 'consulta');
+    f.tipus.forEach(function (t) { xip(TUT.data.nom_tipus(t), 'tipus', t); });
+    f.nivells.forEach(function (n) { xip(TUT.data.nom_nivell(n), 'nivells', n); });
     f.categories.forEach(function (c) { xip(TUT.data.nom_categoria(c), 'categories', c); });
     f.etiquetes.forEach(function (t) { xip(TUT.data.nom_etiqueta(t), 'etiquetes', t); });
     f.grups.forEach(function (g) { xip(TUT.data.nom_grup(g), 'grups', g); });
@@ -134,7 +164,7 @@
     var visibles = estat.resultats.slice(0, estat.limit);
     if (!visibles.length) {
       return '<div class="buit">' +
-        '<p>No hi ha cap dinàmica que compleixi aquests criteris.</p>' +
+        '<p>No hi ha cap proposta que compleixi aquests criteris.</p>' +
         '<button type="button" class="boto" data-neteja>Neteja els filtres</button>' +
       '</div>';
     }
@@ -161,7 +191,7 @@
   function pinta_resultats() {
     dom.$('#resultats', arrel).innerHTML = resultats_html();
     dom.$('#recompte', arrel).textContent = estat.resultats.length === 1
-      ? '1 dinàmica' : estat.resultats.length + ' dinàmiques';
+      ? '1 proposta' : estat.resultats.length + ' propostes';
     dom.$('#xips', arrel).innerHTML = xips();
   }
 
@@ -283,12 +313,13 @@
     arrel.innerHTML = '' +
       '<div class="vista__capcalera">' +
         '<div>' +
-          '<h1 class="vista__titol">Catàleg de dinàmiques</h1>' +
-          '<p class="vista__descripcio">Cerca per paraula clau i filtra per categoria, ' +
-            'etiquetes, durada, mida de grup o material per muntar la sessió de tutoria.</p>' +
+          '<h1 class="vista__titol">Catàleg de propostes</h1>' +
+          '<p class="vista__descripcio">Dinàmiques de grup, activitats de tutoria i unitats ' +
+            'didàctiques. Cerca per paraula clau i filtra per tipus de proposta, nivell, ' +
+            'categoria, durada, mida de grup o material per muntar la sessió.</p>' +
         '</div>' +
         '<div class="vista__accions">' +
-          '<a class="boto" href="#/dinamica/nova">' + dom.icona('mes') + 'Nova dinàmica</a>' +
+          '<a class="boto" href="#/dinamica/nova">' + dom.icona('mes') + 'Nova proposta</a>' +
         '</div>' +
       '</div>' +
 
@@ -304,6 +335,7 @@
               'aria-expanded="false" aria-controls="filtres">Filtres</button>' +
             '<select id="ordre" class="eines__select" aria-label="Ordena els resultats">' +
               '<option value="titol">Ordena per títol</option>' +
+              '<option value="tipus">Tipus de proposta</option>' +
               '<option value="durada-asc">Durada, de menys a més</option>' +
               '<option value="durada-desc">Durada, de més a menys</option>' +
               '<option value="categoria">Categoria</option>' +

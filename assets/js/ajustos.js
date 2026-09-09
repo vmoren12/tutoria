@@ -1,4 +1,4 @@
-/* ajustos.js - preferències, còpies de seguretat i dinàmiques amagades. */
+/* ajustos.js - preferències, còpies de seguretat i fitxes amagades. */
 (function (global) {
   'use strict';
 
@@ -20,6 +20,16 @@
 
   function marca_de_temps() {
     return new Date().toISOString().slice(0, 10);
+  }
+
+  /** «681 dinàmiques, 125 activitats i 34 unitats», segons el que hi hagi. */
+  function resum_catalog() {
+    var n = TUT.data.recomptes().tipus;
+    var trossos = (TUT.data.taxonomia.tipus || [])
+      .filter(function (t) { return n[t.id]; })
+      .map(function (t) { return n[t.id] + ' ' + t.plural; });
+    if (trossos.length < 2) return trossos.join('') || '0 fitxes';
+    return trossos.slice(0, -1).join(', ') + ' i ' + trossos[trossos.length - 1];
   }
 
   function render(contenidor) {
@@ -46,14 +56,14 @@
                   ({ sistema: 'Segueix el sistema', clar: 'Clar', fosc: 'Fosc' })[t] + '</option>';
               }).join('') + '</select></div>' +
             (TUT.data.hi_ha_castella
-              ? '<div><label for="a-idioma">Llengua de les dinàmiques</label>' +
+              ? '<div><label for="a-idioma">Llengua del catàleg</label>' +
                 '<select id="a-idioma">' +
                   [['ca', 'Català'], ['es', 'Castellà (original)']].map(function (o) {
                     return '<option value="' + o[0] + '"' +
                       (TUT.data.idioma() === o[0] ? ' selected' : '') + '>' + o[1] + '</option>';
                   }).join('') +
                 '</select>' +
-                '<p class="formulari__ajuda">El catàleg desa les dues versions. Les dinàmiques ' +
+                '<p class="formulari__ajuda">El catàleg desa les dues versions. Les fitxes ' +
                   'que hagis creat o editat es mostren sempre tal com les vas escriure.</p></div>'
               : '') +
           '</div>' +
@@ -76,22 +86,22 @@
           '<legend>Còpies de seguretat</legend>' +
           '<p class="petit tenue" style="margin:10px 0">' +
             'Sessions desades: ' + TUT.store.estat.sessions.length +
-            ' · Dinàmiques pròpies o editades: ' + propies.length +
-            ' · Dinàmiques amagades: ' + amagades.length + '</p>' +
+            ' · Fitxes pròpies o editades: ' + propies.length +
+            ' · Fitxes amagades: ' + amagades.length + '</p>' +
           '<div class="fila">' +
             '<button type="button" class="boto" id="exporta-tot">Exporta-ho tot</button>' +
             '<button type="button" class="boto" id="exporta-dinamiques"' +
-              (propies.length ? '' : ' disabled') + '>Exporta les dinàmiques pròpies</button>' +
+              (propies.length ? '' : ' disabled') + '>Exporta les fitxes pròpies</button>' +
             '<label class="boto" for="importa" style="margin:0">Importa una còpia</label>' +
             '<input type="file" id="importa" accept="application/json,.json" ' +
               'class="nomes-lector" aria-label="Importa una còpia de seguretat">' +
           '</div>' +
-          '<p class="formulari__ajuda">L\'exportació de dinàmiques pròpies fa servir el mateix ' +
+          '<p class="formulari__ajuda">L\'exportació de fitxes pròpies fa servir el mateix ' +
             'format que els fitxers de <code>data/dinamiques/</code>, així les pots afegir al repositori.</p>' +
         '</fieldset>' +
 
         (amagades.length
-          ? '<fieldset><legend>Dinàmiques amagades</legend><ul class="llista-sessions" style="margin-top:10px">' +
+          ? '<fieldset><legend>Fitxes amagades</legend><ul class="llista-sessions" style="margin-top:10px">' +
             amagades.map(function (id) {
               return '<li class="element-sessio"><div class="creix petit">' + esc(id) + '</div>' +
                 '<button type="button" class="boto boto--petit" data-recupera="' + esc(id) +
@@ -102,17 +112,17 @@
         '<fieldset>' +
           '<legend>Zona de risc</legend>' +
           '<p class="petit tenue" style="margin:10px 0">Esborra totes les sessions, ' +
-            'les dinàmiques pròpies i les modificacions locals.</p>' +
+            'les fitxes pròpies i les modificacions locals.</p>' +
           '<button type="button" class="boto boto--perill" id="buida">Esborra les dades locals</button>' +
         '</fieldset>' +
 
         '<fieldset>' +
           '<legend>Sobre l\'aplicació</legend>' +
-          '<p class="petit tenue" style="margin-top:10px">Catàleg base: ' +
-            TUT.data.tot().length + ' dinàmiques. Les fitxes provenen de reculls de dinàmiques ' +
-            'de grup publicats en castellà; el text català és una traducció automàtica revisable ' +
-            'i qualsevol fitxa es pot editar per adaptar-la al grup. Consulta les obres d\'origen ' +
-            'a la <a href="#/bibliografia">bibliografia</a>.</p>' +
+          '<p class="petit tenue" style="margin-top:10px">Catàleg base: ' + resum_catalog() +
+            '. Les fitxes provenen d\'obres publicades en castellà; el text català és una ' +
+            'traducció automàtica revisable i qualsevol fitxa es pot editar per adaptar-la al ' +
+            'grup. Consulta les obres d\'origen a la ' +
+            '<a href="#/bibliografia">bibliografia</a>.</p>' +
         '</fieldset>' +
       '</div>';
 
@@ -155,7 +165,7 @@
       });
       descarrega('dinamiques-propies-' + marca_de_temps() + '.json',
         JSON.stringify(llista, null, 2));
-      TUT.ui.avis(llista.length + ' dinàmiques exportades.');
+      TUT.ui.avis(llista.length + ' fitxes exportades.');
     });
 
     dom.$('#importa', contenidor).addEventListener('change', function (event) {
@@ -169,7 +179,7 @@
             contingut.forEach(function (d) {
               if (d && d.id && d.titol) TUT.store.desa_dinamica(d);
             });
-            TUT.ui.avis(contingut.length + ' dinàmiques importades.');
+            TUT.ui.avis(contingut.length + ' fitxes importades.');
           } else {
             TUT.store.importa(contingut, true);
             TUT.ui.avis('Còpia importada.');
@@ -192,7 +202,7 @@
 
     dom.$('#buida', contenidor).addEventListener('click', function () {
       TUT.ui.confirma('Esborra les dades locals',
-        'S\'esborraran totes les sessions i les dinàmiques pròpies d\'aquest navegador. ' +
+        'S\'esborraran totes les sessions i les fitxes pròpies d\'aquest navegador. ' +
         'El catàleg base es manté.', 'Esborra-ho tot').then(function (ok) {
         if (!ok) return;
         TUT.store.buida();

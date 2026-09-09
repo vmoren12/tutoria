@@ -19,7 +19,7 @@ assets/
     ├── search.js        filtratge facetat i ordenació
     ├── ui.js            targetes, avisos i diàlegs compartits
     ├── catalog.js       vista de catàleg
-    ├── dinamica.js      fitxa i formulari de dinàmica
+    ├── dinamica.js      fitxa i formulari d'una fitxa del catàleg
     ├── sessions.js      llista de sessions i constructor
     ├── imprimir.js      full de sessió imprimible
     ├── bibliografia.js  obres d'origen de les dinàmiques
@@ -68,12 +68,32 @@ les etiquetes `<script>` a `index.html` respecta aquestes dependències.
 2. `store.estat.dinamiques` — dinàmiques pròpies i sobreescriptures locals, per `id`.
 3. `store.estat.esborrades` — ids del catàleg amagats per la persona usuària.
 
-Cada dinàmica resultant porta un camp `origen`: `cataleg`, `modificada` o `propia`.
+Cada fitxa resultant porta un camp `origen`: `cataleg`, `modificada` o `propia`.
 Editar una dinàmica del catàleg no altera el fitxer original: en desa una còpia local que
 sempre es pot revertir des de la seva fitxa o des dels ajustos.
 
 També s'hi calcula `_cerca`, la concatenació normalitzada (minúscules, sense accents) de
 tots els camps de text, que fa de índex per a la cerca lliure.
+
+## Tres tipus de proposta
+
+El catàleg barreja dues obres amb lògiques molt diferents: un recull de jocs solts i un
+programa d'acció tutorial estructurat en unitats. Perquè això no confongui, cada fitxa
+porta un camp `tipus` —`dinamica`, `activitat` o `unitat`— que és la primera faceta del
+catàleg i el primer distintiu de cada targeta.
+
+Les unitats i les seves activitats s'enllacen en tots dos sentits (`activitats` a la unitat,
+`unitat` a l'activitat), i `scripts/build-data.mjs` comprova que els vincles existeixin.
+La fitxa d'una unitat llista les activitats que la componen i la d'una activitat enllaça
+amb la unitat d'on surt, de manera que tant es pot programar la unitat sencera com agafar-ne
+una activitat solta.
+
+Les categories també venen de les dues obres, i per això a la taxonomia porten un camp
+`familia` (`grup` o `hebe`) que el panell de filtres fa servir per presentar-les separades.
+
+El camp `nivells` funciona a l'inrevés del que és habitual en una faceta: una fitxa **sense**
+nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 681 dinàmiques
+de grup, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
 
 ## Catàleg bilingue
 
@@ -97,7 +117,7 @@ Encaminador per fragment d'URL, sense dependències:
 
 | Ruta | Vista |
 | --- | --- |
-| `#/cataleg?q=…&cat=…&eti=…` | catàleg amb filtres a la URL |
+| `#/cataleg?q=…&tip=…&niv=…&cat=…&eti=…` | catàleg amb filtres a la URL |
 | `#/dinamica/:id` | fitxa |
 | `#/dinamica/:id/edita` | formulari d'edició |
 | `#/dinamica/nova` | formulari de creació |

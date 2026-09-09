@@ -17,12 +17,6 @@
     "objectius": "Conèixer a partir d'activitats afins, objectius comuns o interessos específics.",
     "titol": "Ball de Presentacion"
   },
-  "buscando-pareja": {
-    "_signatura": "8f0801b3c2b61c64",
-    "descripcio": "MATERIAL Objectes diferents (caramels de colors, figures geomètriques de diferents formes...) Cada persona agafarà un objecte de la bossa sense mirar i no es pot canviar.\n\nL'animador introdueix en una bossa o caixa una sèrie de parelles d'objectes, per exemple caramels de diferents colors. Va passant la caixa per tot el grup perquè cada persona coixa una peça sense mirar.\n\nCada persona ha de buscar a la seva parella, per exemple els que ha triat el caramel de color vermell, se sentin junts i parlen entre ells dient el nom, les seves aficions, que li agrada fer en el seu temps lliure. S'indica al grup que han d'estar molt atents al que els digui el company ja que després ells hauran de presentar-lo a la resta del grup.\n\nCada membre de la parella presenta després a la persona amb la qual ha estat parlant a la resta del grup.",
-    "materials": "capsa",
-    "titol": "Buscant Pareja"
-  },
   "buscando-pareja-2": {
     "_signatura": "4b9303944676f573",
     "consignes": "Cada persona agafarà un objecte de la bossa sense mirar i no es pot canviar.",
@@ -38,11 +32,6 @@
     "descripcio": "Es pot dir que guanya qui completi abans la fulla perquè així vagin més ràpid i es motivin. Convenen després fer una petita comprovació.",
     "materials": "Un paper i un bolígraf o llapis per participant. Es tracta de buscar persones que tinguin coses en comú, però que les descobreixin amb un senzill joc. S'escriuen en una pissarra o se'ls dóna fotocopiades una sèrie de característiques sobre persones que han de buscar, per exemple: \"Cerca tres persones que van néixer el mateix any que el teu, cerca una persona que li agradi el futbol, cerca dues persones que el seu cognom comenci pel meu, etc.\" Se'ls deixa un temps perquè es preguntin entre ells i l'apuntin en la fulla.",
     "titol": "Buscar Coincidències"
-  },
-  "canasta-revuelta": {
-    "_signatura": "5f92f6b4bc181d85",
-    "descripcio": "Tots els participants es formen en cercles amb les seves respectives cadires. El coordinador queda al centre, dempeus. En el moment que el coordinador assenyali a qualsevol dient-li Pinya!, aquest ha de respondre el nom del company que estigui a la seva dreta. Si li diu: Taronja!, ha de dir el nom del qual té a la seva esquerra. Si s'equivoca o triga més de 3 segon a respondre, passa al centre i el coordinador ocupa el seu lloc. En el moment que es digui Canastra regirada!, tots canviaran de seient. (El que està al centre, haurà d'aprofitar això per a ocupar un i deixar a un altre company al centre).",
-    "titol": "Canastra Regirada"
   },
   "canasta-revuelta-2": {
     "_signatura": "7a0bc88157dfab95",
@@ -67,12 +56,6 @@
     "resum": "Donar voltes amb un paracaigudes.",
     "titol": "Centrifugadora"
   },
-  "corazones": {
-    "_signatura": "575f1c0db669d727",
-    "descripcio": "En 20 fulles blanques es dibuixa en el centre un cor, utilitzant marcador vermell. Les fulles amb cors s'esquincen en dos. Han de esquinçar de manera que quedin les seves vores irregulars, fent així un total de 40 parts, un per a cada participant.\n\na- Es col·loquen els papers en el centre, (ben barrejats) sobre una taula\n\nb- Es demana als participants que cadascun retiri un tros de paper\n\nc- Després, busquen al company o companya que té l'altra meitat, la que té coincidir exactament\n\nd- En trobar la parella, han de conversar per 5 minuts sobre el nom, dades personals, gustos, etc., experiències, etc.\n\ne. En finalitzar el temps, tornen al grup general, per a presentar mútuament i exposar les seves experiències",
-    "materials": "paper, retolador",
-    "titol": "Cors"
-  },
   "corazones-2": {
     "_signatura": "f70c21183e877041",
     "descripcio": "a- Es col·loquen els papers en el centre, (ben barrejats) sobre una taula\n\nb- Es demana als participants que cadascun retiri un tros de paper\n\nc- Després, busquen al company o companya que té l'altra meitat, la que té coincidir exactament\n\nd- En trobar la parella, han de conversar per 5 minuts sobre el nom, dades personals, gustos, etc., experiències, etc.\n\ne. En finalitzar el temps, tornen al grup general, per a presentar mútuament i exposar les seves experiències",
@@ -88,7 +71,7 @@
     "descripcio": "Consisteix col·locar en una ronda persones que poden ser entre 10 a 30 o més, llavors començant d'un extrem la persona següent serà el seu advocat i així successivament, llavors el coordinador pregunta alguna cosa a una persona (el seu nom o edat) i el que respon és el seu advocat.",
     "objectius": "Conèixer a les persones dins d'un determinat grup",
     "participants": "L'edat dels participants pot ser dels 8 anys d'ara endavant. El nombre de participants pot ser variat, amb preferència de 10 persones o 30.",
-    "resum": "El coordinador pregunta dades bàsiques i respon el company de l'a el costat (advocat).",
+    "resum": "El coordinador pregunta dades bàsiques i respon el company de l'al costat (advocat).",
     "titol": "L'Advocat"
   },
   "el-amigo-secreto": {
@@ -97,11 +80,6 @@
     "materials": "Papers petits.",
     "objectius": "Crear un clima de companyonia i integració.",
     "titol": "L'Amic Secret"
-  },
-  "el-bingo-de-presentacion": {
-    "_signatura": "024dc169c34e4ddf",
-    "descripcio": "L'animador lliurament a cada participant una fitxa i els demana que anotin el seu nom i la retornen a l'animador. Després es lliura un cartó en blanc on l'animador convida als presents a anotar el nom dels seus companys, a mesura que l'animador els va llegint, de les fitxes lliurades pel grup. Cadascun els anota en l'espai que desitgi. Quan tots tenen llest el seu cartó, l'animador explica com es juga: a mesura que es vagin dient els noms dels participants fan una marca en el cartó, on apareix aquest nom. La persona que completi primer una fila, rep deu punts. L'exercici es pot realitzar diverses vegades.",
-    "titol": "El Bingo de Presentació"
   },
   "el-bingo-de-presentacion-2": {
     "_signatura": "bcc87975ec528494",
@@ -129,13 +107,6 @@
     "resum": "Consisteix a imitar les accions del company/a.",
     "titol": "El Mirall"
   },
-  "el-nombre-kilometrico": {
-    "_signatura": "7b47252932b48665",
-    "avaluacio": "Per a comprovar l'eficàcia del joc hi ha dues opcions: Tornar a jugar començant per un altre punt diferent a l'inicial. Provar un altre joc diferent de presentació.",
-    "descripcio": "Asseguts en cercle, un component del grup comença dient el seu nom (o com vol que li cridin). El següent a la seva esquerra (seguint el moviment de les agulles del rellotge) ha de dir: 1.El nom del seu company anterior 2.su propi nom. El tercer component, per ordre, dirà el nom del primer, del segon i el seu. I així, successivament, fins a arribar al monitor o educador que serà l'últim i l'encarregat de repetir tots els noms seguits. Exemple: Jo sóc Luis... Ell és Luis, jo sóc Juan... Luis, Juan i jo Elena... Luis, Juan, Elena i Víctor...",
-    "materials": "rellotge",
-    "titol": "El Nom Quilomètric"
-  },
   "el-nombre-kilometrico-2": {
     "_signatura": "1206eae196ecf264",
     "avaluacio": "Per a comprovar l'eficàcia del joc hi ha dues opcions: Tornar a jugar començant per un altre punt diferent a l'inicial. Provar un altre joc diferent de presentació.",
@@ -159,20 +130,6 @@
     "resum": "En subgrups cadascun ha de pensar en una forma de salutació i per grups han de representar aquesta salutació.",
     "titol": "El Protocol"
   },
-  "gente-a-gente": {
-    "_signatura": "8aa5af5c375a96c5",
-    "descripcio": "Es divideix el grup en dues parts iguals. Es formen dos cercles concèntrics. Les persones del cercle interior miren cap a fora i les del cercle exterior cap a dintre. Hauran de quedar, per tant, formant parelles cara a cara. Es pot posar música mentre cada parella es presenta, se saluda amb les mans i diu el seu nom: \"Hola, sóc....\" Després de presentar, els d'endins diuen \"gent a gent\" que és el senyal perquè el cercle de fora canviï un lloc cap a l'esquerra. El joc continua amb la mateixa dinàmica fins a donar la volta competeixi. L'animador/a pot anar canviant el ritme de la música, així com el gest de la salutació: ara braç a braç, cap amb cap, genoll amb genoll, ...",
-    "materials": "musica",
-    "notes": "Un bon joc de presentació per a grups molt nombroses.",
-    "titol": "Gent a Gent"
-  },
-  "gesto-paranoico": {
-    "_signatura": "5bbec733c9e8a08a",
-    "avaluacio": "Bastarà que es vagin repetint els noms i gestos, encara que sigui amb ajuda dels companys",
-    "descripcio": "Cal respectar l'ordre. Hem de repetir el nom i gest de tots els anteriors i afegir el nostre. Hem d'intentar no repetir i ser originals.\n\nEs col·loquen en cercle, amb certa separació els uns dels altres i si pot ser, dempeus. El primer diu el seu nom i fa un gest i el següent ha de repetir-los tots dos i afegir el seu nom i el seu gest. El tercer repetirà el nom i gest dels dos anteriors i afegirà el seu.",
-    "notes": "Tot el grup en cercle. Una persona comença dient el seu nom acompanyat d'un gest, salts, salutació, ball, etc. i tots el repeteixen, així successivament fins que tots han dit el seu nom amb el seu gest i tot el grup l'ha anat repetint. La variant l'envia Mª Carmen del Barri i li crida \"repetim gestos\". Una altra variant és \"em pica\".",
-    "titol": "Gest Paranoic"
-  },
   "gesto-paranoico-2": {
     "_signatura": "4bccfe1bfd8ef51e",
     "avaluacio": "Bastarà que es vagin repetint els noms i gestos, encara que sigui amb ajuda dels companys",
@@ -193,12 +150,6 @@
     "participants": "Nens, joves i adults",
     "titol": "Identificació amb un Animal"
   },
-  "juego-de-las-tarjetas": {
-    "_signatura": "1898e96da3845619",
-    "descripcio": "Primera Etapa: Es distribueix a cada participant una targeta, un marcador i una agulla. El coordinador de la dinàmica sol·licita a tots que col·loquin el seu nom o el seu sobrenom, en forma vertical, en el marge esquerre de la targeta. S'indica que busquin per a 3 lletres del nom, 3 adjectius positius que reflecteixin una qualitat positiva personal i les escriguin en la targeta a continuació de la lletra triada (veure exemple). Després se'ls demana que la hi col·loquin en un lloc visible, a la roba.\n\nExemple:\n\nA\n\nN Genial E ntusiasta\n\nL Amigable\n\nDesprés d'això, se'ls convida a desplaçar pel saló per a llegir els noms i qualitats dels altres. Poden fer comentaris entre els participants i circular lliurement. Després d'uns minuts se'ls demana formar un cercle per a iniciar l'exercici de memorització.\n\nSegona etapa: Cada persona es presenta (primer amb el seu nom i després amb un dels adjectius escrits.) L'exercici consisteix en el fet que cada participant ha de començar a dir de memòria el nom i l'adjectiu dels quals van parlar anteriorment i després el seu. Els participants poden, si s'obliden, llegir les targetes, ja que l'objectiu principal del joc no és que memoritzin sinó que es coneguin i s'integrin. El coordinador pot produir variants per a amenitzar, com que cadascun ha de recordar un o dues, a l'atzar - o que cadascun hagi de recordar a aquell que tingui el mateix color de roba - etc.",
-    "materials": "1 targeta de cartolina, (20x10cm) per a cada participant. 1 marcador per a cada participant. Agulles per a fixar la targeta a la roba. 1 targeta preparada a tall d'exemple. Estructura de l'Exercici: - Distribució dels Materials - Explicació i ompliment de les targetes - Execució de la lectura. - Realització de l'exercici de la memorització - Descripció",
-    "titol": "Joc de les Targetes"
-  },
   "juego-de-las-tarjetas-2": {
     "_signatura": "5417eb561a019052",
     "descripcio": "Primera Etapa: Es distribueix a cada participant una targeta, un marcador i una agulla. El coordinador de la dinàmica sol·licita a tots que col·loquin el seu nom o el seu sobrenom, en forma vertical, en el marge esquerre de la targeta. S'indica que busquin per a 3 lletres del nom, 3 adjectius positius que reflecteixin una qualitat positiva personal i les escriguin en la targeta a continuació de la lletra triada (veure exemple). Després se'ls demana que la hi col·loquin en un lloc visible, a la roba. Exemple: A N G enial E ntusiasta L A migable Després d'això, se'ls convida a desplaçar pel saló per a llegir els noms i qualitats dels altres. Poden fer comentaris entre els participants i circular lliurement. Després d'uns minuts se'ls demana formar un cercle per a iniciar l'exercici de memorització. Segona etapa: Cada persona es presenta (primer amb el seu nom i després amb un dels adjectius escrits.) L'exercici consisteix en el fet que cada participant ha de començar a dir de memòria el nom i l'adjectiu dels quals van parlar anteriorment i després el seu. Els participants poden, si s'obliden, llegir les targetes, ja que l'objectiu principal del joc no és que memoritzin sinó que es coneguin i s'integrin. El coordinador pot produir variants per a amenitzar, com que cadascun ha de recordar un o dues, a l'atzar - o que cadascun hagi de recordar a aquell que tingui el mateix color de roba - etc.",
@@ -215,12 +166,6 @@
     "notes": "Per a realitzar amb nois durant una convivència.",
     "preparacio": "Es posa enmig d'un quart, una maleta plena de barrets i mocadors per al cap.",
     "titol": "La Maleta amb Barrets"
-  },
-  "la-pelota-preguntona": {
-    "_signatura": "9e24ff0d7eabc83d",
-    "descripcio": "L'animador lliurament una pilota a cada equip, convida als presents a asseure en cercle i explica la manera de realitzar l'exercici. Mentre s'entona una cançó la pilota es fa córrer de mà en mà; a un senyal de l'animador, es deté l'exercici. La persona que ha quedat amb la pilota a la mà es presenta per al grup: diu el seu nom i el que li agrada fer en les estones lliures. L'exercici continua de la mateixa manera fins que es presenta la majoria. En cas que una mateixa persona quedi més d'una vegada amb la pilota, el grup té dret a fer-li una pregunta.",
-    "materials": "pilota",
-    "titol": "La Pilota Preguntona"
   },
   "la-pelota-preguntona-2": {
     "_signatura": "d3849e01692fd883",
@@ -258,18 +203,6 @@
     "materials": "musica",
     "titol": "Les Salutacions amb Parts del Cos"
   },
-  "los-saludos-con-partes-del-cuerpo-2": {
-    "_signatura": "b71c264e0890232e",
-    "descripcio": "L'animador convida a formar dos cercles (un dins de l'altre) amb igual nombre de persones i demana que es mirin cara a cara. És recomanable tenir una música de fons. Demana que es presentin amb la mà i diguin el seu nom, què fa, que li agrada i que no li agrada. Immediatament l'animador dóna el senyal perquè es rodin els cercles cadascun en sentit contrari, de tal forma que li toqui una altra persona enfronti. L'animador demana que se saludin fer i preguntin a l'altra persona les mateixes preguntes que van fer abans, després tornen a girar de nou i aquesta vegada se saluden amb els peus, posteriorment amb els colzes, les espatlles, etc.",
-    "materials": "musica",
-    "titol": "Les Salutacions amb Parts del Cos"
-  },
-  "me-pica": {
-    "_signatura": "4c58ce1544fa73f0",
-    "avaluacio": "Es veurà si la gent s'ha quedat amb algun nom dels quals desconeixia al principi o no",
-    "descripcio": "Un a un van dient el seu nom i el que els pica, i el nom i el que li picava a cada persona que ha parlat abans que ells.",
-    "titol": "Em Pica"
-  },
   "me-pica-2": {
     "_signatura": "63cffdffc7446e5b",
     "avaluacio": "Es veurà si la gent s'ha quedat amb algun nom dels quals desconeixia al principi\n\no no",
@@ -279,12 +212,6 @@
     "participants": "Des de tres o quatre persones fins a 30. Mentre més, més divertit és i més memòria cal desenvolupar. L'edat és indiferent.",
     "resum": "Cada persona ha de dir el seu nom i a continuació un lloc on li pica: \"Sóc Juan i em pica la boca\". A continuació el següent ha de dir com es deia a l'anterior, i dir on li picava. Ell també diu el seu nom i on li pica i així successivament fins a l'última persona. L'últim ha de dir des del primer, els noms de cada persona i on els picava.",
     "titol": "Em Pica"
-  },
-  "palmas": {
-    "_signatura": "f8cbab159d5a2897",
-    "descripcio": "Es tracta de dir el nom propi i el d'una altra persona portant el ritme marcat. En cercle ,el monitor marca el ritme; un cop amb els palmells de les mans sobre les cames, una palmada, mà dreta cap endarrere per sobre de l'espatlla i amb el polze mirant cap endarrere, aquest mateix moviment amb la mà esquerra. En portar la dreta cap endarrere cal dir el nom d'un mateix i en portar l'esquerra el d'una altra persona del grup. Tot el grup ha de fer els mateixos moviments portant el ritme. La persona nomenada diu el seu nom i el d'una altra persona. Així successivament fins a ser presentats tots algunes vegades, sense perdre el ritme",
-    "notes": "Es poden fer variants, canviant el ritme, havent-lo també amb els peus estant asseguts.",
-    "titol": "Palmes"
   },
   "parejas": {
     "_signatura": "79201771b6c333b2",
@@ -299,17 +226,6 @@
     "_signatura": "9bfe92d9966683a4",
     "descripcio": "L'objectiu d'aquesta dinàmica és aconseguir que els membres d'una reunió gravin els noms dels seus companys i aconsegueixin, memoritzar rostres i actituds divertides dels participants.\n\nEs forma un cercle amb els participants, tots ells asseguts. El jugador que està al capdavant comença dient el seu nom i cridant a un altre jugador, exemple: \"Pedro flama a María\", María respon \"Maria flama a Juan\", Juan diu \"Juan crida a Pablo\", etc.\n\nEl que no respongui ràpid al seu nom paga penitència que pot ser: contar un acudit, ballar amb l'escombra, cantar.",
     "titol": "Pedro Llama a Pablo"
-  },
-  "pedro-llama-a-pablo-2": {
-    "_signatura": "e6f90b41cdbc3451",
-    "descripcio": "L'objectiu d'aquesta dinàmica és aconseguir que els membres d'una reunió gravin els noms dels seus companys i aconsegueixin, memoritzar rostres i actituds divertides dels participants. Es forma un cercle amb els participants, tots ells asseguts. El jugador que està al capdavant comença dient el seu nom i cridant a un altre jugador, exemple: \"Pedro flama a María\", María respon \"Maria flama a Juan\", Juan diu \"Juan crida a Pablo\", etc. El que no respongui ràpid al seu nom paga penitència que pot ser: contar un acudit, ballar amb l'escombra, cantar.",
-    "titol": "Pedro Llama a Pablo"
-  },
-  "pelota-caliente": {
-    "_signatura": "0c8fb653dcbdfb95",
-    "descripcio": "MATERIAL Una pilota o un altre objecte per a llançar. Ha de fer el més ràpid possible. La pilota està molt calenta i crema.\n\nEn cercle, asseguts o dempeus. L'animador/a explica que la persona que rebi la pilota ha de donar a conèixer, dient:\n\nEl nom amb el qual li agrada que la cridin. El seu lloc de procedència. Alguns gustos. Alguns desitjos. Tot això cal fer-ho ràpid per a no cremar. Immediatament acabada la presentació es llança la pilota a una altra persona que continua el joc.",
-    "materials": "pilota",
-    "titol": "Pilota Calenta"
   },
   "pelota-caliente-2": {
     "_signatura": "bede7bd1e9dc79d5",
@@ -327,18 +243,6 @@
     "materials": "musica",
     "titol": "Presentació per a Conèixer i Aprendre els Noms"
   },
-  "presentacion-para-conocerse-y-aprenderse-los-nombres-2": {
-    "_signatura": "b7ec1424610cb24d",
-    "descripcio": "S'explica que hi haurà una festa, i que cadascú ha de portar alguna cosa, però que comenci amb la inicial del seu nom. El primer comença dient el seu nom i el que portarà a la festa. El segon repeteix el que va dir l'anterior, i després diu el seu nom i el que portarà a la festa. Per exemple:\n\n1. Jo sóc Pablo i portaré la música\n\n2. Ell és Pablo i portarà la música i jo sóc Ricardo i portaré els refrescos.\n\n3. Ell és Pablo i portarà la música, ell és Ricardo i portarà els refrescos i jo sóc Juana i portaré el pastís I Així es repeteix successivament fins a completar la quantitat de participants.",
-    "materials": "musica",
-    "titol": "Presentació per a Conèixer i Aprendre els Noms"
-  },
-  "quien-calla-paga": {
-    "_signatura": "16f43f3a13eb86fa",
-    "descripcio": "Ha de fer el més ràpid possible. Si et toquen passes al centre. Abans d'inicial el joc tots han de dir prèviament la dada en qüestió.\n\n6 participants en cercle i un en el centre. L'animador/a dóna el nom d'una persona del circulo, aquesta ha de dir el nom d'un altre abans de ser tocada per la que aquest en el centre i així successivament. En cas de ser tocat abans de respondre passa al centre.",
-    "notes": "el nom amb el qual li agrada que la cridin. El seu lloc de procedència. Alguns gustos. Alguns desitjos.",
-    "titol": "Qui Calla Paga"
-  },
   "quien-calla-paga-2": {
     "_signatura": "1fe71ff6bdb4a740",
     "consignes": "Ha de fer el més ràpid possible. Si et toquen passes al centre. Abans d'inicial el joc tots han de dir prèviament la dada en qüestió.",
@@ -348,11 +252,6 @@
     "participants": "Grup, classe, ... a partir de 8 anys.",
     "resum": "Consisteix a dir el nom o alguna dada identificativa d'algun participant abans que et toquin.",
     "titol": "Qui Calla Paga"
-  },
-  "telarana": {
-    "_signatura": "226603c4f7761276",
-    "descripcio": "MATERIAL Una bola d'estam o cabdell de llana per a llançar. Totes les persones formessin un circulo, després se seleccionés alguna persona a l'atzar i ella prengués el principi de l'estam o cabdell de llana i llancés la resta d'estam a algun participant que el triï però abans de llançar-lo haurà de dir el seu nom, passatemps, interessos això dependrà de les característiques que s'utilitzessin en la presentació en llançar-ho l'altre participant ha de repetir la presentació del seu company i la pròpia i llançar l'estam, quedar també amb una part d'ell fins a arribar a l'ultimo participant i aconseguir formar una teranyina el dirigent o moderador prengués la decisió de desfer-la seguint el mateix desenvolupament però ara esmentessin els participants una altra dada com una cosa positiva sobre la persona a la qual li tornés l'extrem de l'estam i així es contínua fins a arribar a la primera persona que té l'inici de l'estam.",
-    "titol": "Teranyina"
   },
   "telarana-3": {
     "_signatura": "118015083676d469",

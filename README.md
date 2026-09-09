@@ -1,17 +1,21 @@
 # Tutoria
 
-Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita dinàmiques de
-grup, i munta sessions de tutoria** llestes per imprimir o desar en PDF.
+Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita propostes de
+tutoria, i munta sessions** llestes per imprimir o desar en PDF.
 
-- **717 dinàmiques** en català, classificades en 19 categories i etiquetades per tipus,
-  durada, mida de grup i material necessari. L'original castellà es conserva i es pot
-  mostrar des dels ajustos.
-- **Cerca facetada** per paraula clau, categoria, etiquetes, durada màxima, mida de grup,
-  material i origen.
+- **840 fitxes** en català, de tres menes:
+  - **681 dinàmiques de grup** — jocs i exercicis breus que es fan sols.
+  - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
+  - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
+
+  Classificades en 24 categories i etiquetades per durada, mida de grup, nivell i material
+  necessari. L'original castellà es conserva i es pot mostrar des dels ajustos.
+- **Cerca facetada** per paraula clau, tipus de proposta, nivell, categoria, etiquetes,
+  durada màxima, mida de grup, material i origen.
 - **Constructor de sessions**: seqüència de blocs amb temps assignat, càlcul d'horaris i
   control de la durada prevista.
 - **Full de sessió imprimible** amb el contingut que triïs, pensat per a A4.
-- **Tot editable**: qualsevol dinàmica del catàleg es pot modificar o duplicar, i se'n
+- **Tot editable**: qualsevol fitxa del catàleg es pot modificar o duplicar, i se'n
   poden crear de noves.
 - Sense dependències, sense compte d'usuari i sense servidor: les dades es queden al
   navegador.
@@ -46,18 +50,26 @@ fitxer `.nojekyll` a l'arrel.
 
 | Vista | Què hi pots fer |
 | --- | --- |
-| **Catàleg** | Cercar i filtrar dinàmiques; afegir-les i treure-les de la sessió activa d'un clic. |
-| **Fitxa** | Llegir la dinàmica sencera, editar-la, duplicar-la o imprimir-la. |
+| **Catàleg** | Cercar i filtrar propostes; afegir-les i treure-les de la sessió activa d'un clic. |
+| **Fitxa** | Llegir la proposta sencera, editar-la, duplicar-la o imprimir-la. Les unitats didàctiques hi llisten les seves activitats, i cada activitat enllaça amb la seva unitat. |
 | **Sessió actual** | Ordenar els blocs, repartir minuts i escriure notes per bloc. |
 | **Sessions** | Gestionar diverses sessions: duplicar, esborrar, canviar l'activa. |
 | **Full de sessió** | Triar què surt al full i imprimir-lo o desar-lo en PDF. |
-| **Bibliografia** | Consultar les obres d'on provenen les dinàmiques. |
+| **Bibliografia** | Consultar les obres d'on provenen les fitxes. |
 | **Ajustos** | Tema, llengua del catàleg, dades del centre, còpies de seguretat i recuperació. |
 
-Les dinàmiques que ja formen part de la sessió activa surten marcades al catàleg («A la
+Cada targeta del catàleg diu primer de tot **de quin tipus de proposta es tracta** —
+dinàmica de grup, activitat de tutoria o unitat didàctica — i, si escau, a quin curs
+s'adreça. El filtre «Tipus de proposta» és el primer del panell, de manera que buscar
+només jocs curts o només unitats senceres és un sol clic.
+
+El filtre de **nivell** no descarta mai les fitxes sense nivell assignat: les dinàmiques de
+grup serveixen per a qualsevol curs i continuen sortint quan es filtra per 3r o 4t d'ESO.
+
+Les propostes que ja formen part de la sessió activa surten marcades al catàleg («A la
 sessió», amb el nombre de vegades si s'hi repeteixen) i el seu botó passa a **Treu**, de
-manera que la sessió es munta i es desmunta sense sortir de la llista. Per repetir una
-dinàmica dins d'una mateixa sessió cal fer-ho des de la seva fitxa, que demana confirmació.
+manera que la sessió es munta i es desmunta sense sortir de la llista. Per repetir-ne una
+dins d'una mateixa sessió cal fer-ho des de la seva fitxa, que demana confirmació.
 
 En obrir una fitxa i tornar al catàleg, els filtres i la cerca es conserven.
 
@@ -70,12 +82,14 @@ Per desar en PDF: **Full de sessió → Imprimeix** i, al diàleg del navegador,
 index.html                pàgina única
 assets/css/               base, aplicació i impressió
 assets/js/                mòduls (dom, store, data, search, ui, vistes, app)
-data/taxonomia.json       categories, etiquetes, mides de grup i nivells
+data/taxonomia.json       tipus, categories, etiquetes, mides de grup i nivells
 data/dinamiques/*.json    el catàleg original en castellà, un fitxer per categoria
 data/traduccions/ca/*.json  traducció al català, un fitxer per categoria
-data/bibliografia.json    obres d'origen de les dinàmiques
+data/bibliografia.json    obres d'origen de les fitxes
 data/bundle.js            generat per npm run build
-scripts/extract_pdf.py    extractor del PDF font cap a JSON
+scripts/extract_pdf.py    extractor de «700 dinámicas grupales» cap a JSON
+scripts/extract_hebe.py   extractor del «Programa HEBE» cap a JSON
+scripts/deduplica.mjs     treu les fitxes repetides que deixa l'extracció
 scripts/tradueix-ca.py    traductor castellà → català (Apertium)
 scripts/build-data.mjs    validació i generació del bundle
 scripts/serve.mjs         servidor estàtic de desenvolupament
@@ -83,7 +97,7 @@ docs/                     arquitectura i guia per aportar dinàmiques
 ```
 
 L'organització en un fitxer JSON per categoria està pensada perquè el catàleg creixi:
-afegir dinàmiques és editar un fitxer i executar `npm run build`. El detall és a
+afegir fitxes és editar un fitxer i executar `npm run build`. El detall és a
 [docs/CONTRIBUTING-dinamiques.md](docs/CONTRIBUTING-dinamiques.md); el disseny tècnic, a
 [docs/ARQUITECTURA.md](docs/ARQUITECTURA.md).
 
@@ -94,12 +108,16 @@ afegir dinàmiques és editar un fitxer i executar `npm run build`. El detall é
 | `npm run build` | Valida `data/dinamiques/*.json` i regenera `data/bundle.js`. |
 | `npm run serve` | Servidor estàtic a `http://localhost:8080`. |
 | `npm start` | `build` i tot seguit `serve`. |
-| `npm run extract` | Reconstrueix el catàleg des del PDF font (necessita `pdftotext` i Python 3). |
+| `npm run extract` | Reconstrueix les dinàmiques de grup des de *700 dinámicas grupales* (necessita `pdftotext` i Python 3). |
+| `npm run extract-hebe` | Reconstrueix les unitats i activitats des del *Programa HEBE*. |
+| `npm run deduplica` | Treu les fitxes repetides que deixa l'extracció (`-- --prova` per veure què faria). |
 | `npm run tradueix` | Tradueix al català les fitxes noves o modificades (necessita Python 3 i connexió). |
 
 ## Sobre el contingut
 
-Les fitxes provenen del recull *[700 Dinámicas
+Les fitxes provenen de dues obres.
+
+Les **dinàmiques de grup**, del recull *[700 Dinámicas
 grupales](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/700-dinamicas-grupales.html)*
 (CENEAM), que aplega quatre obres:
 
@@ -108,8 +126,22 @@ grupales](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/700-dinamicas-gru
 - *456 Juegos y Dinámicas de Integración Grupal* (Prof. Enrique González)
 - *Juegos y Dinámicas* (recopilació)
 
+Les **unitats didàctiques i les seves activitats**, del *Programa HEBE. Una propuesta de
+acción tutorial para 3.º y 4.º de Educación Secundaria Obligatoria* (Lidia E. Santana Vega,
+Zuleica Ruiz Alfonso i Milena Trenta; Ediciones Pirámide, 2023): 34 unitats repartides en
+cinc blocs — ensenyar a pensar i a aprendre, a ser persona, a conviure, a comportar-se i a
+prendre decisions.
+
 La llista completa és a `data/bibliografia.json` i es consulta des de la vista
 **Bibliografia** de l'aplicació.
+
+### Fitxes repetides
+
+Les quatre obres de *700 dinámicas grupales* comparteixen molts jocs, i l'extracció els
+duplicava. `npm run deduplica` compara el desenvolupament de cada parell, conserva la fitxa
+més completa i esborra la resta. En queda una vintena de parells que **comparteixen títol
+però són propostes diferents**; es distingeixen per la categoria, que surt a la targeta, i
+`npm run build` els llista com a avís.
 
 ### Les dues llengües
 
@@ -118,7 +150,7 @@ una **traducció automàtica** feta amb [Apertium](https://www.apertium.org/) i 
 banda, a `data/traduccions/ca/`. `npm run build` combina totes dues: el bundle porta el
 text català com a principal i l'original castellà dins del camp `es` de cada fitxa.
 
-A l'aplicació, **Ajustos → Llengua de les dinàmiques** canvia entre les dues versions sense
+A l'aplicació, **Ajustos → Llengua del catàleg** canvia entre les dues versions sense
 perdre'n cap. La traducció és automàtica i no revisada: qualsevol fitxa es pot editar per
 corregir-la o adaptar-la al grup, i les versions editades es poden exportar des dels
 ajustos i incorporar al repositori.
@@ -130,9 +162,10 @@ L'extracció és automàtica: la classificació per categoria segueix les seccio
 originals, i les etiquetes, la durada i la mida de grup s'infereixen del text. Són valors
 orientatius i es poden corregir des de la fitxa.
 
-El PDF original no forma part del repositori (és material de tercers i ocupa 16 MB). Si el
-vols tornar a processar, desa'l a l'arrel del projecte amb el nom
-`700-Dinámicas-grupales.pdf` i executa `npm run extract`.
+Els PDF originals no formen part del repositori (són material de tercers). Si els vols
+tornar a processar, desa'ls a l'arrel del projecte i executa l'extractor corresponent
+(`npm run extract` i `npm run extract-hebe`); tot seguit, `npm run deduplica`,
+`npm run tradueix` i `npm run build`.
 
 ## Llicència
 
@@ -143,5 +176,5 @@ Codi sota llicència MIT (vegeu [LICENSE](LICENSE)). El peu de l'aplicació ofer
 sota [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ca): ús,
 còpia i modificació lliures i gratuïts, sempre que se'n reconegui l'autoria.
 
-El contingut de les dinàmiques pertany als autors de les obres citades a la
+El contingut de les fitxes pertany als autors de les obres citades a la
 [bibliografia](data/bibliografia.json) i s'inclou amb finalitat educativa.

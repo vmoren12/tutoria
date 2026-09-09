@@ -15,12 +15,6 @@
     "descripcio": "Es divideix el grup en dos subgrups i es formen parelles, de manera que cada component de les parelles es trobin en subgrups diferents. Es disposen bé en dues files enfrontades o bé una meitat ocupant el centre del cercle que forma al seu voltant l'altra meitat del grup. La parella no podrà estar cara a cara (això és, els membres de cada parella no han d'estar un enfront de l'altre). Els jugadors d'un subgrup porten els ulls embenats. Els altres són els pigalls, que no podran moure. Els cecs hauran d'aconseguir el seu pigall, els qui només podran cridar-los una vegada i una altra pel seu nom.",
     "titol": "Control Remot"
   },
-  "cuidado-2": {
-    "_signatura": "e984a4406a7b5d4f",
-    "descripcio": "Es fa un circuit amb els objectes. Tres voluntaris que entraran d'un en un. El voluntari recorre el circuit amb els ulls oberts. Torna a recórrer-ho, però aquesta vegada, amb els ulls embenats. Sense que ell s'assabenti, llevem els objectes del sòl. Els companys li \"dirigeixen\" simulant que encara estan els objectes.",
-    "objectius": "Afavorir la confiança en el grup.",
-    "titol": "Cuidat"
-  },
   "el-jardinero": {
     "_signatura": "1358f96cc6db518f",
     "avaluacio": "Com s'han sentit? Com van sentir a les altres persones? L'espai?.",

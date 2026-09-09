@@ -46,28 +46,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "buscando-pareja",
-    "titol": "Buscando Pareja",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cooperatiu",
-      "parelles"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "capsa",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "MATERIAL Objetos diferentes (caramelos de colores, figuras geométricas de diferentes formas...) Cada persona va a coger un objeto de la bolsa sin mirar y no se puede cambiar.\n\nEl animador introduce en una bolsa o caja una serie de parejas de objetos, por ejemplo caramelos de diferentes colores. Va pasando la caja por todo el grupo para que cada persona coja una pieza sin mirar.\n\nCada persona tiene que buscar a su pareja, por ejemplo los que ha elegido el caramelo de color rojo, se sientan juntos y hablan entre ellos diciendo el nombre, sus aficiones, que le gusta hacer en su tiempo libre. Se indica al grupo que han de estar muy atentos a lo que les diga el compañero ya que luego ellos tendrán que presentarlo al resto del grupo.\n\nCada miembro de la pareja presenta después a la persona con la que ha estado hablando al resto del grupo.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "buscando-pareja-2",
     "titol": "Buscando Pareja",
     "categoria": "presentacio",
@@ -107,28 +85,6 @@
     "preparacio": "",
     "consignes": "",
     "descripcio": "Se puede decir que gana quien complete antes la hoja para que así vayan más rápido y se motiven. Convienen luego hacer una pequeña comprobación.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
-    "id": "canasta-revuelta",
-    "titol": "Canasta Revuelta",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Todos los participantes se forman en círculos con sus respectivas sillas. El coordinador queda al centro, de pie. En el momento que el coordinador señale a cualquiera diciéndole ¡Piña!, éste debe responder el nombre del compañero que esté a su derecha. Si le dice: ¡Naranja!, debe decir el nombre del que tiene a su izquierda. Si se equivoca o tarda más de 3 segundo en responder, pasa al centro y el coordinador ocupa su puesto. En el momento que se diga ¡Canasta revuelta!, todos cambiarán de asiento. (El que está al centro, deberá aprovechar esto para ocupar uno y dejar a otro compañero al centro).",
     "avaluacio": "",
     "notes": "",
     "font": "22 Juegos para conocerse"
@@ -194,28 +150,6 @@
     "avaluacio": "Si se consigue el movimiento de forma uniforme.",
     "notes": "En lugar de utilizar zapatos como material, se podrán cambiar por otros objetos o prendas que sean comunes entre los niños. El curso de la dinámica será el mismo.",
     "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "corazones",
-    "titol": "Corazones",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "escriptura",
-      "parelles"
-    ],
-    "durada": 15,
-    "grup": "mitja",
-    "materials": "paper, retolador",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "En 20 hojas blancas se dibuja en el centro un corazón, utilizando marcador rojo. Las hojas con corazones se rasgan en dos. Deben rasgarse de manera que queden sus bordes irregulares, haciendo así un total de 40 partes, uno para cada participante.\n\na- Se colocan los papeles en el centro, (bien mezclados) sobre una mesa\n\nb- Se pide a los participantes que cada uno retire un pedazo de papel\n\nc- Luego, buscan al compañero o compañera que tiene la otra mitad, la que tiene coincidir exactamente\n\nd- Al encontrarse la pareja, deben conversar por 5 minutos sobre el nombre, datos personales, gustos, etc., experiencias, etc.\n\ne. Al finalizar el tiempo, vuelven al grupo general, para presentarse mutuamente y exponer sus experiencias",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
   },
   {
     "id": "corazones-2",
@@ -284,28 +218,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "el-bingo-de-presentacion",
-    "titol": "El Bingo de Presentación",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "competitiu",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "El animador entrega a cada participante una ficha y les pide que anoten su nombre y la devuelven al animador. Luego se entrega un cartón en blanco en donde el animador invita a los presentes a anotar el nombre de sus compañeros, a medida que el animador los va leyendo, de las fichas entregadas por el grupo. Cada uno los anota en el espacio que desee. Cuando todos tienen listo su cartón, el animador explica cómo se juega: a medida que se vayan diciendo los nombres de los participantes hacen una marca en el cartón, donde aparece ese nombre. La persona que complete primero una fila, recibe diez puntos. El ejercicio se puede realizar varias veces.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "el-bingo-de-presentacion-2",
     "titol": "El Bingo de Presentación",
     "categoria": "presentacio",
@@ -372,28 +284,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "el-nombre-kilometrico",
-    "titol": "El Nombre Kilométrico",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "competitiu"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "rellotge",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Sentados en círculo, un componente del grupo comienza diciendo su nombre (o como quiere que le llamen). El siguiente a su izquierda (siguiendo el movimiento de las agujas del reloj) debe decir: 1.El nombre de su compañero anterior 2.Su propio nombre. El tercer componente, por orden, dirá el nombre del primero, del segundo y el suyo. Y así, sucesivamente, hasta llegar al monitor o educador que será el último y el encargado de repetir todos los nombres seguidos. Ejemplo: Yo soy Luis... Él es Luis, yo soy Juan... Luis, Juan y yo Elena... Luis, Juan, Elena y Víctor...",
-    "avaluacio": "Para comprobar la eficacia del juego hay dos opciones: Volver a jugar empezando por otro punto distinto al inicial. Probar otro juego distinto de presentación.",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "el-nombre-kilometrico-2",
     "titol": "El Nombre Kilométrico",
     "categoria": "presentacio",
@@ -437,55 +327,6 @@
     "avaluacio": "Bastará con que cada miembro del subgrupo se relacione con los demás practicando su saludo inventado.",
     "notes": "No se dividen en subgrupos, sino individualmente, dependerá del número de miembros que constituyan el grupo principal, esto es menos aconsejable porque es menos favorecedor de la socialización.",
     "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "gente-a-gente",
-    "titol": "Gente a Gente",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "expressio-corporal",
-      "exterior",
-      "musica",
-      "parelles"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "musica",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Se divide el grupo en dos partes iguales. Se forman dos círculos concéntricos. Las personas del círculo interior miran hacia afuera y las del círculo exterior hacia adentro. Tendrán que quedar, por tanto, formando parejas frente a frente. Se puede poner música mientras cada pareja se presenta, se saluda con las manos y dice su nombre: \"Hola, soy....\" Después de presentarse, los de adentro dicen \"gente a gente\" que es la señal para que el círculo de afuera cambie un lugar hacia la izquierda. El juego continúa con la misma dinámica hasta dar la vuelta competa. El animador/a puede ir cambiando el ritmo de la música, así como el gesto del saludo: ahora codo con codo, cabeza con cabeza, rodilla con rodilla, ...",
-    "avaluacio": "",
-    "notes": "Un buen juego de presentación para grupos muy numerosas.",
-    "font": "22 Juegos para conocerse"
-  },
-  {
-    "id": "gesto-paranoico",
-    "titol": "Gesto Paranoico",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "expressio-corporal",
-      "moviment",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Hay que respetar el orden. Debemos repetir el nombre y gesto de todos los anteriores y añadir el nuestro. Tenemos que intentar no repetir y ser originales.\n\nSe colocan en círculo, con cierta separación unos de otros y a ser posible, de pie. El primero dice su nombre y hace un gesto y el siguiente debe repetirlos ambos y añadir su nombre y su gesto. El tercero repetirá el nombre y gesto de los dos anteriores y añadirá el suyo.",
-    "avaluacio": "Bastará con que se vayan repitiendo los nombres y gestos, aunque sea con ayuda de los compañeros",
-    "notes": "Todo el grupo en círculo. Una persona comienza diciendo su nombre acompañado de un gesto, saltos, saludo, baile, etc. y todos lo repiten, así sucesivamente hasta que todos han dicho su nombre con su gesto y todo el grupo lo ha ido repitiendo. La variante la envía Mª Carmen del Barrio y le llama \"repetimos gestos\". Otra variante es \"me pica\".",
-    "font": "22 Juegos para conocerse"
   },
   {
     "id": "gesto-paranoico-2",
@@ -538,31 +379,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "juego-de-las-tarjetas",
-    "titol": "Juego de las Tarjetas",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "escriptura",
-      "interior",
-      "memoria",
-      "moviment"
-    ],
-    "durada": 30,
-    "grup": "mitja",
-    "materials": "1 tarjeta de cartulina, (20x10cm) para cada participante. 1 marcador para cada participante. Alfileres para fijar la tarjeta en la ropa. 1 tarjeta preparada a modo de ejemplo. Estructura del Ejercicio: - Distribución de los Materiales - Explicación y llenado de las tarjetas - Ejecución de la lectura. - Realización del ejercicio de la memorización - Descripción",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Primera Etapa: Se distribuye a cada participante una tarjeta, un marcador y un alfiler. El coordinador de la dinámica solicita a todos que coloquen su nombre o su sobrenombre, en forma vertical, en el margen izquierdo de la tarjeta. Se indica que busquen para 3 letras del nombre, 3 adjetivos positivos que reflejen una cualidad positiva personal y las escriban en la tarjeta a continuación de la letra elegida (ver ejemplo). Luego se les pide que se la coloquen en un lugar visible, en la ropa.\n\nEjemplo:\n\nA\n\nN Genial E ntusiasta\n\nL Amigable\n\nDespués de esto, se les invita a desplazarse por el salón para leer los nombres y cualidades de los otros. Pueden hacerse comentarios entre los participantes y circular libremente. Luego de unos minutos se les pide formar un círculo para iniciar el ejercicio de memorización.\n\nSegunda etapa: Cada persona se presenta (primero con su nombre y luego con uno de los adjetivos escritos.) El ejercicio consiste en que cada participante debe comenzar a decir de memoria el nombre y el adjetivo de los que hablaron anteriormente y luego el suyo. Los participantes pueden, si se olvidan, leer las tarjetas, ya que el objetivo principal del juego no es que memoricen sino que se conozcan y se integren. El coordinador puede producir variantes para amenizar, como que cada uno debe recordar uno o dos, al azar - o que cada uno tenga que recordar a aquel que tenga el mismo color de ropa - etc.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "juego-de-las-tarjetas-2",
     "titol": "Juego de las Tarjetas",
     "categoria": "presentacio",
@@ -605,30 +421,6 @@
     "avaluacio": "El animador deberá apuntar cuidadosamente la forma en que cada cual se expresa y se presenta ante los demás. En este juego, efectivamente, se manifiesta lo que cada uno quiere ser y la facilidad (o la torpeza) para expresarlo ante los demás, especialmente al comienzo de la adolescencia. Se manifiesta lo que cada uno es y lo que el grupo nos hace o nos obliga a ser.",
     "notes": "Para realizar con chicos durante una convivencia.",
     "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "la-pelota-preguntona",
-    "titol": "La Pelota Preguntona",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "moviment",
-      "musica",
-      "subgrups"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "pilota",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "El animador entrega una pelota a cada equipo, invita a los presentes a sentarse en círculo y explica la forma de realizar el ejercicio. Mientras se entona una canción la pelota se hace correr de mano en mano; a una seña del animador, se detiene el ejercicio. La persona que ha quedado con la pelota en la mano se presenta para el grupo: dice su nombre y lo que le gusta hacer en los ratos libres. El ejercicio continúa de la misma manera hasta que se presenta la mayoría. En caso de que una misma persona quede más de una vez con la pelota, el grupo tiene derecho a hacerle una pregunta.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
   },
   {
     "id": "la-pelota-preguntona-2",
@@ -743,49 +535,6 @@
     "font": "22 Juegos para conocerse"
   },
   {
-    "id": "los-saludos-con-partes-del-cuerpo-2",
-    "titol": "Los Saludos con Partes del Cuerpo",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "musica"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "musica",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "El animador invita a formar dos círculos (uno dentro del otro) con igual número de personas y pide que se miren frente a frente. Es recomendable tener una música de fondo. Pide que se presenten con la mano y digan su nombre, qué hace, que le gusta y que no le gusta. Inmediatamente el animador da la señal para que se rueden los círculos cada uno en sentido contrario, de tal forma que le toque otra persona enfrente. El animador pide que se saluden dándose un abrazo y pregunten a la otra persona las mismas preguntas que hicieron antes, después vuelven a girar de nuevo y esta vez se saludan con los pies, posteriormente con los codos, los hombros, etc.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "me-pica",
-    "titol": "Me Pica",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "sense-material"
-    ],
-    "durada": 10,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Uno a uno van diciendo su nombre y lo que les pica, y el nombre y lo que le picaba a cada persona que ha hablado antes que ellos.",
-    "avaluacio": "Se verá si la gente se ha quedado con algún nombre de los que desconocía al principio o no",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "me-pica-2",
     "titol": "Me Pica",
     "categoria": "presentacio",
@@ -807,28 +556,6 @@
     "avaluacio": "Se verá si la gente se ha quedado con algún nombre de los que desconocía al principio\n\no no",
     "notes": "",
     "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "palmas",
-    "titol": "Palmas",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Se trata de decir el nombre propio y el de otra persona llevando el ritmo marcado. En círculo ,el monitor marca el ritmo; un golpe con las palmas de las manos sobre las piernas, una palmada, mano derecha hacia atrás por encima del hombro y con el pulgar mirando hacia atrás, este mismo movimiento con la mano izquierda. Al llevar la derecha hacia atrás hay que decir el nombre de uno mismo y al llevar la izquierda el de otra persona del grupo. Todo el grupo tiene que hacer los mismos movimientos llevando el ritmo. La persona nombrada dice su nombre y el de otra persona. Así sucesivamente hasta ser presentados todos algunas veces, sin perder el ritmo",
-    "avaluacio": "",
-    "notes": "Se pueden hacer variantes, cambiando el ritmo, habiéndolo también con los pies estando sentados.",
-    "font": "22 Juegos para conocerse"
   },
   {
     "id": "parejas",
@@ -878,52 +605,6 @@
     "font": "22 Juegos para conocerse"
   },
   {
-    "id": "pedro-llama-a-pablo-2",
-    "titol": "Pedro Llama a Pablo",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "memoria",
-      "moviment",
-      "musica",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "El objetivo de esta dinámica es lograr que los miembros de una reunión graben los nombres de sus compañeros y logren, memorizar rostros y actitudes divertidas de los participantes. Se forma un círculo con los participantes, todos ellos sentados. El jugador que está a la cabeza comienza diciendo su nombre y llamando a otro jugador, ejemplo: \"Pedro llama a María\", María responde \"Maria llama a Juan\", Juan dice \"Juan llama a Pablo\", etc. El que no responda rápido a su nombre paga penitencia que puede ser: contar un chiste, bailar con la escoba, cantar.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "pelota-caliente",
-    "titol": "Pelota Caliente",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle"
-    ],
-    "durada": 10,
-    "grup": "mitja",
-    "materials": "pilota",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "MATERIAL Una pelota u otro objeto para lanzar. Debe hacerse lo más rápido posible. La pelota está muy caliente y quema.\n\nEn círculo, sentados o de pie. El animador/a explica que la persona que reciba la pelota tiene que darse a conocer, diciendo:\n\nEl nombre con el que le gusta que la llamen. Su lugar de procedencia. Algunos gustos. Algunos deseos. Todo eso hay que hacerlo rápido para no quemarse. Inmediatamente terminada la presentación se lanza la pelota a otra persona que continúa el juego.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "pelota-caliente-2",
     "titol": "Pelota Caliente",
     "categoria": "presentacio",
@@ -966,49 +647,6 @@
     "font": "22 Juegos para conocerse"
   },
   {
-    "id": "presentacion-para-conocerse-y-aprenderse-los-nombres-2",
-    "titol": "Presentación para Conocerse y Aprenderse los Nombres",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "musica"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "musica",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Se explica que va a haber una fiesta, y que cada cual debe llevar algo, pero que empiece con la inicial de su nombre. El primero comienza diciendo su nombre y lo que va a llevar a la fiesta. El segundo repite lo que dijo el anterior, y luego dice su nombre y lo que va a llevar a la fiesta. Por ejemplo:\n\n1. Yo soy Pablo y voy a llevar la música\n\n2. Él es Pablo y va a llevar la música y yo soy Ricardo y voy a llevar los refrescos.\n\n3. Él es Pablo y va a llevar la música, él es Ricardo y va a llevar los refrescos y yo soy Juana y voy a llevar el pastel Y Así se repite sucesivamente hasta completar la cantidad de participantes.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "quien-calla-paga",
-    "titol": "Quien Calla Paga",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "petit",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Debe hacerse lo más rápido posible. Si te tocan pasas al centro. Antes de inicial el juego todos deben decir previamente el dato en cuestión.\n\n6 participantes en círculo y uno en el centro. El animador/a da el nombre de una persona del circulo, esta debe decir el nombre de otro antes de ser tocada por la que este en el centro y así sucesivamente. En caso de ser tocado antes de responder pasa al centro.",
-    "avaluacio": "",
-    "notes": "el nombre con el que le gusta que la llamen. Su lugar de procedencia. Algunos gustos. Algunos deseos.",
-    "font": "22 Juegos para conocerse"
-  },
-  {
     "id": "quien-calla-paga-2",
     "titol": "Quien Calla Paga",
     "categoria": "presentacio",
@@ -1029,28 +667,6 @@
     "avaluacio": "",
     "notes": "el nombre con el que le gusta que la llamen. su lugar de procedencia. algunos gustos. algunos deseos.",
     "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "telarana",
-    "titol": "Telaraña",
-    "categoria": "presentacio",
-    "etiquetes": [
-      "cercle",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "MATERIAL Una bola de estambre o ovillo de lana para lanzar. Todas las personas formaran un circulo, luego se seleccionara alguna persona al azar y ella tomara el principio del estambre o ovillo de lana y lanzara el resto de estambre a algún participante que el elija pero antes de lanzarlo deberá decir su nombre, pasatiempos, intereses esto dependerá de las características que se utilizaran en la presentación al lanzarlo el otro participante debe repetir la presentación de su compañero y la propia y lanzar el estambre, quedándose también con una parte de él hasta llegar al ultimo participante y lograr formar una telaraña el dirigente o moderador tomara la decisión de deshacerla siguiendo el mismo desarrollo pero ahora mencionaran los participantes otro dato como algo positivo sobre la persona a la que le regresara el extremo del estambre y así se continua hasta llegar a la primera persona que tiene el inicio del estambre.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "22 Juegos para conocerse"
   },
   {
     "id": "telarana-3",

@@ -167,6 +167,24 @@
   text-decoration: underline;
 }
 
+.filtres__familia {
+  margin: var(--esp-3) 0 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tenue);
+}
+
+.filtres__familia + .filtres__llista { margin-top: var(--esp-1); }
+
+.filtres__ajuda {
+  margin: var(--esp-2) 0 0;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  color: var(--text-tenue);
+}
+
 .filtres__cinta { display: none; }
 
 /* Barra d'eines --------------------------------------------------------- */
@@ -314,6 +332,48 @@
   border-color: var(--accent);
   color: var(--accent);
 }
+
+/* Tipus de proposta ------------------------------------------------------
+   El catàleg barreja jocs solts amb activitats i unitats didàctiques d'un
+   programa de tutoria. El distintiu del tipus va sempre primer i, com més
+   estructurada és la proposta, més pes visual té. */
+
+.etiqueta--tipus {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.65rem;
+  font-weight: 700;
+}
+
+.etiqueta--unitat {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+.etiqueta--activitat {
+  background: transparent;
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.etiqueta--dinamica {
+  background: transparent;
+  border-color: var(--vora-forta);
+  color: var(--text-tenue);
+}
+
+.etiqueta--nivell {
+  background: transparent;
+  border-color: var(--vora-forta);
+  color: var(--text-suau);
+  font-variant-numeric: tabular-nums;
+}
+
+.targeta--unitat { border-color: var(--vora-forta); }
+
+a.etiqueta { text-decoration: none; }
+a.etiqueta:hover { border-color: var(--accent); }
 
 /* Dinàmiques que ja formen part de la sessió activa ---------------------- */
 

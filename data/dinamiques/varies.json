@@ -24,28 +24,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "cola-de-vaca-2",
-    "titol": "Cola de Vaca",
-    "categoria": "varies",
-    "etiquetes": [
-      "cercle",
-      "sense-material"
-    ],
-    "durada": 10,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "Animación",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Sentados en circulo, el coordinador se queda en el centro y empieza haciendo una pregunta a cualquiera de los participantes. La respuesta debe ser siempre \"la cola de vaca\". Todos el grupo puede reírse , menos el que está respondiendo . Si se ríe , pasa al centro y da una prenda. Si el compañero que está al centro se tarda mucho en preguntar da una prenda.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
     "id": "dibujando-a-ciegas",
     "titol": "Dibujando a Ciegas",
     "categoria": "varies",
@@ -68,77 +46,6 @@
     "consignes": "",
     "descripcio": "1.- El animador invita al grupo a formar espontáneamente equipos de seis personas. Se ponen un nombre para identificarse. 2.- Escuchan la explicación de la dinámica: Todos los integrantes de cada equipo participarán por turno, dibujando con la vista tapada. Cada dibujante agregará otros elementos a los dibujados anteriormente, según lo que indique el animador. Mientras participa el primer voluntario, su equipo puede orientarlo con aplausos. Cuando dibuje en el lugar correcto, los golpes serán fuertes. Si está equivocado, los golpes serán más débiles. Los equipos contrarios pueden estorbar la ayuda con silbidos o tarareando una canción. 3.- El primer dibujante se cubre con la bolsa de papel o tela oscura y comienza a dibujar lo que le señala el animador. Una casa con dos ventanas y una puerta. Entrega la bolsa de papel o tela al segundo participante. Segundo: un árbol junto a la casa. Tercero: el sol sobre la casa. Cuarto: una vaca en el jardín de la casa. Quinto: la cordillera detrás de la casa. Sexto: el papá, la mamá y su hijo caminando hacia la casa. 4.- Participa el equipo número 2. Lo hace de la misma manera que el anterior. La dinámica continúa igual hasta que intervienen todos los equipos. El motivo que se dibuja es siempre el mismo. Al final se comparan los papelógrafos. Gana el equipo cuyo dibujo es el mejor logrado.\n\n- Separarse en pequeños grupos y analizar ¿Qué necesidades, que retos y desafíos existen en nuestra comunidad?\n\n- Realizar un plenario y puesta en común.\n\n- Analizar cómo podemos, preparamos para afrontar estos retos (el compromiso, sentido de misión, etc.)\n\n- Asumir un compromiso y realizarlo.",
     "avaluacio": "¿Cómo se sintieron durante la experiencia? ¿Qué momento les resultó más difícil? ¿Qué descubrieron de los demás? ¿Sintieron el apoyo de su equipo? ¿Cómo podría relacionarse la dinámica con la vida de este grupo? ¿Cómo se sienten ahora?\n\nTareas con la comunidad",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "el-bum-2",
-    "titol": "El Bum",
-    "categoria": "varies",
-    "etiquetes": [
-      "atencio",
-      "cercle",
-      "competitiu",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "Animación, Concentración.",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Todos los participantes se sientan en círculo, se dice que vamos a enumerarse en voz alta y que todos a los que les toque un múltiplo de tres(3- 6- 9- 12, etc.) o un número que termina en tres(13- 23- 33, etc.) debe decir ¡BUM! en lugar del número; el que sigue debe continuar la numeración. Ejemplo: se empieza, UNO, el siguiente DOS, al que le corresponde decir TRES dice BUM, el siguiente dice CUATRO, etc. Pierde el que no dice BUM o el que se equivoca con el número siguiente. Los que pierden van saliendo del juego y se vuelve a iniciar la numeración por el número UNO. La numeración debe irse diciendo rápidamente; si un compañero se tarda mucho también queda descalificado. (5 segundos máximo). Los dos últimos jugadores son los que ganan. El juego puede puede hacerse más complejo utilizando múltiplos de números mayores, o combinando múltiplos de tres con múltiplos de cinco por ejemplo.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "esto-me-recuerda-2",
-    "titol": "Esto Me Recuerda",
-    "categoria": "varies",
-    "etiquetes": [
-      "atencio",
-      "memoria",
-      "sense-material"
-    ],
-    "durada": 10,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "Animación, Concentración.",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Esta dinámica consiste en que un participante recuerda alguna cosa en voz alta. El resto de los participantes manifiesta lo que a cada uno de ellos, eso les hace recordar\n\nespontáneamente. Ejemplo: \"pensé en una gallina\", otro \"eso me recuerda...huevos\"etc. -Debe hacerse con rapidez. Si se tarda más de 4 segundos, da una prenda o sale del juego.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
-    "id": "levantese-y-sientese-2",
-    "titol": "¡Levántese y Siéntese !",
-    "categoria": "varies",
-    "etiquetes": [
-      "atencio",
-      "cercle",
-      "competitiu",
-      "sense-material"
-    ],
-    "durada": 20,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "Animación, Concentración.",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Todos sentados en circulo. El coordinador empieza contando cualquier historia inventada. cuando dentro del relato dice la palabra \"quien\" todos se deben levantar, y cuando dice la palabra \"no\", todos deben sentarse. Cuando alguien ( no se levanta o no se sienta en el momento en que se dice \"quien\" o \"no\", sale del juego o da una prenda. El coordinador puede iniciar la historia y señalar a cualquier participante para que la continúe y así sucesivamente. El que narra la historia, debe hacerlo rápidamente para darle agilidad; si no lo hace, también pierde.",
-    "avaluacio": "",
     "notes": "",
     "font": "Juegos y Dinamicas (recopilacio)"
   }

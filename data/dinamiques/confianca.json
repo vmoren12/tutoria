@@ -48,30 +48,6 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
-    "id": "cuidado-2",
-    "titol": "Cuidado",
-    "categoria": "confianca",
-    "etiquetes": [
-      "emocions",
-      "moviment",
-      "sense-material",
-      "ulls-tapats"
-    ],
-    "durada": 10,
-    "grup": "mitja",
-    "materials": "",
-    "resum": "",
-    "objectius": "Favorecer la confianza en el grupo.",
-    "participants": "",
-    "espai": "",
-    "preparacio": "",
-    "consignes": "",
-    "descripcio": "Se hace un circuito con los objetos. Tres voluntarios que entrarán de uno en uno. El voluntario recorre el circuito con los ojos abiertos. Vuelve a recorrerlo, pero esta vez, con los ojos vendados. Sin que él se entere, quitamos los objetos del suelo. Los compañeros le \"dirigen\" simulando que aún están los objetos.",
-    "avaluacio": "",
-    "notes": "",
-    "font": "Juegos y Dinamicas (recopilacio)"
-  },
-  {
     "id": "el-jardinero",
     "titol": "El Jardinero",
     "categoria": "confianca",
