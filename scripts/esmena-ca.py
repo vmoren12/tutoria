@@ -207,6 +207,27 @@ REGLES = [
     (re.compile(r"(?<![\wÀ-ÿ])el major nombre de(?![\wÀ-ÿ])"), 'el nombre més gran de'),
     (re.compile(r"(?<![\wÀ-ÿ])el major número (?=de|dels)"), 'el nombre més gran '),
     (re.compile(r"(?<![\wÀ-ÿ])major semblança(?![\wÀ-ÿ])"), 'més semblances'),
+    # --- «cada uno» com a pronom és «cadascú», no «cadascun» ---
+    (re.compile(r"(?<![\wÀ-ÿ])[Cc]adascun(?! de| dels| de les| d'| dels)(?![\wÀ-ÿ])"),
+     lambda m: m.group(0)[0] + 'adascú'),
+    # --- desdoblaments de genere a la castellana ---
+    (re.compile(r"/as(?![\wÀ-ÿ])"), '/es'),
+    (re.compile(r"/os(?![\wÀ-ÿ])"), '/os'),
+    # --- l'etiqueta del camp ja diu «Consignes de partida» ---
+    (re.compile(r"^DE PARTIDA: *cap\.?$", re.M), 'Cap.'),
+    (re.compile(r"(?<![\wÀ-ÿ])(?:CONSIGNA )?DE PARTIDA: *"), ''),
+    # --- comparatius i ordre de «següent» ---
+    (re.compile(r"(?<![\wÀ-ÿ])en relació a(?!mb)(?![\wÀ-ÿ])"), 'en relació amb'),
+    (re.compile(r"(?<![\wÀ-ÿ])la següent (manera|forma)(?![\wÀ-ÿ])"), 'la manera següent'),
+    (re.compile(r"(?<![\wÀ-ÿ])la següent vegada(?![\wÀ-ÿ])"), 'la vegada següent'),
+    (re.compile(r"(?<![\wÀ-ÿ])(els|les) següents ([\wÀ-ÿ]+)(?=[:,.;\n])"),
+     lambda m: f'{m.group(1)} {m.group(2)} següents'),
+    (re.compile(r"(?<![\wÀ-ÿ])cada vegada major(?![\wÀ-ÿ])"), 'cada vegada més gran'),
+    (re.compile(r"(?<![\wÀ-ÿ])(nombre|número|quantitat|puntuació) major(?![\wÀ-ÿ])"),
+     lambda m: m.group(1) + ' més alt' if m.group(1) != 'quantitat' else 'quantitat més gran'),
+    (re.compile(r"(?<![\wÀ-ÿ])major que(?![\wÀ-ÿ])"), 'més gran que'),
+    (re.compile(r"(?<![\wÀ-ÿ])vívid(s?)(?![\wÀ-ÿ])"), lambda m: 'viscut' + m.group(1)),
+    (re.compile(r"(?<![\wÀ-ÿ])[Vv]alonar(?![\wÀ-ÿ])"), 'Valorar'),
     # --- apostrofacio que el glossari o l'original havien perdut ---
     (re.compile(r"(?<![\wÀ-ÿ])([Dd])e (?=[aeiouàèéíòóúAEIOU][\wÀ-ÿ'])(?!io|ia(?![\wÀ-ÿ])|uadi)"),
      lambda m: m.group(1) + "'"),
@@ -251,10 +272,55 @@ def per_a_infinitiu(text):
     return INFINITIU.sub(canvi, text)
 
 
+# Els PDF originals parteixen les frases enmig; si la linia no acaba en signe
+# de puntuacio i la seguent comenca en minuscula, es la mateixa frase.
+TALL = re.compile(r"(?<=[\wÀ-ÿ,])\n{1,2}(?=[a-zà-ÿ])")
+
+
+def ajunta_linies(text):
+    return TALL.sub(' ', text)
+
+
+# ---------------------------------------------------------------------------
+# 3. Titols. Els originals venen amb Majuscula A Cada Mot, que es un us
+#    angles: en catala nomes van en majuscula la primera paraula i els noms
+#    propis.
+# ---------------------------------------------------------------------------
+NOMS_PROPIS = {
+    'Kabita', 'Sagidi', 'Sapopo', 'Pukutu', 'Buchi', 'Bucha', 'Dalila',
+    'Chagualo', 'Chágualo', 'Scouter', 'Scouters', 'Theis', 'Palen', 'Silux',
+    'Dracula', 'Dràcula', 'Kim', 'Noe', 'Noè', 'Meche', 'Pablo', 'Holmes',
+    'Sant', 'Joan', 'Cruz', 'Pio', 'Pío', 'Chicho', 'Delhi', 'Maria',
+    'María', 'Simon', 'Simón', 'Sanson', 'Sansó', 'Pinotxo', 'Jokin',
+    'Nasa', 'NASA', 'Espanya', 'Europa', 'Índia', 'Nadal', 'Gavilan',
+    'Chiguagua', 'Chinichino', 'Chiníchinó', 'Marroc', 'Bingo',
+}
+ROMANS = re.compile(r'^[IVXLCDM]+$')
+
+
+def titol_en_frase(titol):
+    """«Abraçades Musicals Cooperatives» -> «Abraçades musicals cooperatives»."""
+    mots = titol.split(' ')
+    sortida = []
+    for i, mot in enumerate(mots):
+        nu = mot.strip("¿?¡!()«»\"'.,:;")
+        propi = not nu or nu in NOMS_PROPIS or nu.isupper()             or ROMANS.match(nu) or any(c.isdigit() for c in nu)
+        if i and not propi:
+            mot = mot[0].lower() + mot[1:] if mot[0].isupper() else mot
+        # «L'Amic» -> «L'amic», tambe si es la primera paraula
+        rere = re.sub(r"^(l|d|n|s|L|D)(['’])(.*)$", lambda m: m.group(3), mot)
+        if rere and rere != mot and rere.strip("¿?¡!()«»\"'.,:;") not in NOMS_PROPIS:
+            mot = re.sub(r"^(l|d|n|s|L|D)(['’])([A-ZÀ-Ý])",
+                         lambda m: m.group(1) + m.group(2) + m.group(3).lower(), mot)
+        sortida.append(mot)
+    return ' '.join(sortida)
+
+
 def esmena(text):
     if not text:
         return text
-    nou = MOTS.sub(_mot, text)
+    nou = ajunta_linies(text)
+    nou = MOTS.sub(_mot, nou)
     for patro, canvi in REGLES:
         if canvi is None:
             nou = per_a_infinitiu(nou)
@@ -284,6 +350,8 @@ def main(argv):
                 if camp not in entrada:
                     continue
                 nou = esmena(entrada[camp])
+                if camp == 'titol':
+                    nou = titol_en_frase(nou)
                 if nou != entrada[camp]:
                     entrada[camp] = nou
                     canvis += 1
