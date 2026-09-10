@@ -143,58 +143,58 @@
   },
   "el-anillo-magico": {
     "_signatura": "404f9fc9b9972eed",
-    "descripcio": "les mans dels jugadors estan en continu moviment, perquè a través d'elles és per on passa l'anell, el més discretament possible perquè el jugador del centre no pugui descobrir-lo. En el moment en què el diu: \"Per a\", tots immobilitzen les mans en la posició en què es troben. Llavors l'aixequés la mà d'aquell que jutgi que està amb l'anell. Si encerta, serà reemplaçat; en cas contrari, farà nova temptativa.",
-    "materials": "un llaç i un anell. Formació: els jugadors s'asseuen en cadires o a terra sostenint el llaç. L'anell aquesta enfilat en el llaç. En el centre aquesta un jugador que tracta de descobrir on aquesta l'anell.",
+    "descripcio": "Les mans dels jugadors estan en moviment continu, perquè és per allà on passa l'anell, tan discretament com sigui possible perquè el jugador del centre no el pugui descobrir. Quan aquest diu «alto!», tothom immobilitza les mans en la posició en què es troben. Aleshores ell aixecarà la mà de qui cregui que té l'anell. Si l'encerta, el substituirà; si no, farà un altre intent.",
+    "materials": "Un cordill i un anell.\n\nFormació: els jugadors seuen en cadires o a terra sostenint el cordill. L'anell hi va enfilat. Al centre hi ha un jugador que mira de descobrir on és l'anell.",
     "titol": "L'anell màgic"
   },
   "el-apreton-de-mano": {
     "_signatura": "414bc57e5085d872",
-    "descripcio": "el perseguidor crida: \"L'últim fora!\". L'últim jugador de cada fila parteix immediatament, corrent, i es cap endavant del perseguidor, un a la dreta i l'altre a l'esquerra, intentant donar una estreta de mà. En el moment en què els jugadors passen la línia sobre la qual aquesta el perseguidor, aquest basta que toc amb la mà a un d'ells. Si ho aconsegueix el que hagi estat tocat ocupa el lloc del perseguidor, i est el seu. Si no ho aconsegueix, el perseguidor crida novament: \"l'últim fos!\" i prossegueix el joc. Els jugadors que sota siguin tocats, ocupen el primer lloc en les seves respectives files.\n\nFormació: els jugadors van formar dues files. A una distància de deu metres es traça una línia sobre la qual aquesta el perseguidor, d'esquena a les files.",
+    "descripcio": "El perseguidor crida: «L'últim fora!». L'últim jugador de cada fila surt immediatament corrent i es planta davant del perseguidor, un a la dreta i l'altre a l'esquerra, mirant de donar-se una encaixada de mans. Quan els jugadors passen la línia on hi ha el perseguidor, a aquest li n'hi ha prou de tocar-ne un amb la mà. Si ho aconsegueix, el jugador tocat ocupa el lloc del perseguidor i aquest ocupa el seu. Si no ho aconsegueix, el perseguidor torna a cridar «l'últim fora!» i el joc continua. Els jugadors que no siguin tocats ocupen el primer lloc de la seva fila.\n\nFormació: els jugadors formen dues files. A deu metres de distància es traça una línia on se situa el perseguidor, d'esquena a les files.",
     "titol": "L'encaixada de mans"
   },
   "el-cocodrilo-evade-el-balon": {
     "_signatura": "898c89ed6b4e2952",
-    "descripcio": "Els jugadors ben espaiats formen un ampli circuit. Un equip en fila, es col·loca en el centre del cercle i cada noi s'agafa el que té davant. Els jugadors que formen el cercle, disposen d'una pilota de futbol amb el qual tracten de pegar-li al últim de la fila. Si ho aconsegueixen, aquest passa al capdavant de la fila i el joc continua. Quan tot l'equip ha estat tocat per la bola, és reemplaçat per un altre equip. Guanya l'equip que s'ha mantingut més temps en el centre del cercle.",
+    "descripcio": "Els jugadors, ben separats, formen un cercle ampli. Un equip es col·loca en fila al centre del cercle i cadascú s'agafa al que té al davant. Els jugadors del cercle disposen d'una pilota de futbol amb què miren de tocar l'últim de la fila. Si ho aconsegueixen, aquest passa al capdavant de la fila i el joc continua. Quan tot l'equip ha estat tocat per la pilota, el substitueix un altre equip. Guanya l'equip que s'hagi mantingut més temps al centre del cercle.",
     "materials": "pilota",
     "titol": "El cocodril esquiva la pilota"
   },
   "el-espejo-magico": {
     "_signatura": "6cb91cc7055f14e8",
-    "descripcio": "el mirall (jugador) comença a fer preguntes o a contar una història. Tot el que faci és mirall, els altres jugadors han de fer-ho al contrari. Si l'es senti, els altres s'aixequen. Si es posa el barret, els altres li ho lleven. Si aixeca el braç dret, aixequen l'esquerre. Després d'alguns minuts es reemplaça el mirall pel jugador que no hagi tingut equivocacions.",
-    "materials": "una cadira. Formació: un semicercle on els jugadors, asseguts, estan enfront del mirall (jugador triat), que està dret, amb una cadira a la seva esquena.",
+    "descripcio": "El mirall comença a fer preguntes o a explicar una història. Tot el que faci el mirall, els altres jugadors ho han de fer a l'inrevés: si ell seu, els altres s'aixequen; si es posa el barret, els altres se'l treuen; si aixeca el braç dret, ells aixequen l'esquerre. Al cap d'uns minuts, el mirall és substituït pel jugador que no s'hagi equivocat cap vegada.",
+    "materials": "Una cadira.\n\nFormació: un semicercle on els jugadors, asseguts, són davant del mirall (un jugador triat), que està dret amb una cadira a l'esquena.",
     "titol": "El mirall màgic"
   },
   "el-evadido": {
     "_signatura": "712655d190750bf8",
-    "descripcio": "Els jugadors ben espaiats formen un cercle. Un jugador (l'evadit) es col·loca dins del cercle i dos (o possiblement tres) fora, La idea és que l'evadit surti del cercle entre dos Scouts i que torni a entrar per qualsevol bretxa sense ser tocat pels que estan fora del cercle. Tan aviat com sigui aconseguit, ho substitueix un altre jugador. L'\"evadit\" que aconsegueix evadir més vegades sense ser atrapat, és el guanyador.",
+    "descripcio": "Els jugadors, ben separats, formen un cercle. Un jugador, el fugitiu, es col·loca dins del cercle i dos més (o possiblement tres) a fora. La idea és que el fugitiu surti del cercle passant entre dos companys i que hi torni a entrar per qualsevol forat sense que el toquin els que són a fora. Tan bon punt l'atrapen, el substitueix un altre jugador. Guanya el fugitiu que aconsegueixi escapar-se més vegades sense ser atrapat.",
     "titol": "El fugitiu"
   },
   "el-gran-pastel": {
     "_signatura": "8496619855a62787",
-    "descripcio": "el joc consisteix a llegir i anotar el nom de la persona i l'ingredient que porta. Serà vencedor el jugador que al final de cinc minuts tingui més completa la llista d'ingredients.",
-    "materials": "trossos de paper. Llapis i paper per a cada jugador. Formació: els jugadors formen un cercle. A l'esquena de cadascú es pegués un tros de paper amb el nom d'un dels ingredients d'un pastís.",
+    "descripcio": "El joc consisteix a llegir i anotar el nom de la persona i l'ingredient que porta. Guanya el jugador que al cap de cinc minuts tingui la llista d'ingredients més completa.",
+    "materials": "Trossos de paper. Llapis i paper per a cada jugador.\n\nFormació: els jugadors formen un cercle. A l'esquena de cadascú s'enganxa un tros de paper amb el nom d'un dels ingredients d'un pastís.",
     "titol": "El gran pastís"
   },
   "el-guino-en-el-ojo": {
     "_signatura": "7007dd45d1b17a56",
-    "descripcio": "el jugador que està darrere de la cadira buida, picar l'ullet l'ull a un dels quals estan asseguts. Est, en rebre el senyal, ira a asseure en la cadira buida. El jugador que està darrere del que va rebre el senyal, procura impedir que el seu company canviï de lloc, tocant-ho en l'espatlla, però sense sortir de lloc. Si queda només, haurà de fer senyal a un altre. I així contínua el joc.",
-    "materials": "cadires per a la meitat dels jugadors. Formació: jugadors en cercle, asseguts. Una cadira lliure. Darrere de cada cadira aquesta un jugador dret, amb les mans en el recolzar.",
+    "descripcio": "El jugador que és darrere de la cadira buida pica l'ullet a un dels qui seuen. Aquest, en rebre el senyal, ha d'anar a seure a la cadira buida. El jugador que és darrere del que ha rebut el senyal mira d'impedir que el seu company canviï de lloc tocant-li l'espatlla, però sense moure's del seu lloc. Si es queda sol, haurà de fer el senyal a un altre. I així continua el joc.",
+    "materials": "Cadires per a la meitat dels jugadors.\n\nFormació: jugadors asseguts en cercle amb una cadira lliure. Darrere de cada cadira hi ha un jugador dret, amb les mans al respatller.",
     "titol": "Picar l'ullet"
   },
   "el-lagarto-y-la-lagartija": {
     "_signatura": "e4c48724666c0805",
-    "descripcio": "Cadascun dels integrants han de tenir una parella de l'altre cercle. L'animador canta el següent: \"Un llangardaix i una sargantana van sortir a prendre el sol, a l'hivern perquè fa fred i a l'estiu perquè fa calor\" (posant-li ritme, encara que pot ser qualsevol altra cançó o algun enregistrament) i el cercle d'endins gira cap a la dreta i el de fora gira a l'esquerra. La idea és que cada vegada que la música es detingui, les parelles s'han de buscar prendre dels braços i ajupir junts. L'última parella que s'ajupi surt del joc. Guanya la parella que quedi al final.\n\nFormació: Es formen dos cercles d'igual nombre d'integrants, un dins de l'altre.",
+    "descripcio": "Cadascun dels participants ha de tenir una parella a l'altre cercle. L'animador canta: «Un llangardaix i una sargantana van sortir a prendre el sol, a l'hivern perquè fa fred i a l'estiu perquè fa calor» (donant-hi ritme, encara que pot ser qualsevol altra cançó o un enregistrament). Mentrestant, el cercle de dins gira cap a la dreta i el de fora, cap a l'esquerra. Cada vegada que la música s'atura, les parelles s'han de buscar, agafar-se pels braços i ajupir-se juntes. L'última parella que s'ajupi surt del joc. Guanya la parella que quedi al final.\n\nFormació: es formen dos cercles amb el mateix nombre d'integrants, un dins de l'altre.",
     "materials": "musica",
     "titol": "El llangardaix i la sargantana"
   },
   "el-loco": {
     "_signatura": "f604c01a741533b3",
-    "descripcio": "Tan aviat s'acaba la inspecció, el J.T. rep el següent despatx: AVÍS DE LA POLICIA. \"Raschidl Alí, un perillós boig hindú, es va escapar avui de l'hospital de dements de la província, fa cinc minuts va ser vist entrant en el terreny de jocs (o campament). Vesteix solament amb un tapall. No parla el nostre idioma. Pot llançar una riallada diabòlica i descobrir el seu amagatall. Es tracta d'un boig homicida en extrem perillós. Es prega ens ajudin a capturar-ho\". Prèviament un Scout major es llevarà la roba quedar amb pantalons curts de gimnàstica i farà córrer de valent en la foscor a tota la Tropa.",
+    "descripcio": "Tan bon punt s'acaba la inspecció, el cap rep aquest comunicat: «Avís de la policia. Un home perillós s'ha escapat avui de l'hospital psiquiàtric de la província; fa cinc minuts l'han vist entrant al terreny de joc (o al campament). Va vestit només amb un tapall i no parla el nostre idioma. Pot deixar anar una riallada que delati on s'amaga. És extremament perillós: us preguem que ens ajudeu a capturar-lo». Prèviament, un participant gran s'haurà tret la roba i s'haurà quedat amb pantalons curts d'esport, i farà córrer de valent tot el grup enmig de la foscor.",
     "titol": "El boig"
   },
   "el-marranito": {
     "_signatura": "f54909a1bd8079bf",
-    "descripcio": "Es forma un cercle amb tots els integrants del grup. Se situen dempeus i es miren entre si. Després s'ela comença a dir al company del costat dret, com és la part que més li agradaria que li regalés del porquet, i així successivament fins a acabar amb l'últim integrant del cercle, després, s'inverteix la dinàmica de tal manera que els integrants de l'esquerra han de rebre un petó o una petita mossegada del company de la dreta en la part que aquest últim va dir li agradava del porquet. La dinàmica acaba amb l'últim integrant del costat dret del company.",
+    "descripcio": "Es forma un cercle amb tots els integrants del grup, drets i mirant-se entre ells. Cadascú diu al company de la dreta quina part del porquet li agradaria que li regalés, i així successivament fins a l'últim integrant del cercle. Després s'inverteix la dinàmica: cada integrant ha de rebre un petó o una petita mossegada del company de la dreta a la part del porquet que aquest havia dit que li agradava. La dinàmica acaba amb l'últim integrant.",
     "espai": "Espai obert o tancat.",
     "objectius": "Buscar la integració dels participants Fomentar la creativitat dels participants Estimular l'espontaneïtat.",
     "participants": ": 20 a 25 persones per a no fer la dinàmica tan monòtona.",
@@ -202,20 +202,20 @@
   },
   "el-nudo": {
     "_signatura": "376a60fc81c6d73d",
-    "descripcio": "Se separa a una persona del grup i aquesta no ha de veure el que succeeix amb els altres. Després tots els integrants formen un cercle agafats de la mà i s'embullen el més possible, però sense deixar. La persona que va ser apartada, llavors tornarà i tractarà de desfer el nus que es crec amb els altres integrants. Si ho desfà, gana i pot donar un premi, però si no el desfà, perd i se li pot posar un càstig.",
+    "descripcio": "Se separa una persona del grup i no ha de veure què fan els altres. Tots els altres integrants formen un cercle agafats de la mà i s'embullen tant com poden, però sense deixar-se anar. Aleshores la persona apartada torna i mira de desfer el nus que han fet els companys. Si el desfà, guanya i se li pot donar un premi; si no el desfà, perd i se li pot posar una penyora.",
     "titol": "El nus"
   },
   "el-panuelo": {
     "_signatura": "4b7f636b049050bf",
-    "descripcio": "un dels jugadors de la roda s'acosta a l'objecte per robar-lo. El guarda, amb els ulls embenats, crida: \"Alt\"!\n\n- i indica la direcció d'on prové el soroll. Si encerta, el lladre tornarà al seu lloc, i l'altre intenta la sort. En cas que el guàrdia no encerti, el lladre recull l'objecte i l'amaga, col·locant les mans a l'esquena, en el que serà imitat per tots els altres. El guarda es lleva llavors la bena i tracta d'endevinar qui el robo. Si endevina, serà novament guarda: en cas contrari, cedirà el seu lloc al lladre.",
-    "materials": "un mocador i altres objecte qualsevol. Formació: un dels jugadors es queda en el centre del cercle format pels altres jugadors. Tots asseguts. El del centre tindrà els ulls embenats amb el mocador, i pròxim al, l'objecte triat.",
+    "descripcio": "Un dels jugadors del cercle s'acosta a l'objecte per robar-lo. El guarda, amb els ulls tapats, crida «alto!» i indica la direcció d'on ve el soroll. Si l'encerta, el lladre torna al seu lloc i un altre prova sort. Si el guarda no l'encerta, el lladre agafa l'objecte i l'amaga posant-se les mans a l'esquena, cosa que imitaran tots els altres. Aleshores el guarda es treu la bena i mira d'endevinar qui l'ha robat. Si ho endevina, torna a fer de guarda; si no, cedeix el lloc al lladre.",
+    "materials": "Un mocador i un objecte qualsevol.\n\nFormació: un dels jugadors es queda al centre del cercle format pels altres, tots asseguts. El del centre tindrà els ulls tapats amb el mocador i, a prop seu, l'objecte triat.",
     "titol": "El mocador"
   },
   "el-rey-del-buchi-bucha": {
     "_signatura": "7435d7ea28a0495b",
-    "descripcio": "Es col·loca al grup en cercle i s'agafen de la mà, el director qui estarà en el centre, comencés la ronda així: Amo al meu cosí el meu cosí veí, Amo al meu cosí el meu cosí German. Tots canten i giren, de sobte el director diu: Alt aquí Quin pas? (contesta el grup) Que el rei de Buchi Bucha ordena que s'ordenin Quina cosa? (contesta el grup) Quin tots prenguin al seu company de l'esquerra pel turmell... D'aquesta manera es van donant ordres, que podran s'executades en cercle o que impliquin desplaçar i tornar.\n\nINTEGRANTS: Més de 10 persones.",
-    "espai": "sala.",
-    "notes": "que a mesura que el grup compleixi les ordres no se separin, i continuïn executant-les, tots units.",
+    "descripcio": "Es col·loca el grup en cercle agafats de la mà. El director, que és al centre, comença la ronda: «Estimo el meu cosí, el meu cosí veí; estimo el meu cosí, el meu cosí Germán». Tots canten i giren. De sobte el director diu: «Alto aquí!». El grup respon: «Què passa?». «Que el rei del Buchi Bucha mana que us poseu en ordre». «Quina cosa?», contesta el grup. «Que tothom agafi el company de l'esquerra pel turmell...». D'aquesta manera es van donant ordres, que es poden executar en cercle o que poden implicar desplaçar-se i tornar.\n\nParticipants: més de 10 persones.",
+    "espai": "Sala.",
+    "notes": "A mesura que el grup compleix les ordres, no s'han de separar: han de continuar executant-les tots junts.",
     "objectius": "Integrar, divertir.",
     "titol": "El rei del Buchi Bucha"
   },
@@ -227,184 +227,184 @@
   },
   "el-super-correo": {
     "_signatura": "3b4ae677c9f7a6f1",
-    "descripcio": "l'amo del correu diu: -Carta de (el nom de la ciutat) per a (nom d'una altra ciutat). Immediatament els jugadors que tinguin aquests dos noms procuren canviar de lloc. L'amo del correu tracta de prendre un dels llocs. Si ho aconsegueix, adopta el nom de la ciutat del jugador que el cap vulgui fer moure a tots els jugadors, ha de dir: -Carta per a totes les ciutats. - Llavors tots han de canviar de llocs, aquest mateix joc pot fer amb números o noms de fruites.\n\nFormació: cada jugador adopta el nom d'una ciutat. En el centre del cercle aquesta l'amo del correu.",
+    "descripcio": "L'amo del correu diu: «Carta de (nom d'una ciutat) per a (nom d'una altra ciutat)». Immediatament, els jugadors que tinguin aquests dos noms miren de canviar de lloc i l'amo del correu mira d'ocupar-ne un. Si ho aconsegueix, adopta el nom de la ciutat del jugador que s'ha quedat sense lloc. Quan qui dirigeix vol fer moure tots els jugadors, diu: «Carta per a totes les ciutats!», i llavors tothom ha de canviar de lloc. Aquest mateix joc es pot fer amb números o amb noms de fruites.\n\nFormació: cada jugador adopta el nom d'una ciutat. Al centre del cercle hi ha l'amo del correu.",
     "materials": "cartes",
     "titol": "El supercorreu"
   },
   "el-trenecito": {
     "_signatura": "a3f89eac451a47c3",
-    "descripcio": "Se'ls dóna a cadascú el nom d'una part del tren: xiulet, manovella, vagó, porta, combustible, rails, etc. Qui coordini el joc dirà: -El tren partirà però no pot perquè li falta un(a): i diu una part del tren, llavors aquesta es col·locarà darrere de l'última persona del tren. Així s'anirà cridant totes i cadascuna de les parts i després tots junts correran i perdrà el que es deixi anar Aquest joc també es pot usar per formar equips, formant diversos trens i diversos comunicats de tren iguals, que busquin cadascuna la seva màquina.",
+    "descripcio": "Es dóna a cadascú el nom d'una part del tren: xiulet, manovella, vagó, porta, combustible, rails, etc. Qui coordina el joc dirà: «El tren ha de sortir, però no pot perquè li falta un...» i diu una part del tren; aleshores aquesta persona es col·loca darrere de l'última del tren. Així es van cridant totes i cadascuna de les parts i, després, tots junts corren; perd qui es deixi anar. Aquest joc també es pot fer servir per formar equips: es formen diversos trens amb les mateixes parts repetides i cada part ha de buscar la seva màquina.",
     "titol": "El trenet"
   },
   "empujar-la-corriente": {
     "_signatura": "8c6bbff325fe0ce5",
-    "descripcio": "el joc consisteix a fer que l'adversari trepitgi la línia divisora dels equips, atraient-lo amb totes dues mans. Cada vegada que un jugador trepitja la línia, es marca un punt per a l'equip contrari. Guanya l'equip que al final del temps previst tingui major número de punts.\n\nFormació: es traça una línia a terra. Els jugadors es col·loquen cara a cara a un costat i a l'altre de la línia, formant un corrent, de la manera següent: mà dreta, i esquerra de l'adversari.",
+    "descripcio": "El joc consisteix a fer que l'adversari trepitgi la línia que separa els equips, estirant-lo amb totes dues mans. Cada vegada que un jugador trepitja la línia, es marca un punt per a l'equip contrari. Guanya l'equip que al final del temps previst tingui més punts.\n\nFormació: es traça una línia a terra. Els jugadors es col·loquen cara a cara a banda i banda de la línia, encadenats de la manera següent: la mà dreta contra l'esquerra de l'adversari.",
     "titol": "Empènyer el corrent"
   },
   "encender-las-velas": {
     "_signatura": "0a0f63a7da4776b2",
-    "descripcio": "al senyal de començar, el primer jugador de cada equip va fins a la línia d'arribada, encén l'espelma i la porta al segon jugador. Aquest la porta de retorn, i l'apaga en arribar a la línia. De seguida torna corrent i toca la mà al tercer jugador al quart. I així contínua. Conforme els jugadors tornen de la línia d'arribada, van prenent lloc darrere de la fila. Serà vencedor l'equip que el seu primer jugador trepitgi primer la línia de partida. Si, durant el recorregut amb l'espelma encesa, s'apaga aquesta, el jugador ha de tornar a la línia i encendre-la novament.",
-    "materials": "2 espelmes, 2 caixes de fòsfors. Formació: dos equips amb el mateix nombre de participants. Es tracen dues línies a terra per a cada equip. Darrere d'elles se situen els components de l'equip en fila, i sobre l'altra línia d'arribada, la vela i el fòsfor.",
+    "descripcio": "Quan es dóna el senyal, el primer jugador de cada equip va fins a la línia d'arribada, encén l'espelma i la porta al segon jugador. Aquest la torna a portar cap a l'altra línia i l'apaga en arribar-hi. De seguida torna corrent i toca la mà al tercer jugador, i així successivament. A mesura que els jugadors tornen de la línia d'arribada, es col·loquen darrere de la fila. Guanya l'equip el primer jugador del qual trepitgi abans la línia de sortida. Si, durant el recorregut, l'espelma s'apaga, el jugador ha de tornar a la línia i tornar-la a encendre.",
+    "materials": "2 espelmes i 2 caixes de mistos.\n\nFormació: dos equips amb el mateix nombre de participants. Es tracen dues línies a terra per a cada equip; darrere de la primera se situen els components de l'equip en fila i, sobre la línia d'arribada, l'espelma i els mistos.",
     "titol": "Encendre les espelmes"
   },
   "escondite-encontrado": {
     "_signatura": "6ff56398658b96ae",
-    "descripcio": "Un membre de la Tropa, designat com el primer per amagar, té dos minuts més o menys perquè busqui un amagatall del qual no podrà moure després de començar a comptar el temps. Passats els dos minuts, es dispersen els altres tractant de localitzar-li. Quan un Scout ho ha localitzat \"es fa el ximple\" i espera una oportunitat per amagar juntament amb el primer procurant no ser vist. Cal fixar el temps de durada del joc i ha de ser breu. El Scout que ho va trobar primer es converteix en el primer a amagar; als \"cercadors\" se'ls concedeixen punts.",
+    "descripcio": "Un membre del grup, designat com el primer a amagar-se, té uns dos minuts per buscar un amagatall, del qual no es podrà moure un cop comenci a comptar el temps. Passats els dos minuts, els altres es dispersen mirant de localitzar-lo. Quan algú el localitza, fa veure que no l'ha vist i espera una oportunitat per amagar-se amb ell sense que el vegin. Cal fixar el temps de durada del joc, que ha de ser breu. Qui l'hagi trobat primer serà el primer a amagar-se la partida següent; els qui busquen reben punts.",
     "titol": "Amagatall trobat"
   },
   "esquivar-la-pelota": {
     "_signatura": "f06526584d529237",
-    "descripcio": "Tres Patrulles almenys o tres equips de vuit jugadors. Es marca un quadrat d'uns deu metres de costat. Un dels equips reunit en el centre. Els altres dos alineats un a cada costat del quadrat en la part oposada. El joc consisteix a \"matar\" colpejant amb la pilota. Aquesta és llançada primer per l'equip del centre. Un d'ells tracta de pegar-li amb la pilota a qualsevol dels altres equips i si ho aconsegueix l'ha matat. Els que estan als costats poden esquivar-la mantenir sempre fora dels límits assenyalats. Quan un jugador atrapa la pilota que li ha estat llançada no ha estat tocat i per tant no mor. El que agafi la pilota tracta llavors de pegar amb ella a un dels jugadors del centre. Per a evitar l'eliminació de jugadors, el Scouter pot portar el compte del número de vegades colpejats. Quan la pilota toca un jugador, aquest el lliurament al Scouter qui al seu torn el lliurament a l'equip que està en el centre.",
+    "descripcio": "Calen tres equips com a mínim, de vuit jugadors cadascun. Es marca un quadrat d'uns deu metres de costat. Un dels equips es reuneix al centre i els altres dos s'alineen a banda i banda del quadrat, en costats oposats. El joc consisteix a «matar» tocant amb la pilota. La llança primer l'equip del centre: un d'ells mira de tocar amb la pilota qualsevol jugador dels altres equips i, si ho aconsegueix, l'ha matat. Els qui són als costats poden esquivar-la, però sempre s'han de mantenir fora dels límits marcats. Si un jugador atrapa la pilota que li han llançat, no compta com a tocat i, per tant, no mor; aleshores mira de tocar amb ella un dels jugadors del centre. Per evitar l'eliminació de jugadors, qui dirigeix pot portar el compte de les vegades que cadascú ha estat tocat. Quan la pilota toca un jugador, aquest la lliura a qui dirigeix, que al seu torn la torna a l'equip del centre.",
     "materials": "pilota",
     "titol": "Esquivar la pilota"
   },
   "expedicion-polar": {
     "_signatura": "13902a58ceefad85",
-    "descripcio": "Aquest joc és per practicar-lo quan la temperatura es trobi sota zero graus. Les Patrulles hauran de creuar una esquerda profunda, construir una escala de cordes per pujar a l'alt d'un arbre, llançar una corda a un altre arbre, recollir l'altre extrem amb els bordons enllaçats, creuar per l'entenimentada arrossegar per arribar a l'altre arbre i descendir a terra per mitjà d'una altra escala de cordes. Llavors a cada Scout se li comunica una paraula. correrà cinc-cents metres i la hi repetirà al J.T.. qui les posarà en ordre i llegirà el missatge que elles formin.",
+    "descripcio": "Aquest joc s'ha de fer quan la temperatura sigui sota zero. Els equips hauran de travessar una esquerda profunda, construir una escala de cordes per pujar dalt d'un arbre, llançar una corda a un altre arbre, recollir-ne l'altre extrem amb els bastons enllaçats, travessar per la corda arrossegant-se fins a l'altre arbre i baixar a terra per una altra escala de cordes. Aleshores es diu una paraula a cada participant, que haurà de córrer cinc-cents metres i repetir-la al cap, el qual les posarà en ordre i llegirà el missatge que formin.",
     "materials": "corda",
     "titol": "Expedició polar"
   },
   "fila-de-lideres": {
     "_signatura": "dc5ee6782459506e",
-    "descripcio": "1- es demana passar al centre unes 10 persones. 2- als voluntaris se'ls indica que es col·loquin en fila i en silenci, 3- els qui creguin haver exercit major lideratge han de parar avanci 4- el que no aquest d'acord amb la posició que ocupa algú podrà pujar-ho o baixar-ho i aquest ha de deixar. 5- síntesi final: Que van entendre per lideratge i que lideratge van reconèixer.\n\nOPORTUNITAT: grups on les persones ja es coneixen.",
+    "descripcio": "1. Es demana que passin al centre unes 10 persones.\n\n2. Als voluntaris se'ls indica que es col·loquin en fila i en silenci.\n\n3. Els qui creguin que han exercit més lideratge s'han de posar al davant.\n\n4. Qui no estigui d'acord amb la posició que ocupa algú el podrà pujar o baixar, i aquest s'hi ha d'avenir.\n\n5. Síntesi final: què han entès per lideratge i quin lideratge han reconegut.\n\nOportunitat: grups on les persones ja es coneixen.",
     "objectius": "revisar les idees sobre lideratge.",
     "titol": "Fila de líders"
   },
   "frijoles-en-el-espejo": {
     "_signatura": "5a46d8d7af86f355",
-    "descripcio": "una de les persones sosté el mirall i el plat amb els mongetes. L'altra sosté amb la mà esquerra la bol sobre el cap i amb la dreta la cullera. El joc consisteix a passar els mongetes del plat a la bol, orientar únicament pel mirall que està al capdavant. Cada mongeta col·locat en la bol val un punt. I cada mongeta que caigui a terra descompta un punt, que serà descomptat del total col·locat en la bol. S'ha de delimitar el temps entre un o dos minuts per a cada parella. Guanya la parella que tingui major número de punts positius.",
-    "materials": "un mirall, un plat amb determinat número de grans de mongeta, una bol i una cullera. Formació: equips de dues persones. Poden competir diversos equips a un mateix temps o un només cada vegada.",
+    "descripcio": "Una de les persones sosté el mirall i el plat amb les mongetes. L'altra sosté el bol sobre el cap amb la mà esquerra i la cullera amb la dreta. El joc consisteix a passar les mongetes del plat al bol orientant-se únicament pel mirall que té al davant. Cada mongeta que arriba al bol val un punt i cada mongeta que cau a terra en descompta un. Cal fixar un temps d'un o dos minuts per parella. Guanya la parella que tingui més punts positius.",
+    "materials": "Un mirall, un plat amb un nombre determinat de mongetes, un bol i una cullera.\n\nFormació: equips de dues persones. Poden competir diversos equips alhora o un de sol cada vegada.",
     "titol": "Mongetes al mirall"
   },
   "fuga-de-los-prisioneros": {
     "_signatura": "603b0ac1b9540bdb",
-    "descripcio": "Els Scouts són presoners de guerra que planegen la seva fugida. Han de construir un pont entre dos arbres, a una altura de tres metres del sòl i en la foscor per on hauran de creuar. L'operació ha de fer en el més complet silenci i, per tant. és necessari que abans d'iniciar els plans, s'ultimin en el local fins als més mínims detalls. Triar dos arbres que estiguin prop del camí. Quan algú passi per aquest, tota la Tropa haurà de romandre immòbil fins que es perdin els passos.",
+    "descripcio": "Els participants són presoners de guerra que planegen la fugida. Han de construir un pont entre dos arbres, a tres metres del terra i a les fosques, per on hauran de travessar. L'operació s'ha de fer en el més absolut silenci i, per tant, cal enllestir fins al més mínim detall del pla abans de començar. Trieu dos arbres que siguin a prop del camí: quan hi passi algú, tot el grup haurà de quedar immòbil fins que ja no se sentin les passes.",
     "titol": "Fugida dels presoners"
   },
   "futbol-del-saco-o-bolsa": {
     "_signatura": "63591049470b282b",
-    "descripcio": "En el centre d'un terreny de futbol de petites dimensions, es col·loca un sac farcit de papers de periòdic. De cada part ataca un equip. El que primer aconsegueixi portar el sac o la major part del seu contingut fins a la seva pròpia meta, és el que gana. No es permet el joc violent o perillós; no hi ha altres regles.",
+    "descripcio": "Al centre d'un terreny de futbol de petites dimensions es col·loca un sac farcit de paper de diari. Cada equip ataca des del seu costat. Guanya el primer que aconsegueixi portar el sac, o la major part del seu contingut, fins a la seva pròpia porteria. No es permet el joc violent o perillós; no hi ha cap altra regla.",
     "materials": "diari, paper",
     "titol": "Futbol del sac o bossa"
   },
   "gente-que-dice-conocerse": {
     "_signatura": "eb0c90f62e0165ef",
-    "descripcio": "mostrar que el coneixement és superficial. INSTRUCCIONS. 1- Després que el coordinador es presenta al grup i explica els objectius i estil de treball, se'ls diu al grup que com ja es coneixen, entraran en acció a partir d'això que cadascú suposa saber dels altres.\n\n2- Subgrups de sis persones. 3-Saldra un grup al mitjà i un company dirà l'extern que sàpiga del seu company de la dreta i així aniran dient tots una mica dels seus companys. 4-Una vegada acabada la presentació d'aquest grup, sortirà un altre i farà el mateix i així successivament fins a acabar tots els grups.",
+    "descripcio": "L'objectiu és mostrar que el coneixement que tenim dels altres és superficial.\n\n1. Després que el coordinador es presenti al grup i n'expliqui els objectius i la manera de treballar, es diu al grup que, com que ja es coneixen, entraran en acció a partir del que cadascú creu saber dels altres.\n\n2. Es fan subgrups de sis persones.\n\n3. Surt un grup al mig i un company diu el que sap del company de la dreta; així van dient tots alguna cosa dels seus companys.\n\n4. Un cop acabada la presentació d'aquest grup, en surt un altre i fa el mateix, i així successivament fins que han passat tots els grups.",
     "titol": "Gent que diu que es coneix"
   },
   "golpear-la-estaca-a-ciegas": {
     "_signatura": "6ecb34dd7d43f788",
-    "descripcio": "S'escampen pel terreny un cert número de torn i amb els ulls embenats es col·loca a una distància de cinc metres de l'estaca: donarà tres voltes al voltant de la mateixa i després avançarà cap a l'estaca tractant de colpejar-la amb un mall. No es permetrà tantejar el terreny per trobar-la. El jugador que aconsegueixi colpejar l'estaca per la part de dalt amb menys \"maçades\" és el guanyador.",
+    "descripcio": "S'escampen unes quantes estaques pel terreny. Cada jugador, per torns i amb els ulls tapats, es col·loca a cinc metres de la seva estaca: hi dóna tres voltes al voltant i després avança cap a l'estaca mirant de tocar-la amb un mall. No s'hi val a temptejar el terreny per trobar-la. Guanya el jugador que aconsegueixi tocar l'estaca per la part de dalt amb menys cops de mall.",
     "titol": "Colpejar l'estaca a cegues"
   },
   "habilidad": {
     "_signatura": "b71a3786e040ec79",
-    "descripcio": "donada el senyal els adversaris s'enfrontessin intentant obtenir el nombre més gran possible de cintes dels seus adversaris. S'ha d'establir un temps límit. Serà vencedor l'equip que aconsegueixi obtenir major nombre de cintes dels seus adversaris.",
-    "materials": "cintes de dos colors i agulles. Formació: els competidors es divideixen en dos grups amb el mateix nombre de jugadors. Es col·loquen alineats un enfront de l'altre. Cada grup tindrà pegat al l'esquena un color de cinta.",
+    "descripcio": "Quan es dóna el senyal, els adversaris s'enfronten mirant d'obtenir tantes cintes dels contraris com puguin. Cal establir un temps límit. Guanya l'equip que aconsegueixi més cintes dels adversaris.",
+    "materials": "Cintes de dos colors i agulles de pit.\n\nFormació: els competidors es divideixen en dos grups amb el mateix nombre de jugadors, alineats l'un davant de l'altre. Cada grup portarà enganxada a l'esquena una cinta d'un color.",
     "titol": "Habilitat"
   },
   "imitacion": {
     "_signatura": "4d8b60d7a0c9b90b",
-    "descripcio": "el perseguidor tria un dels jugadors i surt en la seva persecució. El perseguit pot fer el que vulgui, caminar en un sol peu, corre a la gatzoneta, caminar en quatre peus, pujar en alguna cosa, en fi, tot el que pugui, i el perseguidor ha d'imitar totes les actituds del perseguit. El perseguidor pot canviar sobtadament de perseguit i est, al seu torn, pot també fer de tot per embullar al perseguidor. Quan el perseguit s'aconseguit, serà perseguidor. Es pot també col·locar més d'un perseguidor.\n\nFormació: els jugadors estan lliures en el camp o sala. Es tria un que serà el perseguidor.",
+    "descripcio": "El perseguidor tria un dels jugadors i surt a perseguir-lo. El perseguit pot fer el que vulgui: caminar en un sol peu, córrer a la gatzoneta, caminar de quatre grapes, enfilar-se en algun lloc, en fi, tot el que pugui; el perseguidor ha d'imitar totes les postures del perseguit. El perseguidor pot canviar de perseguit de cop, i aquest, al seu torn, també pot fer de tot per despistar-lo. Quan el perseguit és atrapat, passa a ser perseguidor. També es pot jugar amb més d'un perseguidor.\n\nFormació: els jugadors es mouen lliurement pel camp o per la sala. Se'n tria un que farà de perseguidor.",
     "titol": "Imitació"
   },
   "isla-desierta": {
     "_signatura": "53452022424d3673",
-    "descripcio": "Triar tres arbres col·locats en fila separats uns deu metres. El primer arbre és la costa, el segon les amuras d'un vaixell naufragat en una ancorada i el tercer una escotilla entre dos ponts trencats. Els Scouts han d'arribar fins a l'escotilla i tornar a la costa. Triar les distàncies de manera que la corda que es faciliti no sigui suficient llarga. Els Scouts han de construir primer un moll fins a les amuras de tres metres d'altura i passar des d'està a l'escotilla a la mateixa altura per mitjà d'una simple entenimentada. Els nois han de passar d'un arbre a un altre com si estiguessin nedant sota una penalitat de dos minuts. L'operació dura hora i mitja i s'efectua a la llum de les estrelles.",
+    "descripcio": "Trieu tres arbres col·locats en fila i separats uns deu metres. El primer arbre és la costa; el segon, la proa d'un vaixell naufragat en una cala; i el tercer, una escotilla entre dos ponts trencats. Els participants han d'arribar fins a l'escotilla i tornar a la costa. Trieu les distàncies de manera que la corda que se'ls doni no sigui prou llarga. Primer han de construir un moll fins a la proa, a tres metres d'alçada, i passar d'allà a l'escotilla, a la mateixa alçada, per mitjà d'una simple corda. Han de passar d'un arbre a l'altre com si nedessin, amb una penalització de dos minuts si toquen a terra. L'operació dura una hora i mitja i es fa a la llum dels estels.",
     "materials": "corda",
     "titol": "Illa deserta"
   },
   "juego-de-la-brujula-a-ciegas": {
     "_signatura": "dcbc1a32085491e8",
-    "descripcio": "El lloc ideal és una àmplia esplanada, encara que una àrea més petita també serveix. En el cercle es col·loquen els Guias de Patrulla i cada Patrulla va a una de les cantonades del camp i tots els Scotus s'embenen els ulls, però no així el Guia de Patrulla. El joc consisteix a guiar als Scouts des de la seva cantonada a l'oposada. fent-ho solament per mitjà de les direccions de la brúixola. La Patrulla que primer aconsegueix arribar a la cantonada oposada és la guanyadora. Si un Scout passa pel cercle queda desqualificat i no es permet al Guia de Patrulla sortir del cercle.",
+    "descripcio": "El lloc ideal és una esplanada àmplia, tot i que una àrea més petita també serveix. Al cercle central s'hi col·loquen els guies de cada equip; cada equip va a una de les cantonades del camp i tots els participants es tapen els ulls, llevat del guia. El joc consisteix a guiar els companys des de la seva cantonada fins a la contrària, només donant-los direccions de brúixola. Guanya l'equip que arribi primer a la cantonada oposada. Si un participant passa pel cercle queda desqualificat, i el guia no pot sortir del cercle.",
     "titol": "Joc de la brúixola a cegues"
   },
   "la-caceria": {
     "_signatura": "b00e6657a5aea969",
-    "descripcio": "l'animador crida: \"Comença la cacera\". El caçador llança llavors la bola tres vegades a l'alt. Mentrestant tots els altres jugadors corren pel camp. En parar la bola per tercera vegada, el caçador crida: \"Caçador en acció!\". Entonis tots es detenen on estan, i es tornen de cara al caçador, qui tampoc es pot moure. El caçador mira un dels jugadors i tira a pegar-li amb la bola. Caça té dret a defensar saltant, ajupir, desviant el cos a dreta o esquerra però sense sortir del lloc. Si és tocat per la bola es convertirà en el pròxim caçador, i procedeix com l'anterior. Si un mateix jugador arriba a ser dues vegades caçador, pagués una penyora.",
-    "materials": "una pilota. Formació: es tria el caçador i tots els altres jugadors són la caça, i estan dispersos en el camp.",
+    "descripcio": "L'animador crida: «Comença la cacera!». Aleshores el caçador llança la pilota enlaire tres vegades mentre la resta de jugadors corren pel camp. En aturar la pilota per tercera vegada, el caçador crida: «Caçador en acció!». Llavors tothom s'atura on és i es gira de cara al caçador, que tampoc no es pot moure. El caçador mira un dels jugadors i li llança la pilota per tocar-lo. La presa té dret a defensar-se saltant, ajupint-se o desviant el cos a dreta o esquerra, però sense moure's del lloc. Si la pilota el toca, es converteix en el caçador següent i actua com l'anterior. Si un mateix jugador arriba a ser caçador dues vegades, paga penyora.",
+    "materials": "Una pilota.\n\nFormació: es tria el caçador; tots els altres jugadors són la caça i estan escampats pel camp.",
     "titol": "La cacera"
   },
   "la-canoa": {
     "_signatura": "7384d643662d9616",
-    "descripcio": "Despertar en l'individu interès per les diverses activitats de motricitat. En el grup al qual pertanyo formarem un cercle d'allí; que repetirem el següent apart: Pilotea la canoa, Paula que ens voltejarem que aquest riu, està creixent i et vaig a remar Ai! Paula, Ai! Paula, et vaig a remar. Seguidament de llegir-la i haver-l'après la cantarem en rondes realitzant una sèrie de moviments amb el nostre cos. I així es realitza successivament fins que un dels dos grups s'equivoqui i que al seu torn no posseeixi certa coordinació.",
-    "espai": "sala. OPORTUNITAT: Per a qualsevol grup que porti compartint més de mig any.",
+    "descripcio": "Es tracta de despertar l'interès per les activitats de motricitat. Es forma un cercle i es repeteix aquesta tirallonga: «Pilota la canoa, Paula, que bolcarem; que aquest riu està creixent i t'hi hauré de remar. Ai, Paula! Ai, Paula! Que t'hi hauré de remar». Un cop llegida i apresa, la cantem en rondes fent una sèrie de moviments amb el cos. Es va repetint fins que un dels dos grups s'equivoca o perd la coordinació.",
+    "espai": "Sala.\n\nOportunitat: per a qualsevol grup que faci més de mig any que es coneix.",
     "titol": "La canoa"
   },
   "la-gran-pezca": {
     "_signatura": "8357594b6d9848bd",
-    "descripcio": "la xarxa surt a la recerca de peixos i tràfic d'empresonar el nombre més gran possible de jugadors. Però no pot desmembrar. Solament un dels components per vegada, pot deixar anar les mans per empresonar un peix. Cada peix pres comença a fer part de la xarxa. Guanya l'últim jugador a ser empresonat.\n\nFormació: es trien cinc jugadors, que formen la xarxa. Els altres estan dispersos pel camp o sala.",
+    "descripcio": "La xarxa surt a buscar peixos i mira d'atrapar tants jugadors com pugui, però no es pot trencar: només un dels seus components, i d'un en un, pot deixar anar les mans per atrapar un peix. Cada peix atrapat passa a formar part de la xarxa. Guanya l'últim jugador a ser atrapat.\n\nFormació: es trien cinc jugadors, que formen la xarxa. Els altres estan escampats pel camp o per la sala.",
     "titol": "La gran pesca"
   },
   "la-loteria-de-los-nombres": {
     "_signatura": "460ab1c5edd5bfda",
-    "descripcio": "al senyal de començar, cada participant aconsegueix la signatura de tots participants, acomodant-les col·locant-les en forma horitzontal i vertical com un cartó de loteria. Quan s'esgota el temps previst, el dirigent comença a cridar les persones pels seus noms sense cap ordre. Cada participant copés en la seva fulla els noms anotats i marca amb una creu als anomenats. El participant que primer aconsegueixi omplir una de les columnes tant horitzontal com vertical, serà el guanyador.",
-    "materials": "fulles quadriculades, i en número suficient per a tots els participants. Formació: els participants se situen a voluntat a la sala i reben la fulla en entrar.",
+    "descripcio": "Quan es dóna el senyal, cada participant recull la signatura de tots els altres i les va col·locant en horitzontal i en vertical, com un cartró de loteria. Quan s'acaba el temps previst, el dirigent comença a dir noms de persones sense cap ordre. Cada participant busca al seu full els noms anotats i marca amb una creu els que van sortint. Guanya el primer que aconsegueixi completar una columna, tant horitzontal com vertical.",
+    "materials": "Fulls quadriculats, tants com participants.\n\nFormació: els participants se situen lliurement per la sala i reben el full en entrar.",
     "titol": "La loteria dels noms"
   },
   "la-memoria": {
     "_signatura": "f8dd504a0318e421",
-    "descripcio": "triat el primer jugador, aquest surt del seu lloc i toca qualsevol objecte que està a la sala, i al mateix temps li diu el nom. Torna al seu lloc i toca un altre jugador. Aquest al seu torn toca l'objecte que havia tocat l'anterior, li diu el nom, i toca l'altre objecte, dient també el nom d'aquest. Torna al seu lloc i toca l'altre company, que procedeix de la mateixa manera. El jugador ha de tocar i dir el nom de tots els objectes tocats anteriorment, i afegir un. Serà vencedor el jugador que recordi el major nombre possible d'objectes i en ordre.\n\nFormació: els jugadors estan a voluntat a la sala.",
+    "descripcio": "Un cop triat el primer jugador, aquest surt del seu lloc, toca qualsevol objecte de la sala i alhora en diu el nom. Torna al seu lloc i toca un altre jugador. Aquest, al seu torn, toca l'objecte que havia tocat l'anterior i en diu el nom, i tot seguit en toca un altre i també en diu el nom. Torna al seu lloc i toca un altre company, que fa el mateix. Cada jugador ha de tocar i dir el nom de tots els objectes tocats anteriorment i afegir-n'hi un. Guanya el jugador que recordi més objectes i en ordre.\n\nFormació: els jugadors es col·loquen lliurement per la sala.",
     "titol": "La memòria"
   },
   "la-palmada-huy-huy": {
     "_signatura": "de5fd398a5bb0b08",
-    "descripcio": ": Els participants es col·loquen de forma circular dempeus o asseguts, trien un número per exemple el set i els seus múltiples, la numeració pot ser progressiva o regressiva. Un jugador inicia així 1,2,3,4,5, en comptes de 7 dóna una palmada i diu huy, huy després d'uns minuts i quan s'arriba al múltiple exemple 35 es torna 34,33, 32 donant també la palmada huy huy en el moment de dir els múltiples, qui s'equivoqui s'elimina del joc.",
-    "espai": "camp obert o sala ampli.",
+    "descripcio": "Els participants es col·loquen en cercle, drets o asseguts, i trien un número, per exemple el set, i els seus múltiples; la numeració pot ser ascendent o descendent. Un jugador comença: 1, 2, 3, 4, 5... i, en lloc de dir 7, fa una palmada i diu «uix, uix». Al cap d'uns minuts, quan s'arriba a un múltiple —per exemple, el 35—, es torna enrere: 34, 33, 32..., fent també la palmada i el «uix, uix» en dir els múltiples. Qui s'equivoqui queda eliminat del joc.",
+    "espai": "Camp obert o sala àmplia.",
     "objectius": ": reforçament de la memòria i fixar l'atenció.",
     "titol": "La palmada uix, uix"
   },
   "la-risa-de-la-tela": {
     "_signatura": "72313a66ab6cac1b",
-    "descripcio": "el dirigent llança la tela cap amunt. Mentre la tela aquest en l'aire tots han de riure. En el moment en què el llenç toqui el sòl, tots han de quedar seriosos. Els que riguin paguen penyora. El dirigent ha de variar la manera i la velocitat de la tirada de la tela.",
-    "materials": "un llenç o un tros de drap. Formació: tots asseguts en cercle. El dirigent està en el ceptre del cercle.",
+    "descripcio": "El dirigent llança la tela enlaire. Mentre la tela és a l'aire, tothom ha de riure. En el moment que el llenç toca a terra, tothom ha de quedar seriós. Els qui riguin paguen penyora. El dirigent ha de variar la manera i la velocitat de llançar la tela.",
+    "materials": "Un llenç o un tros de drap.\n\nFormació: tots asseguts en cercle. El dirigent és al centre del cercle.",
     "titol": "El riure de la tela"
   },
   "la-risa-del-chagualo": {
     "_signatura": "6ab62dddcce2b4c2",
-    "descripcio": "Els jugadors se separen en dues files iguals, una enfront de l'altra i separats per 2 m. Qui dirigeixi el joc tira al centre, un chágualo o sabata. Si cau boca avall, els jugadors d'una fila han de romandre seriosos i els de l'altra han de riure molt fort: si cau de cara amunt al contrari. Els que riuen quan han d'estar seriosos, surten de la fila.",
+    "descripcio": "Els jugadors se separen en dues files iguals, l'una davant de l'altra i separades 2 m. Qui dirigeix el joc tira al centre un chágualo o una sabata. Si cau de cap per avall, els jugadors d'una fila han de mantenir-se seriosos i els de l'altra han de riure ben fort; si cau de cara amunt, a l'inrevés. Els qui riuen quan han d'estar seriosos surten de la fila.",
     "objectius": "Recrear.\n\nINTEGRANTS: De 30 a 40 Persones.",
     "titol": "El riure del Chágualo"
   },
   "la-super-aguja": {
     "_signatura": "acc1fd0189be4c37",
-    "descripcio": "al senyal de partida, les dames surten de les seves posicions, i sense tocar les mans dels cavallers, tracten d'enfilar l'agulla. En el moment en què l'aconsegueixin, prenguin la mà del company i corren cap a la línia de partida de les dames amb l'agulla enfilada.",
-    "materials": "agulles i fils per a cada parell de participants. Formació: el joc és disputat en parelles de cavallers i dames. Es tracen dues línies paral·leles, amb una distància de deu a quinze metres. Darrere d'una es línia les altres, i darrere de l'altra els cavallers. Els cavallers tenen a les seves mans l'agulla, i les dames el fil.",
+    "descripcio": "Quan es dóna el senyal de sortida, els qui tenen el fil surten del seu lloc i, sense tocar les mans dels companys, miren d'enfilar l'agulla. Quan ho aconsegueixen, agafen la mà del company i corren cap a la línia de sortida amb l'agulla enfilada.",
+    "materials": "Agulles i fils per a cada parella.\n\nFormació: es juga per parelles. Es tracen dues línies paral·leles separades de deu a quinze metres; darrere d'una s'hi posa la meitat dels jugadors i darrere de l'altra, l'altra meitat. Uns tenen l'agulla a les mans i els altres, el fil.",
     "titol": "La superagulla"
   },
   "la-transformacion": {
     "_signatura": "a4c5a492c475c61b",
-    "descripcio": "el cap lliura un full de paper al primer jugador de cada fila. En la fulla hi ha una paraula escrita que és la mateixa en totes les fulles. El primer jugador de cada columna escriu sota la paraula, una altra paraula, canviant solament una lletra de la paraula primitiva. Passa la fulla al qual li segueix, qui ho farà el mateix; però ara, sobre la paraula ja transformada. Són mancades: canviar més d'una lletra, repetir una paraula ja escrita, augmentar lletres, escriure una paraula sense sentit i cometre errors d'ortografia. Vencerà l'equip que primer lliuri la fulla al cap i que no tingui més de dues faltes.",
-    "materials": "paper i llapis. Formació: els jugadors formen dos o més equips amb el mateix nombre de participants, en columnes o files com resulti millor.",
+    "descripcio": "Qui dirigeix lliura un full al primer jugador de cada fila. Al full hi ha escrita una paraula, la mateixa a tots els fulls. El primer jugador de cada columna escriu a sota una altra paraula, canviant només una lletra de la paraula original. Passa el full al següent, que farà el mateix, però ara sobre la paraula ja transformada. Es consideren faltes: canviar més d'una lletra, repetir una paraula ja escrita, afegir lletres, escriure una paraula sense sentit i cometre errors d'ortografia. Guanya l'equip que lliuri primer el full i que no tingui més de dues faltes.",
+    "materials": "Paper i llapis.\n\nFormació: els jugadors formen dos o més equips amb el mateix nombre de participants, en columnes o files, com vagi millor.",
     "titol": "La transformació"
   },
   "lanzar-al-sombrero": {
     "_signatura": "746d075e3275c0a0",
-    "descripcio": "Els barrets dels jugadors són amuntegats en el centre d'un cercle de tres metres de radi i els jugadors es col·loquen voltant. Un d'ells llança una pilota a un dels barrets que no sigui el seu. Si falla, es posa una fitxa en el seu barret; a la tercera vegada un altre jugador ocupa el seu lloc. L'amo del barret que ha estat colpejat per la pilota, corre a recollir-la i crida en fer-ho \"Alt\". Mentrestant els altres jugadors han sortit corrent, però al oir el crit es detenen. El jugador que té la pilota no pot sortir del cercle i tractarà de pegar-li amb la pilota a qualsevol dels altres; si falla. es posa una fitxa en el seu barret. Al jugador que li doni la pilota queda eliminat. Guanya el que tingui menys fitxes.",
-    "materials": "barret, equip de sota, pilota",
+    "descripcio": "Els barrets dels jugadors s'amunteguen al centre d'un cercle de tres metres de radi i els jugadors es col·loquen al voltant. Un d'ells llança una pilota a un dels barrets que no sigui el seu. Si falla, se li posa una fitxa al barret; a la tercera vegada, un altre jugador ocupa el seu lloc. L'amo del barret tocat per la pilota corre a recollir-la i, en fer-ho, crida «alto!». Mentrestant, els altres jugadors han sortit corrent, però en sentir el crit s'aturen. El jugador que té la pilota no pot sortir del cercle i mirarà de tocar amb ella qualsevol dels altres; si falla, se li posa una fitxa al barret. El jugador tocat per la pilota queda eliminat. Guanya qui tingui menys fitxes.",
+    "materials": "Barrets, equip de so i una pilota.",
     "titol": "Llançar al barret"
   },
   "lejos-y-cerca": {
     "_signatura": "b48a8b12a2e4d3a2",
-    "descripcio": "El Cap de Tropa. al mateix temps que va caminant, va llegint en veu alta una llista d'objectes que desitja que obsemven els seus nois. Porta una targeta per a la puntuació de cadascun dels jugadors. Aquests van informant dels objectes que vagin veient i guanya el que té millor total. Una vegada puntuat un objecte per un jugador no pot ser anotat a un altre pel mateix objecte ni per al primer jugador que el va veure. Els objectes poden ser, v. gr. un fòsfor, un botó d'os, un pegat a la roba, una finestra amb el cristall trencat, un cavall de color castany clar i blanc, un ganxet de pèl (est últim val per dos punts).",
+    "descripcio": "Qui dirigeix, mentre va caminant, llegeix en veu alta una llista d'objectes que vol que observin els participants, i porta una targeta per anotar la puntuació de cadascun. Els jugadors van informant dels objectes que veuen i guanya qui tingui el millor total. Un cop un jugador ha puntuat un objecte, aquest mateix objecte ja no es pot anotar a ningú més, ni tan sols al primer que el va veure. Els objectes poden ser, per exemple, un misto, un botó d'os, un pedaç a la roba, una finestra amb el vidre trencat, un cavall de color castany clar i blanc, o una agulla de cabells (aquesta última val dos punts).",
     "materials": "targetes",
     "titol": "Lluny i a prop"
   },
   "los-buenos-colaboradores": {
     "_signatura": "4f98d95dd7afbb12",
-    "descripcio": "la boleta o el saquet han de passar d'un membre de la parella a l'altre sense que ells mateixos es mouen dels seus llocs, i de la manera següent: 1) la llança amb les dues mans i l'altre la recull també amb les dues mans; 2) amb la mà esquerra i la rebrà també amb la mà esquerra l'altre; 3) amb la mà dreta i l'altre la rep també amb la mà dreta. Si un d'ells deixa caure la boleta o s'equivoca en la manera de llançar-la o de rebre-la, s'anotés falta contra el. Vencerà la parella que, passat el temps assenyalat, no hagi comès cap falta.",
-    "materials": "una piloteta o un saquet de sorra parell cada parella. Formació: els jugadors formen dues files que queden cara a cara a una distància de tres metres. Cada jugador està enfront de la seva parella. Els jugadors d'una de les files tenen a les mans la boleta o el saquet de sorra.",
+    "descripcio": "La piloteta o el saquet han de passar d'un membre de la parella a l'altre sense que es moguin del lloc, i de la manera següent: 1) es llança amb totes dues mans i l'altre la recull també amb totes dues mans; 2) es llança amb la mà esquerra i l'altre la rep també amb la mà esquerra; 3) es llança amb la mà dreta i l'altre la rep també amb la mà dreta. Si algun dels dos deixa caure la piloteta o s'equivoca en la manera de llançar-la o de rebre-la, se li anota una falta. Guanya la parella que, passat el temps establert, no hagi comès cap falta.",
+    "materials": "Una piloteta o un saquet de sorra per a cada parella.\n\nFormació: els jugadors formen dues files encarades a tres metres de distància. Cada jugador té la seva parella al davant. Els jugadors d'una de les files tenen a les mans la piloteta o el saquet de sorra.",
     "titol": "Els bons col·laboradors"
   },
   "los-celosos": {
     "_signatura": "5ac4abcaf80f7f17",
-    "descripcio": "Un jugador en el centre, i totes dones assegudes amb un home (l'espòs gelós) darrere per evitar que es moguin. En el moment en què el jugador del centre picar l'ullet un ull a una d'elles, aquestes han de córrer cap a ell. El seu espòs ha d'evitar que estan es moguin i evitar que l'\"abandoni\" la seva dona. Si no pot evitar-ho, perd i ocupa el lloc en el centre i tractés de buscar una altra parella i el que estava en el centre ocupa el lloc darrere de la dona. Es pot invertir, homes asseguts i dones geloses.\n\nFormació: Es formen dos equips d'igual nombre d'integrants, un d'homes i un altre de dones.",
+    "descripcio": "Un jugador es col·loca al centre; la resta seuen en cercle amb una altra persona dreta al darrere (la parella gelosa) per evitar que es moguin. Quan el jugador del centre pica l'ullet a algú dels asseguts, aquest ha de córrer cap a ell; la seva parella ha de mirar d'impedir-ho i evitar que l'«abandoni». Si no ho pot evitar, perd: passa al centre i mirarà de buscar una altra parella, i qui era al centre ocupa el lloc del darrere. Els papers es poden intercanviar.\n\nFormació: es formen dos equips amb el mateix nombre d'integrants.",
     "titol": "Els gelosos"
   },
   "los-contrarios-2": {
     "_signatura": "6f6e1ac0c6d01f94",
-    "descripcio": "el joc consisteix a fer sempre el contrari del que mana el cap. Si, per exemple, mana: - tenir ferm! els cuatros jugadors han de deixar anar el llenç. El jugador que no executi les ordres al contrari o es demori per fer-ho, serà reemplaçat per un dels espectadors. Serà vencedor el que duri més temps rebent i complint les ordres en la formació assenyalada.",
-    "materials": "mocador. Formació: 4 jugadors sostenen les puntes del mocador. Juguen quatre cada vegada els altres observen i esperen el seu torn. S'assenyala un dirigent.",
+    "descripcio": "El joc consisteix a fer sempre el contrari del que mana qui dirigeix. Si, per exemple, mana «aguanteu fort!», els quatre jugadors han de deixar anar el mocador. El jugador que no executi les ordres a l'inrevés o que trigui a fer-ho serà substituït per un dels espectadors. Guanya qui aguanti més temps rebent i complint les ordres.",
+    "materials": "Un mocador.\n\nFormació: 4 jugadors sostenen les puntes del mocador. Juguen de quatre en quatre; la resta observen i esperen el seu torn. Es designa un dirigent.",
     "titol": "Els contraris"
   },
   "los-cubiertos": {
@@ -414,75 +414,75 @@
   },
   "los-curiosos-2": {
     "_signatura": "e6db8c914f369f56",
-    "descripcio": "(45 minuts). 1-Se sol·lícita la col·laboració d'uns 8 o 10 voluntaris que siguin persones curioses, passen davant del grup (5 minuts).\n\n2- se'ls demana que per mitjà de preguntes ajudin a descobrir que personatges hi ha dins del grup.3- a cada pregunta dels curiosos la gent respon amb el seu nom i les dades sol·licitades, per exemple: quants casats hi ha, (30 minuts). 4- breu ressonància (10 minuts).",
-    "espai": "sala o camp obert.",
+    "descripcio": "Durada: 45 minuts.\n\n1. Es demana la col·laboració d'uns 8 o 10 voluntaris que siguin persones curioses i passen davant del grup (5 minuts).\n\n2. Se'ls demana que, per mitjà de preguntes, ajudin a descobrir quins personatges hi ha dins del grup.\n\n3. A cada pregunta dels curiosos, la gent respon amb el seu nom i les dades que se li demanen; per exemple, quants casats hi ha (30 minuts).\n\n4. Breu posada en comú (10 minuts).",
+    "espai": "Sala o camp obert.",
     "objectius": "conèixer que classe de persones participen.",
     "titol": "Els curiosos"
   },
   "los-listones": {
     "_signatura": "a899db37b0ae3301",
-    "descripcio": "Es demanen voluntaris (6 a 10, depenent de la quantitat de joves). A aquests se'ls demana que abandonin el lloc, a cadascú per separat se li assigna el mateix color d'un llistó (per exemple vermell), però sense que cap sàpiga el color de l'altre. Se'ls demana que passin al sala, i s'explica que el joc consisteix en el següent: aquest joc es diu els llistons i cadascun de vostès se'ls ha assignat un color de llistó, ara formin un cercle i prendre dels braços fortament, de tal manera que quan jo esmenti el color d'un llistó, el que tingui aquest color es penjarà dels braços dels seus els companys que té als costats (l'animador pot fer un exemple amb algun color). La idea és que al moment d'esmentar el color donat (en aquest cas vermell) tots intentessin penjar i cauran. Aquest joc és molt divertit però només es pot fer una vegada en un mateix grup, perquè tots sabran de què es tracta.",
+    "descripcio": "Es demanen voluntaris (de 6 a 10, segons la quantitat de joves) i se'ls demana que surtin de la sala. A cadascun per separat se li assigna el mateix color de cinta (per exemple, el vermell), però sense que cap sàpiga el color dels altres. Se'ls fa passar a la sala i s'explica el joc: «Aquest joc es diu les cintes i a cadascun de vosaltres se us ha assignat un color; ara feu un cercle i agafeu-vos ben fort pels braços, de manera que, quan jo digui un color, qui el tingui es penjarà dels braços dels companys que té als costats» (l'animador en pot fer un exemple amb algun color). La gràcia és que, en dir el color assignat (en aquest cas, el vermell), tots intentaran penjar-se alhora i cauran. És un joc molt divertit, però només es pot fer una vegada en un mateix grup, perquè després tothom sap de què va.",
     "materials": "daus",
     "titol": "Els llistons"
   },
   "los-mas-listos": {
     "_signatura": "cbc8d14996c66c7b",
-    "descripcio": "abans de començar, el dirigent ha d'explicar que quan xiuli tres vegades és per formar grups de cinc persones amb les mans agafades. Dos xiulets, 6 persones; 1 xiulet, vuit persones. Donada el senyal de començar, tots els participants comencen a girar entorn de la sala. En sonar el xiulet conforme a l'assenyalat es formen els grups. Els que sobri seran presoners dels altres grups fins a nova oportunitat. El joc serà tant més interessant quant més ràpid xiuli el dirigent.",
+    "descripcio": "Abans de començar, el dirigent ha d'explicar que, quan xiuli tres vegades, s'han de formar grups de cinc persones agafades de la mà; amb dos xiulets, grups de 6 persones; amb un xiulet, de vuit. Quan es dóna el senyal de començar, tots els participants comencen a voltar per la sala. En sonar el xiulet, es formen els grups segons el que s'ha acordat. Els qui sobren queden presoners dels altres grups fins a la ronda següent. El joc serà tant més interessant com més ràpid xiuli el dirigent.",
     "materials": "un xiulet. Formació: els participants formen un gran cercle.",
     "titol": "Els més llestos"
   },
   "los-mosquitos": {
     "_signatura": "1babacf4fb840ff3",
-    "descripcio": "Es fa un cercle amb tots els participants, després s'explica com s'acomoden les rajo al costat de les orelles simulant les ales del mosquit, el que està en el centre dispara, al qual li disparen s'ha d'ajupir i els del seu costat dret i esquerre fer com a mosquit, sinó aniran sortint del joc.",
-    "espai": "aula, pati.",
+    "descripcio": "Es fa un cercle amb tots els participants i s'explica com s'han de posar les mans al costat de les orelles simulant les ales del mosquit. Qui és al centre dispara; aquell a qui dispara s'ha d'ajupir i els companys que té a dreta i esquerra han de fer de mosquit. Qui no ho faci va sortint del joc.",
+    "espai": "Aula o pati.",
     "objectius": "agilitat, destresa.",
     "participants": "totes les persones que vulguin.",
     "titol": "Els mosquits"
   },
   "los-profesionales": {
     "_signatura": "6a63db87d46b1079",
-    "descripcio": "el líder dóna el senyal, i cadascú comença a exercir la seva professió en mímica, també el líder. En determinat moment el líder canvia la seva professió per qualsevol de les altres. Immediatament aquell professional exercirà la professió\n\nFormació: es tria un líder. Cada jugador tria una professió, sense repetir, i finalment el líder tria la seva.\n\ndel líder, i tots els altres per a les seves, fins que el líder torni novament a la seva professió original. El joc es torna tant més divertit com més gran la hi habilitat del líder per canviar de professió.",
+    "descripcio": "Formació: es tria un líder. Cada jugador tria una professió, sense repetir-ne cap, i finalment el líder tria la seva.\n\nEl líder dóna el senyal i cadascú comença a exercir la seva professió amb mímica, també el líder. En un moment determinat, el líder canvia la seva professió per qualsevol de les altres: immediatament, aquell professional passa a fer la professió del líder i tots els altres continuen amb la seva, fins que el líder torna a la professió original. El joc és tant més divertit com més hàbil sigui el líder canviant de professió.",
     "titol": "Els professionals"
   },
   "manos-arriba": {
     "_signatura": "9a68227f46b96ad7",
-    "descripcio": "en el grup designat per sort per iniciar el joc, els jugadors col·loquen les mans enrere, i així passen la boleta de paper de l'un a l'altre. El segon grup, observador, segueix els moviments del primer grup per tractar de localitzar la boleta de paper. En determinat moment, el capità del segon grup crida: \"Mans a dalt! Els components del primer grup immediatament aixequen les mans tancades. El capità del segon grup ordena: \"Mans a baix\". Els jugadors col·loquen les mans sobre els genolls, amb les palmes per a baix. Un dels components del primer grup sol·licita llavors llicència del seu capità per descobrir qui té la boleta. Concedida la llicència, el jugador aixeca la mà de l'adversari que al seu judici la té. Només pot aixecar una de les mans. Si no encerta. Ho intentés un altre jugador. Quan els adversaris trobin la boleta, es marca un punt. Seran tants punts, quantes siguin les mans que estiguin sobre els genolls en el moment en què es descobreix qui té la boleta. Cada vegada que és aixecada una mà, sense que el jugador tingui la boleta, el jugador contrari sense llicència del capità. En el moment en què sigui descoberta la boleta, es canvia els papers dels grups i es procedeix d'igual manera. La victòria correspondrà a l'equip que al final del temps establert tingui major nombre de punts. Per cada falta serà descomptat un punt.",
-    "materials": "una boleta de paper o un trosset de guix. Formació: dos equips amb el mateix nombre de participants. Tots asseguts. Els equips es col·loquen cara a cara. Cada equip tria el seu capità.",
+    "descripcio": "El grup designat per sort per començar es posa les mans a l'esquena i es va passant la boleta de paper d'un a l'altre. El segon grup observa els moviments del primer per mirar de localitzar-la. En un moment determinat, el capità del segon grup crida: «Mans amunt!», i els components del primer grup aixequen immediatament les mans tancades. Tot seguit el capità ordena «mans avall!» i els jugadors posen les mans sobre els genolls amb les palmes cap avall. Aleshores un dels components del segon grup demana permís al seu capità per descobrir qui té la boleta i, un cop concedit, aixeca la mà de l'adversari que creu que la té; només en pot aixecar una. Si no l'encerta, ho intenta un altre jugador. Quan els adversaris troben la boleta, es marquen tants punts com mans quedaven encara sobre els genolls en aquell moment. Cada vegada que s'aixeca una mà sense permís del capità, es comet falta. Un cop descoberta la boleta, els grups s'intercanvien els papers i es procedeix igual. Guanya l'equip que al final del temps establert tingui més punts. Per cada falta es descompta un punt.",
+    "materials": "Una boleta de paper o un trosset de guix.\n\nFormació: dos equips amb el mateix nombre de participants, tots asseguts i encarats. Cada equip tria el seu capità.",
     "titol": "Mans amunt"
   },
   "mercancia-dispersa": {
     "_signatura": "9481cb6d2896e554",
-    "descripcio": "els jugadors són embenats i comencen a recollir la seva mercaderia i a col·locar-la en el seu dipòsit, és a dir, sota la cadira. Un jugador pot perjudicar l'altre dispersant les seves mercaderies quan ja està en el dipòsit, o canviant-les de lloc en l'espai entre tots dos. Transcorreguts 5 minuts, es lleven les benes als jugadors, i aquell que tingui major nombre de mercaderies en el seu dipòsit serà el vencedor.",
-    "materials": "2 cadires i 10 objectes, 5 de cada classe, i 2 benes per als jugadors. Formació: es col·loquen les cadires, una en cada extrem de la sala, i s'escampen els objectes per l'espai comprès entre ambdues. Els dos jugadors que competeixen observen bé la col·locació dels objectes. Cadascuna de les cadires serà el lloc de dipòsit de la mercaderia de cada jugador.",
+    "descripcio": "Es tapen els ulls als jugadors, que comencen a recollir la seva mercaderia i a col·locar-la al seu magatzem, és a dir, sota la cadira. Un jugador pot perjudicar l'altre escampant-li la mercaderia que ja tenia al magatzem o canviant-la de lloc. Al cap de 5 minuts es treuen les benes i guanya qui tingui més mercaderia al seu magatzem.",
+    "materials": "2 cadires, 10 objectes (5 de cada classe) i 2 benes per als jugadors.\n\nFormació: es col·loquen les cadires, una a cada extrem de la sala, i s'escampen els objectes per l'espai que hi ha entremig. Els dos jugadors que competeixen observen bé on són els objectes. Cada cadira serà el magatzem de la mercaderia d'un jugador.",
     "titol": "Mercaderia dispersa"
   },
   "mimica": {
     "_signatura": "31acf8b313aa1996",
-    "descripcio": "un grup va cap a un altre i pregunta: _ D'on ve? _ De Nova Cork _ Que van portar? _ Llimonada _ Doni'ns una mica. El grup interrogat immediatament comença la representació del tema triat. L'equip contrari intenta tres vegades endevinar que acció és. Si ho aconsegueix, els que dramatitzen fugen cap al refugi perseguits pels altres. Els que siguin capturats, passen al grups en tres intents no aconsegueixen descobrir el que es realitza, haurà de córrer al refugi, perseguit per contra. La victòria serà del grup que al final del temps establert, tingui major nombre de jugadors.\n\nFormació: els jugadors es divideixen en dos grups. Cada grup tria una acció que ha de desenvolupar amb gestos.",
+    "descripcio": "Formació: els jugadors es divideixen en dos grups. Cada grup tria una acció que haurà de representar amb gestos.\n\nUn grup va cap a l'altre i pregunta: «D'on veniu?». «De Nova York». «Què heu portat?». «Llimonada». «Doneu-nos-en una mica». El grup interrogat comença immediatament a representar el tema triat. L'equip contrari té tres intents per endevinar de quina acció es tracta. Si ho encerta, els qui dramatitzen fugen cap al refugi perseguits pels altres, i els que siguin atrapats passen al grup contrari. Si en tres intents no descobreixen què es representa, són ells els qui han de córrer cap al refugi perseguits pels contraris. Guanya el grup que al final del temps establert tingui més jugadors.",
     "titol": "Mímica"
   },
   "mochila-de-scouter": {
     "_signatura": "e6db5e13a0c74f85",
-    "descripcio": "El Scouter col·loca mig ocults al llarg de la sendera i als costats, diversos articles que poden haver caigut d'una motxilla mal preparada, v. gr. un raspall de dents, una llanterna elèctrica, una caixa de fòsfors, una forquilla, una pinta, un raspall. etc. Les Patrulles caminen per la sendera i al final del mateix fan una llista dels articles que van veure i per l'ordre en què van ser vists.",
+    "descripcio": "Qui dirigeix col·loca mig amagats al llarg del camí i als costats uns quants objectes que podrien haver caigut d'una motxilla mal preparada; per exemple, un raspall de dents, una llanterna, una caixa de mistos, una forquilla, una pinta, un raspall, etc. Els equips caminen pel camí i, en arribar al final, fan una llista dels objectes que han vist i de l'ordre en què els han vist.",
     "materials": "capsa",
     "titol": "La motxilla del monitor"
   },
   "muy-sedientos": {
     "_signatura": "f533524db8f3a9d8",
-    "descripcio": "al senyal de partida, els jugadors amb els gots d'aigua surten corrent dels seus llocs i van fins als seus parells, i amb la cullereta li donen tota l'aigua. No poden vessar ni una gota. Després de prendre tota l'aigua, el parell torna a la línia inicial. Guanya el que primer torni a la línia de partida.",
-    "materials": "gots amb aigua i culleretes de dolç. Formació: el joc es realitza per parells. Es tracen dues línies paral·leles. Darrere d'una d'elles estaran els jugadors amb els gots d'aigua a mitjà omplir i la cullereta. Darrere de l'altra línia, estan els seus respectius parells.",
+    "descripcio": "Quan es dóna el senyal de sortida, els jugadors amb els gots surten corrent del seu lloc, van fins a la seva parella i li donen tota l'aigua amb la cullereta, sense vessar-ne ni una gota. Un cop s'ha begut tota l'aigua, la parella torna a la línia inicial. Guanya qui hi torni primer.",
+    "materials": "Gots amb aigua i culleretes de postres.\n\nFormació: es juga per parelles. Es tracen dues línies paral·leles. Darrere d'una hi haurà els jugadors amb els gots d'aigua mig plens i la cullereta; darrere de l'altra, les seves parelles.",
     "titol": "Molt assedegats"
   },
   "palabra-impactante": {
     "_signatura": "f8e3a2beae0bbc3a",
-    "descripcio": "1- Prèviament escriure en diverses parts, pensi, comparteixi, estimi. 2- Formar grups motivats perquè reflexionin sobre el significat d'aquestes paraules. 3- plenària cada subgrup exposa i després es fa una síntesi d'això.",
-    "espai": "sala o camp obert.",
+    "descripcio": "1. Prèviament, escriviu en diferents llocs les paraules «pensa», «comparteix», «estima».\n\n2. Formeu grups i motiveu-los perquè reflexionin sobre el significat d'aquestes paraules.\n\n3. Posada en comú: cada subgrup exposa les seves conclusions i després se'n fa una síntesi.",
+    "espai": "Sala o camp obert.",
     "objectius": "posar a la gent a reflexionar.",
     "titol": "Paraula impactant"
   },
   "parejas-o-primos": {
     "_signatura": "dea55cd17bab077d",
-    "descripcio": "Es forma un cercle amb tots els integrants de la dinàmica. Tots miren l'interior del cercle entre si, i estan dempeus, després es prenen les mans.\n\nEl cercle comença a girés a mesura que tots van cantant una cançó en comú. En l'acabo d'un (1) minut més o menys, el moderador de la dinàmica, quan els veu distrets, els crida fort, \"COSINS DE …. N persones\". Exemple: (Cosins de 6), i l'últim grup que s'hagi organitzat o que estigui incomplet o tingui més persones, llavors s'elimina, i així successivament fins a eliminar tots els integrants o si desitja deixa uns guanyadors.",
+    "descripcio": "Es forma un cercle amb tots els participants, drets, mirant cap a dins i agafats de la mà. El cercle comença a girar mentre tots canten una cançó coneguda. Al cap d'un minut aproximadament, quan els veu distrets, qui modera crida ben fort: «Cosins de... (un nombre)». Per exemple, «cosins de 6!». El darrer grup que s'hagi format, o el que quedi incomplet o amb persones de més, queda eliminat, i així successivament fins a eliminar tothom o fins a deixar uns quants guanyadors.",
     "espai": "Camp obert o tancat però amb bon espai.",
     "objectius": "Agilitar els moviments dels integrants Fomentar l'entusiasme Fomentar la companyonia Estimular la concentració, alegria i dinamisme dels companys.",
     "participants": "De 20 persones d'ara endavant.",
@@ -490,114 +490,114 @@
   },
   "pase-rapido": {
     "_signatura": "9a897d686a3b974f",
-    "descripcio": "Dos equips formen un cercle col·locats les seves components cara cap al centre i alternativament. El capità de cada equip té una pilota. Tots dos estan situats en costats oposats del cercle. La pilota és llançada per cada jugador a un altre del seu propi equip col·locat a la seva dreta. Si la pilota cau a terra, el que la va deixar caure ha de recollir-la i reintegrar al seu lloc abans de continuar jugant. L'equip la pilota del qual aconsegueixi aconseguir l'altra, és el que gana. Si pot ser, les pilotes hauran de ser diferents colors o utilitzar una altra classe d'objecte que sigui més difícil d'agafar.",
+    "descripcio": "Dos equips formen un cercle, amb els components mirant cap al centre i col·locats alternadament. El capità de cada equip té una pilota i tots dos se situen en costats oposats del cercle. Cada jugador llança la pilota a un altre del seu equip situat a la seva dreta. Si la pilota cau a terra, qui l'ha deixada caure l'ha de recollir i tornar al seu lloc abans de continuar jugant. Guanya l'equip la pilota del qual atrapi l'altra. Si pot ser, les pilotes han de ser de colors diferents, o bé es pot fer servir una altra mena d'objecte que sigui més difícil d'agafar.",
     "materials": "pilota",
     "titol": "Passada ràpida"
   },
   "periodismo": {
     "_signatura": "2a3f2a3c11979dd8",
-    "descripcio": "Inmediatanmente després d'hissar bandera, la inspecció i els preliminars usuals, es lliura a cada Guia de Patrulla una fulla gran de paper (de la grandària d'un periòdic corrent) i s'ordena que produeixin un periòdic de Patrulla. El Guia designarà un editor -que pot ser ell mateix- i els altres nois es convertiran en reporters. Se'ls podrà suggerir detalls determinats, v.gr. entrevistar el sergent de policia, a un maquinista, a l'alcalde, etc., aportar notícies sensacionals, caricatures, etc.",
+    "descripcio": "Immediatament després de la salutació inicial i dels preliminars habituals, es lliura a cada equip un full gran de paper (de la mida d'un diari) i se'ls encarrega que facin un diari d'equip. El cap d'equip designarà un editor —pot ser ell mateix— i la resta faran de reporters. Se'ls poden suggerir encàrrecs concrets: entrevistar el sergent de policia, un maquinista o l'alcalde, aportar notícies sensacionals, acudits gràfics, etc.",
     "materials": "diari, paper",
     "titol": "Periodisme"
   },
   "perseguir": {
     "_signatura": "5130c53093b9dd1f",
-    "descripcio": "el perseguidor es llança a perseguir al jugador que té l'objecte a la mà. Aquest corre i passa l'objecte fins i tot company, qui, al seu torn, el passa a un altre. Així contínua el joc. El perseguidor tracta d'agafar el que l'objecte, i l'altre comença la persecució.",
-    "materials": "qualsevol objecte. Formació: jugadors dispersats pel camp. Un dels jugadors tindrà l'objecte a la mà. Prop d'ell, un perseguidor.",
+    "descripcio": "El perseguidor es llança a perseguir el jugador que té l'objecte a la mà. Aquest corre i passa l'objecte a un company, que al seu torn el passa a un altre, i així continua el joc. Quan el perseguidor aconsegueix atrapar qui té l'objecte, es canvien els papers i aquest comença la persecució.",
+    "materials": "Un objecte qualsevol.\n\nFormació: jugadors escampats pel camp. Un d'ells tindrà l'objecte a la mà i, a prop seu, hi haurà un perseguidor.",
     "titol": "Perseguir"
   },
   "pintoras": {
     "_signatura": "8eea59b095068660",
-    "descripcio": "el dirigent apaga la llum i demana que cadascú pinti una casa en la fulla que té. Després, que anyada un arbre al costat de la casa, un jardí al voltant de la casa, sol, núvols i ocells volant. S'encén novament la llum i es fa una exposició de les pintures. Els resultats són imprevisibles.",
+    "descripcio": "El dirigent apaga el llum i demana que cadascú dibuixi una casa al full que té. Després, que hi afegeixi un arbre al costat de la casa, un jardí al voltant, el sol, núvols i ocells volant. Es torna a encendre el llum i es fa una exposició dels dibuixos. Els resultats són imprevisibles.",
     "materials": "fulls de paper i llapis per a tots els participants. Formació: a voluntat.",
     "titol": "Pintores"
   },
   "preparar-bizcochos-sin-utensilios": {
     "_signatura": "5dddb60e02b2ce73",
-    "descripcio": "Dos nois en activitat. Equip: destral per a cada equip, farina, aigua i un munt de llenya. En donar el senyal els Scouts encenen un foc, barregen la farina i couen un bescuit, galetes o pa de caçador. L'objectiu és presentar als jutges un bescuit ben cuinat. Fixar un temps mínim i anotar deu punts per l'exactitud (deduint punts per excés de temps) i altres deu punts a zero per la qualitat dels bescuits.",
+    "descripcio": "Dos participants en acció per equip. Material: una destral per equip, farina, aigua i un munt de llenya. Quan es dóna el senyal, els equips encenen un foc, pasten la farina i couen un bescuit, galetes o pa de caçador. L'objectiu és presentar als jutges un bescuit ben cuit. Fixeu un temps mínim i puntueu de zero a deu la precisió (descomptant punts per excés de temps) i de zero a deu la qualitat dels bescuits.",
     "titol": "Preparar bescuits (sense estris)"
   },
   "prohibido-decir-si-y-no": {
     "_signatura": "52471f03878b8c78",
-    "descripcio": "el joc consisteix en el fet que els jugadors facin preguntes els uns als altres, que siguin respostes correctament però sense emprar les paraules SI i NO. Cada vegada que una persona pronunciï una d'aquestes dues paraules paga un gra al seu interlocutor. Venç el que al final tingui major quantitat de grans.",
-    "materials": "grans de blat de moro o mongetes. Formació: cada jugador té en el seu poder certa quantitat estipulada de grans.",
+    "descripcio": "El joc consisteix a fer-se preguntes els uns als altres i respondre-les correctament però sense fer servir les paraules «sí» i «no». Cada vegada que algú pronuncia una d'aquestes dues paraules, paga un gra al seu interlocutor. Guanya qui al final tingui més grans.",
+    "materials": "Grans de blat de moro o mongetes.\n\nFormació: cada jugador té una quantitat determinada de grans.",
     "titol": "Prohibit dir sí i no"
   },
   "quemar-la-cuerda": {
     "_signatura": "dacf553e0e31da2a",
-    "descripcio": "S'estén una corda a uns cinquanta centímetres del sòl. Cada Patrulla haurà de recollir combustible, encendre el foc i tractar que les flames cremin la corda. El primer a fer-ho serà el guanyador, però es concediran punts per l'habilitat demostrada en l'organització de l'empresa.",
+    "descripcio": "S'estén una corda a uns cinquanta centímetres de terra. Cada equip haurà de recollir combustible, encendre el foc i mirar que les flames cremin la corda. Guanya el primer que ho aconsegueixi, però també es donen punts per l'habilitat que hagin demostrat organitzant-se.",
     "materials": "corda",
     "titol": "Cremar la corda"
   },
   "ranitas-al-agua": {
     "_signatura": "946e41b135cc6088",
-    "descripcio": "El coordinador traça un cercle, al voltant d'aquest es col·loquen a la gatzoneta els participants. Quan el coordinador digui \"Ranitas a l'aigua\", els participants han de saltar fora del cercle. Quan digui \"a la riba\", tots han de saltar al centre del cercle. Les ordres han de ser subministrades de tal manera que desconcertin als participants. El jugador que executa un moviment diferent a l'ordenat pel coordinador, serà exclòs del joc.\n\nINTEGRANTS: 25 persones.",
-    "espai": "Sala, pati.",
+    "descripcio": "El coordinador traça un cercle i els participants s'hi col·loquen al voltant, a la gatzoneta. Quan el coordinador diu «granotetes a l'aigua!», els participants han de saltar fora del cercle; quan diu «a la vora!», tots han de saltar cap al centre. Les ordres s'han de donar de manera que desconcertin els participants. El jugador que faci un moviment diferent del que ha ordenat el coordinador queda exclòs del joc.\n\nParticipants: 25 persones.",
+    "espai": "Sala o pati.",
     "objectius": "Atenció, coordinació.",
     "titol": "Granotetes a l'aigua"
   },
   "recoger-el-panuelo": {
     "_signatura": "8b03c25fc89f0adf",
-    "descripcio": "el dirigent crida un número, i immediatament els representants de tots dos bàndols que tinguin el número anomenat, intenten recollir el mocador i tornar a la seva fila. Si l'u aconsegueix recollir el llenç, l'altre ha de córrer darrere de l'abans que arribi al seu lloc. Si algun aconsegueix arribar a la seva fila amb el llenç i sense ser tocat, l'equip marca dos punts.",
-    "materials": "un mocador. Formació: dos equips col·locats darrere de línies paral·leles, a una distància de vuit a deu metres i, numerats de manera que els números estiguin cara a cara en línia diagonal. En el centre, es col·loca un mocador.",
+    "descripcio": "El dirigent crida un número i, immediatament, els representants dels dos bàndols que tinguin aquell número miren de recollir el mocador i tornar a la seva fila. Si un aconsegueix agafar-lo, l'altre ha de córrer darrere seu abans no arribi al seu lloc. Si algú arriba a la seva fila amb el mocador i sense ser tocat, el seu equip marca dos punts.",
+    "materials": "Un mocador.\n\nFormació: dos equips col·locats darrere de dues línies paral·leles, a una distància de vuit a deu metres, i numerats de manera que els números quedin encarats en diagonal. Al centre s'hi posa un mocador.",
     "titol": "Recollir el mocador"
   },
   "recoger-los-colores": {
     "_signatura": "0abddb5d4416d884",
-    "descripcio": "Es clava una estaca a terra. Cada jugador per fils de llana de diferents colors. Cada equip tracta de recollir-los. Els punts es concedeixen de la manera següent: Verds 6, grisos 4, blaus 3, vermells 2, blancs 1. Per cada fil recollit. La puntuació pot variar segons el paisatge.",
+    "descripcio": "Es clava una estaca a terra i s'hi escampen al voltant fils de llana de colors diferents. Cada equip mira de recollir-ne tants com pugui. Els punts es concedeixen així: verds, 6; grisos, 4; blaus, 3; vermells, 2; blancs, 1, per cada fil recollit. La puntuació es pot variar segons el paisatge.",
     "titol": "Recollir els colors"
   },
   "relevo-cosaco": {
     "_signatura": "492feb7426b54573",
-    "descripcio": "La meitat de cada Patrulla es puja a les espatlles de l'altra meitat. Es col·loca a mitjana distància del recorregut una bufanda, un mocador o un objecte fàcil de recollir i es traça amb guix un cercle al seu voltant. El genet ha de recollir l'objecte a l'anada i deixar-lo dins del cercle al seu retorn Aquest joc es practica com un relleu entre Patrulles.",
+    "descripcio": "La meitat de cada equip es puja a les espatlles de l'altra meitat. A mitja distància del recorregut s'hi posa una bufanda, un mocador o un objecte fàcil de recollir, i s'hi traça un cercle al voltant amb guix. El genet ha de recollir l'objecte a l'anada i deixar-lo dins del cercle a la tornada. Aquest joc es fa com un relleu entre equips.",
     "materials": "guix, mocador",
     "titol": "Relleu cosac"
   },
   "relevo-de-escondete-y-busca": {
     "_signatura": "33e2f76c518dba04",
-    "descripcio": "S'organitza qualsevol classe de carrera de relleus i durant el mateix el Guia s'escapa furtivament per amagar en algun lloc dins de l'àrea del campament, Acabada la carrera, cada equip tracta de trobar el Guia per lliurar-li algun objecte. L'equip que primer li lliuri l'objecte és el guanyador.",
+    "descripcio": "S'organitza qualsevol mena de cursa de relleus i, mentre es fa, el guia s'escapa d'amagat per amagar-se en algun lloc de l'àrea del campament. Acabada la cursa, cada equip mira de trobar el guia per lliurar-li un objecte. Guanya l'equip que li lliuri l'objecte primer.",
     "titol": "Relleu d'amaga't i cerca"
   },
   "reunion-a-medianoche-este-juego-puede-practicarse-en": {
     "_signatura": "75b121826f0dbf16",
-    "descripcio": "Reunió a mitjanit. Aquest joc pot practicar en un bosc o al llarg d'un camí als costats del qual existeixi bastant abric o protecció. Els Scouts s'amaguen a banda i banda de la senda o camí triat pel qual van caminant dos conspiradors (el J.T. i el S.J.T.). Els conspiradors marxen discutint els detalls d'un arriscat pla, parlant de l'hora, lloc de reunió, consigna, còmplices, objecte del complot, etc. Quan la parella ha arribat al final del camí, els Scouts surten del seu amagatall, es reuneixen per Patrulles i escriuen els detalls que han aconseguit captar de la conversa dels conspiradors. Es concedeixen punts segons l'abundància i exactitud de la informació. Si algun dels nois és vist pels conspiradors durant el seu recorregut, no pot ja informar el seu Guia de Patrulla.",
+    "descripcio": "Aquest joc es pot fer en un bosc o al llarg d'un camí que tingui prou recer als costats. Els participants s'amaguen a banda i banda del camí triat, pel qual caminen dos conspiradors (dues persones adultes). Els conspiradors van parlant dels detalls d'un pla arriscat: l'hora, el lloc de reunió, la contrasenya, els còmplices, l'objectiu del complot, etc. Quan la parella ha arribat al final del camí, els participants surten de l'amagatall, es reuneixen per equips i escriuen els detalls que han aconseguit captar de la conversa. Es concedeixen punts segons l'abundància i l'exactitud de la informació. Si els conspiradors veuen algú durant el recorregut, aquesta persona ja no pot informar el seu equip.",
     "titol": "Reunió a mitjanit"
   },
   "risota-seria": {
     "_signatura": "7ecb5a9434f5c03a",
-    "descripcio": "al senyal de començar, un jugador prèviament triat diu al seu company de la dreta: Ha! Aquest al seu torn diu també al seu company de la dreta: Ha! Ha! I així successivament. Cada jugador augmenta un Ha! En el moment en què diu- Ha!, el jugador ha d'estar seriós. Si somriu, se li imposa un càstig i es torna a començar el joc. Es continua el joc fins que declini l'interès.\n\nFormació: els jugadors formen un cercle.",
+    "descripcio": "Quan es dóna el senyal de començar, un jugador triat prèviament diu al company de la dreta: «Ha!». Aquest diu al seu company de la dreta: «Ha! Ha!», i així successivament: cada jugador hi afegeix un «ha!» més. En el moment de dir-ho, el jugador ha d'estar seriós; si somriu, paga penyora i el joc torna a començar. El joc continua fins que decau l'interès.\n\nFormació: els jugadors formen un cercle.",
     "titol": "Riallada seriosa"
   },
   "salida-para-rescate": {
     "_signatura": "fb0312017edcfef3",
-    "descripcio": "Cada Patrulla selecciona un presoner i un guardià. intercanviant-los de manera que cada guardià tingui a càrrec un presoner d'una altra Patrulla. Cada presoner estarà lligat, per mitjà d'un as de guia, per la cintura, amb una corda d'uns deu metres de llarg l'extrem del qual està subjecte pel guardià. Aquest marxa cap a un lloc determinat triant el camí que millor li sembli i caminant lentament. El presoner anirà deixant després de sí un rastre el més pronunciat possible. Al cap d'un temps, que depèn de la distància a recórrer, la resta de la Patrulla surt a rescatar al seu home i de ser possible, a capturar al guardià.",
+    "descripcio": "Cada equip tria un presoner i un guardià, i s'intercanvien de manera que cada guardià tingui a càrrec un presoner d'un altre equip. Cada presoner anirà lligat per la cintura amb un nus de guia, amb una corda d'uns deu metres l'extrem de la qual subjecta el guardià. Aquest camina a poc a poc cap a un lloc determinat triant el camí que li sembli millor, mentre el presoner va deixant darrere seu un rastre tan marcat com pugui. Al cap d'una estona, que depèn de la distància, la resta de l'equip surt a rescatar el seu company i, si pot ser, a capturar el guardià.",
     "materials": "corda",
     "titol": "Sortida de rescat"
   },
   "salvandose-en-la-selva-un-juego-apropiado-para": {
     "_signatura": "91309a0572685b85",
-    "descripcio": "Salvar en la selva. Un joc apropiat per a un dia complet o mig dia d'excursió, Dues o més Patrulles. Se li assigna a cada Patrulla una zona de bosc en el qual es pugui encendre foc i tallar determinades males herbes. S'obtindrà per a això el necessari permís previ. Cada Patrulla rep una fulla amb instruccions en la qual es narra la història d'un aviador o un marí que després d'haver estat derrocat o naufragat, arriba a la costa d'una regió selvàtica. Es recorda que tot aquell que ha estat Scout ha de saber actuar en aquesta classe d'aventures i que és una oportunitat per demostrar les seves habilitats. Necessitaran preparar un refugi, calefacció, aliments i mitjans de defensa pròpia i, per tant, sempre scout, es concediran punts per: refugi per a dos homes, fet amb materials naturals, foc per cuinar (es proporcionaran diversos dibuixos), rastres d'animals, col·lecció de sis fulles d'arbres (a cada arbre local se li assignarà el nom d'una planta tropical medicinal), pa de caçador ben preparat i un mapa de la zona a escala i assenyalant el nord. En el cas de més Patrulles poden agregar altres treballs. Les instruccions són lliurades als Guias de Patrulla amb bastant anticipació amb la finalitat que puguin fer els seus preparatius. Això, lògicament, elimina l'element sorpresa, però és molt necessari quan es practica aquest joc per primera vegada. Sempre es poden preparar sorpreses en qualsevol moment. Els Scouts podran passar les seves proves de Classe o Especialitats si duen a terme una tasca personal que constitueixi el requisit que es precisa.",
+    "descripcio": "Un joc apropiat per a una excursió d'un dia o de mig dia, amb dos equips o més. S'assigna a cada equip una zona de bosc on es pugui encendre foc i tallar-hi determinats matolls; abans cal obtenir-ne el permís necessari. Cada equip rep un full amb instruccions on s'explica la història d'un aviador o d'un marí que, després de ser abatut o de naufragar, arriba a la costa d'una regió selvàtica. Es recorda que qualsevol persona amb experiència d'acampada ha de saber actuar en aquesta mena d'aventures i que és una oportunitat per demostrar les seves habilitats. Hauran de preparar-se un refugi, escalfor, aliments i mitjans de defensa. Es concediran punts per: un refugi per a dues persones fet amb materials naturals, un foc per cuinar, rastres d'animals, una col·lecció de sis fulles d'arbre (a cada arbre local se li assignarà el nom d'una planta tropical medicinal), pa de caçador ben preparat i un mapa de la zona a escala amb el nord indicat. Si hi ha més equips, s'hi poden afegir altres tasques. Les instruccions es lliuren als caps d'equip amb prou antelació perquè puguin fer els preparatius; això elimina l'element sorpresa, però és molt necessari la primera vegada que es fa el joc. Sempre es poden preparar sorpreses en qualsevol moment.",
     "titol": "Salvar-se a la selva"
   },
   "se-murio-chicho-2": {
     "_signatura": "4f47aa5b73f2aad9",
-    "descripcio": "El joc consisteix en el següent: l'animador arriba amb un d'ells dient-li: hi ha compare, que creïs?, es va morir chicho (plorant, és molt important el realisme amb què es faci). I l'altre respon: I que es va morir, compare? (també plorant amb molt de sentiment). Es va morir de... (Qualsevol cosa), camina i digues-li a... (el nom del jugador de la dreta). Aquest fa el mateix, i després l'altre va i li diu al següent, tot ha de ser amb el major realisme possible. Passant tots, repeteix però ara com borrachitos, amb el mateix diàleg (encara que poden agregar de la seva collita) i la mateixa seqüència. Després poden fer-li com a del nord, com a efeminats, riure, en fi tot depèn de la imaginació.\n\nFormació: Es necessiten quatre voluntaris que formaran un quadre separats uns dos o tres metres segons ho permeti el lloc, un a cada cantonada.",
+    "descripcio": "El joc consisteix en això: l'animador s'acosta a un dels jugadors i li diu, plorant (el realisme és molt important): «Ai, company, què et sembla? S'ha mort en Chicho!». I l'altre respon, també plorant amb molt de sentiment: «I de què s'ha mort, company?». «S'ha mort de... (qualsevol cosa); vés i digues-ho a... (nom del jugador de la dreta)». Aquest fa el mateix i després l'altre ho va a dir al següent; tot s'ha de fer amb el màxim realisme possible. Quan hi han passat tots, es repeteix, però ara fent el borratxo, amb el mateix diàleg (es pot afegir alguna cosa de collita pròpia) i la mateixa seqüència. Després es pot fer amb altres accents o maneres de parlar, rient, etc.: tot depèn de la imaginació.\n\nFormació: calen quatre voluntaris que formaran un quadrat, separats dos o tres metres segons ho permeti l'espai, un a cada cantonada.",
     "titol": "S'ha mort en Chicho"
   },
   "sendero-inexplorado": {
     "_signatura": "443f7799d0d36bd8",
-    "descripcio": "El Scouter que ja ha recorregut la sendera, descriu el viatge realitzat, però sense esmentar noms que indiquin la ruta que va seguir. Les Patrulles han de sortir i tractar de seguir el mateix recorregut fins al segon punt, que ignoren on es troba, guiar solament per la descripció feta pel Scouter.",
+    "descripcio": "Qui dirigeix, que ja ha fet el camí, descriu el trajecte que ha recorregut, però sense esmentar cap nom que indiqui la ruta que ha seguit. Els equips han de sortir i mirar de fer el mateix recorregut fins al segon punt, que no saben on és, guiant-se només per la descripció que han sentit.",
     "titol": "Camí inexplorat"
   },
   "suma-rapida": {
     "_signatura": "4ee6c4fd3aa10f95",
-    "descripcio": "al senyal de començament, el primer jugador de cada equip surt corrent i escriu en el tauler un nombre de tantes xifres quantes s'hagi determinat amb anterioritat. Torna fins al seu equip, dóna el guix al segon, aquest va el tauler i escriu un altre número amb el mateix nombre de xifres, i així successivament. El número no pot ser desena o centena rodona, ni pot haver-hi repetició de números. L'últim participant de l'equip farà la suma de tots els números. Guanyés l'equip que acabi primer i la suma del qual aquest correcta.",
-    "materials": "tauler i guix. Formació: els participants es divideixen en dos equips col·locats en la fila darrere d'una línia de partida a uns cinc metres del tauler. El primer participant de cada equip tindrà un guix a la mà.",
+    "descripcio": "Quan es dóna el senyal, el primer jugador de cada equip surt corrent i escriu a la pissarra un número amb tantes xifres com s'hagi acordat prèviament. Torna al seu equip, dóna el guix al segon, que va a la pissarra i escriu un altre número amb el mateix nombre de xifres, i així successivament. El número no pot ser una desena ni una centena rodona, i no es poden repetir números. L'últim participant de l'equip farà la suma de tots els números. Guanya l'equip que acabi primer i tingui la suma correcta.",
+    "materials": "Pissarra i guix.\n\nFormació: els participants es divideixen en dos equips col·locats en fila darrere d'una línia de sortida, a uns cinc metres de la pissarra. El primer participant de cada equip tindrà un guix a la mà.",
     "titol": "Suma ràpida"
   },
   "tarea": {
     "_signatura": "bf7f095ddad29db1",
-    "descripcio": "El dirigent demana a cada participant que faci una tasca en el paper la més difícil que trobi, que serà realitzada pel veí de la dreta, tots han de signar, quan tots troben escrit la prova, el dirigent recull els papers i declara que s'ha canviat la regla del joc i la prova ja no serà realitzada pel veí, sinó pel qual la va escriure. El dirigent ha de recordar l'esperit esportiu del joc.",
+    "descripcio": "El dirigent demana a cada participant que escrigui al paper la tasca més difícil que se li acudeixi, que haurà de fer el veí de la dreta; tothom ha de signar el seu paper. Quan tothom ha escrit la prova, el dirigent recull els papers i anuncia que la regla del joc ha canviat: la prova no la farà el veí, sinó qui l'ha escrita. El dirigent ha de recordar l'esperit esportiu del joc.",
     "materials": "paper",
     "objectius": "que s'aconsegueixi la reflexió.",
     "participants": "20 persones. Formació: participants en cercle, cadascú rep un paper i un llapis.",
@@ -605,19 +605,19 @@
   },
   "teatro-de-palabras": {
     "_signatura": "d646206592f14469",
-    "descripcio": "al senyal\n\n de començar, els jugadors s'agrupen per paraula, i verificat com és la paraula, assagen la mímica corresponent per presentar-la davant la comissió jurat, que tria el grup que millor teatralitzo la seva paraula.",
-    "materials": "trossos de cartolina o paper i llapis o ploma. Formació: s'escriu en les cartolines paraules que puguin ser teatralitzades, com per exemple, orquestra, ciclista, carregador d'aigua, etc. De seguida es tallen totes les lletres de la paraula i s'augmenten totes amb el mateix número, de manera que cada paraula tindrà un número especial. Llavors es distribueixen les lletres entre tots els participants.",
+    "descripcio": "Quan es dóna el senyal, els jugadors s'agrupen per paraula i, un cop saben quina és, assagen la mímica corresponent per presentar-la davant del jurat, que triarà el grup que hagi teatralitzat millor la seva paraula.",
+    "materials": "Trossos de cartolina o de paper i llapis o bolígraf.\n\nFormació: s'escriuen a les cartolines paraules que es puguin teatralitzar, com ara orquestra, ciclista, aiguader, etc. Tot seguit es retallen totes les lletres de cada paraula i es numeren totes amb el mateix número, de manera que cada paraula tingui el seu número. Després es reparteixen les lletres entre tots els participants.",
     "titol": "Teatre de paraules"
   },
   "turcos-y-rusos": {
     "_signatura": "26d4b1e598974d33",
-    "descripcio": "Dos bàndols alineats i separats uns vint metres. Un dels bàndols avança fins a una línia distant uns cinc metres dels seus oponents i es tendeixen a terra donant-los la cara. En donar la veu de \"Foc\", els que estan tendits colpegen violentament el sòl amb els punys estesos cap endavant. Es dóna l'ordre de \"Carreguin\" i els que estan esperant es llancen a l'atac i tracten d'agafar a quants poden del bàndol contrari abans que puguin tornar a la seva base. Els presoners passen a incorporar al bàndol dels capturadores i així continua el joc, canviar o alternar els bàndols, fins que tots han passat a estar presoners en un sol bàndol.",
+    "descripcio": "Dos bàndols alineats i separats uns vint metres. Un dels bàndols avança fins a una línia situada a uns cinc metres dels oponents i s'estira a terra encarant-los. Quan es dóna la veu de «foc!», els qui estan estirats piquen violentament a terra amb els punys estesos cap endavant. Aleshores es dóna l'ordre de «carregueu!» i els qui esperaven es llancen a l'atac i miren d'atrapar tants contraris com puguin abans que tornin a la seva base. Els presoners passen a formar part del bàndol que els ha capturat, i així continua el joc, alternant els bàndols, fins que tothom ha quedat presoner en un sol bàndol.",
     "titol": "Turcs i russos"
   },
   "yo-se-quien-sabe-lo-que-usted-no-sabe": {
     "_signatura": "7360a30aaff25626",
-    "descripcio": "Després de triat el tema, es demana a les persones que facin preguntes breus sobre el que no saben del.\n\n(30) Es formen subgrups de 4 persones. En plenària es van llegint les preguntes i el subgrup que la sàpiga respondre la demana (\n\n15) Es dóna temps perquè els subgrups estudiïn les preguntes i preparin les respostes, que ha de ser clara i breu (45) Plenària s'escolten\n\n les respostes i aclariments.",
-    "espai": "camp tancat.",
+    "descripcio": "Un cop triat el tema, es demana a les persones que facin preguntes breus sobre el que no en saben (30 minuts). Es formen subgrups de 4 persones. En sessió plenària es van llegint les preguntes i el subgrup que la sàpiga respondre la demana (15 minuts). Es dóna temps perquè els subgrups estudiïn les preguntes i preparin les respostes, que han de ser clares i breus (45 minuts). Finalment, en plenària, s'escolten les respostes i els aclariments.",
+    "espai": "Espai tancat.",
     "materials": "paperetes en blanc.",
     "objectius": "donar informació clara i breu sobre un tema.",
     "participants": "més de 10 persones.",
