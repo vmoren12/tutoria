@@ -36,7 +36,7 @@ GLOSSARI = {
     # castellanismes lexics
     'conexion': 'connexió', 'conexiones': 'connexions',
     'minutos': 'minuts', 'segundero': 'segoner',
-    'pañoleta': 'mocador de coll', 'pañoletas': 'mocadors de coll',
+    'pañoleta': 'mocador', 'pañoletas': 'mocadors',
     'pizarrón': 'pissarra', 'pizarrones': 'pissarres',
     'papelografo': 'paperògraf', 'papelógrafo': 'paperògraf',
     'papelógrafos': 'paperògrafs', 'rotafolio': 'paperògraf',
