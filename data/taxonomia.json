@@ -27,6 +27,9 @@
     { "id": "tallers", "familia": "grup", "nom": "Tallers", "descripcio": "Propostes de format taller, més llargues i estructurades." },
     { "id": "vetllades", "familia": "grup", "nom": "Vetllades", "descripcio": "Jocs d'espectacle i vetllada per a convivències i colònies." },
     { "id": "autobus", "familia": "grup", "nom": "Desplaçaments", "descripcio": "Jocs per a l'autobús i les estones d'espera en sortides." },
+    { "id": "analisi", "familia": "grup", "nom": "Anàlisi i debat", "descripcio": "Tècniques per treballar un contingut amb el grup: pluja d'idees, Phillips 6/6, debat, jurat, cartell." },
+    { "id": "dramatitzacio", "familia": "grup", "nom": "Dramatització", "descripcio": "Representar situacions per analitzar-les: sociodrama, joc de rols, pantomima." },
+    { "id": "tancament", "familia": "grup", "nom": "Tancament i avaluació", "descripcio": "Tècniques per acabar la sessió i recollir què se n'emporta el grup." },
     { "id": "varies", "familia": "grup", "nom": "Diverses", "descripcio": "Dinàmiques que no encaixen en cap altra categoria." },
 
     { "id": "pensar-aprendre", "familia": "hebe", "nom": "Ensenyar a pensar i a aprendre", "descripcio": "Bloc 1 del Programa HEBE: hàbits d'estudi, autoregulació de l'aprenentatge i argumentació." },

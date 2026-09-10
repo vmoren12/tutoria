@@ -3,12 +3,12 @@
 Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita propostes de
 tutoria, i munta sessions** llestes per imprimir o desar en PDF.
 
-- **840 fitxes** en català, de tres menes:
-  - **681 dinàmiques de grup** — jocs i exercicis breus que es fan sols.
+- **876 fitxes** en català, de tres menes:
+  - **717 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
   - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
   - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
 
-  Classificades en 24 categories i etiquetades per durada, mida de grup, nivell i material
+  Classificades en 27 categories i etiquetades per durada, mida de grup, nivell i material
   necessari. L'original castellà es conserva i es pot mostrar des dels ajustos.
 - **Cerca facetada** per paraula clau, tipus de proposta, nivell, categoria, etiquetes,
   durada màxima, mida de grup, material i origen.
@@ -89,6 +89,7 @@ data/bibliografia.json    obres d'origen de les fitxes
 data/bundle.js            generat per npm run build
 scripts/extract_pdf.py    extractor de «700 dinámicas grupales» cap a JSON
 scripts/extract_hebe.py   extractor del «Programa HEBE» cap a JSON
+scripts/extract_manual.py extractor del «Manual de técnicas y dinámicas» cap a JSON
 scripts/deduplica.mjs     treu les fitxes repetides que deixa l'extracció
 scripts/tradueix-ca.py    traductor castellà → català (Apertium)
 scripts/build-data.mjs    validació i generació del bundle
@@ -110,12 +111,13 @@ afegir fitxes és editar un fitxer i executar `npm run build`. El detall és a
 | `npm start` | `build` i tot seguit `serve`. |
 | `npm run extract` | Reconstrueix les dinàmiques de grup des de *700 dinámicas grupales* (necessita `pdftotext` i Python 3). |
 | `npm run extract-hebe` | Reconstrueix les unitats i activitats des del *Programa HEBE*. |
+| `npm run extract-manual` | Incorpora les tècniques del *Manual de técnicas y dinámicas*. |
 | `npm run deduplica` | Treu les fitxes repetides que deixa l'extracció (`-- --prova` per veure què faria). |
 | `npm run tradueix` | Tradueix al català les fitxes noves o modificades (necessita Python 3 i connexió). |
 
 ## Sobre el contingut
 
-Les fitxes provenen de dues obres.
+Les fitxes provenen de tres obres.
 
 Les **dinàmiques de grup**, del recull *[700 Dinámicas
 grupales](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/700-dinamicas-grupales.html)*
@@ -132,6 +134,12 @@ Zuleica Ruiz Alfonso i Milena Trenta; Ediciones Pirámide, 2023): 34 unitats rep
 cinc blocs — ensenyar a pensar i a aprendre, a ser persona, a conviure, a comportar-se i a
 prendre decisions.
 
+Les **tècniques de treball amb el grup**, del *Manual de técnicas y dinámicas* (María de
+Jesús Gómez Hernández; SIBE-ECOSUR i UJAT, 2007): 36 tècniques de presentació, relaxació,
+animació, treball de continguts i tancament. D'aquí surten tres categories que el recull de
+jocs no cobria — **Anàlisi i debat**, **Dramatització** i **Tancament i avaluació** — amb
+propostes com la pluja d'idees, el Phillips 6/6, el sociodrama, el joc de rols o el PNI.
+
 La llista completa és a `data/bibliografia.json` i es consulta des de la vista
 **Bibliografia** de l'aplicació.
 
@@ -142,6 +150,12 @@ duplicava. `npm run deduplica` compara el desenvolupament de cada parell, conser
 més completa i esborra la resta. En queda una vintena de parells que **comparteixen títol
 però són propostes diferents**; es distingeixen per la categoria, que surt a la targeta, i
 `npm run build` els llista com a avís.
+
+El *Manual de técnicas y dinámicas* beu de la mateixa tradició d'educació popular i repeteix
+setze tècniques que ja eren al catàleg, sovint amb un altre títol («Mar adentro y mar
+afuera» i «Marea sube/marea baja», «El pueblo manda» i «Simón dice»). No s'incorporen: la
+llista, amb la fitxa que ja cobreix cada una, és a `REPETIDES` de
+`scripts/extract_manual.py`, i `npm run extract-manual` la imprimeix cada vegada.
 
 ### Les dues llengües
 
@@ -164,8 +178,8 @@ orientatius i es poden corregir des de la fitxa.
 
 Els PDF originals no formen part del repositori (són material de tercers). Si els vols
 tornar a processar, desa'ls a l'arrel del projecte i executa l'extractor corresponent
-(`npm run extract` i `npm run extract-hebe`); tot seguit, `npm run deduplica`,
-`npm run tradueix` i `npm run build`.
+(`npm run extract`, `npm run extract-hebe` i, sempre l'últim, `npm run extract-manual`);
+tot seguit, `npm run deduplica`, `npm run tradueix` i `npm run build`.
 
 ## Llicència
 

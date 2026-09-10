@@ -50,9 +50,37 @@ REINTENTS = 5
 # Els originals no fan servir cap dels dos caracters, aixi que es poden treure.
 MARQUES = re.compile(r'(?<![\w])[#@](?=[\wÀ-ÿ])')
 
+# Mots que Apertium deixa tal qual, gairebe tots d'us americà: les obres del
+# cataleg venen de Mexic i de l'America Central i del Sud i en fan servir uns
+# quants. La substitucio es per paraula sencera i respecta la majuscula
+# inicial.
+GLOSSARI = {
+    'afiche': 'cartell', 'afiches': 'cartells',
+    'papelógrafo': 'paperògraf', 'papelógrafos': 'paperògrafs',
+    'rotafolio': 'paperògraf', 'rotafolios': 'paperògrafs',
+    'pizarrón': 'pissarra', 'pizarrones': 'pissarres',
+    'franelógrafo': 'franel·lògraf',
+    'mimeógrafo': 'multicopista',
+    'crayolas': 'ceres de colors',
+    'cartoncillo': 'cartolina',
+    'acápites': 'apartats',
+    'completamiento': 'completament',
+    'jurado': 'jurat', 'jurados': 'jurats',
+    'lanchero': 'barquer',
+    'autoimagen': 'autoimatge',
+}
+MOTS = re.compile(r'\b(' + '|'.join(sorted(GLOSSARI, key=len, reverse=True)) + r')\b',
+                  re.IGNORECASE)
+
+
+def tradueix_mot(m):
+    original = m.group(0)
+    catala = GLOSSARI[original.lower()]
+    return catala[0].upper() + catala[1:] if original[0].isupper() else catala
+
 
 def neteja(text):
-    return MARQUES.sub('', text).strip()
+    return MOTS.sub(tradueix_mot, MARQUES.sub('', text)).strip()
 
 
 def signatura(dinamica):

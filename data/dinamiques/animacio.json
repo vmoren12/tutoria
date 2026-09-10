@@ -1413,6 +1413,32 @@
     "font": "100 Formas de Animar Grupos (Alianza Internacional contra el VIH/SIDA, 2002)"
   },
   {
+    "id": "los-numeros",
+    "titol": "Los Números",
+    "categoria": "animacio",
+    "etiquetes": [
+      "atencio",
+      "competitiu",
+      "cooperatiu",
+      "escriptura",
+      "reflexio",
+      "subgrups"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "20 cartones del tamaño de una hoja de papel o 20 hojas de tamaño normal. Cada cartón u hoja deberá llevar un número del 0 al 9; se hace dos juegos de cada uno. El número de personas es de 20 (dos equipos de 10).",
+    "resum": "Para animar al grupo y para contribuir a su concentración.",
+    "objectius": "Para animar al grupo y para contribuir a su concentración.",
+    "participants": "",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "a) Se le entrega a cada equipo un paquete de número de 0 al 9. Se le da a cada integrante del equipo un número.\n\nb) El coordinador dice un número, por ejemplo, 827; los que tienen el 8, 2, y el 7 de cada equipo deberán pasar al frente y acomodarse en el orden debido, llevando el cartel con el número de manera visible. El equipo que forme primero el número se anota un punto. No se puede repetir la misma cifra en un número, por ejemplo: 882.",
+    "avaluacio": "No hay. Es importante que el facilitador se preocupe porque las instrucciones sean bien comprendidas. Puede pedir comentarios.",
+    "notes": "Semejante a la de las técnicas anteriores.",
+    "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)"
+  },
+  {
     "id": "marea-sube-marea-baja",
     "titol": "Marea Sube/marea Baja",
     "categoria": "animacio",

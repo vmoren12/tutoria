@@ -77,8 +77,8 @@ tots els camps de text, que fa de índex per a la cerca lliure.
 
 ## Tres tipus de proposta
 
-El catàleg barreja dues obres amb lògiques molt diferents: un recull de jocs solts i un
-programa d'acció tutorial estructurat en unitats. Perquè això no confongui, cada fitxa
+El catàleg barreja obres amb lògiques molt diferents: dos reculls de jocs i tècniques
+soltes i un programa d'acció tutorial estructurat en unitats. Perquè això no confongui, cada fitxa
 porta un camp `tipus` —`dinamica`, `activitat` o `unitat`— que és la primera faceta del
 catàleg i el primer distintiu de cada targeta.
 
@@ -88,11 +88,13 @@ La fitxa d'una unitat llista les activitats que la componen i la d'una activitat
 amb la unitat d'on surt, de manera que tant es pot programar la unitat sencera com agafar-ne
 una activitat solta.
 
-Les categories també venen de les dues obres, i per això a la taxonomia porten un camp
+Les categories també venen de les obres d'origen, i per això a la taxonomia porten un camp
 `familia` (`grup` o `hebe`) que el panell de filtres fa servir per presentar-les separades.
+Les tècniques del *Manual de técnicas y dinámicas* comparteixen família amb les dinàmiques
+de grup i n'hi afegeixen tres categories: `analisi`, `dramatitzacio` i `tancament`.
 
 El camp `nivells` funciona a l'inrevés del que és habitual en una faceta: una fitxa **sense**
-nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 681 dinàmiques
+nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 717 dinàmiques
 de grup, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
 
 ## Catàleg bilingue

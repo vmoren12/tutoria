@@ -15,6 +15,7 @@
     "start": "node scripts/build-data.mjs && node scripts/serve.mjs",
     "extract": "python scripts/extract_pdf.py --pdf \"700-Dinámicas-grupales.pdf\" --out data/dinamiques",
     "extract-hebe": "python scripts/extract_hebe.py --pdf \"Programa_HEBE_Una_propuesta_de_acció_z_library_sk,_1lib_sk,.pdf\" --out data/dinamiques",
+    "extract-manual": "python scripts/extract_manual.py --pdf \"zManual-de-Tecnicas-y-Dinamicas.pdf\" --out data/dinamiques",
     "deduplica": "node scripts/deduplica.mjs",
     "tradueix": "python scripts/tradueix-ca.py"
   },

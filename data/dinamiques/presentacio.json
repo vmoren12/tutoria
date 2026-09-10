@@ -329,6 +329,30 @@
     "font": "Juegos y Dinamicas (recopilacio)"
   },
   {
+    "id": "el-retrato",
+    "titol": "El Retrato",
+    "categoria": "presentacio",
+    "etiquetes": [
+      "cercle",
+      "cooperatiu",
+      "escriptura",
+      "expressio-corporal"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "targetes",
+    "resum": "Es una creación personal del propio retrato con identificación de características propias.",
+    "objectius": "Para compartir características personales y desarrollar la autoimagen. Para fomentar la expresión oral.",
+    "participants": "",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "1er. Momento: El docente distribuirá, sobre una mesa, un numero mayor que el de los representantes, de tarjetas en las que aparezcan distintas imágenes (dibujos o ilustraciones) no figurativas, y pedirá a los presentes que elijan una que simbolice sus virtudes y otra que represente sus defectos. 2do. Momento: El docente hará que los integrantes del grupo se distribuyan en círculos o semicírculo.\n\nLuego le propondrá que cada uno, por turno, explique por que Eligio esas tarjetas. A los defectos se distender la situación, ayudara con algunos de los siguientes interrogantes, ¿Qué aspecto tuyo viste en esa tarjeta? ¿Cuáles son tus Virtudes? ¿Y tus defectos? ¿Quién eres? ¿Cómo te llamas? ¿Cuántos Años tienes? ¿Qué es lo que mas te gusta? ¿Qué es lo que no te Gusta? 3er. Momento: Se invitara a los participantes a dibujar su propio retrato en una hoja y a escribir sus datos y características más importantes. 4to. Momento: Cada Participante presentara su retrato y entre todos los integrantes del grupo construirán un collage con el titulo Nuestros Retratos.\n\nEs importante que el coordinador asuma el rol de participante presentándose y efectuando su propio retrato.",
+    "avaluacio": "",
+    "notes": "",
+    "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)"
+  },
+  {
     "id": "gesto-paranoico-2",
     "titol": "Gesto Paranoico",
     "categoria": "presentacio",
@@ -645,6 +669,55 @@
     "avaluacio": "",
     "notes": "",
     "font": "22 Juegos para conocerse"
+  },
+  {
+    "id": "presentacion-por-fotografia",
+    "titol": "Presentación por Fotografía",
+    "categoria": "presentacio",
+    "etiquetes": [
+      "cercle",
+      "competitiu",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Fotografías que reflejan diferentes cosas: objetos, personas, paisajes, actividades, etcétera., de preferencia en colores, pegadas cada una a un cartoncillo.",
+    "resum": "• Permitir que los miembros se conozcan.",
+    "objectius": "• Permitir que los miembros se conozcan.\n\n• Obtener elementos sobre los puntos de vista de los participantes acerca del mundo que lo rodea.",
+    "participants": "",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "a) El coordinador pide a los participantes que formen un círculo alrededor de un conjunto de fotografías, previamente colocadas de un método arbitrario, de manera que todos los asistentes puedan observarlas.\n\nb) Se da un tiempo razonable para que cada uno elija una fotografía con la que más se identifique, de acuerdo a su personalidad, modo de vida, trabajo, gustos, que le recuerde alguna anécdota de su vida, etcétera.\n\nc) Después que todos los participantes han escogido su fotografía, van presentándose uno a uno, mostrándola y explicando el motivo por el cual escogió esa fotografía, como y por qué se identifico con ella.",
+    "avaluacio": "Igual a las técnicas explicadas anteriormente.",
+    "notes": "Sirve para hacer que los miembros del grupo conozcan de otros elementos de cada uno que a lo mejor eran desconocidos recomendable para grupos que llevan tiempo interactuando.",
+    "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)"
+  },
+  {
+    "id": "presentacion-por-parejas",
+    "titol": "Presentación por Parejas",
+    "categoria": "presentacio",
+    "etiquetes": [
+      "cercle",
+      "escriptura",
+      "moviment",
+      "parelles",
+      "reflexio",
+      "sense-material"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "Permitir al coordinador conocer información sobre los integrantes del grupo que considere necesario.",
+    "objectius": "Permitir al coordinador conocer información sobre los integrantes del grupo que considere necesario.\n\nQue los miembros conozcan de cada uno aspectos talvez desconocidos.",
+    "participants": "",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El facilitador da la indicación de que se van a presentar por parejas (uno presenta al otro miembro de la pareja y viceversa), y que los miembros de cada una deben intercambiar determinado tipo de información que sea de interés para todos, por ejemplo, nombre, interés por la actividad a desarrollar, expectativas, etcétera.\n\na) Formar las parejas: El facilitador puede coordinar la formación de las parejas a través de diversos criterios, como son: escoger personas poco conocidas; realizar una numeración 1-2 y agrupar los 1 con los 2; poner a los participantes a caminar en fila haciendo un circulo en el centro del local y dar la consigna de que, en determinado momento, tomen de la mano al compañero más cercano; o utilizar una tarjetas en las que previamente se han escrito fragmentos de refranes populares (cada refrán se escribe en dos tarjetas, el comienzo en una de ellas y su complemento en otra), se reparten las tarjetas entre los miembros y cada uno debe buscar a la persona que tiene la otra parte del refrán. Pueden utilizarse otras variantes.\n\nb) Intercambio entre la pareja: Durante unos minutos las parejas se informan e intercambian sobre los datos personales pedidos.\n\nc) Presentación en plenario: Cada cual presenta a su pareja, dando los datos pedidos por el facilitador o coordinador.",
+    "avaluacio": "No existe propiamente. El coordinador debe esta atento para animar y agilizar la presentación; su duración va a depender del número de participantes; por lo general, se da un máximo de tres minutos por pareja. Puede pedir comentarios al final o resumir los aspectos más significativos que se hayan presentado.\n\nNota: Este último aspecto se mantiene igual para el resto de las técnicas de presentación, por lo que no se explicará en el resto de las que se mostrarán a continuación.",
+    "notes": "Sienta las bases para comenzar el trabajo grupal, en la medida que proporciona un conocimiento del grupo, de cada integrante, de su comunicación y de las relaciones interpersonales.",
+    "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)"
   },
   {
     "id": "quien-calla-paga-2",

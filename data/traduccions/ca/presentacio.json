@@ -130,6 +130,14 @@
     "resum": "En subgrups cadascun ha de pensar en una forma de salutació i per grups han de representar aquesta salutació.",
     "titol": "El Protocol"
   },
+  "el-retrato": {
+    "_signatura": "4aa07c2d80105de8",
+    "descripcio": "1r Moment: El docent distribuirà, sobre una taula, un numero major que el dels representants, de targetes en les quals apareguin diferents imatges (dibuixos o il·lustracions) no figuratives, i demanarà als presents que triïn una que simbolitzi les seves virtuts i una altra que representi els seus defectes. 2do. Moment: El docent farà que els integrants del grup es distribueixin en cercles o semicercle.\n\nDesprés li proposarà que cadascun, per torn, expliqui perquè Eligio aquestes targetes. Als defectes es distendre la situació, ajudés amb alguns dels següents interrogants, Quin aspecte teu vesteix en aquesta targeta? Quines són les teves Virtuts? I els teus defectes? Qui ets? Com et dius? Quants Anys tens? Què és el que mes t'agrada? Què és el que no t'Agrada? 3er. Moment: Es convidés als participants a dibuixar el seu propi retrat en una fulla i a escriure les seves dades i característiques més importants. 4to. Moment: Cada Participant presentés el seu retrat i entre tots els integrants del grup construiran un collage amb el titulo Els nostres Retrats.\n\nÉs important que el coordinador assumeixi el rol de participant presentar i efectuant el seu propi retrat.",
+    "materials": "targetes",
+    "objectius": "Per a compartir característiques personals i desenvolupar la autoimatge. Per a fomentar l'expressió oral.",
+    "resum": "És una creació personal del propi retrat amb identificació de característiques pròpies.",
+    "titol": "El Retrat"
+  },
   "gesto-paranoico-2": {
     "_signatura": "4bccfe1bfd8ef51e",
     "avaluacio": "Bastarà que es vagin repetint els noms i gestos, encara que sigui amb ajuda dels companys",
@@ -242,6 +250,25 @@
     "descripcio": "S'explica que hi haurà una festa, i que cadascú ha de portar alguna cosa, però que comenci amb la inicial del seu nom. El primer comença dient el seu nom i el que portarà a la festa. El segon repeteix el que va dir l'anterior, i després diu el seu nom i el que portarà a la festa. Per exemple:\n\n1. Jo sóc Pablo i portaré la música\n\n2. Ell és Pablo i portarà la música i jo sóc Ricardo i portaré els refrescos.\n\n3. Ell és Pablo i portarà la música, ell és Ricardo i portarà els refrescos i jo sóc Juana i portaré el pastís I Així es repeteix successivament fins a completar la quantitat de participants.",
     "materials": "musica",
     "titol": "Presentació per a Conèixer i Aprendre els Noms"
+  },
+  "presentacion-por-fotografia": {
+    "_signatura": "d17088b964d7963c",
+    "avaluacio": "Igual a les tècniques explicades anteriorment.",
+    "descripcio": "a) El coordinador demana als participants que formin un cercle al voltant d'un conjunt de fotografies, prèviament col·locades d'un mètode arbitrari, de manera que tots els assistents puguin observar-les.\n\nb) Es dóna un temps raonable perquè cadascun triï una fotografia amb la qual més s'identifiqui, d'acord amb la seva personalitat, manera de vida, treball, gustos, que li recordi alguna anècdota de la seva vida, etcètera.\n\nc) Després que tots els participants han triat la seva fotografia, van presentar un a un, mostrant-la i explicant el motiu pel qual va triar aquesta fotografia, com i per què s'identifico amb ella.",
+    "materials": "Fotografies que reflecteixen diferents coses: objectes, persones, paisatges, activitats, etcètera., de preferència en colors, pegades cadascuna a un cartolina.",
+    "notes": "Serveix per a fer que els membres del grup coneguin d'altres elements de cadascun que potser eren desconeguts recomanable per a grups que porten temps interactuant.",
+    "objectius": "• Permetre que els membres es coneguin.\n\n• Obtenir elements sobre els punts de vista dels participants sobre el món que l'envolta.",
+    "resum": "• Permetre que els membres es coneguin.",
+    "titol": "Presentació per Fotografia"
+  },
+  "presentacion-por-parejas": {
+    "_signatura": "41e728dd5d6cf443",
+    "avaluacio": "No existeix pròpiament. El coordinador deu aquesta atent per a animar i agilitar la presentació; la seva durada dependrà del nombre de participants; en general, es dóna un màxim de tres minuts per parella. Pot demanar comentaris al final o resumir els aspectes més significatius que s'hagin presentat.\n\nNota: Aquest últim aspecte es manté igual per a la resta de les tècniques de presentació, per la qual cosa no s'explicarà en la resta de les quals es mostraran a continuació.",
+    "descripcio": "El facilitador dóna la indicació que es presentaran per parelles (un presenta a l'altre membre de la parella i viceversa), i que els membres de cadascuna han d'intercanviar determinat tipus d'informació que sigui d'interès per a tots, per exemple, nom, interès per l'activitat a desenvolupar, expectatives, etcètera.\n\na) Formar les parelles: El facilitador pot coordinar la formació de les parelles a través de diversos criteris, com són: triar persones poc conegudes; realitzar una numeració 1-2 i agrupar els 1 amb els 2; posar als participants a caminar en fila fent un circulo en el centre del local i donar la consigna que, en determinat moment, prenguin de la mà al company més pròxim; o utilitzar una targetes en les quals prèviament s'han escrit fragments de refranys populars (cada refrany s'escriu en dues targetes, el començament en una d'elles i el seu complement en una altra), es reparteixen les targetes entre els membres i cadascun ha de buscar a la persona que té l'altra part del refrany. Poden utilitzar altres variants.\n\nb) Intercanvi entre la parella: Durant uns minuts les parelles s'informen i intercanvien sobre les dades personals comandes.\n\nc) Presentació en plenari: Cadascú presenta a la seva parella, donant les dades demanades pel facilitador o coordinador.",
+    "notes": "Estableix les bases per a començar el treball grupal, en la mesura que proporciona un coneixement del grup, de cada integrant, de la seva comunicació i de les relacions interpersonals.",
+    "objectius": "Permetre al coordinador conèixer informació sobre els integrants del grup que consideri necessari.\n\nQue els membres coneguin de cadascun aspectes talvez desconeguts.",
+    "resum": "Permetre al coordinador conèixer informació sobre els integrants del grup que consideri necessari.",
+    "titol": "Presentació per Parelles"
   },
   "quien-calla-paga-2": {
     "_signatura": "1fe71ff6bdb4a740",

@@ -8,7 +8,7 @@ El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
 
 | `tipus` | Què és | D'on surt |
 | --- | --- | --- |
-| `dinamica` | Joc o exercici breu de grup, que es fa sol. És el valor per defecte. | *700 dinámicas grupales* |
+| `dinamica` | Joc, exercici o tècnica de grup, que es fa sol. És el valor per defecte. | *700 dinámicas grupales* i *Manual de técnicas y dinámicas* |
 | `activitat` | Activitat d'aula amb material i pauta de treball, part d'una unitat. | Programa HEBE |
 | `unitat` | Unitat didàctica de diverses sessions que agrupa activitats. | Programa HEBE |
 
@@ -148,6 +148,10 @@ L'script fa servir el servei públic d'[Apertium](https://www.apertium.org/) (ca
 català), per tant necessita connexió. La `_signatura` fa que una fitxa ja traduïda no es
 torni a enviar mentre no canviï l'original, i el procés es pot aturar i reprendre.
 
+Apertium deixa tal qual uns quants mots d'ús americà que surten sovint a les obres
+d'origen («afiche», «papelógrafo», «pizarrón»...). El `GLOSSARI` de `scripts/tradueix-ca.py`
+els substitueix en acabat de traduir; si en trobes cap més, afegeix-l'hi.
+
 La traducció és automàtica i no revisada. Per corregir-la a mà, edita directament
 `data/traduccions/ca/<categoria>.json` i deixa la `_signatura` tal com està: mentre no
 canviï l'original castellà, l'script respectarà el text que hi hagis posat.
@@ -176,15 +180,19 @@ ha al catàleg. Després d'editar el fitxer, `npm run build`.
 
 ## Tornar a generar el catàleg des dels PDF
 
-Hi ha un extractor per obra. Tots dos **sobreescriuen** els fitxers de categoria que
-generen: si hi has afegit fitxes a mà, guarda-les en un fitxer de categoria propi que
-l'extractor no toqui, o fes-ne còpia abans.
+Hi ha un extractor per obra. `extract` i `extract-hebe` **sobreescriuen** els fitxers de
+categoria que generen: si hi has afegit fitxes a mà, guarda-les en un fitxer de categoria
+propi que l'extractor no toqui, o fes-ne còpia abans. `extract-manual` treballa d'una altra
+manera —**fusiona**: reemplaça només les fitxes que ja porten la seva font i deixa estar la
+resta—, perquè escriu en categories compartides amb *700 dinámicas grupales*. Per això va
+sempre l'últim: si no, `npm run extract` li esborraria les fitxes.
 
 ```bash
-npm run extract        # 700 dinámicas grupales  -> categories de dinàmiques de grup
-npm run extract-hebe   # Programa HEBE           -> categories dels cinc blocs
-npm run deduplica      # treu les fitxes repetides que deixa l'extracció
-npm run tradueix       # tradueix al català el que hagi canviat
+npm run extract         # 700 dinámicas grupales  -> categories de dinàmiques de grup
+npm run extract-hebe    # Programa HEBE           -> categories dels cinc blocs
+npm run extract-manual  # Manual de técnicas...   -> hi afegeix les seves tècniques
+npm run deduplica       # treu les fitxes repetides que deixa l'extracció
+npm run tradueix        # tradueix al català el que hagi canviat
 npm run build
 ```
 
@@ -198,6 +206,11 @@ l'extracció els repeteix amb el mateix títol i el text lleugerament diferent.
 títol és idèntic), conserva la fitxa més completa —omplint-li els camps buits amb els de
 les germanes— i esborra la resta, també de `data/traduccions/ca/`. Es pot executar amb
 `--prova` per veure què faria sense tocar res, i és idempotent.
+
+Les repeticions entre obres diferents no les detecta cap llindar automàtic, perquè el text
+no s'assembla prou: les del *Manual de técnicas y dinámicas* estan llistades a mà a
+`REPETIDES`, dins de `scripts/extract_manual.py`, amb la fitxa del catàleg que ja cobreix
+cada una. Si n'hi trobes cap més, afegeix-la-hi i torna a executar `npm run extract-manual`.
 
 Del que queda, encara hi ha una vintena de parells que **comparteixen títol però són
 propostes diferents** (dos jocs anomenats «El nus», per exemple). No s'esborren: es

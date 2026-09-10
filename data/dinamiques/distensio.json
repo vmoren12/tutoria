@@ -2105,6 +2105,28 @@
     "font": "456 Juegos y Dinamicas de Integracion Grupal (Prof. Enrique Gonzalez)"
   },
   {
+    "id": "relajacion-guiada-ejemplo-basico",
+    "titol": "Relajación Guiada (ejemplo básico)",
+    "categoria": "distensio",
+    "etiquetes": [
+      "musica",
+      "sense-material"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "",
+    "resum": "• Reducir los niveles de ansiedad, en grupo.",
+    "objectius": "• Reducir los niveles de ansiedad, en grupo.\n\n• Provocar un ambiente más relajado en el grupo.",
+    "participants": "",
+    "espai": "",
+    "preparacio": "",
+    "consignes": "",
+    "descripcio": "El facilitador le pedirá al grupo que cada uno se siente en una posición cómoda, con los antebrazos apoyados en los muslos y las piernas ligeramente separadas, apoyando los pies en el suelo. Al mismo tiempo, deben cerrar los ojos y tratar de concentrarse en las palabras que dirá.\n\na) El facilitador comenzará a decir en un tono de voz suave y monótona y con un ritmo suave: \"Aflojen los músculos del brazo izquierdo, los músculos del brazo izquierdo comienzan a relajarse poco a poco, se tornan blandos, flojos, suaves, sueltos, relajados... poco a poco se van tornando pesados cada vez más pesados...el brazo izquierdo se torna pesado, pesa, pesa más, y más, y más\".\n\nb) Cuando el coordinador observe que los miembros del grupo se han concentrado y cobras, y así sucesivamente para cada pierna, el tronco, etcétera.\n\nc) Continua diciendo: \"Todos los músculos del cuerpo están relajados, flojos, los brazos, las piernas, el cuello, los hombros, la espalda, el tronco, el abdomen,...se sientan relajados, tranquilos, agradablemente relajados y tranquilos, cada vez más relajados y tranquilos,... los brazos se van tornando caliente, cada vez más caliente, agradablemente caliente, se tornan pesado, cada vez más pesado, cada vez más pesado, esta sensación de calor y peso se va trasmitiendo a las piernas, las piernas se van tornando calientes y pesadas, cada vez más calientes y pesadas, cada vez se sienten más tranquilos, más suaves, agradablemente relajados\".\n\nd) Una vez lograda la relajación, el facilitador dirá: \"En la medida en que cuente hasta tres, sus músculos se irán recuperando poco a poco, abrirán los ojos y seguirán tranquilos y relajados. Uno, dos y tres\".",
+    "avaluacio": "",
+    "notes": "El coordinador puede utilizar esta técnica cuando observe que, durante la dinámica, el grupo está tenso y ansioso. Puede utilizarse al inicio, durante el desarrollo o al final de la sesión, el momento preciso depende de que el facilitador haga una buena observación e interpretación de los momentos de ansiedad de los miembros del grupo en la sesión.\n\nEsta técnica se enfatiza en el peso, el calor y en aflojar el tono muscular. Pueden utilizarse otras variantes de relajación en las que, por ejemplo, se enfatice en la ligereza y no en el peso (\"Se sienten ligeros, flotan, vuelan,...\"), o se pide pensar en algo agradable, o en una música suave, o en un lugar que a cada uno le guste y se sienta bien y relajado. Puede utilizarse una música suave, o en un lugar que a cada uno le guste de fondo ligada a la relajación. Lo importante es que el grupo se relaje y elimine la tensión física y la ansiedad.\n\nOtro método que pueda utilizarse (Casi siempre asociado y como complemento de otras técnicas de relajación) es el llamado de \"Respiración profunda\". Aquí se les orienta a los sujetos que inspiren impulsando el aire hacia abajo, en dirección al abdomen, relajando al mismo tiempo los músculos del diafragma y del estómago. Se exhala el aire lentamente y se imaginan que la tensión abandona al cuerpo a medida que sale el mismo.\n\nLa ventaja de estos métodos de relajación es que no solo enseña al grupo a relajarse ante la tensión, sino que de modo individual ayudan a los miembros a enfrentar más exitosamente momentos de tensión y estresantes.",
+    "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)"
+  },
+  {
     "id": "relevos-del-cangrejo",
     "titol": "Relevos del Cangrejo",
     "categoria": "distensio",
