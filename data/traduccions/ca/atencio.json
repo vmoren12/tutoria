@@ -6,38 +6,38 @@
   },
   "apartamentos-e-inquilinos": {
     "_signatura": "ab01fcbd80dea7e7",
-    "descripcio": "Cada 2 participants s'agafen de les mans, col·locar cara a cara entre ells se situa un tercer. Els que estan agafats reben el nom de \"apartaments\"; el que està al mitjà es diu \"inquilí\". El que dirigeix el joc diu: canvi d'inquilins i aquests han de deixar el seu apartament i córrer a la recerca d'un altre. Després diu: canvi d'apartaments i aquests han de deixar i anar a la recerca d'un altre inquilí.",
+    "descripcio": "Cada 2 participants s'agafen de les mans i es col·loquen cara a cara; entre ells s'hi posa un tercer. Els que estan agafats fan d'«apartaments» i el del mig, d'«inquilí». Qui dirigeix el joc diu «canvi d'inquilins!» i aquests han de deixar el seu apartament i córrer a buscar-ne un altre. Després diu «canvi d'apartaments!» i aquests s'han de deixar anar i buscar un altre inquilí.",
     "titol": "Apartaments i inquilins"
   },
   "el-mono-sabio": {
     "_signatura": "3c3459761e517c1e",
-    "descripcio": "Els jugadors estan en cercle, la primera persona es posa dempeus i tocarà un objecte, la segona persona ha de tocar aquest objecte i un altre més, la tercera persona toca l'objecte del primer, del segon i el d'ell, i així les altres persones. Al mateix temps que es toquen els objectes es nomenen en veu alta. (també pot fer amb noms en lloc d'objectes).",
+    "descripcio": "Els jugadors estan en cercle. La primera persona s'aixeca i toca un objecte; la segona ha de tocar aquell objecte i un altre; la tercera toca l'objecte del primer, el del segon i el seu, i així la resta de persones. Alhora que es toquen els objectes, se'n diu el nom en veu alta. També es pot fer amb noms de persona en lloc d'objectes.",
     "titol": "El mico savi"
   },
   "estira-y-encoge": {
     "_signatura": "08c3e047e3396feb",
-    "descripcio": "Els jugadors en cercle han d'estar molt atents. Qui dirigeix el joc dóna les ordres següents: \"estirin\" i els jugadors han d'encongir els braços i en dir \"encongeixin\" els jugadors han d'estirar els braços. Al principi ha de fer a poc a poc, després més ràpid.",
+    "descripcio": "Els jugadors, en cercle, han d'estar molt atents. Qui dirigeix el joc dóna les ordres següents: quan diu «estireu!», els jugadors han d'encongir els braços, i quan diu «encongiu!», els han d'estirar. Al principi s'ha de fer a poc a poc i després més de pressa.",
     "titol": "Estira i encongeix"
   },
   "la-orquesta": {
     "_signatura": "f50e889080e443ad",
-    "descripcio": "Tots els participants en cercle, es nomena un voluntari el qual sali del grup. Es nomena algú perquè dirigeixi l'orquestra, la qual cosa el faci tots ho fan, el voluntari ha d'endevinar qui és el director, si s'equivoca tres vegades té penitència.",
+    "descripcio": "Tots els participants en cercle. Es tria un voluntari, que surt del grup. Es designa algú perquè dirigeixi l'orquestra: tot el que faci ell, ho fa tothom. El voluntari ha d'endevinar qui és el director; si s'equivoca tres vegades, paga penyora.",
     "titol": "L'orquestra"
   },
   "las-vacas-vuelan": {
     "_signatura": "9119b1cb3b8d9b20",
-    "descripcio": "Es col·loquen en cercle els jugadors i col·loquen les mans palma amb palma. Quan el director (a) del joc nomena un animal que vola, tots han de separar les mans i tornar-les a ajuntar, donant una palmada. Qui dirigeix, també fa això, però tracta de fer equivocar als participants fent accions contràries a les indicades; és a dir, si nomena un animal que vola, junta les mans i al revés. En donar l'ordre \"les vaques volen\" tots canvien de lloc.",
+    "descripcio": "Els jugadors es col·loquen en cercle i posen les mans palma amb palma. Quan el director del joc diu el nom d'un animal que vola, tothom ha de separar les mans i tornar-les a ajuntar amb una palmada. Qui dirigeix també ho fa, però mira de fer equivocar els participants fent el contrari del que indica: és a dir, si diu un animal que vola, ajunta les mans, i a l'inrevés. Quan dóna l'ordre «les vaques volen!», tothom canvia de lloc.",
     "titol": "Les vaques volen"
   },
   "los-personajes-y-sus-oficios": {
     "_signatura": "9dd16349005d0467",
-    "descripcio": "A diversos participants triats amb anterioritat, se li reparteixen paperetes amb el nom d'algun ofici o personatge. Aquests jugadors tractaran de representar el seu paper el més fidelment possible; mitjançant mímiques, els espectadors han d'endevinar correctament. Els que no han estat endevinats paguen penitència.",
+    "descripcio": "A uns quants participants triats prèviament se'ls reparteixen paperetes amb el nom d'un ofici o d'un personatge. Aquests jugadors miraran de representar el seu paper tan fidelment com puguin; amb mímica, els espectadors han d'endevinar de què es tracta. Els que no han estat endevinats paguen penyora.",
     "materials": "paper",
     "titol": "Els personatges i els seus oficis"
   },
   "objetos-perdidos": {
     "_signatura": "be94fc240fb4f4a5",
-    "descripcio": "Es divideix el grup en subgrups. El director del joc convida tots els participants perquè col·laborin lliurant objectes d'ús personal. Qui dirigeix el joc els va detallant en veu alta i els mostra; els col·loca sobre un escriptori i els tapa. Després d'uns minuts (2 o 3) tria un representant de cada subgrup, aquests han de tenir llapis i paper, ells escriuran el major nombre d'objectes que recordin.",
+    "descripcio": "Es divideix el grup en subgrups. El director del joc convida tots els participants a col·laborar-hi lliurant objectes d'ús personal. Qui dirigeix el joc els va descrivint en veu alta i els mostra; després els col·loca sobre una taula i els tapa. Al cap d'uns minuts (2 o 3) tria un representant de cada subgrup; aquests han de tenir llapis i paper i escriuran tants objectes com recordin.",
     "materials": "llapis, paper",
     "titol": "Objectes perduts"
   }

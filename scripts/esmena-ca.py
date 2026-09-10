@@ -129,6 +129,7 @@ VERBS_CD = [
     'observ', 'persegu', 'salud', 'felicit', 'acomiad', 'derroc', 'anim',
     'convid', 'ajud', 'toc', 'tap', 'abrac', 'convenc', 'orient', 'guid',
     'acompany', 'rellev', 'reemplac', 'substitu', 'castig', 'premi',
+    'cohesion', 'distend', 'unir', 'ajunt', 'reun', 'cridar', 'crid',
 ]
 SUFIX = r"(?:ar|ar-se|a|es|en|em|eu|ant|at|ats|ada|ades|arà|aran|aré|arem|i|is|in|ava|aven|à|aria|arien)"
 DET = r"(?:l'|la\b|les\b|el\b|els\b|un\b|una\b|uns\b|unes\b|cada\b|algú\b|ningú\b|tots\b|totes\b|qualsevol\b|dos\b|dues\b|tres\b)"
@@ -228,6 +229,22 @@ REGLES = [
     (re.compile(r"(?<![\wÀ-ÿ])major que(?![\wÀ-ÿ])"), 'més gran que'),
     (re.compile(r"(?<![\wÀ-ÿ])vívid(s?)(?![\wÀ-ÿ])"), lambda m: 'viscut' + m.group(1)),
     (re.compile(r"(?<![\wÀ-ÿ])[Vv]alonar(?![\wÀ-ÿ])"), 'Valorar'),
+    (re.compile(r"(?<![\wÀ-ÿ])Grup, classe,\.{2,} *"), 'Grup o classe, '),
+    (re.compile(r"(?<![\wÀ-ÿ])no - verbal(?![\wÀ-ÿ])"), 'no verbal'),
+    (re.compile(r"(?<![\wÀ-ÿ])([Ll])a següent vegada(?![\wÀ-ÿ])"), lambda m: m.group(1) + 'a vegada següent'),
+    # --- «pagar penitencia» en els jocs es «pagar penyora» ---
+    (re.compile(r"(?<![\wÀ-ÿ])(pag(?:a|ar|uen|arà|aran|ui|uin)|rep(?:en|re)?) penitència(?![\wÀ-ÿ])"),
+     lambda m: ('paguen' if m.group(1).startswith('rep') else m.group(1)) + ' penyora'),
+    (re.compile(r"(?<![\wÀ-ÿ])penitència(?![\wÀ-ÿ])"), 'penyora'),
+    # --- «igual numero de» / «el mateix numero de» ---
+    (re.compile(r"(?<![\wÀ-ÿ])igual nombre de(?![\wÀ-ÿ])"), 'el mateix nombre de'),
+    (re.compile(r"(?<![\wÀ-ÿ])número (?=de (?:participants|jugadors|persones|membres|integrants|alumnes))"), 'nombre '),
+    (re.compile(r"(?<![\wÀ-ÿ])un número (?=parell|senar|imparell)"), 'un nombre '),
+    (re.compile(r"(?<![\wÀ-ÿ])sentint-nos part d'ella(?![\wÀ-ÿ])"), "sentint-nos-en part"),
+    (re.compile(r"(?<![\wÀ-ÿ])(sobre el|pel|en el) sòl(?![\wÀ-ÿ])"), 'a terra'),
+    (re.compile(r"(?<![\wÀ-ÿ])[Ss]aló de classe(?![\wÀ-ÿ])"), 'aula'),
+    (re.compile(r"(?<![\wÀ-ÿ])([Ss])alons(?![\wÀ-ÿ])"), lambda m: m.group(1) + 'ales'),
+    (re.compile(r"(?<![\wÀ-ÿ])([Ss])aló(?![\wÀ-ÿ])"), lambda m: m.group(1) + 'ala'),
     # --- apostrofacio que el glossari o l'original havien perdut ---
     (re.compile(r"(?<![\wÀ-ÿ])([Dd])e (?=[aeiouàèéíòóúAEIOU][\wÀ-ÿ'])(?!io|ia(?![\wÀ-ÿ])|uadi)"),
      lambda m: m.group(1) + "'"),

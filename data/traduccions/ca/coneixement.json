@@ -31,7 +31,7 @@
     "consignes": "El joc ha de desenvolupar amb rapidesa.",
     "descripcio": "Tots/es en cercle. L'animador/a en el centre dempeus cridarà amb el braç estirat assenyalant amb el dit. cadascú/a diu el seu nom quan l'animador/a li assenyali. el/ella pot girar a poc a poc, saltant, canviant de costat.",
     "objectius": "Aprendre els noms.",
-    "participants": "Grup, classe,.... a partir de 5 anys.",
+    "participants": "Grup o classe, a partir de 5 anys.",
     "resum": "Es tracta de dir el teu nom a un senyal de l'animador/a.",
     "titol": "Cor de noms"
   },
@@ -74,7 +74,7 @@
     "descripcio": "Els participants s'asseuen en cercle amb les mans unides. Un comença presentant al company de l'esquerra amb la fórmula \"aquest és el meu amic X\", quan diu el nom alça la mà del seu amic a l'aire; es continua el joc fins que tots hagin estat presentats.\n\nEs tracta que cada participant present al company a la resta del grup, convertint la presentació, d'una cosa \"meva\" en una cosa nostra.",
     "materials": "no requereix materials.",
     "objectius": "Integració de tots els participants al grup.",
-    "participants": "Grup, classe,.... a partir dels 4 anys.",
+    "participants": "Grup o classe, a partir dels 4 anys.",
     "titol": "Aquest és el meu amic"
   },
   "estoy-sentado-y-amo": {
@@ -89,7 +89,7 @@
   "explota-globos": {
     "_signatura": "e8f91839b497d251",
     "consignes": "Es fa un cercle entre tots els participants.",
-    "descripcio": "Es reparteix un globus a cada participant, surt un al centre amb el globus entre les cames fent petits salts, quan arriba al centre assenyala una altra persona que anirà, també, cap al centre; el primer agafa el seu globus i li ho posa en el pit, abraça al segon i cridant el seu nom explota el globus amb una forta estreta. Quan el globus exploti el primer es tornarà cap al seu lloc en el cercle, i el segon cridarà a una altra persona, així fins que tots hagin explotat el seu globus.",
+    "descripcio": "Es reparteix un globus a cada participant, surt un al centre amb el globus entre les cames fent petits salts, quan arriba al centre assenyala una altra persona que anirà, també, cap al centre; el primer agafa el seu globus i li ho posa en el pit, abraça al segon i cridant el seu nom explota el globus amb una forta estreta. Quan el globus exploti el primer es tornarà cap al seu lloc en el cercle, i el segon cridarà una altra persona, així fins que tots hagin explotat el seu globus.",
     "materials": "Globus.",
     "objectius": "Aprendre els noms.",
     "participants": "Més de 10, a partir de 7 anys.",
@@ -120,7 +120,7 @@
     "consignes": "Cap.",
     "descripcio": "És bo adonar que es pot ajudar el fet que la gent es recordi dels noms, no hi ha res dolent a no saber-los tots. La primera persona diu: \"Es diu Juan i li pica allí\" (gratant el cap de Juan) i jo em dic María i em pica aquí\" (gratar). La tercera diu: \"Es diu María i li pica allí i jo em dic Carmen i em pica aquí\" (gratant-li a María i després a si mateixa.....).",
     "objectius": "Aprendre els noms. Ajudar als altres a recordar.",
-    "participants": "Grup, classe,.... a partir de 8 anys. 4.",
+    "participants": "Grup o classe, a partir de 8 anys. 4.",
     "resum": "Aquest joc ens ajuda a aprendre els noms dels altres. quan un grup es reuneix per primera vegada, sovint un joc actiu de noms proporciona un ambient de seguretat i positiu, relaxarà la tensió que provoca l'estar amb gent nova.",
     "titol": "Em pica aquí"
   },
@@ -139,7 +139,7 @@
     "descripcio": "En cercle, l'animador marca el ritme: un cop amb els palmells de les mans sobre les cames, una palmada, mà dreta cap endarrere per sobre de l'espatlla i amb el polze mirant cap endarrere, aquest mateix moviment amb la mà esquerra. En portar la dreta cap endarrere cal dir el nom d'un mateix i en portar l'esquerra el d'una altra persona del grup. Tot el grup ha de fer els mateixos moviments portant el ritme. La persona nomenada diu el seu nom i el d'una altra persona. Així successivament fins a ser presentats tots algunes vegades, sense perdre el ritme. Es poden fer variants, canviant el ritme, havent-lo també amb els peus estant asseguts.",
     "notes": "Es poden fer variants, canviant el ritme, havent-lo també amb els peus estant asseguts.",
     "objectius": "Aprendre els noms. Desenvolupar el sentit del ritme.",
-    "participants": "Grup, classe,.... a partir de 5 anys.",
+    "participants": "Grup o classe, a partir de 5 anys.",
     "resum": "Es tracta de dir el nom propi i el d'una altra persona portant el ritme marcat.",
     "titol": "Palmades"
   },
@@ -149,7 +149,7 @@
     "descripcio": "Els jugadors/es estan dempeus en el cercle, menys un/al fet que està en el centre amb l'objecte a llançar. La persona del centre llança l'objecte a l'aire al mateix temps que diu un nom, tornant al cercle. La persona nomenada ha de prendre-ho abans que caigui a terra i al seu torn llançar-ho a l'aire dient un altre nom. El joc continua fins que tots/es han ciso presentats.",
     "materials": "Pilota, disc o objecte similar.",
     "objectius": "Aprendre els nomeni. Estimular la precisió en els enviaments.",
-    "participants": "Grup, classe,..... a partir de 6 anys.",
+    "participants": "Grup o classe, a partir de 6 anys.",
     "resum": "Consisteix a llançar i reprendre una pilota, disc o un altre objecte dient el nom d'una persona del grup que haurà de reprendre'l abans que caigui a terra.",
     "titol": "Pilota a l'aire"
   },
@@ -183,7 +183,7 @@
   },
   "ruleta-de-presentacion-plash": {
     "_signatura": "11f06842fd40742a",
-    "consignes": "Es fan dos cercles d'igual nombre de components.",
+    "consignes": "Es fan dos cercles d'el mateix nombre de components.",
     "descripcio": "Les persones del cercle exterior miren cap a dins, i les de l'interior cap a fora, comencen a girar els cercles en sentit contrari, i a una palmada de l'educador es paren els cercles, les persones dels diferents cercles que caiguin juntes començaran a parlar presentar i explicar coses d'ells, l'educador marcarà el temps, i a una altra palmada començaran els cercles a girar de nou, així fins a estar tots presentats.",
     "objectius": "Aprendre els noms.",
     "participants": "Més de 12, a partir de 7 anys.",
@@ -205,7 +205,7 @@
     "descripcio": "Tots/es asseguts /es en cercle. L'animador/a sense (cadira) donarà principi al joc. Acostar a algú li preguntarà: \"t'agraden els teus veïns?.\" Si la reposada és\n\nNO, haurà de dir els noms de les persones que li agradaria que visquessin a ocupar els llocs dels seus actuals veïns de dreta i esquerra, mentre que aquests hauran d'abandonar el seu lloc, que intentarà ser ocupat pels veïns és atrapats. Durant el canvi de llocs, les persones del centre intentarà ocupar una cadira.\n\nSi la reposada és SI, tot el grup girarà un lloc a la dreta.\n\nQuan se senti el tercer SI (no importa que siguin dits per diferents persones) es giraran dos llocs a la dreta. Al quart, dos a l'esquerra, i així successivament. després de cada pregunta, les persones que quedin sense cadira continua el joc.",
     "materials": "Una cadira menys que participants.",
     "objectius": "Aprendre els noms i passar una estona divertida.",
-    "participants": "Grup, classe,.... a partir de 5 anys.",
+    "participants": "Grup o classe, a partir de 5 anys.",
     "resum": "Cadascú ha de respondre si li agraden els seus veïns/es i en cas negatiu cridar a qui li agradaria tenir.",
     "titol": "T'agraden els teus veïns?"
   }
