@@ -42,61 +42,62 @@
   },
   "apagar-la-vela": {
     "_signatura": "b856ace7e0be45c0",
-    "descripcio": "Dos jugadors prenen a la mà dreta una espelma encesa. Amb la mà esquerra cadascú s'agafa del peu del mateix costat, es tracta d'apagar-li a l'altre l'espelma, sense deixar apagar la pròpia i sense deixar el peu. Es pot jugar dempeus o de genoll (en una sola d'elles).",
+    "descripcio": "Dos jugadors agafen amb la mà dreta una espelma encesa. Amb la mà esquerra, cadascú s'agafa el peu del mateix costat. Es tracta d'apagar l'espelma de l'altre sense deixar-se apagar la pròpia i sense deixar anar el peu. Es pot jugar drets o de genolls (només amb un genoll a terra).",
     "titol": "Apagar l'espelma"
   },
   "aquarium": {
     "_signatura": "09f29c7a779b8c76",
-    "descripcio": "Es divideixen en subgrups, i es discuteixen algun tema. Es tria un delegat. Els delegats es reuneixen amb l'animador en el centre. Aquest va coordinant la discussió o exposició, amb la intenció de classificar el problema. Després es dóna la paraula a la resta de les persones. Posar en alguna cosa, classificar un assumpte, etc.",
+    "descripcio": "El grup es divideix en subgrups i cadascun discuteix un tema i tria un delegat. Els delegats es reuneixen amb l'animador al centre, que va coordinant la discussió o l'exposició per acabar de perfilar el problema. Després es dóna la paraula a la resta de persones. Serveix per posar-se d'acord en alguna cosa, per aclarir un assumpte, etc.",
     "titol": "Aquàrium"
   },
   "arrebatar-con-la-mano": {
     "_signatura": "146fd4461514a161",
-    "consignes": "DE\n\nPARTIDA: Un dels contendents situa la part exterior del seu peu contra l'exterior del peu de l'altre competidor. Tots dos s'abracen situant els seus peus esquerre un pas més endavant que l'anterior.",
-    "descripcio": "Ells s'agafen de la mà dreta i tracten de derrocar l'un a l'altre. El primer que aconsegueixi fer que l'altre mogui el seu peu o perdi l'equilibri és el guanyador.",
+    "consignes": "Un dels contrincants situa la part exterior del seu peu contra l'exterior del peu de l'altre. Tots dos s'abracen col·locant el peu esquerre un pas més endavant.",
+    "descripcio": "S'agafen de la mà dreta i miren de fer-se caure l'un a l'altre. Guanya el primer que aconsegueixi que l'altre mogui el peu o perdi l'equilibri.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de\n\n 11- 12 anys.",
-    "resum": "Es tracta d'intentar\n\n derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta de fer caure l'adversari sense caure abans.",
     "titol": "Arrabassar amb la mà"
   },
   "atrapando-al-tobillo": {
     "_signatura": "7a0b7fdd081066f0",
     "consignes": "Cal agafar un altre jugador pel turmell. Tots contra tots.",
-    "descripcio": "El jugador el turmell del qual hagi estat agafat és vulnerable per ser atrapat almenys que ell aconseguir prendre a algú pel turmell. L'àrea de joc ha de ser prou petita per a aconseguís que li jugo sigui factible de produir resultats.",
+    "descripcio": "El jugador a qui han agafat el turmell queda vulnerable i pot ser atrapat, tret que ell aconsegueixi agafar algú altre pel turmell. L'àrea de joc ha de ser prou petita perquè el joc funcioni.",
     "objectius": "Diversió.",
     "participants": "Grup o classe, a partir d'11 - 12 anys.",
-    "resum": "Consisteix a escapar de ser atrapat (atrapat).",
+    "resum": "Consisteix a evitar que t'atrapin.",
     "titol": "Atrapar pel turmell"
   },
   "atrapando-la-cadena": {
     "_signatura": "3b57ddd146d01953",
-    "consignes": "Es tria un jugador perquè la hi \"quedi\", li cridarem \"això\".",
-    "descripcio": "El primer jugador que sigui atrapat, uneix les seves mans amb el jugador que està actuant de \"això\", i posteriorment cada persona que és atrapada, serà lliurada a la cadena (tots els jugadors atrapats uneixen les seves mans amb l'\"això\" i intentarà atrapar la resta de participants). L'àrea de joc ha de ser limitada de manera que tots siguin atrapats.\n\nCOMPETICIONS I DUELS ENTRE PARELLES Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "consignes": "Es tria un jugador perquè «la pari»; l'anomenarem «això».",
+    "descripcio": "El primer jugador que sigui atrapat s'agafa de les mans amb qui fa d'«això» i, a partir d'aleshores, cada persona atrapada s'incorpora a la cadena: tots els jugadors atrapats s'agafen de les mans i miren d'atrapar la resta de participants. L'àrea de joc ha d'estar limitada de manera que al final els atrapin tots.",
+    "notes": "Competicions i duels entre parelles: es tracta de fer caure l'adversari sense caure abans.",
     "objectius": "Diversió.",
     "participants": "Grup o classe, a partir d'11 - 12 anys.",
-    "resum": "Consisteix a escapar de ser atrapat (atrapat). Els jugadors atrapats formen una cadena per atrapar la resta.",
+    "resum": "Consisteix a evitar que t'atrapin. Els jugadors atrapats formen una cadena per atrapar la resta.",
     "titol": "Atrapant la cadena"
   },
   "atrapando-la-mofeta": {
     "_signatura": "83e5f028a25b9698",
-    "consignes": "Cada jugador tapa el seu nas amb una de les mans i sosté un peu agarrant-lo amb l'altra mà.",
-    "descripcio": "Els jugadors poden ser atrapats només si ells deixen anar qualsevol de les mans que porten pegada al nas o al turmell. Cal atrapar a altres jugadors. Tots contra tots.",
+    "consignes": "Cada jugador es tapa el nas amb una mà i se subjecta un peu amb l'altra.",
+    "descripcio": "Els jugadors només poden ser atrapats si deixen anar alguna de les dues mans, la del nas o la del turmell. Cal atrapar els altres jugadors: tots contra tots.",
     "objectius": "Diversió.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Consisteix a escapar de ser atrapat (atrapat).",
+    "resum": "Consisteix a evitar que t'atrapin.",
     "titol": "Atrapant la mofeta"
   },
   "autobiografia": {
     "_signatura": "dfed63b286d3865e",
-    "descripcio": "Cada jugador/a escriu en un foli o cartolina durant un temps determinat, per exemple cinc minuts, les dades més significatives de la seva vida. A continuació, s'ajunten totes les fitxes, es remenen i després el grup ha d'endevinar a qui pertany cada fitxa que es va traient, en les quals NO ha de figurar el nom.",
+    "descripcio": "Cada jugador escriu en un full o en una cartolina, durant un temps determinat (per exemple, cinc minuts), les dades més significatives de la seva vida. A continuació s'ajunten totes les fitxes, es barregen i el grup ha d'endevinar de qui és cada fitxa que es va llegint; a les fitxes NO hi ha de figurar el nom.",
     "materials": "cartolina, fulls",
-    "notes": "Per a aquest joc, és millor que els/es participants es coneguin mínimament.",
+    "notes": "Per a aquest joc és millor que els participants ja es coneguin una mica.",
     "titol": "Autobiografia"
   },
   "bailes-por-parejas": {
     "_signatura": "fa7473f72bf1bb85",
-    "consignes": "Tots els participants es reparteixen en parelles i s'uneixen per l'esquena.",
-    "descripcio": "Si hi ha un nombre imparell de persones, la persona que sobra canta, mentre tots es mouen al voltant de l'habitació amb l'esquena en contacte. Quan el cant cessa, cada persona busca una nova parella, i la persona lliure cerca també la seva. La persona que queda desaparellada ara, és la que comença de nou amb el cant.",
+    "consignes": "Tots els participants es reparteixen per parelles i s'ajunten esquena contra esquena.",
+    "descripcio": "Si hi ha un nombre senar de persones, la que sobra canta mentre les altres es mouen per la sala amb les esquenes en contacte. Quan el cant s'atura, cada persona busca una parella nova i la persona lliure també en busca una. La persona que ara queda desaparellada és qui torna a començar el cant.",
     "notes": "És ideal per aconseguir una bona relació en el grup, perquè afavoreix les relacions personals.",
     "participants": "Grup mínim d'11 persones (ha d'haver-hi un nombre imparell), a partir dels 5 anys.",
     "titol": "Balls per parelles"
@@ -104,46 +105,46 @@
   "barcos-en-la-niebla": {
     "_signatura": "378749422fadb9a2",
     "consignes": "Es divideixen els participants en petits grups.",
-    "descripcio": "Els membres de cada grup són embenats en els ulls i han de parar en una fila índia amb les comandaments posades sobre els espatlla del company que està al capdavant. El líder del grup va al final de la línia. El no ha d'estar embenat, però no ha de moure del lloc on està. Al final del local i enfront de cada grup ha d'haver-hi dues cadires o objectes separats ens sí a tres peus de distància. Aquestes cadires representen l'entrada a un port o badia segura. Al senyal de començar, les línies de scout embenats comencen a moure guiats pels crits dels respectius Guies dels grup, els líders hauran de guiar el seu \"babord\" (esquerra) i \"estribord\" (dreta).",
-    "materials": "Pañoletas o mocadors; dues cadires o dos objectes de grandària similar.",
+    "descripcio": "Els membres de cada grup es tapen els ulls i es col·loquen en fila índia amb les mans a les espatlles del company que tenen al davant. El guia del grup se situa al final de la fila: ell no porta els ulls tapats, però no es pot moure del lloc on és. Al fons de la sala i davant de cada grup hi ha d'haver dues cadires o dos objectes separats un metre l'un de l'altre; aquestes cadires representen l'entrada a un port o a una badia segura. Quan es dóna el senyal de començar, les files es posen en moviment guiades pels crits del seu guia, que les haurà de dirigir cap a «babord» (esquerra) i «estribord» (dreta).",
+    "materials": "Mocadors per tapar els ulls; dues cadires o dos objectes de mida semblant.",
     "objectius": "Fomentar el sentit de l'oïda i la coordinació de tots els jugadors.",
     "participants": "Grup o classe, a partir d'11 - 12 anys.",
-    "resum": "Es tracta de moure amb els ulls embenats a les ordres d'un jugador.",
+    "resum": "Es tracta de moure's amb els ulls tapats seguint les ordres d'un jugador.",
     "titol": "Vaixells en la boira"
   },
   "bombardeo": {
     "_signatura": "c2b10d1bd1e64ef9",
-    "descripcio": "Es fan dos grups, i es col·loquen un al capdavant a l'altre. L'animador demana que se li digui a la persona que té al davant tots els pensaments positius envers ell (ella) recíprocament.",
+    "descripcio": "Es fan dos grups i es col·loquen l'un davant de l'altre. L'animador demana que cadascú digui a la persona que té al davant tots els pensaments positius que té sobre ella, i a l'inrevés.",
     "titol": "Bombardeig"
   },
   "boxeo-con-la-palma-de-la-mano": {
     "_signatura": "63758cec9c59f657",
-    "consignes": "Els contendents dempeus, mirar un a l'or, en una línia recta indicades amb una corda estesa sobre el pis.",
-    "descripcio": "Sense moure els seus peus dels llocs on estan, ells han de boxejar utilitzant els palmells de les mans i intentant fer que l'altre perdi l'equilibri. El jugador que perdi l'equilibri és el perdedor.",
+    "consignes": "Els contrincants, drets i mirant-se l'un a l'altre, se situen sobre una línia recta marcada amb una corda estesa a terra.",
+    "descripcio": "Sense moure els peus del lloc, han de boxejar amb els palmells de les mans mirant de fer perdre l'equilibri a l'altre. Perd el jugador que perdi l'equilibri.",
     "materials": "Una corda.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta de fer caure l'adversari sense caure abans.",
     "titol": "Boxa amb la palma de la mà"
   },
   "bulldog-ingles": {
     "_signatura": "276db455d8525ce0",
     "consignes": "Cap.",
-    "descripcio": "El Grup se situa formant una línia al final del local. Un o dos joves més majors se situen en el centre del local mirant cap al repte del Grup. Al senyal de \"Ja\", el Grup complet va a la càrrega d'un extrem del local cap a un altre, tractant d'arribar a l'altra paret sense ser capturats pels jugadors que estan en el centre. Per a capturar a algú els \"Gossos de Buldog\" que estan en el centre han d'aixecar al jugador per un període que permeti cridar \"un - dos - tres Buldog engonals\". Quan un jugador és capturat, ell es converteix, des d'aquest moment, en \"Gos Buldog\". Al començament no ha d'haver-hi més de tres jugadors actuant com a \"Gossos Buldog\" i tractant de capturar als jugadors. Si un jugador no ha estat completament suspès a terra davant que el pugui comptar fins a 10, mentre forcegen, ell és declarat lliure. El joc s'ha de continuar fins que tots hagin estat capturats. El jugador que va ser l'últim a ser capturat és el guanyador i per consegüent tindrà dret a ser per jugar novament, el primer gos buldog que es designi.",
+    "descripcio": "El grup se situa formant una línia al fons de la sala. Un o dos jugadors dels més grans es col·loquen al centre mirant cap a la resta del grup. Quan es diu «ja!», tot el grup travessa la sala d'un extrem a l'altre mirant d'arribar a la paret contrària sense que els capturin els jugadors del centre. Per capturar algú, els «buldogs» del centre han d'aixecar el jugador prou estona per poder cridar «un, dos, tres, buldog anglès!». Quan un jugador és capturat, passa a ser buldog. Al començament no hi ha d'haver més de tres jugadors fent de buldogs. Si un jugador no ha quedat completament aixecat de terra abans que puguin comptar fins a 10 mentre forcegen, es declara lliure. El joc continua fins que tothom ha estat capturat. Guanya l'últim jugador a ser capturat i, per tant, tindrà dret a ser el primer buldog de la partida següent.",
     "objectius": "Passar una estona divertida.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Consisteix a travessar una zona sense ser atrapat per un altre/s jugadors.",
+    "resum": "Consisteix a travessar una zona sense que t'atrapin.",
     "titol": "Buldog anglès"
   },
   "buscando-mis-zapatos": {
     "_signatura": "ad7530aa29f65fe7",
-    "descripcio": "Els participants es divideixen en dos grups, tots hauran de llevar les sabates i col·locar-los en el centre. Al senyal del facilitador els equips hauran de col·locar les seves sabates. Guanyarà aquell que els seus integrants acabin primer.",
+    "descripcio": "Els participants es divideixen en dos grups; tothom s'ha de treure les sabates i deixar-les al centre. Quan el facilitador dóna el senyal, els equips s'han de tornar a posar les sabates. Guanya l'equip que acabi primer.",
     "titol": "Buscant les meves sabates"
   },
   "caliente-o-frio": {
     "_signatura": "6f276c3a51b67f0c",
-    "consignes": "Es divideixen els participants en petits grups. Seleccioni un representant de cada grup per convertir en \"Això\".",
-    "descripcio": "Un dels triats abandona la zona de jocs. Durant la seva absència la resta dels jugadors seleccionen un objecte que ha de ser tocat per l'absent, o una acció que ha de ser realitzada per aquest. Quan el jugador torna a la zona de jocs el grup comença aplaudir per indicar que està tan prop de l'objecte seleccionat o de l'acció que s'ha decidit que ell faci. Mentre més alts siguin els aplaudiments més a prop (calent) estarà i els aplaudiments baixos significaran llunyania (fred). Quan l'objecte és tocat o l'acció ha estat realitzada, un representant d'un altre grup és seleccionat, així el procés es repeteix.",
+    "consignes": "Es divideixen els participants en grups petits. Trieu un representant de cada grup, que farà d'«això».",
+    "descripcio": "Un dels triats surt de la zona de joc. Mentre és fora, la resta de jugadors trien un objecte que haurà de tocar o una acció que haurà de fer. Quan el jugador torna, el grup comença a aplaudir per indicar-li si és a prop de l'objecte triat o de l'acció que ha de fer: com més forts són els aplaudiments, més a prop (calent) és, i quan són fluixos, vol dir que se n'allunya (fred). Quan ha tocat l'objecte o ha fet l'acció, es tria un representant d'un altre grup i el procés es repeteix.",
     "objectius": "És un joc de diversió on no hi ha guanyadors.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
     "resum": "Consisteix a encertar l'objecte que ha seleccionat el grup mitjançant els aplaudiments d'aquest.",
@@ -151,8 +152,8 @@
   },
   "cancion-de-desafio": {
     "_signatura": "8330c3f470ddd7f4",
-    "consignes": "Es divideixen els participants en petits grups. Els jugadors de cada grup amb més habilitat per actuar com a directors de cançons, es posen al capdavant de cada grup.",
-    "descripcio": "El director del joc assenyala un dels grups, el qual deu immediatament començar amb una cançó i continuar cantant-la fins que el director assenyali un altre grup. Tan aviat com un nou grup és assenyalat, aquest ha de començar a cantar una nova cançó i el primer grup que es va seleccionar deixa de cantar. Si un grup repeteix una cançó o no comença a cantar immediatament que se li indiqui és eliminat. El director del joc necessita mantenir al mateix moure en forma ràpida. Els grups no hauran de cantar més d'un parell de frases d'una cançó abans que el director assenyali un altre grup. L'últim grup a mantenir en aquesta competència és el guanyador.",
+    "consignes": "Es divideixen els participants en grups petits. Els jugadors de cada grup que tinguin més habilitat per dirigir cançons es posen al capdavant del seu grup.",
+    "descripcio": "El director del joc assenyala un dels grups, que immediatament ha de començar una cançó i continuar cantant-la fins que el director assenyali un altre grup. Tan bon punt assenyala un grup nou, aquest ha de començar a cantar una cançó diferent i el primer deixa de cantar. Si un grup repeteix una cançó o no comença a cantar immediatament quan se li indica, queda eliminat. El director ha de mantenir un ritme ràpid: els grups no haurien de cantar més d'un parell de frases abans que assenyali el següent. Guanya l'últim grup que quedi en joc.",
     "objectius": "Fomentar les inquietuds musicals dels participants.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
     "resum": "Consisteix en una competició musical.",
@@ -160,44 +161,44 @@
   },
   "carrera-de-barcas-humanas": {
     "_signatura": "09998a62aaf1c40d",
-    "consignes": "Es divideix als jugadors per equips de vuit o deu jugadors de genolls, cada equip serà una barca.",
-    "descripcio": "Cada jugador té les seves mans recolzades en les espatlles del de davant. Enfront de la fila de jugadors de cada barca hi ha un 'CAPITÀ'. El capità subjecta les mans del primer de la barca. Quan comença la carrera, la barca es mou cap endavant gràcies a que tots els jugadors empenyen amb els seus peus al mateix temps. El capità de cada barca crida animant el seu equip i portant el ritme amb el qual empènyer. Durant la carrera, qualsevol barca que es divideixi en dues o més trossos es diu que s'ha enfonsat i és eliminada de la carrera. Senyals: Se'ls diu als jugadors el que han de fer quan sentin un determinat so. Juga un parell de vegades sense eliminar ningú perquè s'acostumin als sons, llavors comença a eliminar els que ho facin mal o als últims a fer-ho.",
-    "materials": "Diverses coses que produeixin un so, com a xiulets, cascavells o campanes",
+    "consignes": "Es divideixen els jugadors en equips de vuit o deu, de genolls; cada equip serà una barca.",
+    "descripcio": "Cada jugador recolza les mans a les espatlles del que té al davant. Al capdavant de la fila de cada barca hi ha un capità, que subjecta les mans del primer jugador. Quan comença la cursa, la barca avança gràcies a l'empenta que fan tots els jugadors alhora amb els peus. El capità de cada barca crida per animar el seu equip i per marcar el ritme de les empentes. Durant la cursa, qualsevol barca que es parteixi en dos trossos o més es considera enfonsada i queda eliminada.\n\nSenyals: es diu als jugadors què han de fer quan sentin un determinat so. Jugueu-hi un parell de vegades sense eliminar ningú perquè s'acostumin als sons; després comenceu a eliminar els qui ho facin malament o els últims a fer-ho.",
+    "materials": "Diverses coses que facin soroll, com ara xiulets, cascavells o campanes.",
     "participants": "Més de 10, a partir de 7 anys.",
     "titol": "Cursa de barques humanes"
   },
   "choque-de-rodillas": {
     "_signatura": "da223f7e4b5a1d3c",
-    "consignes": "Els genolls de cadascú enfront de les de l'altre company tocar entre si, les mans a l'esquena.",
-    "descripcio": "Procedeixen a tocar contra l'oponent a fi que aquest perdi l'equilibri, han d'usar solament les espatlles per a tal fi.",
+    "consignes": "Els genolls de cadascú toquen els del company i les mans van a l'esquena.",
+    "descripcio": "Cadascú empeny l'oponent perquè perdi l'equilibri; només s'hi val a fer servir les espatlles.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta de fer caure l'adversari sense caure abans.",
     "titol": "Xoc de genolls"
   },
   "circulos-coloreados": {
     "_signatura": "2cc49d98aed8de3f",
-    "consignes": "Es divideix al grup en dos equips iguals i se'ls diu que es numerin ells mateixos en els seus equips. Llavors dibuixa un nombre de cercles de color a terra, varis per cada color.",
-    "descripcio": "El monitor diu un objecte i un número ex. \"HERBA 2\", el número dos de cada equip ha de córrer i ficar en el cercle que correspongui al color de l'objecte. La primera persona que entre en el cercle del color correcte guanya un punt per al seu equip.",
-    "materials": "5 guixos de colors diferents, Rojo, Blau, Verd, Groc i Marró.",
-    "notes": "Suggeriments: VERMELL =Sang, Cireres BLAVA =Cel, Mar VERDE =Gespa, Esmeralda AMARILLO =Llimona, Sol MARRON =Terra, Patata Si us plau recorda que alguns nens poden tenir problemes reconeixent els colors i seriosa convenient que indiquessis al principi que cercles són que color.",
+    "consignes": "Es divideix el grup en dos equips iguals i se'ls diu que es numerin dins del seu equip. Després es dibuixen a terra uns quants cercles de cada color.",
+    "descripcio": "El monitor diu un objecte i un número, per exemple «herba, 2!»; el número dos de cada equip ha de córrer i ficar-se dins del cercle del color que correspongui a l'objecte. La primera persona que entri al cercle del color correcte guanya un punt per al seu equip.",
+    "materials": "5 guixos de colors diferents: vermell, blau, verd, groc i marró.",
+    "notes": "Suggeriments: vermell = sang, cireres; blau = cel, mar; verd = gespa, maragda; groc = llimona, sol; marró = terra, patata. Tingueu present que alguns infants poden tenir dificultats per reconèixer els colors: convé indicar al principi quins cercles són de cada color.",
     "participants": "Més de 10, a partir de 7 anys.",
     "titol": "Cercles acolorits"
   },
   "circulos-cuadrados": {
     "_signatura": "0294e1890d991af6",
-    "consignes": "Es divideixen els participants en petits grups, aquests al seu torn es divideixen també i formen dues línies, de tal manera que cada jugador del mateix quedi aparellat per un altre al seu costat del mateix grup.",
-    "descripcio": "Cada jugador sostindrà la seva corda de manera que li passi per darrere del coll i els caigui a tots dos extrem al capdavant, més a baix del pit, a un senyal donat, cada noi tractarà si es fes càrrec de l'extrem de la corda de la dreta amarrant al mateix utilitzant un nus \"Pla o de rínxol\" a l'extrem\n\n de la corda del seu company de davant. Mentrestant el company tractarà de fer una acció similar amb l'extrem esquerre de la seva corda. Quan cada noi hagi finalitzat haurà d'haver fet una cèrcol amb cordes, que englobin a tots dos nois. Ells tractaran de tirar cap endarrere a fi de provar la resistència que té el nus que han fet i per a això posaran la corda tibant i alçaran les seves mans i braços a l'aire. Quan totes les parelles en cada uns els grups han fet aquesta acció, el grup complet cridarà un senyal. El primer equip que finalitza amb aquesta activitat, comprovar que tots els nusos estan correctament fets, és l'equip guanyador.",
+    "consignes": "Es divideixen els participants en grups petits; cada grup, al seu torn, es divideix en dues files, de manera que cada jugador quedi aparellat amb un altre del mateix grup que tingui al davant.",
+    "descripcio": "Cada jugador es posa la corda de manera que li passi pel darrere del coll i li caiguin els dos extrems al davant, per sota del pit. Quan es dóna el senyal, cadascú agafa l'extrem dret de la seva corda i el lliga amb un nus pla a l'extrem de la corda del company del davant; mentrestant, el company fa el mateix amb l'extrem esquerre de la seva. Quan hagin acabat, hauran format un cèrcol de corda que els envolta tots dos. Aleshores es tiren enrere per provar la resistència del nus: tensen la corda i aixequen les mans i els braços enlaire. Quan totes les parelles d'un grup ho han fet, tot el grup fa un crit. Guanya el primer equip que acabi, sempre que es comprovi que tots els nusos estan ben fets.",
     "materials": "Una corda per a cada jugador.",
     "objectius": "Dominar l'art de la nusos i cordes.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tata d'una competició de nusos.",
+    "resum": "Es tracta d'una competició de nusos.",
     "titol": "Cercles quadrats"
   },
   "ciudad-pueblo-pais": {
     "_signatura": "f20c175b5103aed3",
     "consignes": "Els jugadors s'asseuen en dues files, equip A i equip B, cada fila es numera d'1 fins a N.",
-    "descripcio": "El jugador 1 de l'equip A li diu al jugador 1 de l'equip B el nom d'una ciutat, poble o país. Suposem que diu \"París\". El jugador 1 de l'equip B ha de dir ara una ciutat, poble o país que comenci per l'última lletra de \"París\". Suposem que diu \"Suïssa\". El jugador 2 de l'equip A ha de dir una ciutat, poble o país que comenci per la lletra A. Això contínua per tota la fila. Si un jugador s'equivoca o dóna una resposta repetida, llavors es dóna un punt a l'altre equip. Quan s'arriba al final, es torna al jugador 1.",
+    "descripcio": "El jugador 1 de l'equip A diu al jugador 1 de l'equip B el nom d'una ciutat, un poble o un país; suposem que diu «París». El jugador 1 de l'equip B ha de dir ara una ciutat, un poble o un país que comenci per l'última lletra de «París»; suposem que diu «Suïssa». Aleshores el jugador 2 de l'equip A ha de dir-ne un que comenci per la lletra A, i així tota la fila. Si un jugador s'equivoca o repeteix una resposta, es dóna un punt a l'altre equip. Quan s'arriba al final de la fila, es torna a començar pel jugador 1.",
     "participants": "Més de 10, a partir de 7 anys.",
     "titol": "Ciutat, poble, país"
   },
@@ -222,12 +223,12 @@
   },
   "el-abogado": {
     "_signatura": "2e4052ad2d547933",
-    "descripcio": "Se li demana al castigat que parli com a defensor d'una causa, que es busqui entre els jugadors. Per exemple: que defensi al gat que es va menjar a la salsitxa, a la senyora que es va pujar al bus sense tiquet, al en Tal que va trencar el florer, etc.",
+    "descripcio": "Es demana a qui paga penyora que faci d'advocat defensor d'una causa que es tria entre els jugadors. Per exemple: que defensi el gat que s'ha menjat la salsitxa, la senyora que ha pujat a l'autobús sense bitllet, o el noi que ha trencat el gerro.",
     "titol": "L'advocat"
   },
   "el-arca-de-noe": {
     "_signatura": "dabc5b28096d7016",
-    "descripcio": "El castigat surt de la sala. Quan torni troba assegut en el mitjà a Noe, qui li diu, després de fer-ho agenollar: com dels animals de l'arca desitja vostè veure. El de la penyora diu el nom de l'animal. Noe saca llavors un mirall i li ho posa, i se li diu: mira el teu retrat.",
+    "descripcio": "Qui paga penyora surt de la sala. Quan torna, troba en Noè assegut al mig, que el fa agenollar i li pregunta quin dels animals de l'arca vol veure. Quan diu el nom de l'animal, en Noè treu un mirall, l'hi posa al davant i li diu: «Mira el teu retrat».",
     "titol": "L'arca de Noè"
   },
   "el-cartero": {
@@ -240,16 +241,16 @@
   "el-dragon": {
     "_signatura": "a94b0fce15ad5e36",
     "consignes": "Es divideix al grup en subgrups de sis o set persones.",
-    "descripcio": "la primera persona farà de drac i l'última de cua, portant un mocador penjat en la cintura. El cap intentarà prendre les cues dels altres dracs. I la cua, ajudada per tot el grup intentarà no ser agafada. Quan una cua és agafada (s'aconsegueix el mocador o mocador) el drac a la qual pertany s'unirà el que l'ha atrapat, formar així un drac més llarg. El joc acabarà quan tot el grup formi un únic drac.",
+    "descripcio": "La primera persona de cada grup fa de cap del drac i l'última fa de cua, amb un mocador penjat a la cintura. El cap mirarà d'agafar les cues dels altres dracs, i la cua, ajudada per tot el seu grup, mirarà de no deixar-se agafar. Quan una cua és atrapada —és a dir, quan li prenen el mocador—, el drac a què pertanyia s'uneix al drac que l'ha atrapada i així es forma un drac més llarg. El joc s'acaba quan tot el grup forma un únic drac.",
     "materials": "Mocadors.",
     "objectius": "Aconseguir crear un clima relaxat de distensió. afavoreix la coordinació i la comunicació del grup.",
     "participants": "Grup, des de 18 persones.",
-    "resum": "El joc consisteix en el fet que els caps dels dracs intentaran prendre les cues dels altres dracs, cosa que aquestes hauran d'evitar.",
+    "resum": "El joc consisteix que els caps dels dracs mirin d'agafar les cues dels altres dracs, cosa que aquestes han d'evitar.",
     "titol": "El drac"
   },
   "el-espiral": {
     "_signatura": "09bf66638175066a",
-    "descripcio": "Tots s'agafen de les mans i després es deixen anar 2, un queda en el mitjà i un altre comença a enrotllar a poc a poc fins que tots quedin units, a mesura que es van enrotllant es poden dir frases d'agraïment o una altra cosa.",
+    "descripcio": "Tothom s'agafa de les mans i després se'n deixen anar dos: un es queda al mig i l'altre comença a enrotllar la fila a poc a poc al seu voltant fins que tothom queda ben junt. A mesura que s'enrotllen, es poden anar dient frases d'agraïment o el que es vulgui.",
     "titol": "L'espiral"
   },
   "el-fosforo": {
@@ -264,7 +265,7 @@
   },
   "el-gran-fosforo": {
     "_signatura": "648ea179c01711b9",
-    "descripcio": "Se sol·liciten dos voluntaris pot ser home i femella i es col·loquen dues caixes de fòsfors en taules separades. Els voluntaris deurà amb la mà contrària a la natural obrir la caixa, treure el fòsfor i encendre'l. Guanyarà el que ho faci primer.",
+    "descripcio": "Es demanen dos voluntaris i es col·loquen dues caixes de mistos en taules separades. Els voluntaris hauran d'obrir la caixa, treure el misto i encendre'l amb la mà contrària a la que fan servir habitualment. Guanya qui ho aconsegueixi primer.",
     "materials": "capsa",
     "titol": "El gran misto"
   },
@@ -277,7 +278,7 @@
   "el-inquilino": {
     "_signatura": "435b60b12876b5c1",
     "consignes": "Es formen trios de persones, de manera que el que es col·loca entre els dos respon al nom d'inquilí, mentre els altres dos representen paret dreta i esquerra respectivament.",
-    "descripcio": "El participant que queda solt ha de cridar un d'aquests tres noms i aprofitar el \"relaxo\" per integrar en algun dels nous grups. Ningú pot exercir la mateixa funció dues vegades seguides, sinó que s'han d'alternar les diferents funcions o papers. No perdis el temps i busca't un trio!.",
+    "descripcio": "El participant que queda sense grup ha de cridar un d'aquests tres noms —«paret dreta», «paret esquerra» o «inquilí»— i aprofitar l'enrenou per integrar-se en algun dels grups nous. Ningú no pot fer la mateixa funció dues vegades seguides: cal anar alternant els papers. No perdis el temps i busca't un trio!",
     "participants": "Es necessita un nombre imparell de participants.",
     "titol": "L'inquilí"
   },
@@ -292,28 +293,28 @@
   },
   "el-juego-de-kim": {
     "_signatura": "d9a214c1daab459d",
-    "avaluacio": "Se li atorga un punt a cada grup per cada article encertat i se li resta 2 punts per cada objecte fallat.",
-    "consignes": "Es formen petits grup de 6 o 7 jugadors, aquests es reuneixen entorn d'una taula o una safata coberta amb una tela.",
-    "descripcio": ". La tela que cobreix la taula s'alça per uns instants i als jugadors se'ls permet estudiar de per uns moments uns 20 o 30 articles, que són tals: botons, clips, monedes, insígnies scout, entenimentades, caramels, etc. Els grups es retiren i van a cadascú a un punt, per fer una llista dels objectes que van ser observats.",
+    "avaluacio": "Es dóna un punt a cada grup per cada objecte encertat i se'n resten 2 per cada objecte errat.",
+    "consignes": "Es formen grups petits de 6 o 7 jugadors, que es reuneixen al voltant d'una taula o d'una safata coberta amb una tela.",
+    "descripcio": "La tela que cobreix la taula s'aixeca uns instants i els jugadors poden observar durant uns moments uns 20 o 30 objectes: botons, clips, monedes, insígnies, cordes, caramels, etc. Després els grups es retiren, cadascun a un lloc, per fer una llista dels objectes que han vist.",
     "objectius": "Fomentar la memòria visual.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Consiste a recordar uns objectes que han estat observats durant una estona.",
+    "resum": "Consisteix a recordar uns objectes que s'han observat una estona.",
     "titol": "El joc de Kim"
   },
   "el-juego-del-circulo": {
     "_signatura": "2b16dd7286ec4c6a",
-    "descripcio": "El facilitador traçarà dos cercles en el sala o pati i els participants es formaran en dos equips i se'ls col·locarà una bena. A l'ordre del facilitador els participants començaran a caminar a cegues i davant un nou senyal del facilitador els participants tractessin de buscar el cercle del seu grup. Guanyarà qui tingui més integrants en el cercle.",
+    "descripcio": "El facilitador traçarà dos cercles a la sala o al pati; els participants es reparteixen en dos equips i se'ls tapen els ulls. Quan el facilitador dóna l'ordre, els participants comencen a caminar a cegues i, en sentir un nou senyal, miren de trobar el cercle del seu grup. Guanya l'equip que tingui més integrants dins del cercle.",
     "materials": "bena",
     "titol": "El joc del cercle"
   },
   "el-juego-del-platano-2": {
     "_signatura": "a898d8942edd3298",
-    "descripcio": "Se li embenen els ulls a dos voluntaris. Cada voluntari rebrà un plàtan, sense pela, a partir d'aquest moment obriran la boca. Guanyarà qui primer aconsegueixi ficar el plàtan en la boca de l'adversari.",
+    "descripcio": "Es tapen els ulls a dos voluntaris. Cada voluntari rep un plàtan pelat i, a partir d'aquell moment, tots dos obren la boca. Guanya qui primer aconsegueixi ficar el plàtan a la boca de l'adversari.",
     "titol": "El joc del plàtan"
   },
   "el-juez-botella": {
     "_signatura": "57d41722c72bfb21",
-    "descripcio": "Els participants asseguts a terra en forma circular fan girar una ampolla buida. Aquella persona que quedi assenyalada pel coll de l'ampolla quan aquesta pari…serà culpable…davant preguntes de tipus: a qui no li agrada raspallar les dents? a qui li agrada menjar aturat?...qui de vostès dorm amb els ulls oberts? I així successivament..",
+    "descripcio": "Els participants, asseguts a terra en cercle, fan girar una ampolla buida. La persona que quedi assenyalada pel coll de l'ampolla quan aquesta s'aturi serà la «culpable» i haurà de respondre preguntes del tipus: a qui no li agrada raspallar-se les dents? A qui li agrada menjar dret? Qui de vosaltres dorm amb els ulls oberts? I així successivament.",
     "materials": "butllofa",
     "titol": "El jutge ampolla"
   },
@@ -324,46 +325,46 @@
   },
   "el-pistolero": {
     "_signatura": "c212f909108a9c3a",
-    "descripcio": "Es forma el grup en cercle i se sol·licita la col·laboració d'un voluntari a qui se li embenarà els ulls i es col·locarà en el centre del cercle. A la veu de l'animador, aquest començarà a donar voltes i simularà tenir un rifle a les seves mans, L'animador dirà al pistoler: prepara, prepara, prepara, prepara i DISPARA!. A qui el pistoler apunti i dispari s'ajupirà i els companys de tots dos costats, dret i esquerre es dispararan mútuament; qui ho faci primer es queda en el joc, el perdedor sortirà d'aquest. Quan quedin dos es posaran d'esquena, a la veu de l'animador faran cinc passos i tot seguit es voltejaran i dispararan. Guanyarà qui ho faci primer.",
+    "descripcio": "El grup es col·loca en cercle i es demana la col·laboració d'un voluntari, a qui es tapen els ulls i es posa al centre del cercle. Quan l'animador ho indica, el voluntari comença a donar voltes fent veure que té un rifle a les mans. L'animador li diu: «Prepara't, prepara't, prepara't... i dispara!». Aquell a qui el pistoler apunti i dispari s'ha d'ajupir, i els companys que té a banda i banda es disparen mútuament: qui ho faci primer es queda al joc i l'altre en queda eliminat. Quan només en quedin dos, es posen d'esquena, fan cinc passes quan l'animador ho digui i tot seguit es giren i disparen. Guanya qui ho faci primer.",
     "titol": "El pistoler"
   },
   "el-pobre-cieguito": {
     "_signatura": "5a1e53ae3b16eb6a",
-    "descripcio": "L'animador selecciona un voluntari per col·laborar en el joc. Es col·loquen en el centre una sèrie d'ampolles o gots plàstics. El voluntari deurà, amb els ulls embenats, passar entre les ampolles, sense tombar-les. Clar aquesta, una vegada embenat el participant, es retiraran les ampolles sense que aquest se de compte.",
+    "descripcio": "L'animador tria un voluntari per col·laborar en el joc. Al centre s'hi col·loquen unes quantes ampolles o gots de plàstic. El voluntari haurà de passar entre les ampolles amb els ulls tapats i sense tombar-les. És clar que, un cop tapats els ulls al participant, es retiraran les ampolles sense que ell se n'adoni.",
     "titol": "El pobre ceguet"
   },
   "el-regalo": {
     "_signatura": "c911d99227fb3bda",
-    "descripcio": "Cada participant treu una capseta el nom d'una persona, i se li lliura un paper on va escriure, un missatge per a aquesta persona, amb coses bones i positives. Després ho llegeix en veu altes i ho lliura, tots fan el mateix.",
+    "descripcio": "Cada participant treu d'una capsa el nom d'una persona i rep un paper on ha d'escriure un missatge per a aquella persona, amb coses bones i positives. Després el llegeix en veu alta i l'hi lliura. Tothom fa el mateix.",
     "materials": "paper",
     "titol": "El regal"
   },
   "el-regate-de-la-serpiente": {
     "_signatura": "2fd461f68df1fb3b",
-    "consignes": "Cinc o sis joves es col·loquen en línia, en el centre d'un cercle format per la resta de la tropa o ramat. Cadascun dels joves que estan en línia posa els seus braços al voltant de la cintura del de davant.",
-    "descripcio": "El joc consisteix en el fet que els joves que formen el cercle li donin al joves que està col·locat al final de la línia o serp, per sota dels genolls. La serp es pot moure dins del cercle per fer-lo més difícil. Quan el joves de la cua de la serp és aconseguit per la pilota, abandona la serp i passa a formar part del cercle dels que llancen la pilota i el jugador que va tirar la pilota passa a ser el cap de la serp. El joc pot continuar durant tant temps com es vulgui.\n\nEst, és un joc continu sense guanyadors ni perdedors..",
+    "consignes": "Cinc o sis joves es col·loquen en fila al centre d'un cercle format per la resta del grup. Cadascun dels joves de la fila posa els braços al voltant de la cintura del que té al davant.",
+    "descripcio": "El joc consisteix que els joves que formen el cercle toquin per sota dels genolls el jove que hi ha al final de la fila, és a dir, la cua de la serp. La serp es pot moure dins del cercle per fer-ho més difícil. Quan la pilota toca la cua de la serp, aquell jove deixa la serp i passa a formar part del cercle dels qui llancen la pilota, i el jugador que l'ha llançada passa a ser el cap de la serp. El joc pot durar tanta estona com es vulgui.\n\nÉs un joc continu, sense guanyadors ni perdedors.",
     "materials": "Una pilota.",
     "participants": "Més de 10, a partir de 7 anys.",
     "titol": "L'esquiva de la serp"
   },
   "el-viejo-tarugo": {
     "_signatura": "4a6bea8d5ea575c4",
-    "consignes": "El grup formant un cercle. Quatre jugadors en el centre del cercle, cadascú amb els braços al voltant de la cintura del jugador que està enfront d'ell.",
-    "descripcio": "Els jugadors que formen el cercle es passen una pilota entre ells, tractant de buscar una oportunitat per llançar la mateixa i tocar amb ella al jugador que està al centre del petit cercle format pels altres tres competidors que estan dins del gran cercle. Els tres jugadors que protegeixen al quart competidor hauran de tractar que la pilota mai li del qual està en li centro. El participant que finalment aconsegueix tocar amb la pilota al \"vell talòs\", és a dir, anar al centre dels altres tres jugadors. El participant que va ser tocat per la pilota reemplaça en el cercle que integra tot el grup al jugador anterior.",
+    "consignes": "El grup forma un cercle. Quatre jugadors se situen al centre, cadascun amb els braços al voltant de la cintura del jugador que té al davant.",
+    "descripcio": "Els jugadors que formen el cercle es passen una pilota entre ells buscant l'oportunitat de llançar-la i tocar el jugador que és al mig del cercle petit format pels altres tres. Aquests tres jugadors han de mirar que la pilota no toqui mai el que protegeixen. El participant que finalment aconsegueix tocar amb la pilota el «vell talòs» passa a ocupar el centre dels altres tres jugadors, i el que ha estat tocat per la pilota el substitueix al cercle gran.",
     "materials": "Una pilota.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta de tocar amb la pilota el jugador protegit pels seus companys.",
     "titol": "El vell talòs"
   },
   "el-zoologico": {
     "_signatura": "573caa79de3ed2be",
-    "descripcio": "el \"castigat\" va passant davant de cada jugador i li pregunta cuel és l'animal favorit. Tan aviat tingui la resposta, ha d'imitar d'alguna forma l'animal que l'ha animat. Cada jugador ha de donar el nom d'un animal diferent.",
+    "descripcio": "Qui paga penyora va passant davant de cada jugador i li pregunta quin és el seu animal preferit. Tan bon punt té la resposta, l'ha d'imitar d'alguna manera. Cada jugador ha de dir el nom d'un animal diferent.",
     "titol": "El zoològic"
   },
   "en-relevo": {
     "_signatura": "892e4ac5b6505195",
-    "descripcio": "Es divideix el grup, en subgrups de 5 o6 persones. Amb poques paraules es enrutan als subgrups al fet que s'expressin. Ex.: algun problema dins del grup, el país, l'escola, etc. es donen 5 minuts per al treball en subgrup, després 5 per al plenari. Quan s'hagin finalitzat, es prenen dos més importants. L'animador pregunta Dificultats? Com es treballo?. Fulles i llapis.",
+    "descripcio": "Es divideix el grup en subgrups de 5 o 6 persones. Amb poques paraules, es convida els subgrups a expressar-se sobre un tema: per exemple, algun problema del grup, el país, l'escola, etc. Es donen 5 minuts per treballar en subgrup i 5 més per a la posada en comú. Quan s'ha acabat, se'n trien els dos aspectes més importants. L'animador pregunta: quines dificultats hi ha hagut? Com s'hi ha treballat? Calen fulls i llapis.",
     "titol": "En relleu"
   },
   "encendido-te-lo-doy": {
@@ -412,7 +413,7 @@
     "materials": "Periòdics o teles.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Colpeja'ls"
   },
   "guerra-de-bombas": {
@@ -433,7 +434,7 @@
     "descripcio": "Ells van atrapar amb les dues mans una gruixuda estaca que hi ha entre sí que sostinguda en posició horitzontal. A un senyal, ells tracten d'halar fent que el seu company s'aixeca del sòl.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Estirant l'estaca"
   },
   "haz-de-guia-y-vuelta-de-escota": {
@@ -465,7 +466,7 @@
     "descripcio": "L'objecte és que el jugador, les mans del qual estan mirant cap amunt pugui ràpidament colpejar les mans de l'altre jugador que està sobre les d'ell, davant que aquest pugui moure-les. Si el té èxit a colpejar amb els palmells de les mans la part superior d'una de les mans del seu company ell haurà d'anotar un punt: les rajo d'ell retornaran a la posició original i llavors tractarà de fer un altre punt. Si l'altre jugador retira la seva mà a temps, i per tant l'atacant no pot colpejar-li, llavors s'intercanvien les posicions i el jugador que quedi amb els palmells de les mans cap amunt, es converteix llavors en l'agressor.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "La bufetada"
   },
   "la-bomba-en-los-pies": {
@@ -563,7 +564,7 @@
     "descripcio": "Cada competidor sosté la seva cama esquerra després de sí que presa amb la seva mà esquerra, mentre que la seva mà dreta presa la mà dreta del company. Llavors tracten de veure qui aconsegueix derroqués qui.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Lluita amb una cama i una mà"
   },
   "lucha-india-con-la-pierna": {
@@ -572,7 +573,7 @@
     "descripcio": "Al senyal indicat cadascú aixeca la cama que queda al costat del seu company i la posa en posició vertical. A un segon senyal, ell tractarà de travar la seva cama amb al del seu company i amb la pressió que aplica, donar voltes al contrari.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Lluita índia amb la cama"
   },
   "mi-tia-meche-viajo-a-chiguagua": {
@@ -600,7 +601,7 @@
     "descripcio": "Tan sols saltant amb la cama dreta, ells tractaran de xocar amb altres companys i fer-los perdre l'equilibri o fer que el mateix deixi de sostenir el turmell esquerre amb la mà dreta.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Baralla de galls"
   },
   "pelea-de-patos": {
@@ -609,16 +610,16 @@
     "descripcio": "A un senyal, tracten de tocar amb un altre company i fer que aquest perdi l'equilibri i deixi de sostenir els turmells amb les mans. Si un jugador cau, o deixa d'agafar els turmells, això significarà un punt per a s'adversari.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Baralla d'ànecs"
   },
   "pelea-de-pollos": {
     "_signatura": "05d5dff7fe4334d7",
     "consignes": "La mateixa posició del joc anterior, però amb l'excepció que les mans en lloc de ser entrellaçades entre els competidors, hauran de sostenir enrere de l'esquena.",
-    "descripcio": "Els jugadors carreguen l'un contra l'altre i tracten d'empènyer entre si amb la seva espatlles i braços amb l'objectiu de derrocar l'altre.",
+    "descripcio": "Els jugadors carreguen l'un contra l'altre i tracten d'empènyer entre si amb la seva espatlles i braços amb l'objectiu de fer caure l'altre.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Baralla de pollastres"
   },
   "pies-quietos": {
@@ -693,7 +694,7 @@
     "materials": "Dos cinturons.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Remolc amb cinturó"
   },
   "sabes-quien-soy": {
@@ -752,7 +753,7 @@
     "descripcio": "A un senyal ells tractaran de donar voltes a l'estaca un per a un costat, i l'altre per a un altre a fi de torçar les mans de l'oponent.",
     "objectius": "Joc de resistència física.",
     "participants": "Grup o classe, a partir de 11- 12 anys.",
-    "resum": "Es tracta d'intentar derrocar l'adversari sense ser derrocat abans.",
+    "resum": "Es tracta d'intentar fer caure l'adversari sense ser tombat abans.",
     "titol": "Torçant l'estaca"
   },
   "un-que": {

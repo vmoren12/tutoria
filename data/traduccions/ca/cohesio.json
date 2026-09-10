@@ -154,7 +154,7 @@
   },
   "el-cocodrilo-evade-el-balon": {
     "_signatura": "898c89ed6b4e2952",
-    "descripcio": "Els jugadors, ben separats, formen un cercle ampli. Un equip es col·loca en fila al centre del cercle i cadascú s'agafa al que té al davant. Els jugadors del cercle disposen d'una pilota de futbol amb què miren de tocar l'últim de la fila. Si ho aconsegueixen, aquest passa al capdavant de la fila i el joc continua. Quan tot l'equip ha estat tocat per la pilota, el substitueix un altre equip. Guanya l'equip que s'hagi mantingut més temps al centre del cercle.",
+    "descripcio": "Els jugadors, ben separats, formen un cercle ampli. Un equip es col·loca en fila al centre del cercle i cadascú s'agafa el que té al davant. Els jugadors del cercle disposen d'una pilota de futbol amb què miren de tocar l'últim de la fila. Si ho aconsegueixen, aquest passa al capdavant de la fila i el joc continua. Quan tot l'equip ha estat tocat per la pilota, el substitueix un altre equip. Guanya l'equip que s'hagi mantingut més temps al centre del cercle.",
     "materials": "pilota",
     "titol": "El cocodril esquiva la pilota"
   },
@@ -254,7 +254,7 @@
   },
   "esquivar-la-pelota": {
     "_signatura": "f06526584d529237",
-    "descripcio": "Calen tres equips com a mínim, de vuit jugadors cadascun. Es marca un quadrat d'uns deu metres de costat. Un dels equips es reuneix al centre i els altres dos s'alineen a banda i banda del quadrat, en costats oposats. El joc consisteix a «matar» tocant amb la pilota. La llança primer l'equip del centre: un d'ells mira de tocar amb la pilota qualsevol jugador dels altres equips i, si ho aconsegueix, l'ha matat. Els qui són als costats poden esquivar-la, però sempre s'han de mantenir fora dels límits marcats. Si un jugador atrapa la pilota que li han llançat, no compta com a tocat i, per tant, no mor; aleshores mira de tocar amb ella un dels jugadors del centre. Per evitar l'eliminació de jugadors, qui dirigeix pot portar el compte de les vegades que cadascú ha estat tocat. Quan la pilota toca un jugador, aquest la lliura a qui dirigeix, que al seu torn la torna a l'equip del centre.",
+    "descripcio": "Calen tres equips com a mínim, de vuit jugadors cadascú. Es marca un quadrat d'uns deu metres de costat. Un dels equips es reuneix al centre i els altres dos s'alineen a banda i banda del quadrat, en costats oposats. El joc consisteix a «matar» tocant amb la pilota. La llança primer l'equip del centre: un d'ells mira de tocar amb la pilota qualsevol jugador dels altres equips i, si ho aconsegueix, l'ha matat. Els qui són als costats poden esquivar-la, però sempre s'han de mantenir fora dels límits marcats. Si un jugador atrapa la pilota que li han llançat, no compta com a tocat i, per tant, no mor; aleshores mira de tocar amb ella un dels jugadors del centre. Per evitar l'eliminació de jugadors, qui dirigeix pot portar el compte de les vegades que cadascú ha estat tocat. Quan la pilota toca un jugador, aquest la lliura a qui dirigeix, que al seu torn la torna a l'equip del centre.",
     "materials": "pilota",
     "titol": "Esquivar la pilota"
   },
@@ -338,7 +338,7 @@
   },
   "la-loteria-de-los-nombres": {
     "_signatura": "460ab1c5edd5bfda",
-    "descripcio": "Quan es dóna el senyal, cada participant recull la signatura de tots els altres i les va col·locant en horitzontal i en vertical, com un cartró de loteria. Quan s'acaba el temps previst, el dirigent comença a dir noms de persones sense cap ordre. Cada participant busca al seu full els noms anotats i marca amb una creu els que van sortint. Guanya el primer que aconsegueixi completar una columna, tant horitzontal com vertical.",
+    "descripcio": "Quan es dóna el senyal, cada participant recull la signatura de tots els altres i les va col·locant en horitzontal i en vertical, com un cartró de loteria. Quan s'acaba el temps previst, el dirigent comença a dir noms de persones sense cap ordre. Cada participant busca el seu full els noms anotats i marca amb una creu els que van sortint. Guanya el primer que aconsegueixi completar una columna, tant horitzontal com vertical.",
     "materials": "Fulls quadriculats, tants com participants.\n\nFormació: els participants se situen lliurement per la sala i reben el full en entrar.",
     "titol": "La loteria dels noms"
   },
@@ -386,7 +386,7 @@
   },
   "lejos-y-cerca": {
     "_signatura": "b48a8b12a2e4d3a2",
-    "descripcio": "Qui dirigeix, mentre va caminant, llegeix en veu alta una llista d'objectes que vol que observin els participants, i porta una targeta per anotar la puntuació de cadascun. Els jugadors van informant dels objectes que veuen i guanya qui tingui el millor total. Un cop un jugador ha puntuat un objecte, aquest mateix objecte ja no es pot anotar a ningú més, ni tan sols al primer que el va veure. Els objectes poden ser, per exemple, un misto, un botó d'os, un pedaç a la roba, una finestra amb el vidre trencat, un cavall de color castany clar i blanc, o una agulla de cabells (aquesta última val dos punts).",
+    "descripcio": "Qui dirigeix, mentre va caminant, llegeix en veu alta una llista d'objectes que vol que observin els participants, i porta una targeta per anotar la puntuació de cadascú. Els jugadors van informant dels objectes que veuen i guanya qui tingui el millor total. Un cop un jugador ha puntuat un objecte, aquest mateix objecte ja no es pot anotar a ningú més, ni tan sols al primer que el va veure. Els objectes poden ser, per exemple, un misto, un botó d'os, un pedaç a la roba, una finestra amb el vidre trencat, un cavall de color castany clar i blanc, o una agulla de cabells (aquesta última val dos punts).",
     "materials": "targetes",
     "titol": "Lluny i a prop"
   },
@@ -421,7 +421,7 @@
   },
   "los-listones": {
     "_signatura": "a899db37b0ae3301",
-    "descripcio": "Es demanen voluntaris (de 6 a 10, segons la quantitat de joves) i se'ls demana que surtin de la sala. A cadascun per separat se li assigna el mateix color de cinta (per exemple, el vermell), però sense que cap sàpiga el color dels altres. Se'ls fa passar a la sala i s'explica el joc: «Aquest joc es diu les cintes i a cadascun de vosaltres se us ha assignat un color; ara feu un cercle i agafeu-vos ben fort pels braços, de manera que, quan jo digui un color, qui el tingui es penjarà dels braços dels companys que té als costats» (l'animador en pot fer un exemple amb algun color). La gràcia és que, en dir el color assignat (en aquest cas, el vermell), tots intentaran penjar-se alhora i cauran. És un joc molt divertit, però només es pot fer una vegada en un mateix grup, perquè després tothom sap de què va.",
+    "descripcio": "Es demanen voluntaris (de 6 a 10, segons la quantitat de joves) i se'ls demana que surtin de la sala. A cadascú per separat se li assigna el mateix color de cinta (per exemple, el vermell), però sense que cap sàpiga el color dels altres. Se'ls fa passar a la sala i s'explica el joc: «Aquest joc es diu les cintes i a cadascun de vosaltres se us ha assignat un color; ara feu un cercle i agafeu-vos ben fort pels braços, de manera que, quan jo digui un color, qui el tingui es penjarà dels braços dels companys que té als costats» (l'animador en pot fer un exemple amb algun color). La gràcia és que, en dir el color assignat (en aquest cas, el vermell), tots intentaran penjar-se alhora i cauran. És un joc molt divertit, però només es pot fer una vegada en un mateix grup, perquè després tothom sap de què va.",
     "materials": "daus",
     "titol": "Els llistons"
   },

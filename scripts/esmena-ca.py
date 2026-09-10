@@ -245,6 +245,11 @@ REGLES = [
     (re.compile(r"(?<![\wÀ-ÿ])[Ss]aló de classe(?![\wÀ-ÿ])"), 'aula'),
     (re.compile(r"(?<![\wÀ-ÿ])([Ss])alons(?![\wÀ-ÿ])"), lambda m: m.group(1) + 'ales'),
     (re.compile(r"(?<![\wÀ-ÿ])([Ss])aló(?![\wÀ-ÿ])"), lambda m: m.group(1) + 'ala'),
+    # --- «derribar» no és «derrocar» ---
+    (re.compile(r"(?<![\wÀ-ÿ])derrocar(?![\wÀ-ÿ])"), 'fer caure'),
+    (re.compile(r"(?<![\wÀ-ÿ])derrocat(?![\wÀ-ÿ])"), 'tombat'),
+    (re.compile(r"(?<![\wÀ-ÿ])derrocats(?![\wÀ-ÿ])"), 'tombats'),
+    (re.compile(r"(?<![\wÀ-ÿ])derroca(?![\wÀ-ÿ])"), 'fa caure'),
     # --- apostrofacio que el glossari o l'original havien perdut ---
     (re.compile(r"(?<![\wÀ-ÿ])([Dd])e (?=[aeiouàèéíòóúAEIOU][\wÀ-ÿ'])(?!io|ia(?![\wÀ-ÿ])|uadi)"),
      lambda m: m.group(1) + "'"),
