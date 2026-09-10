@@ -1,6 +1,6 @@
 {
   "name": "tutoria",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Catàleg de dinàmiques, activitats i unitats de tutoria per a l'ESO, amb constructor de sessions.",
   "private": true,
   "type": "module",

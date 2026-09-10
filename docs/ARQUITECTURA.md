@@ -53,6 +53,9 @@ adreces, de manera que el navegador les torna a demanar. El paràmetre és autom
 de tocar a mà, però sí que cal executar `npm run build` **abans de cada commit** que toqui
 CSS o JS, i incloure-hi l'`index.html` resultant.
 
+Al mateix pas, el número de versió que surt al peu de pàgina (`span.peu__versio`) es copia
+de `version` de `package.json`, que és l'únic lloc on s'ha de canviar.
+
 ## Espais de noms
 
 Tots els mòduls són scripts clàssics que pengen d'un únic objecte global `window.TUT`:

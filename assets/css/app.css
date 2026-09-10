@@ -650,6 +650,19 @@ a.etiqueta:hover { border-color: var(--accent); }
 .peu__interior p { margin: 0; max-width: 78ch; }
 .peu__interior strong { color: var(--text); font-weight: 600; }
 
+.peu__autoria { color: var(--text); font-weight: 600; }
+
+/* Els punts volats separen les dades del peu i salten de línia amb elles
+   quan la pantalla és estreta. */
+.peu__detall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 var(--esp-2);
+}
+
+.peu__separador { color: var(--vora-forta); }
+
 .peu__interior a {
   color: var(--text-suau);
   text-decoration: underline;

@@ -208,6 +208,10 @@ if (repetits.length) console.log(`${repetits.length} títol(s) repetit(s).`);
 const INDEX = path.join(ROOT, 'index.html');
 const REFERENCIA = /\b(href|src)="((?:assets\/[^"?]+|data\/bundle\.js))(?:\?v=[^"]*)?"/g;
 
+/* La versió que surt al peu de pàgina la mana `package.json`, de manera que
+   no puguin divergir: aquí només s'hi copia. */
+const VERSIO_PEU = /(<span class="peu__versio">)v?[^<]*(<\/span>)/;
+
 let index = await readFile(INDEX, 'utf8');
 const rutes = [...new Set([...index.matchAll(REFERENCIA)].map((m) => m[2]))].sort();
 
@@ -215,12 +219,17 @@ const resum = createHash('sha1');
 for (const ruta of rutes) resum.update(await readFile(path.join(ROOT, ruta)));
 const versio = resum.digest('hex').slice(0, 8);
 
-const actualitzat = index.replace(REFERENCIA, (_, atribut, ruta) =>
+const paquet = JSON.parse(await readFile(path.join(ROOT, 'package.json'), 'utf8'));
+
+let actualitzat = index.replace(REFERENCIA, (_, atribut, ruta) =>
   `${atribut}="${ruta}?v=${versio}"`);
+actualitzat = actualitzat.replace(VERSIO_PEU, `$1v${paquet.version}$2`);
 
 if (actualitzat !== index) {
   await writeFile(INDEX, actualitzat, 'utf8');
-  console.log(`index.html: assets marcats amb ?v=${versio} (${rutes.length} fitxers).`);
+  console.log(`index.html: assets marcats amb ?v=${versio} (${rutes.length} fitxers), ` +
+    `peu amb v${paquet.version}.`);
 } else {
-  console.log(`index.html: els assets ja estan marcats amb ?v=${versio}.`);
+  console.log(`index.html: els assets ja estan marcats amb ?v=${versio} ` +
+    `i el peu, amb v${paquet.version}.`);
 }
