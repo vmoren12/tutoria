@@ -13,22 +13,22 @@
   "afecto-no-verbal": {
     "_signatura": "b75736f4aa46b850",
     "consignes": "El joc es fa en silenci.",
-    "descripcio": "Un/a participant, amb els ulls tapats, se situa en el centre i els altres en cercle al seu voltant. Aquests la hi van acostant i li expressen sentiments positius de forma no verbal, de la manera que desitgin, durant un temps de 4-5 minuts. Després la persona del centre canvia, fins que participin tots/es els que vulguin.",
+    "descripcio": "Un participant, amb els ulls tapats, se situa al centre i la resta fan un cercle al seu voltant. Els del cercle s'hi van acostant i li expressen sentiments positius de manera no verbal, com vulguin, durant 4 o 5 minuts. Després es canvia la persona del centre, fins que hi hagin participat tots els qui vulguin.",
     "objectius": "Estimular el sentiment d'acceptació en grup mitjançant expressió no verbal.",
     "resum": "Es tracta que tot el grup expressi a una persona, successivament, sentiments positius.",
     "titol": "Afecte no verbal"
   },
   "al-loro": {
     "_signatura": "a378cb0c98dcfed1",
-    "descripcio": "Es reparteix a cada jugador una quartilla. Es divideix en quatre parts iguals amb el llapis, i s'escriu d'esquerra a dreta i de dalt a baix, el següent: el que sol fer un diumenge a la tarda; la seva afició favorita; el que més li agrada trobar en les persones; el desig que demanaria a una fada. Una vegada farcides, es recullen i remenen, per ser repartides de nou, sense que a ningú li toqui la seva. En aquest moment, cada jugador haurà de trobar l'amo de la targeta sense mostrar-la a cap dels altres i sense fer preguntes directes. Només serveix la intuïció i el coneixement que tinguem dels altres. Quan es troba l'amo, s'escriu el nom en la quartilla i la hi pega en el pit",
+    "descripcio": "Es reparteix una quartilla a cada jugador, que la divideix en quatre parts iguals amb el llapis i hi escriu, d'esquerra a dreta i de dalt a baix: què sol fer un diumenge a la tarda; quina és la seva afició preferida; què és el que més li agrada trobar en les persones; i quin desig demanaria a una fada. Un cop emplenades, es recullen i es barregen per tornar-les a repartir, procurant que a ningú li toqui la seva. Aleshores cada jugador ha de trobar l'amo de la targeta sense ensenyar-la a ningú i sense fer preguntes directes: només val la intuïció i el coneixement que tinguem dels altres. Quan es troba l'amo, s'escriu el seu nom a la quartilla i se li enganxa al pit.",
     "materials": "llapis, targetes",
     "titol": "Atenció!"
   },
   "ardilla-a-su-cueva": {
     "_signatura": "28eda6d66cf29fa7",
-    "avaluacio": "Amb aquest joc podem conèixer millor al grup amb el qual estem treballant, coneixerem a aquells nens més tímids i als quals no tenen cap problema a l'hora de parlar davant d'altres companys.",
+    "avaluacio": "Amb aquest joc podem conèixer millor el grup amb qui treballem: veurem quins infants són més tímids i quins no tenen cap problema per parlar davant dels companys.",
     "consignes": "Els participants han de formar parelles.",
-    "descripcio": "Totes les persones formen un cercle, després, ja que cada persona té la seva parella, llavors s'assignen els seus rols: un farà d'esquirol i l'altre company de cova. Tots els que tenen el rol de cova realitzen molt bé el cercle, agafats de la mà. Després la parella corresponent o sigui l'esquirol ho mira els ulls i li fa preguntes tal com en què lloc viu, com es diu, que edat té. Quan el monitor digui: ESQUIROL, les persones que tenen el rol d'esquirol es mou a la dreta per conversar amb el company que segueix i li realitzarà les mateixa sèrie de preguntes. El monitor de joc dirà diverses vegades ESQUIROL amb la finalitat que tots girin i es coneguin els companys. Les coves mai s'han de moure. Quan el monitor digui cova, tots els esquirols han de buscar la parella que tenien en iniciar el joc i se situen entre les cames de la persona que fa de cova. L'última persona que trobi la seva parella ha de sortir al mitjà del cercle i presentar-la. Això s'ha de repetir diverses vegades.",
+    "descripcio": "Tothom forma un cercle. Com que cada persona té la seva parella, s'assignen els papers: un farà d'esquirol i l'altre, de cova. Tots els qui fan de cova formen bé el cercle, agafats de les mans. Cada esquirol es posa davant de la seva cova, la mira als ulls i li fa preguntes: on viu, com es diu, quants anys té. Quan el monitor diu «esquirol!», les persones que fan d'esquirol es mouen cap a la dreta per conversar amb el company següent i li fan la mateixa sèrie de preguntes. El monitor dirà «esquirol!» diverses vegades perquè tothom vagi rodant i es coneguin. Les coves no s'han de moure mai. Quan el monitor diu «cova!», tots els esquirols han de buscar la parella que tenien al començament del joc i posar-se entre les cames de la persona que fa de cova. L'última persona que trobi la seva parella ha de sortir al mig del cercle i presentar-la. Això es repeteix unes quantes vegades.",
     "objectius": "Aconseguir la integració dels participants",
     "participants": "A partir dels 14 anys i un nombre parell.",
     "resum": "Coneixement dels integrants a través del joc.",
@@ -36,7 +36,7 @@
   },
   "cuidado": {
     "_signatura": "e984a4406a7b5d4f",
-    "descripcio": "Es fa un circuit amb els objectes. Tres voluntaris que entraran d'un en un. El voluntari recorre el circuit amb els ulls oberts. Torna a recórrer-ho, però aquesta vegada, amb els ulls embenats. Sense que ell s'assabenti, llevem els objectes del sòl. Els companys li \"dirigeixen\" simulant que encara estan els objectes.",
+    "descripcio": "Es fa un circuit amb els objectes. Tres voluntaris hi entraran d'un en un. El voluntari recorre el circuit amb els ulls oberts i després el torna a recórrer, aquesta vegada amb els ulls tapats. Sense que ell se n'adoni, retirem els objectes de terra i els companys el van «dirigint» com si encara hi fossin.",
     "objectius": "Afavorir la confiança en el grup.",
     "titol": "Compte!"
   },
@@ -85,13 +85,13 @@
   },
   "el-detective": {
     "_signatura": "e1e05efec504e974",
-    "avaluacio": "Aquest joc no té plantejada cap avaluació com a tal, ja que el seu principal objectiu és l'arribar a conèixer millor. No obstant això, es pot realitzar una anàlisi de les reaccions del grup en llegir les fulles: què ha fet gràcia, quina ha agradat, quina a resultat una sorpresa, etc.",
-    "consignes": "Silenci absolut. Respecte pel que els altres posin en les fulles.",
-    "descripcio": "S'introdueix el joc dient que rebrem a un detectiu que buscarà algú. Llavors, perquè el detectiu pugui descobrir a la persona que cerca, apuntarem el nostre nom, cognoms, edat, aniversari, la qual cosa ens agrada, la qual cosa no ens agrada i algun tret que ens defineixi en una fulla. A continuació es deixen uns 10-15 minuts perquè tots puguin veure les fulles dels altres. Finalment ens asseiem tots i l'animador realitza preguntes com: El detectiu busca algú que va néixer al gener. Al que s'ha de respondre aquells que recordin. En principi és l'animador el que va preguntant, però es pot plantejar com a variant que qui respongui el primer pot preguntar ell.",
-    "materials": ":Una fulla per a cadascú, i una cadira, ja que ens asseurem en cercle. Espai mínim: el necessari perquè tots es puguin veure i relacionar els uns als altres amb les fulles.",
+    "avaluacio": "Aquest joc no té una avaluació pròpiament dita, perquè el seu objectiu principal és conèixer-se millor. Tot i així, es poden analitzar les reaccions del grup en llegir els fulls: què ha fet gràcia, què ha agradat, què ha estat una sorpresa, etc.",
+    "consignes": "Silenci absolut. Respecte pel que els altres escriguin als fulls.",
+    "descripcio": "S'introdueix el joc dient que rebrem un detectiu que ve a buscar algú. Perquè el detectiu pugui descobrir la persona que busca, cadascú anotarà en un full el seu nom i cognoms, l'edat, l'aniversari, el que li agrada, el que no li agrada i algun tret que el defineixi. A continuació es deixen uns 10-15 minuts perquè tothom pugui llegir els fulls dels altres. Finalment, ens asseiem tots i l'animador fa preguntes com ara: «El detectiu busca algú que va néixer al gener», a les quals han de respondre els qui ho recordin. Al principi és l'animador qui pregunta, però com a variant es pot fer que qui respongui primer passi a preguntar.",
+    "materials": "Un full per a cadascú i una cadira, perquè seurem en cercle. Espai mínim: el necessari perquè tothom es pugui veure i intercanviar els fulls.",
     "objectius": "Com a suport a altres jocs de coneixement, per aprofundir en el coneixement dels altres, però encara a un nivell molt inicial.",
     "participants": "Ho hem provat per a xavals entre 14 i 18 anys, però pot funcionar en un marge més ampli d'edats. Número: no massa, perquè pot resultar pesat. Fins a 20 va bé. Si són més, caldrà dividir el grup.",
-    "resum": "Cadascú escriu en una fulla les seves dades personals i algun hobby. Després es deixa una estona perquè tots llegeixin les fulles dels altres, i a continuació es fan preguntes com: A qui li agrada anar al futbol els dissabtes? (contesten tots menys l'interessat).",
+    "resum": "Cadascú escriu en un full les seves dades personals i alguna afició. Després es deixa una estona perquè tothom llegeixi els fulls dels altres i, a continuació, es fan preguntes com ara: «A qui li agrada anar al futbol els dissabtes?» (contesten tots menys l'interessat).",
     "titol": "El detectiu"
   },
   "el-escultor": {
@@ -116,25 +116,25 @@
   },
   "el-orden-de-las-edades": {
     "_signatura": "32a6245f5cc91b82",
-    "avaluacio": "Es realitzen diversos comentaris finals sobre les dificultats que han tingut i sobre com s'han sentit sense poder parlar.",
+    "avaluacio": "Es comenten les dificultats que han tingut i com s'han sentit sense poder parlar.",
     "consignes": "No parlar durant el joc.",
-    "descripcio": "Tots en fila, adquireixen en compromís de no parlar mentre duri el joc, només poden fer senyals. L'objectiu del grup és ordenar per dates de naixement per ordre descendent, de major a menor, però sense parlar. Guanyarà el grup quan estigui ordenat. Al final es contrasta l'ordre aconseguit sense parlar, amb les dates reals que cadascú ens compti",
+    "descripcio": "Tothom en fila es compromet a no parlar mentre duri el joc: només poden fer senyals. L'objectiu del grup és ordenar-se per dates de naixement, de gran a petit, sense parlar. El grup guanya quan aconsegueix ordenar-se. Al final es contrasta l'ordre aconseguit amb les dates reals que cadascú expliqui.",
     "objectius": "El coneixement dels membres d'un grup, el desenvolupament de l'expressió corporal i el cooperació del grup.",
     "participants": "De 6 a 25 participants, a partir de 8 anys.",
-    "resum": "És un joc cooperatiu i de coneixement. Es tracta d'ordenar per edats sense parlar",
+    "resum": "És un joc cooperatiu i de coneixement: es tracta d'ordenar-se per edats sense parlar.",
     "titol": "L'ordre de les edats"
   },
   "la-pelota-cantarina": {
     "_signatura": "9656fbab36d967b8",
-    "descripcio": "Es lliga una corda a una pilota que no faci mal (d'escuma). Es forma un cercle i una persona es col·loca a l'interior amb els ulls tapats, aquesta tira la pilota, un membre del cercle recull la pilota i ha de cantar una cançó procurant no ser reconegut/a. Si és reconegut/ passa al centre i torna a tirar.",
+    "descripcio": "Es lliga una corda a una pilota que no faci mal (d'escuma). Es forma un cercle i una persona se situa al mig amb els ulls tapats: aquesta llança la pilota, un membre del cercle la recull i ha de cantar una cançó procurant que no el reconeguin. Si el reconeixen, passa al centre i torna a llançar.",
     "materials": "corda, pilota",
     "titol": "La pilota cantarina"
   },
   "las-gafas": {
     "_signatura": "10411fd8733af0bc",
-    "avaluacio": "En grup. Cadascú pot expressar com s'ha sentit i quin ha vist a través de les ulleres. Pot ser l'indici d'un diàleg sobre els problemes de comunicació en el grup.",
-    "descripcio": "L'animador planteja: \"aquestes són les ulleres de la desconfiança. Quan porto aquestes ulleres sóc molt desconfiat. Vol algú posar-les-hi i dir què veu a través d'elles, què pensa de nosaltres?\". Després d'una estona, es treuen altres ulleres que es van oferint a successius voluntaris (per exemple: la ulleres de la \"confiança\", del \"replicón\", del \"jo ho faig tot malament\", del \"tots em volen\", i del \"ningú m'accepta\", etc.)",
-    "materials": "Vuit muntures d'ulleres sense cristalls o de filferro o cartolina.",
+    "avaluacio": "En grup, cadascú pot expressar com s'ha sentit i què ha vist a través de les ulleres. Pot ser el punt de partida d'un diàleg sobre els problemes de comunicació del grup.",
+    "descripcio": "L'animador planteja: «Aquestes són les ulleres de la desconfiança. Quan porto aquestes ulleres sóc molt desconfiat. Algú se les vol posar i dir què hi veu i què pensa de nosaltres?». Al cap d'una estona es treuen unes altres ulleres, que es van oferint a nous voluntaris: per exemple, les ulleres de la confiança, les del qui sempre replica, les del «jo ho faig tot malament», les del «tothom m'estima», les del «ningú no m'accepta», etc.",
+    "materials": "Vuit muntures d'ulleres sense vidres, o fetes amb filferro o cartolina.",
     "objectius": "Comprendre el punt de vista dels altres i com una determinada postura condiciona la nostra visió de la realitat.",
     "participants": "Grup o classe, a partir de 8 - 9 anys",
     "resum": "Consisteix a veure la realitat a través de diferents punts de vista.",
@@ -142,34 +142,34 @@
   },
   "las-lanchas-2": {
     "_signatura": "7e204a2a98d84fb7",
-    "avaluacio": "Al final els participants comentaran com es van sentir al no trobar lloc en la \"llanxa\" o com es van sentir al no poder ajudar els seus companys a \"salvar\".",
-    "consignes": "Tractar d'ajudar els companys.",
-    "descripcio": "Es tiren en el pis, disperses, fulls de paper periòdic i al grup se li diu que estan en un vaixell que ha començat a enfonsar i que aquests fulls de paper representen llanxes en la mar, que se salvaran segons l'ordre que es doni. L'ordre és la següent: \"Les llanxes se salven amb 4...\" Els participants han de parar en els fulls de paper de 4 en 4 participants, les persones que no hagin trobat lloc en les \"llanxes\" aniran sortint del joc. El número de salvats variarà segons l'ordre que doni el que dirigeix el joc.",
+    "avaluacio": "Al final, els participants comentaran com s'han sentit en no trobar lloc a la llanxa o en no poder ajudar els companys a salvar-se.",
+    "consignes": "Cal mirar d'ajudar els companys.",
+    "descripcio": "Es tiren a terra, escampats, fulls de diari i es diu al grup que són en un vaixell que ha començat a enfonsar-se i que aquests fulls representen llanxes al mar, on es podran salvar segons l'ordre que es doni. L'ordre és aquesta: «Les llanxes se salven de 4 en 4...». Els participants s'han de posar drets damunt dels fulls de 4 en 4; les persones que no hagin trobat lloc a les llanxes van sortint del joc. El nombre de salvats variarà segons l'ordre que doni qui dirigeix el joc.",
     "materials": "diari, paper",
-    "notes": "Les \"llanxes\" (fulls de paper) es poden anar tallant a la meitat o en quarts cada que es dóna una nova ordre, a manera que càpiguen menys participants en elles.",
+    "notes": "Les llanxes (els fulls de paper) es poden anar tallant per la meitat o en quarts cada vegada que es dóna una ordre nova, de manera que hi càpiguen menys participants.",
     "objectius": "Distendirse. Cohesionar al grup. Prendre contacte físic.",
     "participants": "Grup o classe, a partir de 4 anys",
-    "resum": "Es tracta de salvar en grups.",
+    "resum": "Es tracta de salvar-se en grups.",
     "titol": "Les llanxes"
   },
   "rumbo-a-lo-desconocido": {
     "_signatura": "537f1981e3f3493b",
-    "avaluacio": "Comprovant que, efectivament tots han completat la llista amb un nom per cada característica i que veritablement compleix la mateixa.",
-    "consignes": "Cal canviar de company a preguntar. No val sempre a aquest.",
-    "descripcio": "Es fa una bateria de preguntes que han de tenir tots els participants. Per exemple\n\n: Buscar a una persona que tingui com a color favorit el vermell; a una persona que faci determinat esport; a una persona que el seu nom comenci per \"C\";etc El joc consisteix a trobar per a cada característica una persona entre la gent que juga. Si la trobem li preguntem com es diu i ho posem al costat d'aquesta frase. Seguidament anem per una altra persona. Així successivament fins a acabar tota la llista, moment en el qual finalitzarà el joc.",
+    "avaluacio": "Es comprova que tothom hagi completat la llista amb un nom per a cada característica i que realment la compleixi.",
+    "consignes": "Cal canviar de company a qui preguntar; no s'hi val a preguntar sempre al mateix.",
+    "descripcio": "Es prepara una bateria de preguntes iguals per a tots els participants. Per exemple: busca una persona que tingui el vermell com a color preferit; una persona que faci un determinat esport; una persona que tingui un nom que comenci per «C», etc. El joc consisteix a trobar, per a cada característica, una persona entre els qui juguen: quan la trobem, li preguntem com es diu i n'anotem el nom al costat d'aquella frase. Tot seguit anem a buscar una altra persona, i així successivament fins a completar tota la llista, moment en què s'acaba el joc.",
     "objectius": "El coneixement del grup i la presentació al mateix",
     "participants": "Majors de 8 anys. Numero de 10 d'ara endavant.",
-    "resum": "Conèixer a un grup recentment format, els seus gustos, aficions, etc.",
+    "resum": "Conèixer un grup acabat de formar: els seus gustos, les seves aficions, etc.",
     "titol": "Rumb al desconegut"
   },
   "si-no": {
     "_signatura": "5ed9e0c616f4610c",
     "avaluacio": "L'anàlisi ho fan entre tots.",
-    "consignes": "Agafar a dos molt amics i treure a l'u; se li diu a l'altre quan entra \"camina que el que ens ha comptat el teu amic de tu....\" Han de saber tots que quan el que digui acabi en vocal la resposta és SÍ i quan el que acaba de dir sigui una consonant la resposta és NO.",
-    "descripcio": "Un company se surt de l'entorn en el qual està la resta per a no escoltar el que diuen. Tots es posen en un rotlle i es posen d'acord per contestar SÍ o NO. Consisteix en el fet que un del grup li fa una pregunta a un company que no ha escoltat que va el joc i si en la contestació que dóna l'última paraula acaba en vocal tots respondran SÍ i si és consonant tots respondran NO. El que es tracta és que al qual li preguntin es quedi sorprès del que la gent sàpiga d'ell encara que en realitat no sap res.",
+    "consignes": "Agafeu dos amics i feu sortir-ne un. A l'altre se li diu, quan entra: «Ai, el que ens ha explicat de tu el teu amic...». Tothom ha de saber que, quan la resposta acabi en vocal, es contesta SÍ, i quan acabi en consonant, es contesta NO.",
+    "descripcio": "Un company surt de la sala perquè no senti el que diuen. Tots els altres fan una rotllana i es posen d'acord per contestar SÍ o NO. Aleshores algú del grup fa una pregunta al company que no sap de què va el joc: si l'última paraula de la resposta acaba en vocal, tothom respon SÍ, i si acaba en consonant, tothom respon NO. La gràcia és que la persona a qui pregunten quedi sorpresa de tot el que sembla que la gent sap d'ella, tot i que en realitat no en saben res.",
     "objectius": "El coneixement dels companys. La perduda de vergonya entre ells. confiança, comunicació, distensió...",
     "participants": "Indiferent.",
-    "resum": "Li fan una pregunta a un company i segons la terminació de la seva contestació els companys li respondran.",
+    "resum": "Fan una pregunta a un company i, segons com acabi la seva resposta, els companys responen que sí o que no.",
     "titol": "Sí/no"
   },
   "smye": {
