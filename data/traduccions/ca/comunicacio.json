@@ -231,9 +231,9 @@
   },
   "es-asi": {
     "_signatura": "70bbd84ff8c1a6e1",
-    "descripcio": "I. Aquest exercici consta de tres etapes: Primera Etapa: Es demanen 2 voluntaris, un estarà enfront del pissarra i l'altre donant-li l'esquena al primer i al grup, aquest últim descriurà la figura que està en la fulla (o l'objecte), sense voltejar cap al pissarra. El que està enfront del pissarra, ha de tractar de dibuixar el que li estan descrivint. NO",
-    "espai": "Un sala que permeti als participants estar parats i dibuixar en el pissarra.",
-    "materials": "I. Un pissarra i guixos. II. Un objecte o una fulla amb una figura.",
+    "descripcio": "Aquest exercici consta de tres etapes. Primera etapa: es demanen 2 voluntaris. Un se situa davant de la pissarra i l'altre, d'esquena al primer i al grup, descriurà la figura que hi ha al full (o l'objecte) sense girar-se cap a la pissarra. El que és davant de la pissarra ha de mirar de dibuixar el que li descriuen, i en aquesta primera etapa NO pot fer preguntes.",
+    "espai": "Una sala que permeti als participants estar drets i dibuixar a la pissarra.",
+    "materials": "Una pissarra i guixos. Un objecte o un full amb una figura.",
     "objectius": "Analitzar els elements que distorsionen la comunicació. Grandària de Grup: 20 participants. Temps Requerit: 20 participants.",
     "titol": "És així?"
   },
@@ -346,7 +346,7 @@
     "materials": "Un gimnàs, varetes de 30 cm i música (clàssica, percussió...), segons les característiques i l'edat del grup.",
     "objectius": "Afavoreix la comunicació corporal i la confiança amb el company que està sostenint l'altre extrem.",
     "participants": "Grup o classe, a partir de 10 anys en parelles.",
-    "resum": "És una activitat per parelles: amb una vareta d'uns 30 cm, els dos companys en sostenen cadascun un extrem amb el dit índex (tots dos el dret o tots dos l'esquerre).",
+    "resum": "És una activitat per parelles: amb una vareta d'uns 30 cm, els dos companys en sostenen cadascú un extrem amb el dit índex (tots dos el dret o tots dos l'esquerre).",
     "titol": "La vara de la comunicació"
   },
   "las-botellas": {
@@ -452,7 +452,7 @@
     "_signatura": "f2adb899e9875b43",
     "avaluacio": "El meu equip pot guanyar gràcies al meu sacrifici? Ens podem comunicar bé sense que ens descobreixi l'altre equip?",
     "consignes": "N'hi ha prou de tocar l'infant de l'equip contrari perquè quedi atrapat (així s'eviten plaquejades i situacions violentes). No es pot tocar per damunt del pit. La comunicació dins del grup és molt important.",
-    "descripcio": "Es divideix el grup en dos equips, cadascun situat a un extrem de la pista (a les dues porteries, si és un camp de futbol sala). A un dels equips se li dóna un objecte petit, que portarà amagat només un dels seus membres, sense que l'altre equip sàpiga qui el té. Tot l'equip ha d'aconseguir que qui porta l'objecte arribi fins a l'altre extrem de la pista, mentre l'altre equip mira d'evitar-ho. A la primera ronda un equip fa d'atacant i l'altre de defensor, i després es canvien els papers.",
+    "descripcio": "Es divideix el grup en dos equips, cadascú situat a un extrem de la pista (a les dues porteries, si és un camp de futbol sala). A un dels equips se li dóna un objecte petit, que portarà amagat només un dels seus membres, sense que l'altre equip sàpiga qui el té. Tot l'equip ha d'aconseguir que qui porta l'objecte arribi fins a l'altre extrem de la pista, mentre l'altre equip mira d'evitar-ho. A la primera ronda un equip fa d'atacant i l'altre de defensor, i després es canvien els papers.",
     "notes": "Es pot repartir més d'un objecte i comprovar al final quants han arribat a l'altre extrem.\n\nÉs un joc molt útil per conèixer les característiques del nostre grup d'alumnes.",
     "objectius": "Afavorir la cooperació de tot l'equip i el concepte sacrifici.",
     "participants": "Grup o classe, A partir de 7 anys. Màxim 25 participants.",
@@ -473,7 +473,7 @@
     "_signatura": "bb1d9bc4da625bd7",
     "avaluacio": "Els criteris per avaluar l'activitat serien: és creatiu, accepta les consignes del joc i és respectuós amb els companys.",
     "consignes": "Siguem originals i fem els gestos amb la pilota amb rigor.",
-    "descripcio": "Els alumnes se situen en rotllana agafats de les mans i després es deixen anar. El professor passa la pilota imaginària a un dels alumnes, que haurà de fer-hi alguna cosa: botar-la amb la mà dreta o amb l'esquerra, llançar-la enlaire i recollir-la, mantenir-la en equilibri al cap, fer-la lliscar pel cos, fer-se un massatge... Tots els alumnes imiten aquesta acció. Després l'alumne passa la pilota al company següent i el joc continua fins que hi han passat tots.",
+    "descripcio": "Els alumnes se situen en rotllana agafats de la mà i després es deixen anar. El professor passa la pilota imaginària a un dels alumnes, que haurà de fer-hi alguna cosa: botar-la amb la mà dreta o amb l'esquerra, llançar-l'enlaire i recollir-la, mantenir-la en equilibri al cap, fer-la lliscar pel cos, fer-se un massatge... Tots els alumnes imiten aquesta acció. Després l'alumne passa la pilota al company següent i el joc continua fins que hi han passat tots.",
     "materials": "pilota",
     "notes": "Es pot fer amb una pilota de debò, però la pilota imaginària ofereix més possibilitats.",
     "objectius": "Desenvolupar la creativitat i la imitació gestual.",
@@ -612,7 +612,7 @@
     "_signatura": "5632cc712c11daa7",
     "avaluacio": "Si els infants han cooperat entre ells durant la dinàmica, s'hauran assolit els objectius.",
     "consignes": "Cadascú ha de lliurar la seva sabata i esperar que algú la torni a treure del sac per recuperar-la. Tothom s'ha d'estar al seu lloc fins que arribi el seu torn.",
-    "descripcio": "Les animadores comenten als infants que estan molt cansades i que els fa mal un peu. Per això es treuen la sabata i conviden els altres a fer el mateix. Els infants seuen a terra formant un cercle i cadascun, igual que els animadors, tira la seva sabata dins d'un sac gros, que es traurà del cercle perquè «un lladre» se l'endugui sense que ells ho sàpiguen. Un dels animadors sortirà a rescatar les sabates i atraparà el lladre. Un cop recuperat el sac, en traurà una sabata i haurà de buscar-ne l'amo per tornar-l'hi. Qui l'hagi recuperada serà l'encarregat de treure la sabata següent i de repetir l'acció, i així successivament.",
+    "descripcio": "Les animadores comenten als infants que estan molt cansades i que els fa mal un peu. Per això es treuen la sabata i conviden els altres a fer el mateix. Els infants seuen a terra formant un cercle i cadascú, igual que els animadors, tira la seva sabata dins d'un sac gros, que es traurà del cercle perquè «un lladre» se l'endugui sense que ells ho sàpiguen. Un dels animadors sortirà a rescatar les sabates i atraparà el lladre. Un cop recuperat el sac, en traurà una sabata i haurà de buscar-ne l'amo per tornar-l'hi. Qui l'hagi recuperada serà l'encarregat de treure la sabata següent i de repetir l'acció, i així successivament.",
     "espai": "es podrà realitzar tant en la classe com al pati.",
     "materials": "Un sac o una bossa d'escombraries grans per ficar les sabates. Un antifaç o una mitjana que cobreixi la cara del lladre.",
     "notes": "En lloc de sabates es poden fer servir altres objectes o peces de roba que tinguin en comú els infants; el desenvolupament de la dinàmica és el mateix.",

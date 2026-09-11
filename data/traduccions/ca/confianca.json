@@ -12,7 +12,7 @@
   },
   "control-remoto-2": {
     "_signatura": "8094780f147a22c2",
-    "descripcio": "Es divideix el grup en dos subgrups i es formen parelles, de manera que cada component de les parelles es trobin en subgrups diferents. Es disposen bé en dues files enfrontades o bé una meitat ocupant el centre del cercle que forma al seu voltant l'altra meitat del grup. La parella no podrà estar cara a cara (això és, els membres de cada parella no han d'estar un enfront de l'altre). Els jugadors d'un subgrup porten els ulls embenats. Els altres són els pigalls, que no podran moure. Els cecs hauran d'aconseguir el seu pigall, els qui només podran cridar-los una vegada i una altra pel seu nom.",
+    "descripcio": "Es divideix el grup en dos subgrups i es formen parelles, de manera que els dos membres de cada parella quedin en subgrups diferents. Es col·loquen o bé en dues files encarades, o bé una meitat ocupant el centre del cercle que forma l'altra meitat al voltant. Els membres d'una mateixa parella no poden quedar l'un davant de l'altre. Els jugadors d'un subgrup porten els ulls tapats; els altres fan de pigalls i no es poden moure. Els cecs han d'arribar fins al seu pigall, que només els pot cridar pel nom una vegada i una altra.",
     "titol": "Control remot"
   },
   "el-jardinero": {
@@ -40,13 +40,13 @@
   },
   "el-nudo-2": {
     "_signatura": "538f9bcf8a675015",
-    "avaluacio": "Com ens sentim en fer el nus? Va haver-hi col·laboració? Voleyvoz\n\nAsseguts/es comentem l'experimentat, si hi ha hagut vergonyes, o que algú no ha participat perquè no han dit el seu nom, si algú ha rigut de la resta, etc.",
-    "consignes": "Un participant s'allunya de grup per a no veure com els altres des de rotlle s'embullen el màxim possible.\n\nFer els gestos de voleibol.",
-    "descripcio": "Les persones de rotlle s'embullen passant per damunt i per sota del de les mans del company. Quan ja no puguin complicar-ho més criden el company que aquesta allunyat i aquest intenta desfer el nus indicant al grup que han de fer.\n\nSe simula amb gestos que es colpeja la pilota, però es fa amb la veu.",
+    "avaluacio": "Com ens hem sentit en fer el nus? Hi ha hagut col·laboració?",
+    "consignes": "Un participant s'allunya del grup per no veure com els altres s'embullen tant com puguin des de la rotllana.",
+    "descripcio": "Les persones de la rotllana s'embullen passant per damunt i per sota dels braços dels companys, sense deixar-se anar les mans. Quan ja no ho poden complicar més, criden el company que s'havia allunyat i aquest intenta desfer el nus indicant al grup què ha de fer.",
     "materials": "pilota",
     "objectius": "Estimular la cooperació, la flexibilitat i el sentit de l'equilibri.\n\nDesinhibició, Coneixement dels companys i companyes. Participació lúdica",
     "participants": "Grup,... de qualsevol edat a partir de 6 persones.\n\nA partir dels 6 anys Grups de sis persones, disposats, o no, en el terreny, com els jugadors/es de voleibol",
-    "resum": "Es tracta de fer un nus, a partir d'un rotlle, el més complicat possible.\n\nDos grups que simulen ser jugadors o jugadores de voleibol. La pilota és la veu. Es fan els gestos de colpejar però dient el nom de la persona a la qual envies la pilota.",
+    "resum": "Es tracta de fer un nus tan complicat com sigui possible a partir d'una rotllana.",
     "titol": "El nus"
   },
   "el-viento-y-el-arbol": {
@@ -61,12 +61,12 @@
   },
   "equilibrio": {
     "_signatura": "9b34edd39946ff25",
-    "avaluacio": "Com ens sentim? Va ser fàcil trobar l'equilibri? Què va ocórrer amb parelles molt desproporcionades?",
-    "consignes": "És important convidar el fet que les parelles es formin entre persones desproporcionades físicament: baixes amb altes, grosses amb primes,... Sempre és possible aconseguir l'equilibri.",
-    "descripcio": "Les persones participants es reparteixen per parelles. Dins de cada parella els integrants es posen cara a cara, donar les mans, ajuntant els peus i unint les capdavanteres. A partir d'aquesta posició i sense enlairar els peus del sòl, cada integrant va deixar caure cap endarrere amb el cos completament recte. Així fins a arribar a estirar completament els braços i aconseguir el punt d'equilibri dins de la parella. Una vegada aconseguit l'equilibro es poden intentar fer moviments cooperant i sense doblegar els braços: una de les integrants de la parella doblega les cames mentre l'altra la sosté, les dues baixen,...",
+    "avaluacio": "Com ens hem sentit? Ha estat fàcil trobar l'equilibri? Què ha passat amb les parelles molt desiguals?",
+    "consignes": "És important convidar les parelles a formar-se entre persones de constitució diferent: baixes amb altes, primes amb corpulentes... Sempre és possible trobar l'equilibri.",
+    "descripcio": "Els participants es reparteixen per parelles. Dins de cada parella es posen cara a cara, es donen les mans i ajunten els peus, tocant-se les puntes. A partir d'aquesta posició i sense despegar els peus de terra, cadascú es va deixant caure enrere amb el cos ben recte, fins a estirar del tot els braços i trobar el punt d'equilibri de la parella. Un cop aconseguit, poden provar de fer moviments cooperant i sense doblegar els braços: un dels dos doblega les cames mentre l'altre l'aguanta, tots dos baixen alhora, etc.",
     "objectius": "Afavorir la confiança e un/a mateix/a i l'altre/a. Estimular la cooperació i el sentit de l'equilibri.",
     "participants": "Grup o classe, a partir de 10 anys.",
-    "resum": "Es tracta que, per parelles, s'aconsegueixi aconseguir el punt d'equilibri, i fer moviments cooperant.",
+    "resum": "Es tracta que, per parelles, s'aconsegueixi trobar el punt d'equilibri i fer moviments cooperant.",
     "titol": "Equilibri"
   },
   "eres-dracula-o-eres-tu-el-amor-de-mi-vida": {
@@ -83,14 +83,14 @@
   },
   "lazarillo": {
     "_signatura": "f2413e26645d05b7",
-    "avaluacio": "Comentaris en el grup de les sensacions, incidències, si es va aconseguir l'objectiu, com se sentirien en ser invidents i que han de fer si es troben amb un",
-    "consignes": "El pigall no ha de llevar la bena fins que arribi de retorn amb el material o paperet, o fins que arribi al seu seient, el que li guia ha de procurar estar en silenci i evitar que caigui el seu invident en cap moment",
-    "descripcio": "En un grup de qualsevol grandària s'aplica en separar als integrants per parelles, s'embenen els ulls d'un dels participants i l'altre l'ha de portar a un lloc sense dir res, el nen amb els ulls embenats pot donar-li la mà al seu pigall o només posar-la sobre la seva espatlla, com desitgi, així que només pressionant el braç o portant-li de la la mà el pot guiar, de preferència que sigui fora de l'aula cap a ella o a la direcció, es pot demanar que portin alguna cosa per comprovar que van arribar al lloc, per exemple, un paperet o un material d'una àrea del sala. Pot durar quant vulgui el docent o fins que s'aconsegueixi arribar a un lloc determinat on es pot demanar que el pigall sigui ara l'invident",
-    "materials": "Pot fer dins o fora del sala, necessitem les benes o mastegades o vels per cobrir els ulls i el material a portar de retorn o els paperets que comprovin que es va arribar a la meta o lloc establert",
-    "notes": "És divertit veure com els nens intenten explicar que hi ha escales o que hi ha algun pendent en el terreny, graons o qualsevol desnivell o objecte amb el qual pugui colpejar el seu invident",
+    "avaluacio": "Es comenten en grup les sensacions i les incidències, si s'ha assolit l'objectiu, com se sentirien si no hi veiessin i què han de fer si es troben amb una persona cega.",
+    "consignes": "Qui porta els ulls tapats no se'ls pot destapar fins que torni amb el material o el paperet, o fins que arribi al seu seient. Qui el guia ha de mirar d'estar en silenci i evitar en tot moment que caigui.",
+    "descripcio": "Amb un grup de qualsevol mida, se separen els integrants per parelles: es tapen els ulls a un dels participants i l'altre l'ha de portar fins a un lloc sense dir res. Qui porta els ulls tapats pot donar la mà al seu pigall o bé posar-li la mà a l'espatlla, com prefereixi; el pigall el guia només fent-li pressió al braç o portant-lo de la mà. Val més que el recorregut sigui de fora de l'aula cap a dins, o fins a la direcció. Es pot demanar que portin alguna cosa per comprovar que hi han arribat: per exemple, un paperet o un objecte d'un racó de la sala. Pot durar tant com vulgui el docent, o fins que s'arribi a un lloc determinat, on es pot demanar que ara el pigall sigui qui porti els ulls tapats.",
+    "materials": "Es pot fer dins o fora de l'aula. Calen benes o mocadors per tapar els ulls i el material que s'ha de portar de tornada, o bé els paperets que demostrin que s'ha arribat al lloc establert.",
+    "notes": "És divertit veure com els infants intenten explicar que hi ha escales, un pendent, graons o qualsevol desnivell o objecte amb què el seu company es podria fer mal.",
     "objectius": "Que els nens s'integrin, que sàpiguen que els seus companys confien tant en ells que s'arrisquen al fet que els dirigeixin, que generin comunicació no sols oral, perquè lògicament no poden romandre en silenci encara que se'ls digui en les instruccions, que s'imaginin el que és ser invident i d'aquesta manera comprenguin a persones amb capacitats diferents",
     "participants": "Ha de ser un nombre parell perquè han de ser parelles, de qualsevol edat, perquè fins i tot els nens ho poden fer.",
-    "resum": "És un joc de confiança on un pigall ha de portar a un invident a un lloc prèviament establert",
+    "resum": "És un joc de confiança en què un pigall ha de portar una persona amb els ulls tapats fins a un lloc acordat prèviament.",
     "titol": "Pigall"
   },
   "muelle-humano": {
@@ -116,22 +116,22 @@
   },
   "ponle-la-cola-al-burro": {
     "_signatura": "9e03ea0ca29877a6",
-    "consignes": "No poden dir si va posar o no la cua correctament.",
-    "descripcio": "Es vengui els ulls al nen, se li dóna la cueta del ruc i se li dóna 3 voltes i si el nen està encertant cal dir-li \"posa-li la cua al ruc\" si no dir-li \"el ruc no té cua\", perquè sàpiga si l'està fent bé.",
-    "materials": "pintar el ruc amb guixos de colors o ceres de colors, retallar en paper una cola en la punta posar qualsevol material que pegui i una bena per als ulls.",
+    "consignes": "No es pot dir directament si ha posat bé la cua o no.",
+    "descripcio": "Es tapen els ulls a l'infant, se li dóna la cua del ruc i se li fan fer 3 voltes. Si s'acosta al lloc correcte, se li diu «posa la cua al ruc!», i si no, «el ruc no té cua!», perquè sàpiga si ho està fent bé.",
+    "materials": "Cal dibuixar el ruc amb guixos de colors o ceres, retallar una cua de paper amb algun material adhesiu a la punta i tenir una bena per als ulls.",
     "objectius": "Estimular la confiança.",
     "participants": "Grup,... de 4 anys d'edat d'ara endavant.",
-    "resum": "Intentar posar la cua a un ruc pintat amb els ulls embenats.",
+    "resum": "Intentar posar la cua a un ruc dibuixat amb els ulls tapats.",
     "titol": "Posa la cua al ruc"
   },
   "tunel-oscuro": {
     "_signatura": "7c16669c921e898f",
-    "avaluacio": "Com s'han sentit? Han confiat en tot moment dels seus companys?",
-    "consignes": "No es poden tancar les cames i molt menys enganyar al company donant-li indicacions incorrectes",
-    "descripcio": "Es divideix als nois/es en grups de set persones que cada grup es col·loqués en fila índia amb les cames obertes a un metre de distància els uns dels altres. L'últim de la fila es col·loqués de quatre grapes amb els ulls tancats o tapats i se li dirà que és un tren que ha de passar per un túnel molt fosc. Els seus companys mitjançant les indicacions d'esquerra dreta i centre hauran d'indicar al tren perquè arribi per sota de les cames asta el principi. Quan acabi es col·loqués com els seus companys i l'últim de la fila realitzés el mateix procés",
+    "avaluacio": "Com s'han sentit? Han confiat en els companys en tot moment?",
+    "consignes": "No es poden tancar les cames i, encara menys, enganyar el company donant-li indicacions incorrectes.",
+    "descripcio": "Es divideixen els nois i noies en grups de set persones i cada grup es col·loca en fila índia amb les cames obertes i separats un metre els uns dels altres. L'últim de la fila es posa de quatre grapes amb els ulls tancats o tapats i se li diu que és un tren que ha de passar per un túnel molt fosc. Els companys, amb indicacions d'esquerra, dreta i centre, han de guiar el tren perquè arribi per sota de les cames fins al principi de la fila. Quan acabi, es col·loca com els companys i l'últim de la fila repeteix el mateix procés.",
     "objectius": "Afavorir la confiança entre els seus companys, aconseguir un ambient distès i prendre consciència de la noció d'esquerra i dreta.",
     "participants": "De sis anys d'ara endavant, unes 20 persones",
-    "resum": "Confiar en els teus companys mentre vas sota les seves cames amb ulls tancats",
+    "resum": "Confiar en els companys mentre passes sota les seves cames amb els ulls tancats.",
     "titol": "Túnel fosc"
   }
 }
