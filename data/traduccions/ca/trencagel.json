@@ -12,52 +12,52 @@
   },
   "cualidades": {
     "_signatura": "cf164f35845597bb",
-    "descripcio": "Cada participant diu les qualitats del seu company de la dreta. Les escriu col·locant el seu nom i el del company, es fiquen totes les paperetes en una caixa, i després es treuen i es llegeixen. Dir qualitats. Fulla, llapis.",
+    "descripcio": "Cada participant diu les qualitats del company que té a la dreta, les escriu en una papereta i hi posa el seu nom i el del company. Totes les paperetes es fiquen en una caixa i després se'n van traient i llegint. Serveix per dir-se qualitats. Calen fulls i llapis.",
     "materials": "capsa, llapis",
     "titol": "Qualitats"
   },
   "el-escudo": {
     "_signatura": "b666294be0454371",
-    "descripcio": "Es dóna a cada participant un paper en forma d'escut on escriurà el més destacable de la seva personalitat. Després una altra persona del grup el llegeix.",
+    "descripcio": "Es dóna a cada participant un paper en forma d'escut on ha d'escriure allò que més el defineix. Després una altra persona del grup el llegeix.",
     "materials": "paper",
     "titol": "L'escut"
   },
   "el-gusano": {
     "_signatura": "7979863f4736ec6d",
-    "descripcio": "Tots donant tornades en cercle es van acostant a poc a poc fins a quedar tots ben junts, el directe (a) dóna l'ordre d'asseure's i tots s'han d'asseure a les cames del company, després ordena fer un pas amb el peu dret cap endavant, després amb el peu esquerre, després un pas cap endarrere. Si un cau cauen tots.",
+    "descripcio": "Tothom donant voltes en cercle es va acostant a poc a poc fins a quedar ben junts. Qui dirigeix dóna l'ordre de seure i tothom s'ha d'asseure a les cames del company de darrere. Després ordena fer un pas endavant amb el peu dret, després amb el peu esquerre i després un pas enrere. Si en cau un, cauen tots.",
     "titol": "El cuc"
   },
   "identificarse-con-el-lugar": {
     "_signatura": "b6a094daeda4529d",
-    "descripcio": "Es convida les persones a conèixer el lloc i a buscar alguna cosa (un quadre, una estàtua, un arbre, etc.) que li cridi l'atenció, durant 5 minuts. Després es presenta què va triar i perquè. L'animador pot fer altres preguntes. Al final es cometi-ho realitzat. Llapis i paper.",
+    "descripcio": "Es convida les persones a conèixer el lloc i a buscar durant 5 minuts alguna cosa que els cridi l'atenció: un quadre, una estàtua, un arbre, etc. Després cadascú presenta què ha triat i per què, i l'animador hi pot afegir altres preguntes. Al final es comenta el que s'ha fet. Calen llapis i paper.",
     "materials": "llapis, paper",
     "titol": "Identificar-se amb el lloc"
   },
   "la-clasecita": {
     "_signatura": "20d5bc1ab057247d",
-    "descripcio": "El director (a) lliurament als participants un tema sobre el qual haurà d'exposar les seves idees durant 2 o 3 minuts. El participant posterior donarà una classificació o concepte a l'expositor. Integrar al grup quan té dificultat d'expressió.",
+    "descripcio": "Qui dirigeix dóna a cada participant un tema sobre el qual haurà d'exposar les seves idees durant 2 o 3 minuts. El participant següent farà una valoració o un comentari de l'exposició. Serveix per integrar en el grup les persones que tenen dificultats d'expressió.",
     "titol": "La classeta"
   },
   "la-maquina-del-tiempo": {
     "_signatura": "6b3bf0d21b2a0467",
-    "descripcio": "Cada participant ha de pensar que escena de la humanitat li hagués agradat ser testimoni. Després exposar el per què. Coneixement, expressió de valors.",
+    "descripcio": "Cada participant ha de pensar de quina escena de la humanitat li hauria agradat ser testimoni i després explicar-ne el perquè. Treballa el coneixement mutu i l'expressió de valors.",
     "titol": "La màquina del temps"
   },
   "la-pecera": {
     "_signatura": "b8db241536c8dc01",
-    "descripcio": "Es formen dos grups en cercle, un grup en el mitjà i un altre fora. Els del mitjà queden immòbils, els de fora es mouen com les agulles del rellotge. Cada vegada que l'animador dóna l'ordre. Es pot parlar de diversos temes.",
+    "descripcio": "Es formen dos cercles, un a dins i l'altre a fora. Els de dins es queden immòbils i els de fora es van movent en el sentit de les agulles del rellotge cada vegada que l'animador ho indica, de manera que van canviant d'interlocutor. Es pot parlar de temes diversos.",
     "materials": "rellotge",
     "titol": "La peixera"
   },
   "la-verdad": {
     "_signatura": "298410ffc9061f11",
-    "descripcio": "Un membre del grup ocupa la cadira del centre, tots els altres estan asseguts en cercle. La persona que ocupa el centre promet dir: \"solament la veritat\" a qualsevol pregunta, durant determinat temps, després passa un altre i així successivament.",
+    "descripcio": "Un membre del grup ocupa la cadira del centre i tots els altres seuen en cercle. La persona del centre promet respondre «només la veritat» a qualsevol pregunta durant un temps determinat; després hi passa una altra persona, i així successivament.",
     "materials": "cadires",
     "titol": "La veritat"
   },
   "quita-la-silla": {
     "_signatura": "b55132655d8884c6",
-    "descripcio": "Tothom caminant, quan el director de l'ordre tots s'asseuen però es lleva una cadira, el que quedo sense cadira se senti damunt d'algú (o surt del joc), així es va fent successivament es lleven 2, 3, 4, etc. fins que quedin 2 cadires i tots asseguts un damunt de l'altre (o fins que quedo un només).",
+    "descripcio": "Tothom caminant. Quan qui dirigeix dóna l'ordre, tothom s'asseu, però abans s'ha tret una cadira: qui es quedi sense cadira s'asseu damunt d'algú (o surt del joc). Així successivament, traient-ne 2, 3, 4..., fins que només quedin 2 cadires i tothom assegut els uns damunt dels altres (o fins que en quedi un de sol).",
     "materials": "cadires",
     "titol": "Treu la cadira"
   }
