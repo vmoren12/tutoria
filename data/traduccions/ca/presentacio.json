@@ -29,8 +29,9 @@
   },
   "buscar-coincidencias": {
     "_signatura": "caff7dee42e2e544",
-    "descripcio": "Es pot dir que guanya qui completi abans la fulla perquè així vagin més ràpid i es motivin. Convenen després fer una petita comprovació.",
-    "materials": "Un paper i un bolígraf o llapis per participant. Es tracta de buscar persones que tinguin coses en comú, però que les descobreixin amb un senzill joc. S'escriuen en una pissarra o se'ls dóna fotocopiades una sèrie de característiques sobre persones que han de buscar, per exemple: \"Cerca tres persones que van néixer el mateix any que el teu, cerca una persona que li agradi el futbol, cerca dues persones que el seu cognom comenci pel meu, etc.\" Se'ls deixa un temps perquè es preguntin entre ells i l'apuntin en la fulla.",
+    "descripcio": "S'escriuen a la pissarra —o es reparteixen fotocopiades— una sèrie de característiques de persones que cal buscar; per exemple: «Busca tres persones que hagin nascut el mateix any que tu», «busca una persona a qui agradi el futbol», «busca dues persones el cognom de les quals comenci per la mateixa lletra que el teu», etc. Es deixa una estona perquè es preguntin entre ells i ho vagin anotant al full. Es pot dir que guanya qui completi el full primer, perquè així vagin més ràpid i s'animin. Després convé fer una petita comprovació.",
+    "materials": "Un paper i un bolígraf o llapis per participant.",
+    "resum": "Es tracta de buscar persones que tinguin coses en comú i descobrir-les amb un joc senzill.",
     "titol": "Buscar coincidències"
   },
   "canasta-revuelta-2": {
@@ -40,7 +41,7 @@
   },
   "carta-al-tio-de-america": {
     "_signatura": "e378b48704a36399",
-    "descripcio": "Es fa la següent presentació als participants: \"Un oncle vostre va marxar a Amèrica abans que vosaltres naixéssiu, i torna ara. No li coneixeu, així que com us reconeixerà quan sortiu a rebre-li a l'aeroport?. Li escriureu una carta donant-li una descripció de la vostra personalitat de manera que ell pugui reconèixer-vos. Ara bé, no val indicar la roba que portareu, ni el color del vostre pèl, ni el dels vostres ulls, ni l'altura, ni el pes, ni el nom. Ha de ser una carta més personal: les teves aficions, la qual cosa fas, la qual cosa et preocupa, els problemes que tens, què penses de les coses, com et diverteixes, la qual cosa t'agrada i el que no t'agrada, etc.\" Una vegada feta l'explicació, es donen 20-30 minuts per escriure-la. Es recullen totes les cartes i a cadascú se li dóna una que no sigui la seva. Cadascú llegeix en veu alta la carta que li ha correspost, i ha d'endevinar a quina persona del grup correspon. Poden donar dues oportunitats. Si no ho endevina, un altre qualsevol del grup, si creu saber-lo, pot intervenir. Després d'endevinar a qui correspon, es pregunta quines dades són els que li han donat la pista o els que ens han despistat.",
+    "descripcio": "Es fa aquesta presentació als participants: «Un oncle vostre va marxar a Amèrica abans que vosaltres nascéssiu i ara torna. No el coneixeu: com us reconeixerà quan aneu a rebre'l a l'aeroport? Li escriureu una carta amb una descripció de la vostra personalitat perquè us pugui reconèixer. Ara bé, no s'hi val a indicar la roba que portareu, ni el color dels cabells o dels ulls, ni l'alçada, ni el pes, ni el nom. Ha de ser una carta més personal: les teves aficions, què fas, què et preocupa, quins problemes tens, què penses de les coses, com et diverteixes, què t'agrada i què no t'agrada, etc.».\n\nUn cop feta l'explicació, es donen 20-30 minuts per escriure-la. Es recullen totes les cartes i es dóna a cadascú una que no sigui la seva. Cadascú llegeix en veu alta la carta que li ha tocat i ha d'endevinar a quina persona del grup correspon; se li poden donar dues oportunitats. Si no ho endevina, qualsevol altre membre del grup que cregui saber-ho pot intervenir. Un cop endevinat de qui és, es pregunta quines dades han donat la pista i quines han despistat.",
     "materials": "cartes, daus",
     "titol": "Carta a l'oncle d'amèrica"
   },
@@ -207,7 +208,7 @@
   },
   "los-saludos-con-partes-del-cuerpo": {
     "_signatura": "669a2cf606ced1c4",
-    "descripcio": "L'animador convida a formar dos cercles (un dins de l'altre) amb el mateix nombre de persones i demana que es mirin cara a cara. És recomanable tenir una música de fons. Demana que es presentin amb la mà i diguin el seu nom, què fa, que li agrada i que no li agrada.\n\nImmediatament l'animador dóna el senyal perquè es rodin els cercles cadascú en sentit contrari, de tal forma que li toqui una altra persona enfronti. L'animador demana que se saludin fer i preguntin a l'altra persona les mateixes preguntes que van fer abans, després tornen a girar de nou i aquesta vegada se saluden amb els peus, posteriorment amb els colzes, les espatlles, etc.",
+    "descripcio": "L'animador convida a formar dos cercles —un dins de l'altre— amb el mateix nombre de persones i demana que es mirin cara a cara; és recomanable posar música de fons. Els demana que es presentin donant-se la mà i que diguin el nom, què fan, què els agrada i què no els agrada.\n\nTot seguit, l'animador dóna el senyal perquè els cercles girin en sentits contraris, de manera que cadascú quedi davant d'una altra persona. Aleshores demana que se saludin amb una abraçada i que facin a l'altra persona les mateixes preguntes d'abans. Després tornen a girar i aquesta vegada se saluden amb els peus; més endavant, amb els colzes, amb les espatlles, etc.",
     "materials": "musica",
     "titol": "Les salutacions amb parts del cos"
   },
@@ -232,7 +233,7 @@
   },
   "pedro-llama-a-pablo": {
     "_signatura": "9bfe92d9966683a4",
-    "descripcio": "L'objectiu d'aquesta dinàmica és aconseguir que els membres d'una reunió gravin els noms dels seus companys i aconsegueixin, memoritzar rostres i actituds divertides dels participants.\n\nEs forma un cercle amb els participants, tots ells asseguts. El jugador que està al capdavant comença dient el seu nom i cridant un altre jugador, exemple: \"Pedro flama a María\", María respon \"Maria flama a Juan\", Juan diu \"Juan crida a Pablo\", etc.\n\nEl que no respongui ràpid al seu nom paga penyora que pot ser: contar un acudit, ballar amb l'escombra, cantar.",
+    "descripcio": "L'objectiu d'aquesta dinàmica és que els membres d'una reunió es gravin els noms dels companys i memoritzin cares i actituds divertides dels participants.\n\nEs forma un cercle amb els participants, tots asseguts. El jugador que comença diu el seu nom i crida un altre jugador; per exemple: «En Pere crida la Maria»; la Maria respon: «La Maria crida en Joan»; en Joan diu: «En Joan crida en Pau», etc.\n\nQui no respongui de seguida quan el criden paga penyora, que pot ser explicar un acudit, ballar amb l'escombra o cantar.",
     "titol": "En pere crida en pau"
   },
   "pelota-caliente-2": {
@@ -247,7 +248,7 @@
   },
   "presentacion-para-conocerse-y-aprenderse-los-nombres": {
     "_signatura": "b7ec1424610cb24d",
-    "descripcio": "S'explica que hi haurà una festa, i que cadascú ha de portar alguna cosa, però que comenci amb la inicial del seu nom. El primer comença dient el seu nom i el que portarà a la festa. El segon repeteix el que va dir l'anterior, i després diu el seu nom i el que portarà a la festa. Per exemple:\n\n1. Jo sóc Pablo i portaré la música\n\n2. Ell és Pablo i portarà la música i jo sóc Ricardo i portaré els refrescos.\n\n3. Ell és Pablo i portarà la música, ell és Ricardo i portarà els refrescos i jo sóc Juana i portaré el pastís I Així es repeteix successivament fins a completar la quantitat de participants.",
+    "descripcio": "S'explica que hi haurà una festa i que cadascú hi ha de portar alguna cosa que comenci amb la inicial del seu nom. El primer diu el seu nom i què portarà a la festa; el segon repeteix el que ha dit l'anterior i després diu el seu nom i què hi portarà. Per exemple:\n\n1. «Jo sóc en Pau i portaré la música».\n\n2. «Ell és en Pau i portarà la música; jo sóc en Ricard i portaré els refrescos».\n\n3. «Ell és en Pau i portarà la música, ell és en Ricard i portarà els refrescos, i jo sóc la Joana i portaré el pastís».\n\nI així successivament fins que hi hagin passat tots els participants.",
     "materials": "musica",
     "titol": "Presentació per conèixer-se i aprendre els noms"
   },
