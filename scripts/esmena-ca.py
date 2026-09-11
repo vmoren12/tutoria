@@ -250,6 +250,23 @@ REGLES = [
     (re.compile(r"(?<![\wÀ-ÿ])derrocat(?![\wÀ-ÿ])"), 'tombat'),
     (re.compile(r"(?<![\wÀ-ÿ])derrocats(?![\wÀ-ÿ])"), 'tombats'),
     (re.compile(r"(?<![\wÀ-ÿ])derroca(?![\wÀ-ÿ])"), 'fa caure'),
+    # --- concordanca perduda en girar «salon» per «sala» ---
+    (re.compile(r"(?<![\wÀ-ÿ])el sala(?![\wÀ-ÿ])"), 'la sala'),
+    (re.compile(r"(?<![\wÀ-ÿ])un sala(?![\wÀ-ÿ])"), 'una sala'),
+    (re.compile(r"(?<![\wÀ-ÿ])aquest sala(?![\wÀ-ÿ])"), 'aquesta sala'),
+    (re.compile(r"(?<![\wÀ-ÿ])del sala(?![\wÀ-ÿ])"), 'de la sala'),
+    (re.compile(r"(?<![\wÀ-ÿ])al sala(?![\wÀ-ÿ])"), 'a la sala'),
+    (re.compile(r"(?<![\wÀ-ÿ])sala ampli(?![\wÀ-ÿ])"), 'sala àmplia'),
+    (re.compile(r"(?<![\wÀ-ÿ])[Uu]na sala ampli\b"), 'Una sala àmplia'),
+    # --- «direccion» (sentit) no es «adreca» ---
+    (re.compile(r"(?<![\wÀ-ÿ])(l'|una |la |cada |aquesta |en aquesta )adreça(?![\wÀ-ÿ])"),
+     lambda m: m.group(1).replace("l'", "la ") + 'direcció' if m.group(1) == "l'" else m.group(1) + 'direcció'),
+    # --- «hoja» de paper es «full» ---
+    (re.compile(r"(?<![\wÀ-ÿ])fulles de periòdic(?![\wÀ-ÿ])"), 'fulls de diari'),
+    (re.compile(r"(?<![\wÀ-ÿ])fulla de periòdic(?![\wÀ-ÿ])"), 'full de diari'),
+    (re.compile(r"(?<![\wÀ-ÿ])paper periòdic(?![\wÀ-ÿ])"), 'paper de diari'),
+    (re.compile(r"(?<![\wÀ-ÿ])(una |la |cada |aquesta |[Ll]a )fulla de paper(?![\wÀ-ÿ])"),
+     lambda m: m.group(1).replace('una', 'un').replace('la', 'el').replace('aquesta', 'aquest') + 'full de paper'),
     # --- apostrofacio que el glossari o l'original havien perdut ---
     (re.compile(r"(?<![\wÀ-ÿ])([Dd])e (?=[aeiouàèéíòóúAEIOU][\wÀ-ÿ'])(?!io|ia(?![\wÀ-ÿ])|uadi)"),
      lambda m: m.group(1) + "'"),
