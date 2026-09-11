@@ -171,7 +171,7 @@
     "consignes": "Un jugador es col·loca al centre d'un cercle gran, amb els ulls tapats i un xiulet o una trompeta penjats de la cintura.",
     "descripcio": "Un equip, partint de qualsevol punt de la vora del cercle, mira d'acostar-s'hi per tocar el xiulet sense que el sentin. Si el xiulador del centre assenyala la direcció per on s'acosta un dels jugadors, aquest queda eliminat. Perquè el xiulador no es converteixi en un penell, tindrà dret al doble de senyalaments que jugadors s'hi acostin. És un joc molt tranquil que exigeix silenci per part dels qui no hi participen; altrament, perd tot l'interès.",
     "materials": "Un xiulet.",
-    "objectius": "Potenciar l'oïda i tranquil·litzar als joves després d'un joc movidito.",
+    "objectius": "Potenciar l'oïda i tranquil·litzar als joves després d'un joc molt mogut.",
     "participants": "Més de 10, a partir de 7 anys.",
     "resum": "Consisteix a acostar-se a un punt i tocar el xiulet sense que et sentin.",
     "titol": "On és el xiulet?"
@@ -188,7 +188,7 @@
   },
   "dragon": {
     "_signatura": "79ebedb7f25e3d66",
-    "descripcio": "Va bé amb no més de vuit persones; set participants per a adults o set a vuit per a nens. Totes les persones se situen en fila. Cada persona pren la cintura del qual té davant amb les mans. Llavors el \"cap\" (primera persona de la fila) del drac intenta tocar la \"cua\" (última persona de la fila), mentre que el \"cos\" (les altres persones) ajuden el fet que la cua no sigui tocada, sense que cada persona perdi el contacte amb qui té davant. Si hi ha més d'un drac cadascú pot operar independentment.",
+    "descripcio": "Va bé amb no més de vuit persones; set participants per a adults o set a vuit per a nens. Totes les persones se situen en fila. Cada persona pren la cintura del qual té davant amb les mans. Llavors el \"cap\" (primera persona de la fila) del drac intenta tocar la \"cua\" (última persona de la fila), mentre que el \"cos\" (les altres persones) ajuden que no toquin la cua, sense que cada persona perdi el contacte amb qui té davant. Si hi ha més d'un drac cadascú pot operar independentment.",
     "titol": "Drac"
   },
   "el-aro": {

@@ -92,6 +92,8 @@ scripts/extract_hebe.py   extractor del «Programa HEBE» cap a JSON
 scripts/extract_manual.py extractor del «Manual de técnicas y dinámicas» cap a JSON
 scripts/deduplica.mjs     treu les fitxes repetides que deixa l'extracció
 scripts/tradueix-ca.py    traductor castellà → català (Apertium)
+scripts/esmena-ca.py      esmena del català: castellanismes, calcs i títols
+scripts/revisa-ca.py      informe de les fitxes que encara fan sospitar
 scripts/build-data.mjs    validació i generació del bundle
 scripts/serve.mjs         servidor estàtic de desenvolupament
 docs/                     arquitectura i guia per aportar dinàmiques
@@ -114,6 +116,8 @@ afegir fitxes és editar un fitxer i executar `npm run build`. El detall és a
 | `npm run extract-manual` | Incorpora les tècniques del *Manual de técnicas y dinámicas*. |
 | `npm run deduplica` | Treu les fitxes repetides que deixa l'extracció (`-- --prova` per veure què faria). |
 | `npm run tradueix` | Tradueix al català les fitxes noves o modificades (necessita Python 3 i connexió). |
+| `npm run esmena` | Esmena el català traduït: castellanismes, calcs sintàctics i caixa dels títols (`-- --prova` per veure què faria). |
+| `npm run revisa` | Llista les fitxes catalanes que encara fan sospitar d'una mala traducció (`-- --tot` per veure-les totes). |
 
 ## Sobre el contingut
 
@@ -165,12 +169,15 @@ banda, a `data/traduccions/ca/`. `npm run build` combina totes dues: el bundle p
 text català com a principal i l'original castellà dins del camp `es` de cada fitxa.
 
 A l'aplicació, **Ajustos → Llengua del catàleg** canvia entre les dues versions sense
-perdre'n cap. La traducció és automàtica i no revisada: qualsevol fitxa es pot editar per
-corregir-la o adaptar-la al grup, i les versions editades es poden exportar des dels
-ajustos i incorporar al repositori.
+perdre'n cap. La traducció automàtica s'ha repassat després a fons: `npm run esmena`
+aplica les correccions sistemàtiques (castellanismes, complement directe amb «a», «per a»
+davant d'infinitiu, apòstrofs, títols en caixa de frase...) i, a sobre, els títols i el cos
+de les fitxes s'han revisat a mà contra l'original castellà. `npm run revisa` assenyala el
+que encara fa sospitar. Tot i així, qualsevol fitxa es pot editar per adaptar-la al grup, i
+les versions editades es poden exportar des dels ajustos i incorporar al repositori.
 
-Per traduir dinàmiques noves n'hi ha prou amb `npm run tradueix`: només processa el que ha
-canviat i es pot aturar i reprendre.
+Per traduir dinàmiques noves n'hi ha prou amb `npm run tradueix` i, tot seguit,
+`npm run esmena`: només processen el que ha canviat i es poden aturar i reprendre.
 
 L'extracció és automàtica: la classificació per categoria segueix les seccions de les obres
 originals, i les etiquetes, la durada i la mida de grup s'infereixen del text. Són valors
@@ -179,7 +186,7 @@ orientatius i es poden corregir des de la fitxa.
 Els PDF originals no formen part del repositori (són material de tercers). Si els vols
 tornar a processar, desa'ls a l'arrel del projecte i executa l'extractor corresponent
 (`npm run extract`, `npm run extract-hebe` i, sempre l'últim, `npm run extract-manual`);
-tot seguit, `npm run deduplica`, `npm run tradueix` i `npm run build`.
+tot seguit, `npm run deduplica`, `npm run tradueix`, `npm run esmena` i `npm run build`.
 
 ## Llicència
 

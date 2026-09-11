@@ -104,6 +104,9 @@ GLOSSARI = {
     'crículo': 'cercle', 'oios': 'ulls', 'sietes': 'sets',
     'ultimo': 'últim', 'ultima': 'última', 'eses': 'esses',
     'grupalmete': 'en grup', 'contendor': 'contrincant',
+    'saltarinas': 'saltadores', 'movidito': 'mogut', 'culete': 'cul',
+    'despegar': 'separar', 'platón': 'gibrell', 'alógenos': 'halògens',
+    'trabilla': 'trabeta', 'segundero': 'comptasegons', 'rehúyes': 'defuges',
     'preCUADRO': 'pre-CUADRO', 'alumCUADRO': 'alum-CUADRO',
 }
 _ordenats = sorted(GLOSSARI, key=len, reverse=True)
@@ -130,6 +133,7 @@ VERBS_CD = [
     'convid', 'ajud', 'toc', 'tap', 'abrac', 'convenc', 'orient', 'guid',
     'acompany', 'rellev', 'reemplac', 'substitu', 'castig', 'premi',
     'cohesion', 'distend', 'unir', 'ajunt', 'reun', 'cridar', 'crid',
+    'dot', 'critic', 'control', 'valor', 'jutj', 'enseny',
 ]
 SUFIX = r"(?:ar|ar-se|a|es|en|em|eu|ant|at|ats|ada|ades|arà|aran|aré|arem|i|is|in|ava|aven|à|aria|arien)"
 DET = r"(?:l'|la\b|les\b|el\b|els\b|un\b|una\b|uns\b|unes\b|cada\b|algú\b|ningú\b|tots\b|totes\b|qualsevol\b|dos\b|dues\b|tres\b)"
@@ -267,7 +271,11 @@ REGLES = [
     (re.compile(r"(?<![\wÀ-ÿ])paper periòdic(?![\wÀ-ÿ])"), 'paper de diari'),
     (re.compile(r"(?<![\wÀ-ÿ])(una |la |cada |aquesta |[Ll]a )fulla de paper(?![\wÀ-ÿ])"),
      lambda m: m.group(1).replace('una', 'un').replace('la', 'el').replace('aquesta', 'aquest') + 'full de paper'),
+    (re.compile(r"(?<![\wÀ-ÿ])per a poder(?![\wÀ-ÿ])"), 'per poder'),
+    (re.compile(r"(?<![\wÀ-ÿ])desembolicar (?=en |a |amb )"), "moure's "),
+    (re.compile(r"(?<![\wÀ-ÿ])desembolicar-se(?![\wÀ-ÿ])"), "moure's"),
     # --- apostrofacio que el glossari o l'original havien perdut ---
+    # (les linies de «Font:» duen titols en castella i no s'hi toquen)
     (re.compile(r"(?<![\wÀ-ÿ])([Dd])e (?=[aeiouàèéíòóúAEIOU][\wÀ-ÿ'])(?!io|ia(?![\wÀ-ÿ])|uadi)"),
      lambda m: m.group(1) + "'"),
     (re.compile(r"(?<![\wÀ-ÿ])([Ee])l (?=[aeoàèéòóAEO][a-zà-ÿ'])"),
@@ -348,16 +356,33 @@ def titol_en_frase(titol):
             mot = mot[0].lower() + mot[1:] if mot[0].isupper() else mot
         # «L'Amic» -> «L'amic», tambe si es la primera paraula
         rere = re.sub(r"^(l|d|n|s|L|D)(['’])(.*)$", lambda m: m.group(3), mot)
-        if rere and rere != mot and rere.strip("¿?¡!()«»\"'.,:;") not in NOMS_PROPIS:
+        net = rere.strip("¿?¡!()«»\"'.,:;")
+        if rere and rere != mot and net not in NOMS_PROPIS and not net.isupper():
             mot = re.sub(r"^(l|d|n|s|L|D)(['’])([A-ZÀ-Ý])",
                          lambda m: m.group(1) + m.group(2) + m.group(3).lower(), mot)
         sortida.append(mot)
     return ' '.join(sortida)
 
 
+# Les citacions («Font: ...») duen titols d'obres en castella: no s'hi apliquen
+# les regles, perque no s'hi val a catalanitzar el nom d'una obra.
+CITACIO = re.compile(r'^\s*Font:.*$', re.M)
+
+
 def esmena(text):
     if not text:
         return text
+    citacions = CITACIO.findall(text)
+    if citacions:
+        for i, c in enumerate(citacions):
+            text = text.replace(c, f'@@FONT{i}@@', 1)
+    nou = _esmena(text)
+    for i, c in enumerate(citacions):
+        nou = nou.replace(f'@@FONT{i}@@', c, 1)
+    return nou
+
+
+def _esmena(text):
     nou = ajunta_linies(text)
     nou = MOTS.sub(_mot, nou)
     for patro, canvi in REGLES:

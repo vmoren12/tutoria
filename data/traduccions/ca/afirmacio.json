@@ -158,7 +158,7 @@
     "consignes": "Cal canviar de company a qui preguntar; no s'hi val a preguntar sempre al mateix.",
     "descripcio": "Es prepara una bateria de preguntes iguals per a tots els participants. Per exemple: busca una persona que tingui el vermell com a color preferit; una persona que faci un determinat esport; una persona que tingui un nom que comenci per «C», etc. El joc consisteix a trobar, per a cada característica, una persona entre els qui juguen: quan la trobem, li preguntem com es diu i n'anotem el nom al costat d'aquella frase. Tot seguit anem a buscar una altra persona, i així successivament fins a completar tota la llista, moment en què s'acaba el joc.",
     "objectius": "El coneixement del grup i la presentació al mateix",
-    "participants": "Majors de 8 anys. Numero de 10 d'ara endavant.",
+    "participants": "A partir de 8 anys. De 10 participants en amunt.",
     "resum": "Conèixer un grup acabat de formar: els seus gustos, les seves aficions, etc.",
     "titol": "Rumb al desconegut"
   },
@@ -195,10 +195,10 @@
   },
   "splash": {
     "_signatura": "12c8655639995d22",
-    "descripcio": "L'animador/a tràfic d'enxampar a algú, tocant-li. Si ho aconsegueix aquesta serà la nova persona que intenti enxampar. Per a tractar d'evitar que t'enxampin, pots, en qualsevol moment, parar-te, ajuntant les mans (donant una palmada) amb els braços estirats al mateix temps que crides SPLASH. A partir d'aquest moment quedes immòbil en la posició. Per a reanimar a les que estan immòbils algú ha d'entrar dins del buit que formen amb els seus braços i fer-li un petó. Mentre s'està dins dels braços sense fer-li un petó, els dos estan en zona lliure, sense que puguin donar-los. Jocs de coneixement",
+    "descripcio": "L'animador mira d'atrapar algú tocant-lo. Si ho aconsegueix, aquesta persona passa a parar. Per evitar que t'atrapin pots, en qualsevol moment, aturar-te i ajuntar les mans amb els braços estirats —fent una palmada— alhora que crides «splash!». A partir d'aquell moment quedes immòbil en aquesta posició. Per reanimar les persones immòbils, algú ha d'entrar dins del buit que formen amb els braços i fer-los un petó. Mentre s'és dins dels braços d'algú i encara no li ha fet el petó, tots dos estan en zona lliure i no els poden atrapar.",
     "objectius": "Distendre. Cohesionar al grup. Prendre contacte físic. Llevar prejudicis.",
     "participants": "Grup o classe, a partir de 8 anys",
-    "resum": "Es tracta d'evitar que t'enxampin i lliurar-te \"volent\" als companys/es.",
+    "resum": "Es tracta d'evitar que t'atrapin i d'alliberar-te gràcies a un petó dels companys.",
     "titol": "Splash"
   },
   "toca-azul": {
