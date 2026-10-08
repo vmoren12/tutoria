@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "st-accions-col-lectives",
+    "titol": "Accions col·lectives",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "resum": "Els grups trien una situació injusta relacionada amb la sexualitat que passi a l'institut i dissenyen accions col·lectives per denunciar-la.",
+    "objectius": "Entrenar l'habilitat d'advocació i compromís social davant les violències relacionades amb la sexualitat.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "En grups de 4 o 5 persones. Cada grup pensa una situació injusta o de violència relacionada amb la sexualitat que hagi passat a l'institut, que conegui o que podria passar: comentaris per l'orientació sexual o l'expressió de gènere, tocar el cul sense consentiment...\n\nUn cop el grup s'ha posat d'acord en una situació, pensa accions col·lectives que l'alumnat podria fer a l'institut per denunciar-la o reivindicar un canvi.\n\nCada grup ho comparteix i la resta proposa altres opcions.",
+    "avaluacio": "Per tancar, pregunteu si es poden comprometre a fer alguna de les accions plantejades, o alguna relacionada amb els xats de grup, perquè el missatge arribi a tot l'institut. Intenteu arribar a un consens.",
+    "notes": "Forma part de la sessió «Xarxes socials» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16512-xarxes-socials.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ampliem-la-mirada-sobre-la-bellesa",
+    "titol": "Ampliem la mirada sobre la bellesa",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio",
+      "subgrups"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Ordinador, projector i la presentació d'imatges de la sessió «Una norma, molts cossos» (disponible al web de Sigues tu). Pissarra.",
+    "resum": "A partir d'una seqüència d'imatges de persones diverses, el grup descriu el cànon de bellesa actual i descobreix les violències que genera.",
+    "objectius": "Reflexionar sobre la pressió estètica i els ideals de bellesa actuals, i prendre consciència de com afecten la identitat i l'autoestima.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu començar preguntant què els suggereix el títol «Una norma, molts cossos» i quines persones famoses representen el cànon de bellesa. Això us dirà quins són els referents de l'alumnat (gènere, origen, edat...). També podeu demanar que escriguin una llista privada del que els agrada del seu cos, del que no i del que creuen que agrada als altres; la recuperareu al final.",
+    "descripcio": "Passeu les diapositives i atureu-vos a cadascuna per construir un discurs en comú. Preguntes que ajuden: Què veiem? Què tenen en comú? Ens costa anomenar-ho? Com són els seus cossos i el seu estil? Què ens fan sentir? Coneixem aquestes persones? Què sabem de la seva vida? Té relació amb el seu aspecte?\n\nAneu anotant a la pissarra el que la norma dicta sobre la bellesa. Les reaccions de l'alumnat (aprovació, rebuig, curiositat) us serviran per identificar els cànons i les violències que se'n desprenen.\n\n1. L'evolució del cànon femení des de la prehistòria fins al segle XX: el cànon canvia amb l'època i les seves necessitats, i sovint té relació amb els diners.\n2. El cànon d'avui: en grups de 3, descriuen Batman i la Barbie i què els fan sentir. Es posa en comú a la pissarra.\n3. Persones grans: els cossos canvien i la bellesa també. Si l'edat no havia sortit al cànon, s'hi afegeix.\n4. Persones amb diversitat funcional que són activistes, artistes, escriptors o polítics: tradicionalment la fragilitat i la lentitud s'han associat a la lletjor.\n5. Persones racialitzades: el cànon és blanc; algunes persones famoses han blanquejat la seva imatge per poder triomfar.\n6. Persones grasses: qüestioneu el mite que totes tenen problemes de salut pel fet de ser grasses.\n7. Persones amb una expressió de gènere andrògina: el patró binari i la incomoditat que generen els cossos que se n'aparten.\n8. Fotografies abans i després del retoc digital: són reals aquests models?",
+    "avaluacio": "Què us ha passat mentre dèieu les idees? Quines emocions heu sentit?\nHi ha hagut coses difícils d'anomenar? Algun tema que faci vergonya, fàstic o ens paralitzi?",
+    "notes": "No cal conèixer a fons la vida de les persones de les imatges, però sí saber a què es dediquen i quins eixos de desigualtat les travessen: moltes demostren que les capacitats, l'origen, l'edat o el gènere no són l'únic que condiciona el que podem fer.\n\nForma part de la sessió «Una norma, molts cossos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Cooperativa Candela i Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16510-una-norma-molts-cossos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-analitzem-els-nostres-referents",
+    "titol": "Analitzem els nostres referents",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Fulls, retoladors, pissarra. Ordinador i projector per mostrar imatges de persones famoses (opcional).",
+    "resum": "En petits grups, l'alumnat descriu com es mostren nois i noies a les xarxes per lligar i analitza quins estereotips de gènere hi ha al darrere.",
+    "objectius": "Analitzar els estereotips i els mites associats al gènere i la sexualitat. Detectar com influeixen en les nostres decisions i relacions.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Convé obrir la sessió establint un espai de confiança, cura i seguretat. Podeu introduir el tema preguntant on aprenem la sexualitat si no tenim espais per parlar-ne sense por del judici: sovint l'aprenem pel boca-orella i pels audiovisuals, sobretot la pornografia, que associen la sexualitat amb coses que no ens són plaents.",
+    "descripcio": "Formeu grups de 4 o 5 persones. Cada grup descriu en un full el postureig que fan els nois a les xarxes socials per lligar i el que fan les noies: com són les imatges que han de penjar els uns i les altres per tenir èxit. Poden orientar-se amb aquestes preguntes:\n\n- Com són?\n- Quines actituds o emocions mostren?\n- Com ens fan sentir?\n- Quins missatges transmeten?\n- S'assemblen a les persones que tenim al voltant?\n- Com lliguen o sedueixen?\n\nPoseu en comú les descripcions en la rotllana gran. Per ajudar a descriure els estereotips, podeu projectar imatges de cantants i influenciadors coneguts per l'alumnat.\n\nEstereotips que acostumen a sortir:\n\n- Nois: es mostren fatxendes, expressen emocions lligades a l'agressivitat, gairebé no somriuen, són molt forts i surten envoltats de noies que els miren. No mostren vulnerabilitat ni busquen relacions: l'amor i el desig els arribarà de les noies sense demanar-ho.\n- Noies: provocadores, atractives, amb poca roba i postures incòmodes, somriuen més, primes. Ofereixen amor, desig i apropament.",
+    "avaluacio": "Quina relació té això amb la nostra vida quotidiana?\nCom ens afecta en les nostres decisions?\nHo veiem en les nostres relacions?",
+    "notes": "Forma part de la sessió «Violències sexuals» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip Sigues Tu i Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/14490-violencies-sexuals.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-aprenem-a-anomenar-les-violencies",
+    "titol": "Aprenem a anomenar les violències",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Targetes amb les situacions.",
+    "resum": "Els grups decideixen si unes situacions de parella són sanes, tòxiques o violentes, i en debaten els matisos.",
+    "objectius": "Aprendre a identificar i anomenar la toxicitat i la violència en les relacions sexoafectives, i entrenar la negociació i el refús.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Repartiu les situacions entre els grups. Cada grup decideix si són tòxiques, violentes o cap de les dues coses, i de quin tipus (segons el poder en joc i la dimensió de la salut on impacten).\n\nSituacions i orientacions per a la posada en comú:\n\n- Aprofitar que algú ha begut per lligar-hi: violència.\n- Beure alcohol per tenir menys vergonya a l'hora de lligar: tòxic.\n- Negar-se a tenir relacions sexuals amb la parella: ni violència ni toxicitat.\n- Negar-se a dir les contrasenyes a la parella: ni violència ni toxicitat.\n- Opinar sobre el cos de la parella: és violència si es fa des d'uns ideals de bellesa irreals.\n- Mirar el mòbil de la parella sense permís: violència.\n- Enviar a la parella fotos íntimes pròpies: no és violència, sempre que respongui a un desig mutu.\n- Controlar com vesteix o quin aspecte té la parella: violència.\n- Fer per la parella el que no sap fer: si no és explícit i acordat, és violència (paternalisme).\n- Burlar-se de la parella si expressa tristesa o inseguretat: violència.\n- Negar-se a fer servir el preservatiu: violència.\n- Tocar el cul a la parella en públic: si no és consentit, és violència.",
+    "avaluacio": "Com us sentiu després de la sessió? Parlar de violències és incòmode però necessari. Recordeu que, si hi ha alguna cosa que no voleu dir davant el grup, podeu buscar el tutor o una altra persona adulta de confiança.",
+    "notes": "Algunes situacions no són violències però en són la porta d'entrada, d'altres ho són clarament i d'altres depenen del context. L'objectiu és que dialoguin escoltant-se, no tenir raó: val més treballar-ne poques amb temps que fer-les totes.\n\nForma part de la sessió «Relacions tòxiques» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16587-relacions-toxiques.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-barometre-de-la-pressio-estetica",
+    "titol": "Baròmetre de la pressió estètica",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "resum": "L'alumnat es col·loca entre l'acord i el desacord davant afirmacions sobre bellesa, lligar i estereotips, i n'argumenta la posició.",
+    "objectius": "Identificar mites i estereotips sobre el cos i l'atracció, i reflexionar sobre la pressió estètica.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Definiu dos espais a l'aula: d'acord i en desacord. Es pot ocupar qualsevol punt entremig. Tothom comença al mig, l'espai neutral. Llegiu una afirmació, deixeu que es posicionin i pregunteu per què. Qui canviï d'opinió escoltant els altres es pot moure.\n\n«Les persones guapes lliguen més.» «A tothom li agrada el mateix tipus de persona.» Què ens agrada de la gent? Què passa si ens guiem més per les aparences que per la relació?\n\n«Els nois no es poden pintar les ungles.» Què passa si ho fa? Com reacciona la gent?\n\n«La mida del penis és important.» Per a què serveix un penis gran? Es poden tenir relacions plaents sense penis?\n\n«Una noia s'ha d'arreglar bé abans de sortir al carrer.» Les noies pateixen més pressió estètica que els nois?\n\n«Lligar és més difícil si tens una diversitat funcional.» Les persones amb diversitat funcional tenen desig? Hi ha una sola característica que ens defineixi?\n\n«Si vesteixes roba de marca agrades més.» Si tinc diners soc més guapo? Més amable?\n\n«Les noies que porten hijab no volen lligar.» Totes són iguals? Totes les persones viuen la religió de la mateixa manera?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup. A la sessió original va precedida d'una presentació d'imatges sobre el cànon de bellesa com la de «Ampliem la mirada sobre la bellesa».\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 3: Una norma, molts cossos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: autoconeixement, pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16581-itinerari-cee-violencies-sexuals--sessio-3-un.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-barometre-de-les-decisions",
+    "titol": "Baròmetre de les decisions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "L'alumnat es col·loca en una escala del 0 al 10 segons com li costa prendre decisions, també en les relacions sentimentals, i reflexiona sobre què l'influeix.",
+    "objectius": "Reflexionar sobre què ens influeix a l'hora de prendre decisions relacionades amb la sexualitat i les relacions.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una pluja d'idees sobre què cal per prendre decisions (informació, opcions, responsabilitat, autoconeixement, influències) i relacionar-ho amb la sexualitat. També podeu fer una ronda en què cadascú es col·loca al costat de la targeta de l'emoció que sent quan es parla de sexualitat: totes les emocions són vàlides, i si surt la vergonya, recordeu que la sexualitat és un tema tabú i alhora un dret.",
+    "descripcio": "Tothom dret al mig. Una paret de l'aula val 0 i la contrària 10. Plantegeu les preguntes i cadascú es col·loca on vulgui de l'escala.\n\n«Fins a quin punt em resulta fàcil prendre decisions?» Acompanyeu-ho amb: soc on vull ser? Què necessitaria per moure'm? Què m'ajuda? Què m'influeix? (guanyar o perdre en triar, la impulsivitat, les emocions, demanar consell...)\n\n«Prenc decisions en l'àmbit de les relacions sentimentals?» Em deixo portar? Per què? (mites, context, el què diran...) Què m'influeix més?",
+    "notes": "Abans de la sessió es pot obrir una bústia anònima de dubtes sobre sexualitat per treballar-los amb el grup.\n\nForma part de la sessió «El teu sexe, la teva decisió» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24421-el-teu-sexe-la-teva-decisio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-canvis-a-la-pubertat",
+    "titol": "Canvis a la pubertat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Fulls, bolígrafs i pissarra.",
+    "resum": "En grups, l'alumnat fa la llista dels canvis físics, emocionals i socials de la pubertat i l'adolescència.",
+    "objectius": "Conèixer i normalitzar els canvis de la pubertat com a part de l'autoconeixement.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Dividiu la classe en grups de 5 o 6 persones. Cada grup anota en un full tots els canvis que creu que passen durant la pubertat i l'adolescència, classificats si pot ser en físics, emocionals i socials.\n\nAl cap de 5 minuts, poseu-ho en comú i anoteu-ho a la pissarra en tres columnes.\n\nExemples:\n\n- Canvis físics: augment de la talla, aparició de pèl, canvis hormonals (més producció d'estrògens, progesterona i testosterona).\n- Canvis emocionals: noves preocupacions, enamorament, canvis d'humor, irritabilitat.\n- Canvis socials: nous interessos, noves relacions, pressió social.",
+    "notes": "Forma part de la sessió «Canvis en la pubertat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16511-canvis-en-la-pubertat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-com-em-sento-quan",
+    "titol": "Com em sento quan...",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Pictogrames o cartells d'emocions repartits per terra.",
+    "resum": "Davant situacions de la vida afectiva i sexual, l'alumnat es col·loca al costat de l'emoció que sentiria, en parla i el grup crea un banc d'estratègies.",
+    "objectius": "Prendre consciència de les diverses emocions que podem sentir davant una mateixa situació i compartir estratègies per gestionar-les.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Repartiu les emocions per terra, cadascuna en el seu espai, i marqueu un punt neutral que serà el punt de partida.",
+    "consignes": "Poseu-vos segons el que sentiu, intentant no deixar-vos portar per la pressió de grup.",
+    "descripcio": "Llegiu una situació i l'alumnat va a l'emoció que ha sentit, sent o creu que sentiria si la visqués. Si algú es queda sol en una emoció, acosteu-vos-hi perquè se senti acompanyat.\n\nSituacions proposades (no cal fer-les totes):\n\n- Li agrado a algú, però aquesta persona no m'agrada.\n- He explicat a una amiga que m'agrada algú i ella ho ha explicat a tothom.\n- Un molt bon amic ha començat a sortir amb la persona que m'agrada.\n- A un amic meu li agrada la mateixa persona que a mi.\n- He conegut una persona per les xarxes i ha arribat el dia de quedar en persona.\n- Estic coneixent algú per les xarxes, m'agrada i em comença a fer preguntes molt personals.\n- He fet una pregunta sobre sexualitat a un familiar i, fent cares rares, no m'ha respost.\n- Quedo amb la meva parella a casa perquè no hi ha els meus pares, tenim ganes de fer-nos petons i tocar-nos i és la primera vegada.\n- No m'agrada ningú ni m'interessa la sexualitat, i tothom em pregunta si tinc parella.\n- La parella de la meva amiga no la tracta bé.\n- La meva parella vol tenir relacions sexuals i jo no vull.\n- Sembla que també li agrado a la persona que m'agrada.\n- Vull tenir sexe amb la meva parella i els adults que em cuiden diuen que no estic preparat o que no està bé.\n\nTambé podeu preguntar si algú ha viscut o pensa en alguna altra situació i treballar-la.\n\nQuan tothom s'ha col·locat, obriu el diàleg sobre per què s'ha posat on és. Qui canviï d'opinió escoltant els altres es pot moure.",
+    "avaluacio": "Què podem fer, o què fem ja, quan sentim aquella emoció? Recolliu a la pissarra les estratègies que surtin: serà el banc de recursos del grup.\n\nIdees clau: reconèixer i expressar emocions, entendre les dels altres, sentir per decidir i validar les diferents maneres de sentir.",
+    "notes": "Si a algú li costa connectar amb les emocions, podeu fer-li preguntes més concretes: com reaccionaries? Què diries o què faries? Creus que està bé? Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 2 - Com em sento quan...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: gestió de les emocions, empatia). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16580-itinerari-cee-violencies-sexuals--sessio-2--c.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-compartim-plaer-per-parelles",
+    "titol": "Compartim plaer per parelles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Una ploma i una pilota petita per parella. També serveixen teles, esponges, cotó o altres objectes suaus o rugosos.",
+    "resum": "Per torns, cada persona demana a la seva parella què li ve de gust rebre; l'altra pot acceptar-ho o no, i negocien fins que tots dos estiguin a gust.",
+    "objectius": "Posar en relació el desig propi amb el dels altres i practicar com es negocien les necessitats de les dues parts.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "En parelles, amb una ploma i una pilota. Per torns, una persona té 5 minuts per demanar a l'altra què li ve de gust: carícies, pessigolles, res, silenci, contacte sense objectes, que no hi hagi contacte, que només l'escolti, que li expliqui un acudit... Com més concreta sigui la demanda, més profund serà l'exercici.\n\nL'altra persona pot acceptar la petició, si li ve de gust, o negar-s'hi. Llavors proven altres propostes fins que troben alguna cosa que agradi a tots dos.\n\nUn cop n'han gaudit una estona, intercanvien els rols.",
+    "avaluacio": "Heu pogut connectar amb el plaer?\nQuan heu gaudit més: quan donàveu o quan rebíeu?\nHa estat fàcil demanar? I dir que sí?\nA algú li han dit que no? Com s'ha sentit? I quan éreu vosaltres qui deia que no?\nUs ha passat mai desitjar molt una cosa que els altres no volien?\n\nAixò passa en tots els àmbits de la vida, també quan compartim sexe: com més respectem la voluntat pròpia i la dels altres, més gaudim.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16575-itinerari-cee-promocio-salut-sexual--sessio-1.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-crear-el-personatge",
+    "titol": "Crear el personatge",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Paper i retoladors per dibuixar.",
+    "resum": "Els grups dibuixen i completen un personatge a partir d'unes poques pistes, i després analitzen quin gènere i quina orientació sexual li han atribuït i per què.",
+    "objectius": "Reflexionar sobre el pensament binari i heteronormatiu i obrir la mirada a altres maneres de ser.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu introduir abans els conceptes de salut, sexualitat i salut sexual: poder viure la sexualitat de manera integral, autònoma, igualitària, satisfactòria i respectuosa.",
+    "descripcio": "En petits grups, l'alumnat dibuixa la silueta d'una persona a partir d'aquestes pistes: treballa en un hospital, va en moto, cuida la seva mare, que és gran, i li agrada cantar.\n\nPer completar el personatge, han de decidir:\n\n- Com es diu?\n- Quina és la seva professió?\n- Quina personalitat té?\n- Quines aficions i habilitats té?\n- Quina edat té?\n- Qui forma la seva família?\n\nCada grup presenta el seu personatge i tireu del fil:\n\n- Amb quin gènere l'heu identificat? Podria ser un altre?\n- Sabeu quina diferència hi ha entre sexe i gènere? Sabeu què són les persones intersexuals?\n- Sabeu què és una persona trans?\n- Quina orientació sexual us imagineu que té? Per què? Podria ser una altra?\n- La identitat de gènere depèn del sexe amb què naixem? Podria canviar al llarg del temps?",
+    "notes": "Forma part de la sessió «Ens qüestionem? Indagant en la diversitat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16569-ens-qestionem-indagant-en-la-diversitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-de-qui-es-la-culpa-debat-sobre-el-sexpreading",
+    "titol": "De qui és la culpa? Debat sobre el sexpreading",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "resum": "L'alumnat es posiciona a l'aula segons si creu que la difusió d'una foto íntima és culpa de qui la va fer o de qui la va enviar, i el grup desmunta els arguments que culpabilitzen la víctima.",
+    "objectius": "Diferenciar el sèxting del sexpreading, identificar la responsabilitat de qui difon i pensar com actuar com a grup.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Funciona després d'haver vist un cas de difusió d'imatges íntimes, com el vídeo de «La història de la Megan».",
+    "consignes": "A tothom li costa quedar-se sol en un grup, i de vegades anem on va la majoria o les amistats. No us amoïneu si us quedeu sols: us farem companyia.",
+    "descripcio": "Tothom s'aixeca i es col·loca al mig de l'aula. Un extrem és «És culpa de la Megan»; l'altre, «És culpa del noi». Al mig es posen els qui creuen que tots dos en són responsables o tenen una altra opinió. Es poden situar en qualsevol punt i canviar de lloc si canvien d'opinió. Quan s'han col·locat, s'asseuen allà mateix.\n\nPregunteu qui vol explicar per què s'ha posat on és i obriu el debat amb aquestes idees:\n\n«Si ella no s'hagués fet la foto, no hauria passat res.» Tot el que fem té conseqüències; amb aquesta lògica, seria millor no sortir de casa. Què hauria passat si ningú no hagués reenviat la foto?\n\n«Això li passa per confiar en qualsevol.» Som animals socials i interdependents: no sobreviuríem sense confiar en ningú.\n\nSi explico un secret a algú i l'endemà ho sap tothom, de qui és la responsabilitat? Per què aquí ens costa menys veure que la té qui explica el que no és seu? Seria igual si a la foto hi sortís un noi? Què hauria de sortir a la foto d'un noi perquè es fes viral i fos jutjat igual?\n\n«Què volia aconseguir el noi enviant la foto?» Popularitat al grup.\n\nSi haguessin tingut relacions sense pantalles i ell hagués explicat intimitats del cos de la noia, de qui seria la responsabilitat?\n\n«Només hi ha dos responsables?» Tota la classe jutja la noia, fins i tot el professor. És una situació de ciberassetjament i tot el grup hi està implicat. Què podem fer si ens arriba una imatge íntima? Demanar ajuda a una persona adulta (no és ser un xivato), donar suport a la persona afectada encara que no en siguem amics, no reenviar-la, parlar com a grup amb qui l'ha començat a difondre, tractar-ho a classe, i que qui agredeix i qui difon se'n facin responsables.",
+    "avaluacio": "Tanqueu remarcant que el sèxting és una pràctica sexual consentida i desitjada per totes les parts, mentre que el sexpreading és una violència: difondre imatges íntimes d'una altra persona sense permís. Si decideixo no compartir imatges íntimes, està bé; però si les comparteixo i les reenvien, jo no en soc culpable.\n\nCom sabem si podem confiar en algú? Hi ha senyals: que puc compartir el que necessito sense por del judici, que té temps per a mi i m'escolta, que mostra la seva vulnerabilitat.",
+    "notes": "Per tancar la sessió original es proposa un fragment de la sèrie «Sex Education» en què el grup respon col·lectivament a un cas de sexpreading.\n\nForma part de la sessió «Sexpreading» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de l’estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16566-sexpreading.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-detectius-de-mites-de-l-amor-romantic",
+    "titol": "Detectius de mites de l'amor romàntic",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 60,
+    "grup": "mitja",
+    "materials": "Text d'una escena on una parella demana consell a les seves amistats (la proposta original fa servir les escenes 4 i 5 de l'obra «L'equilibri és cosa de dos», disponibles al web de Sigues tu). Opcionalment, el vídeo «Mitocagada».",
+    "resum": "En grups, l'alumnat detecta en una escena els estereotips de gènere i els mites sobre la parella, i després la reescriu perquè els personatges construeixin una relació més sana.",
+    "objectius": "Identificar els estereotips de gènere i els mites de l'amor romàntic i reflexionar sobre com influeixen en les nostres relacions.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Dividiu la classe en grups de 5 o 6 persones. Cada grup llegeix una escena: després d'un any junts, la relació d'en Marc i la Raquel sembla anar bé, però apareixen indicis que alguna cosa no funciona, i cadascun demana consell a una amistat.\n\nEl grup detecta els comentaris que reflecteixen estereotips de gènere o mites sobre la parella, és a dir, normes no escrites sobre el que s'espera de nosaltres pel fet de ser noies o nois. Després ho posen en comú explicant quin estereotip o mite hi ha al darrere.\n\nIdees que poden sortir als consells entre nois:\n\n- S'exalten les conductes de risc: per molar has de «liar-la».\n- Els nois no han de parlar d'emocions; la por i la tristesa estan censurades.\n- «No t'enamoris massa»: cal mantenir el control a la relació.\n- «Com ella n'hi ha moltes»: no comprometre's, tractar l'altra persona com un objecte.\n- El més important és el físic: anar al gimnàs.\n- Fer regals per evitar discutir, en lloc d'atendre el que l'altra persona demana: és una manera de manipular.\n- «Un noi ha de donar seguretat a una noia»: posa la dona en inferioritat.\n\nIdees que poden sortir als consells entre noies:\n\n- Els nois només volen rotllos i les noies, relacions estables.\n- Una parella ha d'estar sempre enamorada com el primer dia; si no, no és amor.\n- Sentir-se més vàlida si tens parella; la idea de la «mitja taronja».\n- Ser responsable de les emocions de l'altre: «si m'ha cridat és perquè no li he preguntat bé».\n- Callar pel bé de la parella; justificar els comportaments agressius.\n- Fer el que li agrada a ell perquè t'estimi, encara que no t'interessi.\n- Mantenir-te guapa perquè no es fixi en ningú més.\n- Posar-li les coses difícils perquè s'enamori: és una forma de manipulació.\n- «Estem fets l'un per l'altre»: el mite que només hi ha un gran amor.\n\nDesprés, cada grup reescriu l'escena perquè les amistats donin consells que ajudin a construir una relació més sana. La poden llegir en veu alta, fer-ne una lectura dramatitzada o representar-la. El públic anota les frases que encara reforcin estereotips o mites, i en acabar es busquen alternatives entre tots.",
+    "avaluacio": "Com ha estat parlar d'aquests temes? Què us ha tocat, sorprès o impactat més?",
+    "notes": "És una proposta de continuïtat de l'obra de teatre «L'equilibri és cosa de dos» del programa Sigues tu. Si no heu vist l'obra, podeu fer servir una altra escena o escriure-la amb el grup. Les escenes reescrites es poden gravar per compartir-les amb altres grups i amb les famílies.\n\nForma part de la sessió «Proposta pedagògica teatre «L'equilibri és cosa de dos»» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: comunicació interpersonal, negociació i refús, empatia, pensament crític). Autoria: Companyia La Nave Va i Equip «Sigues Tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/18123-proposta-pedagogica-teatre-lequilibri-es-cosa.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-dir-que-no-dir-que-si",
+    "titol": "Dir que no, dir que sí",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "moviment",
+      "expressio-corporal",
+      "silenci",
+      "reflexio"
+    ],
+    "durada": 50,
+    "grup": "mitja",
+    "materials": "Cordill gruixut o guix per marcar cercles a terra. Fang, o paper i ceres.",
+    "resum": "En parelles, una persona marca el seu espai de seguretat i comunica amb la cara, amb gestos i amb paraules si vol que l'altra s'hi acosti; després creen junts una obra en silenci a l'espai compartit.",
+    "objectius": "Practicar el reconeixement dels límits propis i dels altres, i posar-los en diàleg.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú diu com se sent avui i parlar de per què és important saber com estem i què necessitem. Quan volem acostar-nos a algú sentim moltes coses (desig, necessitat que ens estimin, vergonya, por al rebuig) i és més fàcil fer mal o que ens en facin.",
+    "descripcio": "Primera part: espais de seguretat. En parelles, una persona marca un cercle a terra amb el cordill (o amb guix) i s'hi col·loca a dins. Els cercles han d'estar ben separats, a uns 3 metres.\n\nL'altra persona s'acosta molt a poc a poc, i la de dins li comunica si vol o no que s'acosti. Primer exploren el NO, de tres maneres: amb la cara o la mirada, amb gestos, i amb paraules o signant. Després, el SÍ, amb els mateixos tres registres.\n\nImportant: cal començar com a mínim a 3 metres, avançar molt a poc a poc i estar molt atent als senyals de l'altra persona. Si sembla que dubta o que no vol, encara que digui que sí, no us hi acosteu. Com a docents, estigueu atents a aquests senyals contradictoris.\n\nSegona part: obra d'art conjunta. Les parelles sobreposen els dos cercles, de manera que queda un espai compartit al mig. Cadascú s'asseu al seu espai mirant el compartit, i hi fan junts una escultura de fang o un dibuix en el mateix paper, sense parlar ni signar. En acabar, li posen un títol.",
+    "avaluacio": "Què ha estat més fàcil, dir que sí o dir que no?\nHo entenem millor amb paraules o amb el cos? Sempre que somric és perquè vull que s'acostin? De vegades diem que sí però no volem?\nQuè fa que ens costi dir què volem i què no?\nRecordeu que amb les paraules de vegades volem complaure, però el cos no enganya. Si dubtem, no correm.\n\nSobre l'obra: us ho heu passat bé? Podíeu fer el que volíeu? Heu dibuixat alhora o per torns? Ha sortit el que esperàveu?\n\nPer tancar, parleu dels mites de l'amor: com l'obra, les relacions mai no acaben tenint la forma que esperàvem. El consentiment ha de ser constant, perquè els desitjos i les persones canvien.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup. Si no hi ha espai o material, es pot fer en dues files enfrontades.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 3: L'art d'estimar» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: empatia, cooperació i treball en equip). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16577-itinerari-cee-promocio-salut-sexual--sessio-3.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-grup-de-whatsapp",
+    "titol": "El grup de WhatsApp",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "resum": "Tota la classe representa en directe un grup de WhatsApp a partir d'un missatge inicial polèmic, i després analitza la conversa.",
+    "objectius": "Promoure relacions basades en el respecte, el consentiment i la llibertat a les xarxes socials, i entrenar la defensa de qui no és present.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar preguntant de quants grups de WhatsApp entre iguals forma part cadascú (sense comptar els de la família) i anotar-ho a la pissarra.",
+    "descripcio": "Tota la classe, asseguda en cercle, forma part d'un grup de WhatsApp i hi pot participar activament o passivament.\n\nQui vol «escriure un comentari» s'aixeca, va al centre del cercle, el diu i torna a seure. Després s'aixeca qui vulgui respondre. Es poden acompanyar els comentaris amb fotos o vídeos «imaginaris», descrivint-ne el contingut.\n\nQui dinamitza inicia la conversa amb una d'aquestes frases:\n\n- «Ei, que fort! M'ha arribat una foto de la Marina despullada! Ha armat un bon merder!»\n- «Ei, us heu assabentat que la Lubna ho ha deixat amb el Mario?» «Ah, sí? Per què?» «Diu que la controlava moltíssim amb el mòbil.»\n- «Al Mamadú li agrada molt una noia de la classe. Ja ho sap tothom! No té res a fer!» «Potser a ella també li agrada, què en sabeu?»\n\nQui dinamitza, o una persona voluntària, va anotant la conversa. Quan acaba, llegiu-la i analitzeu-la.",
+    "avaluacio": "Us ha costat el mateix que en un grup real? Les converses haurien estat iguals? Què hauria canviat?\nEns comportem igual dins i fora de la xarxa? Les conseqüències són les mateixes?\nHi ha hagut comentaris que us han incomodat? Per què?\nQuines opcions tenim quan rebem contingut que fa mal a algú?\nQui ha defensat algú que no era present? Com ho hauríeu pogut fer millor?\nQuines frases podem tenir preparades per quan algú comparteix una imatge o informació privada d'una altra persona?\nQuines conseqüències té compartir una foto íntima sense permís, per a qui hi surt i per a qui la comparteix?\n«Només era una broma» ho justifica tot?\nEs jutja diferent una noia que un noi que envia una foto íntima? Per què?",
+    "notes": "Forma part de la sessió «Xarxes socials» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16512-xarxes-socials.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ens-cuidem-entre-tots",
+    "titol": "Ens cuidem entre tots",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "expressio-corporal",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Per torns, una persona es posa al mig de la rotllana i demana al grup què necessita rebre: una pluja suau amb els dits, paraules boniques, una cançó, silenci...",
+    "objectius": "Practicar a identificar i demanar el que necessitem, i a rebre i donar cures.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Plantegeu-ho: un cop sé com estic i què necessito, com ho aconsegueixo? De vegades no necessitem els altres, però de vegades sí. De vegades la gent entén el que necessitem sense dir-ho, però sovint ho hem de demanar. I de vegades no volen o no poden ajudar-nos: què fem llavors?\n\nUna persona es posa al mig de la rotllana i diu a la resta què li agradaria rebre. Per exemple: una pluja suau amb els dits, que la masseguin fort, carícies, copets, un bany de sons sense contacte, silenci, paraules boniques, una cançó, moviment al seu voltant sense tocar-la...\n\nEl grup li ho dona, i passa una altra persona.",
+    "avaluacio": "Com esteu? Com us heu sentit?\nHa estat fàcil saber què volíeu i demanar-ho?\nHa estat fàcil rebre el que us donaven?\nCom us heu sentit quan us demanaven alguna cosa?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup. Cal un grup amb confiança i respectar que qualsevol persona pugui demanar no ser tocada.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 2: Amor propi» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16576-itinerari-cee-promocio-salut-sexual--sessio-2.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ens-descobrim-amb-el-tacte",
+    "titol": "Ens descobrim amb el tacte",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "ulls-tapats",
+      "expressio-corporal",
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Un pinzell nou i suau per persona.",
+    "resum": "Amb els ulls tancats, l'alumnat escolta el cor i la respiració, s'explora la cara com si fos la primera vegada i s'acaricia amb un pinzell.",
+    "objectius": "Entrar en contacte amb un mateix per poder cuidar-se: per cuidar-nos, cal escoltar-nos.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Podeu introduir l'autoestima preguntant què és estimar i com ho fem per estimar els altres.",
+    "descripcio": "Preferiblement amb els ulls tancats, guieu l'exploració:\n\n- Sentim els batecs del cor. Quina música fan? Quin ritme tenen? I la respiració? Gaudim del nostre ritme.\n- Ens toquem la cara com si fos la primera vegada. Explorem les formes, les textures i les temperatures. Sentim l'aire que entra i surt pel nas.\n- Ens acariciem la cara i les mans amb el pinzell. Quines zones ens donen més plaer?",
+    "avaluacio": "Tanqueu remarcant la importància de saber com estic, què necessito i què em fa gaudir.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 2: Amor propi» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16576-itinerari-cee-promocio-salut-sexual--sessio-2.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-escultures-d-emocions",
+    "titol": "Escultures d'emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "musica",
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música tranquil·la (opcional).",
+    "resum": "L'alumnat camina per l'aula i, en sentir «Stop!», fa una escultura amb el cos que expressi una emoció; la resta l'ha d'endevinar.",
+    "objectius": "Experimentar amb el cos diferents emocions i adonar-se que no tothom les sent ni les expressa igual.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "El grup camina per l'aula tranquil·lament, si voleu amb música. Al cap d'una estona, digueu «Stop!»: cadascú fa una escultura amb el cos que expressi una emoció i s'hi queda quiet.\n\nAneu passant persona per persona i pregunteu a la resta quina emoció creuen que representa. Anoteu les emocions a la pissarra.\n\nFeu unes quantes rondes perquè tothom pugui experimentar diferents emocions i maneres d'expressar-les.",
+    "avaluacio": "No tothom sent les emocions de la mateixa manera ni les expressa igual.",
+    "notes": "Si a algú li costa connectar amb les emocions, pot expressar coses més concretes, com alguna cosa que li agrada o que no. Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 2 - Com em sento quan...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: gestió de les emocions, empatia). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16580-itinerari-cee-violencies-sexuals--sessio-2--c.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-espai-de-seguretat",
+    "titol": "Espai de seguretat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "parelles",
+      "expressio-corporal",
+      "musica",
+      "silenci",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Trossos de corda (millor de roba) o guixos si es fa al pati. Fang o paper i colors. Música.",
+    "resum": "Cadascú marca a terra el seu espai de seguretat i indica, sense paraules i amb paraules, fins on deixa acostar els altres; després, en parelles, creen una obra en silenci a l'espai compartit.",
+    "objectius": "Sensibilitzar sobre el consentiment i el respecte als límits propis i dels altres, entrenant l'habilitat de negociació i refús.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú diu el seu nom i quina creu que és la seva línia vermella en una relació sexoafectiva.",
+    "descripcio": "Primera part. Repartiu una corda a la meitat de la classe. Cadascú marca a terra un cercle amb la corda: el seu espai de seguretat, més gran o més petit segons l'espai vital que creu que necessita. Es queda a dins.\n\nPoseu música. L'altra meitat camina per l'espai i, quan s'atura la música, s'acosta a un dels cercles. Qui és a dins ha de comunicar si vol que s'acosti més o no, de tres maneres successives:\n\n- Sense gestos (amb el cos i la mirada).\n- Amb gestos.\n- Amb paraules o signant.\n\nRepetiu-ho unes quantes vegades i canvieu els rols.\n\nSegona part. Tothom fa el seu cercle i s'aparella. Les parelles sobreposen els seus dos cercles, de manera que queda un espai compartit al mig. Cadascú s'asseu a la seva zona mirant l'espai compartit i, sense parlar ni signar, fan junts una escultura de fang (o un dibuix). Deixeu-hi de 5 a 10 minuts.",
+    "avaluacio": "Com ha estat quan algú volia entrar? Quines emocions han aparegut? Ha estat igual amb tothom? De què depèn?\nCom us heu comunicat? Ha estat fàcil?\nCom ha anat la creació conjunta? Hi ha hagut consens o algú ha dominat? Heu creat tots dos per igual? Us agrada el resultat?\nTé res a veure el gènere?\nQuè fa que puguem posar més o menys límits? D'on surt aquesta seguretat?",
+    "notes": "Alternativa sense cordes: dues files enfrontades que formen parelles. Una fila es queda quieta i l'altra s'acosta; els límits es marquen de les mateixes tres maneres. Es pot fer moure una fila una o dues posicions per canviar de parella.\n\nForma part de la sessió «Límits i consens» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16521-limits-i-consens.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-et-mires-al-mirall",
+    "titol": "Et mires al mirall?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio",
+      "moviment"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "A partir de preguntes cada vegada més íntimes sobre com ens mirem al mirall, l'alumnat s'aixeca si s'hi identifica i observa què li passa en exposar-se davant el grup.",
+    "objectius": "Reflexionar sobre la relació amb el propi cos i sobre la vergonya o la seguretat d'exposar-se davant els altres.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Expliqueu que continuareu explorant i que posareu atenció en el que us passa davant les preguntes i en exposar-vos davant el grup: si fa vergonya, si és igual, si en presumim...\n\nComenceu preguntant: «Us mireu al mirall?». Després obriu el debat:\n\n- En quin moment del dia ho feu?\n- Com us mireu? Què mireu?\n- Qui es mira la cara? (s'aixequen els qui ho fan)\n- Qui es mira el cos sencer? (s'aixequen els qui ho fan)\n- Qui es mira despullat al mirall? (s'aixequen els qui ho fan)\n- Qui es mira o s'ha mirat alguna vegada els genitals en un mirall? Aclariu que no cal respondre en veu alta.\n\nSi en sorgeix, poseu en relleu la qüestió de gènere.",
+    "notes": "Cal que el grup estigui cohesionat i sigui respectuós. Si no podeu garantir aquesta seguretat, feu-ho amb els ulls tancats i alçant la mà, per respectar la intimitat.\n\nForma part de la sessió «Canvis en la pubertat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16511-canvis-en-la-pubertat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-explorem-les-emocions-amb-la-musica",
+    "titol": "Explorem les emocions amb la música",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "musica",
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Sis cartells amb cares que expressin alegria, tristesa, ràbia, por, fàstic i vergonya. Quatre músiques de registres molt diferents.",
+    "resum": "Mentre sonen músiques molt diferents, l'alumnat es desplaça a la zona de l'aula que correspon a l'emoció que sent.",
+    "objectius": "Aprofundir en com expressem el que sentim, tant si és plaer com si és neguit, ràbia o fàstic.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Cal que l'alumnat hagi treballat abans la identificació d'emocions. Dividiu l'aula en sis espais i poseu-hi un cartell a cadascun.",
+    "descripcio": "Poseu quatre músiques de registres molt diferents. Amb cada una, l'alumnat escolta, es desplaça (sol o amb suport) i es col·loca a la zona de l'emoció que sent.\n\nMúsiques recomanades: «Happy Voices» (René Aubry), «Nuvole bianche» (Ludovico Einaudi), «Blackout» (Muse) i «Ice, Wind & Fire» (Uli Jon Roth).\n\nSi algú connecta amb una emoció que no hi és, pot col·locar-se en un altre lloc i anomenar-la.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16575-itinerari-cee-promocio-salut-sexual--sessio-1.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-genitals-de-plastilina",
+    "titol": "Genitals de plastilina",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Imatges impreses de genitals diversos (vulves, penis i genitals intersexuals) i una peça de plastilina per persona.",
+    "resum": "Després d'observar la diversitat de les mans, l'alumnat tria una imatge de genitals, n'aprèn el nom de les parts i la reprodueix en plastilina.",
+    "objectius": "Conèixer els genitals, la seva diversitat i la seva capacitat de plaer, i parlar de la intimitat i el consentiment.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Obriu amb preguntes: us fa vergonya parlar d'aquestes parts del cos? En podeu parlar amb algú? Amb qui? Per què no amb tothom? Expliqueu que, com que fa vergonya, sovint en desconeixem la diversitat i les parts.\n\nPoseu totes les mans juntes i observeu-ne les diferències: arrugues, color, línies, pèl, volum, tacte. Com les mans, els genitals també són molt diferents els uns dels altres.\n\nMostreu les imatges i que cadascú en triï una. Anomeneu vulves, penis i genitals intersexuals, busqueu-ne les diferències i poseu nom a les parts: gland del clítoris, prepuci, llavis interns i externs, vagina, gland del penis, testicles...\n\nCadascú reprodueix en plastilina el model que ha triat. Després, deixeu una estona per contemplar les escultures dels altres i resoldre dubtes.",
+    "avaluacio": "Tanqueu parlant de la intimitat i dels límits:\nParlar de genitals o veure'ls pot fer vergonya. Què necessiteu quan una cosa us fa vergonya?\nPodem mirar-nos o tocar-nos els genitals a qualsevol lloc? Com se senten els altres si ho fem?\nQuè podem fer si una persona adulta ens toca o ens mira els genitals, o ens demana que els hi toquem?\n\nLes persones adultes no ens poden tocar ni mirar els genitals si no és per rentar-nos o curar-nos. Quan som petits o adolescents fem cas als adults perquè hi confiem, però els adults també s'equivoquen.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 4: El nostre cos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16578-itinerari-cee-promocio-salut-sexual--sessio-4.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-i-jo-com-soc",
+    "titol": "I jo, com soc?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Fulls i bolígrafs, o plastilina de diversos colors.",
+    "resum": "Cada persona reflexiona sobre el que li agrada de si mateixa més enllà de l'estètica, per escrit o modelant el seu cos amb plastilina.",
+    "objectius": "Facilitar una mirada pròpia i amorosa sobre el cos i les capacitats, al marge dels cànons de bellesa.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Hi ha dues opcions, segons les necessitats comunicatives del grup.\n\nOpció A. Escriviu aquestes preguntes a la pissarra i cadascú les respon en un full:\n\n- En què et fixes quan coneixes algú? Què t'agrada de la gent?\n- Tres coses que t'agraden de la teva manera de ser.\n- Tres qualitats físiques teves que no tinguin a veure amb l'estètica.\n- Tres coses que se't donen bé.\n\nOpció B. Cadascú modela el seu cos amb plastilina, amb calma i sense pressa. Convé que qui dinamitza també en faci una. Recordeu que no hi ha una manera correcta de fer-la: es valora el procés, no el resultat. Al final, poseu totes les figures al centre de la rotllana i parleu-ne.",
+    "avaluacio": "Opció A: recupereu com ha anat, a l'inici, dir coses que us agraden de vosaltres. Sovint no veiem la nostra bellesa perquè hem après que només hi ha una manera de ser guapo: l'estereotip.\n\nOpció B: com us heu sentit fent l'escultura? Podeu descriure la figura sense interpretar-la (per exemple: «un cos alt i prim, amb un braç més llarg que l'altre, que no s'aguanta dret»)? S'assembla al vostre cos? Alguna part del vostre cos té una història que vulgueu compartir? Com ens podem cuidar perquè els cànons no afectin la nostra autoestima?\n\nPer tancar: com ajudaríeu un amic que no està a gust amb alguna part del seu cos?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 3: Una norma, molts cossos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: autoconeixement, pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16581-itinerari-cee-violencies-sexuals--sessio-3-un.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ja-no-m-estimes",
+    "titol": "Ja no m'estimes",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "expressio-corporal",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "El docent fa de parella gelosa i manipuladora davant tota la classe, que fa de l'altre membre de la parella; després analitzen les estratègies de control i xantatge que han aparegut.",
+    "objectius": "Identificar les conductes de control i de xantatge emocional que pot provocar la gelosia, i com hi responem.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Qui dinamitza fa d'un membre de la parella i tota la classe, conjuntament, fa de l'altre.\n\nSituació: és divendres i el membre de la parella que representa la classe ha quedat per sortir de festa amb una altra persona sense convidar-lo. Qui dinamitza, amb un to subtil però intencionat, fa servir la manipulació emocional per fer-lo sentir culpable i egoista, i aprofita que últimament es veu molt amb aquella persona per generar sospites. Frases que poden ajudar:\n\n- Per què no m'havies dit que sorties de festa?\n- Com és que no m'has convidat?\n- Últimament us veieu molt, oi? És molt simpàtica, no?\n- Fins a quina hora estaràs a la festa?\n- T'has posat molt guapa per sortir amb una amiga qualsevol, no?\n- No és de tu que desconfio, és dels altres.\n- Tranquil·la, ja em quedaré sola a casa mirant sèries.\n- Sembla que ja no m'estimis.",
+    "avaluacio": "Què em passava emocionalment? Era gelosia?\nQuines estratègies feia servir per gestionar-la? (control, xantatge emocional)\nI vosaltres, quines heu fet servir? És probable que en algun moment hàgiu cedit al xantatge, proposant que vingués a la festa o canviant de plans per evitar el conflicte.\nNo sempre és fàcil identificar aquestes estratègies mentre les fem servir. Heu notat algun dels vostres crítics interns mentre us comunicàveu?\nCom podem cuidar les nostres inseguretats per no fer mal als altres quan sentim gelosia? (autoconeixement, comunicació assertiva, respecte als límits propis i dels altres)",
+    "notes": "Forma part de la sessió «Gelosia» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21551-gelosia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-jo-cuido-la-meva-motxilla",
+    "titol": "Jo cuido la meva motxilla",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "emocions",
+      "cooperatiu"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "La motxilla de paper d'embalar amb els crítics interns, colors i papers.",
+    "resum": "En grups, l'alumnat fa una llista d'estratègies per quan sent gelosia intensa i les afegeix, en forma de dibuixos o paraules, a la motxilla del grup.",
+    "objectius": "Construir col·lectivament estratègies de gestió emocional per a unes relacions més sanes.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En grups de 3 o 4, l'alumnat fa una llista de coses que podria fer quan sent gelosia de manera intensa. Preguntes per orientar-los (entre parèntesis, idees per si els costa):\n\n- Com podem cuidar la nostra motxilla emocional? (parlar amb gent que ens escolti sense jutjar, aturar-nos a sentir com estem, envoltar-nos de gent que ens tracta bé, recordar que els nostres malestars són nostres i no culpar-ne la parella)\n- Com podem cuidar la nostra inseguretat? (fer el que ens agrada i el que se'ns dona bé, explicar a les amistats que estem afectats i necessitem que ens recordin que ens estimen)\n- Què ens podem dir en aquests moments? (que comparar-se amb els altres fa mal; comparar-nos amb nosaltres mateixos: com era abans i com soc ara; mirar el que fem bé; que tot passa; que la gelosia ens fa creure coses que no són certes)\n- Què podem fer per sentir-nos millor? (menjar bé, fer activitat física per baixar al cos i desconnectar dels pensaments negatius)\n- Podem demanar suport a la parella? Com? (preguntar-li si el que pensem és cert, explicar-li el que sentim sense fer-la responsable)\n\nPodeu introduir també la idea que de vegades la gelosia s'activa quan no es compleixen els pactes de la relació.\n\nDesprés, els grups transformen les idees en imatges, paraules, dibuixos o petites representacions, i les afegeixen a la motxilla, al costat dels crítics interns.",
+    "avaluacio": "Poseu un títol al mural de la motxilla i, si hi ha temps, compartiu què us ha passat durant la sessió.",
+    "notes": "Forma part de la sessió «Gelosia» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21551-gelosia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-autoestima-depen-nomes-d-un-mateix",
+    "titol": "L'autoestima depèn només d'un mateix?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio",
+      "escriptura"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En grups, l'alumnat busca arguments a favor i en contra de l'afirmació «L'autoestima depèn només d'un mateix».",
+    "objectius": "Prendre consciència de com els cànons de bellesa i l'entorn afecten l'autoestima.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En grups de 5 persones, cada grup busca 5 arguments a favor i 5 en contra de l'afirmació: «L'autoestima depèn només d'un mateix».\n\nDesprés es posen en comú en el gran grup.",
+    "avaluacio": "Si s'ha descrit abans el cànon de bellesa actual, recupereu-lo:\nRepresenta les persones de la vida real?\nQuins interessos hi ha darrere d'aquests models? Qui hi guanya i qui hi perd?\nCom ens afecta que es repeteixin? (comparar-nos, autoestima, salut física, mental i social)\nPer què és important adonar-se'n?\nCom ens podem cuidar? (envoltar-nos de persones que ens fan sentir bé, qüestionar, estimar-nos tal com som, celebrar el que ens fa únics)\n\nSi l'alumnat ha escrit al principi una llista privada del que li agrada del seu cos: el que hi heu posat respon al cànon? Si no existís aquesta norma, opinaríeu diferent del vostre cos? Hi trauríeu o hi afegiríeu alguna cosa?",
+    "notes": "Forma part de la sessió «Una norma, molts cossos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Cooperativa Candela i Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16510-una-norma-molts-cossos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-escultura-del-grup",
+    "titol": "L'escultura del grup",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Figures d'animals o peces de fusta de formes i mides diferents, i una taula.",
+    "resum": "Cadascú tria un animal que el representa, en busca tres característiques compartides i el col·loca en una taula segons l'espai que creu que ocupa al grup.",
+    "objectius": "Reflexionar sobre la imatge que tenim de nosaltres dins el grup i sobre el que hi necessitem.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Al començament de la sessió, presenteu les figures d'animals i que cadascú en triï una amb la qual s'identifiqui. Es presenten dient el nom, l'animal i per què l'han triat, i el guarden.\n\nAl final, recuperen l'animal. Cadascú pensa com és: quines coses té en comú amb l'animal (força, mida, suavitat o aspresa, velocitat, caràcter...) o quines altres característiques el fan especial. N'ha de trobar tres.\n\nPer torns, cada persona comparteix les seves tres característiques i col·loca l'animal sobre una taula, que representa el grup, segons l'espai que creu que hi ocupa.\n\nQuan hi són tots, deixeu un moment perquè qui vulgui mogui el seu animal (només el seu) per sentir-se més a gust.",
+    "avaluacio": "Com soc jo en aquest grup? Tímid, xerraire, dolç, mogut...?\nQuè necessito en aquest grup? Que em mirin més, que m'abracin, que em donin espai...?\nSi escau, el grup pot posar un títol a la imatge final.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 2: Amor propi» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16576-itinerari-cee-promocio-salut-sexual--sessio-2.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-iceberg-de-les-violencies",
+    "titol": "L'iceberg de les violències",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Fulls, bolígrafs i pissarra.",
+    "resum": "Els grups fan la llista dels tipus de violència que coneixen i, entre tots, els col·loquen en un iceberg que distingeix les violències estructurals de les seves manifestacions.",
+    "objectius": "Anomenar les diferents violències de gènere i entendre com s'entrellacen amb altres violències estructurals.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú diu el seu nom i una acció o un gest que per a ell seria tot el contrari de la violència (amor, tendresa, respecte, empatia...).",
+    "descripcio": "En grups de 3 o 4 persones, l'alumnat parla de què és per a ells la violència i escriu en un full diferents tipus de violència.\n\nPoseu-ho en comú i escriviu-los a la pissarra en columnes: masclisme, racisme, violència sexual, psicològica, física, verbal...\n\nDibuixeu un iceberg. Expliqueu que una característica habitual de les violències és que costa identificar-les i anomenar-les. És fàcil anomenar una violència quan la veiem, la patim o l'exercim? Què ens passa? La culpa, la vergonya, la por que no ens creguin o que ens facin dubtar del que hem viscut...\n\nAmb l'ajuda de l'alumnat, col·loqueu les violències a l'iceberg. Distingiu les violències estructurals (masclisme, racisme, capacitisme, classisme, edatisme...), que són la base de l'iceberg i les ideologies que justifiquen la violència, del lloc on impacten (violència psicològica, física, verbal, sexual...). Cada violència estructural podria ser un iceberg per si sola.",
+    "avaluacio": "Què fa que identifiquem unes violències i unes altres no?\n\nParleu de l'escalada de la violència: amb el costum, normalitzem situacions d'incomoditat i de dolor que van a més. Abans d'arribar a la violència física hi ha hagut moltes altres expressions de violència que hem acceptat com a normals.",
+    "notes": "Forma part de la sessió «Gènere, masclisme i més» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16571-genere-masclisme-i-mes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-illa-de-la-sexualitat",
+    "titol": "L'illa de la sexualitat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "competitiu",
+      "reflexio"
+    ],
+    "durada": 60,
+    "grup": "mitja",
+    "materials": "Pissarra o paper de mural per dibuixar l'illa. Opcionalment, imatges de les parts del cos per projectar.",
+    "resum": "Joc per grups en quatre proves (cos i plaer, mites, salut sexual i consentiment) per aconseguir les lletres que formen el nom de la capital de l'illa: PLAER.",
+    "objectius": "Resoldre dubtes sobre la sexualitat i practicar la presa de decisions de manera informada i respectuosa.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Dibuixeu un quadrat dividit en quatre regions amb un cercle al centre: la capital de l'illa. Llegiu: «Esteu atrapats en una misteriosa illa del coneixement sexual. Per sortir-ne, haureu de descobrir quina és la seva capital i demostrar que coneixeu el vostre cos i sabeu prendre decisions sanes. Compte, algunes respostes us poden portar per camins equivocats!».\n\nFeu grups de 4 a 6. A cada prova, el grup amb més encerts (com a màxim dos grups) guanya una lletra.\n\nProva 1. El mapa del plaer (lletra P). Endevinen de quina part del cos es parla: és l'òrgan sexual més important (el cervell); té més terminacions nervioses que cap altra part del cos (el clítoris); és una zona erògena sovint desconeguda en els homes (la pròstata); poden donar plaer a persones de qualsevol gènere (els mugrons); una de cada cent persones neix amb característiques sexuals que no encaixen en el binari (genitals intersexuals).\n\nProva 2. Mites i pràctiques (lletra L). Decideixen si cada frase és mite (vermell) o realitat (verd): «Les dones tenen menys desig que els homes» (mite). «Tenir sexe vol dir penetració» (mite). «El desig canvia al llarg de la vida» (realitat). «Una relació sexual acaba quan el noi ejacula» (mite). «Les noies arriben a l'orgasme amb la penetració» (mite). «La mida del penis o dels pits no fa millor la relació» (realitat). «En les relacions entre dones també cal protecció» (realitat). «Si et baralles molt amb la parella és que us estimeu molt» (mite). «Si dius que no a una pràctica sexual és que ets infantil» (mite).\n\nProva 3. Passaparaula de salut sexual (lletra A). A: mètodes que eviten l'embaràs (anticonceptius). C: la millor manera de prevenir les ITS i l'embaràs en les relacions amb penetració (condó). D: ganes d'estar a prop d'algú o de tenir-hi contacte íntim (desig). I: es poden prevenir fent servir protecció (infeccions de transmissió sexual). M: el cicle que viuen cada mes les persones que menstruen (cicle menstrual). V: ITS que provoca berrugues genitals i està relacionada amb diversos càncers (virus del papil·loma humà, VPH).\n\nProva 4. Emocions i consentiment (lletra E). Guanya el grup que resol les situacions tenint en compte les emocions i l'impacte en un mateix i en els altres:\n\n- Tens ganes de tenir relacions però et sents insegur amb el teu cos.\n- Vols embolicar-te amb algú del teu gènere però tens por que et jutgin.\n- La teva parella vol anar més enllà, tu no, i et diu que si no ho fas és que no l'estimes prou.\n- Tens ganes de fer un petó a algú amb qui flirteges però no saps si ell o ella vol.\n- La teva parella sembla molt emocionada i et dona senyals que vol continuar, però tu no et sents segur.\n- Vols explorar pràctiques sexuals però no saps per on començar.\n\nAmb les lletres P, L, A i E, endevinen l'última, la R, i descobreixen la capital: PLAER.",
+    "avaluacio": "Com pot influir el plaer en la manera de prendre decisions sobre les relacions?\nQuè vol dir per a tu sentir plaer en una relació?\nPer què és important cuidar la salut en una relació?\nQuè hem après sobre el cos i la sexualitat? Com ho podem aplicar a altres àmbits de la vida?",
+    "notes": "Es recomana fer l'illa en un paper de mural per poder-hi tornar durant el curs. Trieu les frases i les situacions que s'ajustin millor a l'edat i al grup.\n\nForma part de la sessió «El teu sexe, la teva decisió» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24421-el-teu-sexe-la-teva-decisio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-historia-de-la-megan",
+    "titol": "La història de la Megan",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure el vídeo «La història de la Megan» (sobre el sexpreading).",
+    "resum": "Després de veure un vídeo sobre la difusió d'una foto íntima, l'alumnat separa els fets de les interpretacions i imagina en grups la història de la protagonista.",
+    "objectius": "Diferenciar els fets de les interpretacions i posar-se en el lloc de qui pateix la difusió d'una imatge íntima.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu començar parlant de l'estrès: què és, com apareix en les relacions sexoafectives, i fer una ronda en què qui vulgui expliqui una situació que li generi estrès.",
+    "descripcio": "Mireu el vídeo «La història de la Megan». Cadascú anota individualment les preguntes que li sorgeixen.\n\nDesprés, demaneu a l'alumnat que expliqui de manera objectiva què ha vist: només els fets, sense interpretar.\n\nEn grups de 3, cada grup inventa una breu història per a la Megan. Per exemple: envia una foto dels seus pits a un noi d'un curs superior amb qui flirteja però amb qui no surt; les amigues li diuen que no passa res si ho fa, o tot al contrari...\n\nPoseu en comú les històries.",
+    "avaluacio": "Com ha estat explicar els fets de manera objectiva? I de manera subjectiva? Us heu recreat en la història?\nHeu parlat de com se sent la Megan? I les persones que reben la foto? Algú li ho dirà?\nUs ha passat mai alguna cosa semblant?",
+    "notes": "Forma part de la sessió «Sexpreading» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de l’estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16566-sexpreading.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-meva-motxilla",
+    "titol": "La meva motxilla",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Paper d'embalar amb una motxilla gran dibuixada, papers petits, bolígrafs.",
+    "resum": "Cada persona escriu de manera anònima els seus «crítics interns», les veus que la limiten, i el grup els recull dins una motxilla dibuixada.",
+    "objectius": "Reconèixer les inseguretats pròpies com a punt de partida per gestionar emocions com la gelosia.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu introduir el tema amb l'afirmació «La gelosia és una mostra d'amor: si algú la sent, és perquè ens estima». La gelosia és una emoció que tothom pot sentir, sovint lligada a les pròpies inseguretats; el que determina si és sana o no és com la gestionem. Si la projectem en l'altra persona amb manipulació, xantatge o control, genera relacions poc sanes. Diferencieu-la de l'enveja, que apareix quan desitgem una cosa que té una altra persona.",
+    "descripcio": "Dibuixeu una motxilla gran en un paper d'embalar.\n\nExpliqueu què són els crítics interns: veus interiors que limiten la nostra llibertat de ser i d'actuar, com ara «no en saps prou», «no ho aconseguiràs mai» o «et quedaràs sol». Qui dinamitza pot compartir-ne algun de propi com a exemple: «penso que no soc prou divertida», «que no soc bona en matemàtiques», «que tinc el front massa gran».\n\nCadascú pensa i escriu els seus crítics interns, un en cada paper petit, de manera anònima. Recolliu els que l'alumnat vulgui compartir i enganxeu-los dins la motxilla de manera que es puguin llegir.\n\nNo cal llegir-los tots en veu alta, perquè poden ser molt durs. Podeu llegir-ne uns quants o deixar que qui vulgui en comparteixi algun.",
+    "avaluacio": "Aquests crítics formen part de la motxilla emocional del grup. Reconèixer-los és el primer pas per entendre com ens afecten.",
+    "notes": "Continua amb «Ja no m'estimes» i «Jo cuido la meva motxilla».\n\nForma part de la sessió «Gelosia» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21551-gelosia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-recepta-del-plaer",
+    "titol": "La recepta del plaer",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "materials": "Pissarra. Pictogrames d'emocions (opcional).",
+    "resum": "Pluja d'idees per escriure, com si fos una recepta, els ingredients que necessitem per gaudir d'alguna cosa.",
+    "objectius": "Identificar les condicions que fan possible gaudir: escoltar-se, cuidar-se i comunicar límits i necessitats.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Escriviu a la pissarra, en forma de recepta, la resposta a la pregunta: «Què necessitem per gaudir d'alguna cosa?».\n\nPoden sortir ingredients com: estar còmodes, estar tranquils i segurs, saber què vull i quan, que ningú no ens jutgi, estar connectats amb nosaltres mateixos...\n\nEls pictogrames d'emocions poden ajudar a facilitar el diàleg.",
+    "avaluacio": "Idees clau per tancar: escoltar-nos per cuidar-nos; cuidar-nos i cuidar per gaudir; comunicar els límits i les necessitats; identificar les emocions.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16575-itinerari-cee-promocio-salut-sexual--sessio-1.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-vulneracio-dels-drets-sexuals",
+    "titol": "La vulneració dels drets sexuals",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Pòsits, bolígrafs. El mural dels drets, si s'ha fet.",
+    "resum": "Cada grup fa la llista de situacions quotidianes en què es vulneren dos drets sexuals i reproductius, en representa una i la classe endevina quin dret és i com es podria respectar.",
+    "objectius": "Adonar-se de l'impacte dels drets sexuals i reproductius en el dia a dia, tant quan es respecten com quan es vulneren.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "En grups de 4 o 5. Doneu a cada grup dos drets i que facin una llista de situacions quotidianes que coneguin en què es vulneren, millor si són properes a la seva experiència. Exemples:\n\n- Igualtat: et jutgen per parlar de desig si ets noia; una parella de nois que va de la mà rep comentaris; es riuen d'un noi sensible o d'una noia decidida.\n- Vida i seguretat: et pressionen perquè enviïs fotos del teu cos; la parella et revisa el mòbil o et diu amb qui pots parlar i com has de vestir.\n- Privacitat: algú comparteix una foto íntima teva al grup de WhatsApp; expliquen a la teva família que tens parella sense el teu permís.\n- Informació i educació sexual: no saps on demanar preservatius; només et parlen dels perills; no t'expliquen res del clítoris i el plaer femení; només es parla de relacions heterosexuals.\n- Llibertat d'opinió: no es respecta el teu pronom; algú diu que li agraden les persones del mateix sexe i rep comentaris ofensius.\n- Accés a la justícia: una noia explica que un amic de la família la va tocar sense permís i li diuen que millor no dir res.\n\nDesprés, cada grup tria una de les situacions i en fa una petita representació. La resta de la classe ha d'endevinar quin dret es vulnera.\n\nEntre tots, busqueu estratègies perquè la situació es resolgui respectant el dret. Podeu escriure en dos pòsits la situació de vulneració i l'alternativa, i enganxar-los al mural.",
+    "avaluacio": "Heu trobat moltes situacions? Us ha sorprès?\nCreieu que aquests drets sempre es respecten?\nQuè podem fer a l'aula o a l'institut perquè es respectin?\nSi haguessis d'explicar a algú què són els drets sexuals i reproductius, què li diries?\n\nAlternativa de tancament amb el semàfor: cadascú diu una cosa que s'emporta (verd), una que li ha fet pensar (taronja) i una que no li ha agradat o li genera dubtes (vermell).",
+    "notes": "Forma part de la sessió «Drets sexuals i reproductius» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21550-drets-sexuals-i-reproductius.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-linies-vermelles",
+    "titol": "Línies vermelles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "subgrups",
+      "reflexio",
+      "emocions"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En parelles o trios, l'alumnat pensa quines són les línies vermelles que no s'haurien de tolerar en una relació sexoafectiva, les socials i les pròpies.",
+    "objectius": "Identificar els límits propis i compartits en les relacions sexoafectives i les estratègies per afrontar-ne la vulneració.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En parelles o grups de 3, l'alumnat pensa quines línies vermelles no s'haurien de tolerar en una relació sexoafectiva. A més de les socialment establertes, convideu-los a pensar en les pròpies, i en si sabrien afrontar-les i amb quins recursos.\n\nLínies vermelles socials: el control, les agressions o la violència física, la violència psicològica, el xantatge emocional, les humiliacions.\n\nLínies vermelles personals (exemples): la infidelitat, alguna pràctica sexual, «quan em sento..., no vull...».",
+    "avaluacio": "Compartiu les línies vermelles amb tota la classe. Detecteu les emocions que generen aquestes situacions (probablement es repetiran) i mireu quines estratègies hi ha: comunicar-se, conèixer-se, explicar-ho a persones de confiança, demanar ajuda, prendre decisions...",
+    "notes": "Forma part de la sessió «Línies vermelles» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16507-linies-vermelles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-mites-sobre-la-masturbacio",
+    "titol": "Mites sobre la masturbació",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Cada grup analitza un mite sobre la masturbació: quines emocions genera, si és cert i per què.",
+    "objectius": "Identificar com el que pensem sobre la masturbació afecta les nostres emocions.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "En grups de 3 o 4, cada grup rep un mite. Pensen quines emocions pot generar sentir-lo i si creuen que és cert o no, i per què. Després es posa en comú i s'anomenen les emocions que surten.\n\n«Hi ha una edat adequada per començar a masturbar-se.» Cada persona té el seu ritme per explorar el cos i el plaer. És habitual que els infants petits explorin els genitals; també hi ha persones que no ho fan mai. L'ideal és que la sexualitat ens faci sentir a gust i sigui triada.\n\n«Només ens masturbem per sentir plaer.» També ens podem masturbar per ansietat, per curiositat o per avorriment. Passa més quan no tenim una relació tranquil·la amb la masturbació, quan la vivim com una cosa prohibida sense entendre per què.\n\n«Masturbar-se és dolent per a la salut.» No ho és quan es fa amb voluntat i en circumstàncies que permeten gaudir-ne. Si la societat o la religió diuen que no és bo, potser no ho faig o ho faig sentint culpa. Però també puc fer-me la pregunta de manera genuïna i decidir, transformant la culpa en responsabilitat. De vegades, respectar la voluntat de la família o la religió també és cuidar-se.\n\n«Abans de tenir relacions sexuals amb algú, m'he de masturbar.» Es pot pensar que masturbar-se ajuda a saber què ens agrada abans de compartir la sexualitat. Però aquesta exploració també pot ser compartida, des de la curiositat i el diàleg.",
+    "notes": "Forma part de la sessió «Masturbació» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21554-masturbacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-on-sentim-el-plaer",
+    "titol": "On sentim el plaer?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "L'alumnat camina i representa amb el cos què sent en diferents llocs imaginats; després el grup s'adona de quines parts del cos no ha anomenat i per què.",
+    "objectius": "Connectar amb la capacitat de gaudir de tot el cos i parlar de les zones erògenes i els genitals, que solen ser tabú.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú anomena una activitat que gaudeix molt a través del cos. Més que aficions, busqueu moments amb sensacions corporals agradables: la dutxa, caminar descalç per l'herba, embrutar-se de fang...",
+    "descripcio": "L'alumnat es desplaça per l'espai. Aneu proposant que s'imaginin en llocs diferents (per exemple, sota una dutxa calenta, ficant els peus a l'aigua del mar, estirats al sol, enmig del vent) i que ho representin amb el cos. En cada situació, atureu-vos i pregunteu en quines parts del cos ho senten. Anoteu-les.\n\nTorneu al cercle i mireu la llista. És probable que no hi hagin sortit les zones erògenes ni els genitals.\n\nPregunteu per què no parlem de la vulva, el penis o els pits. Ens han demanat mai que no diguem aquestes paraules? Com la resta del cos, són zones amb pell, sovint especialment sensible. Anomeneu-les: llavis, coll, mugrons, orelles, genitals.",
+    "avaluacio": "No anomenem el plaer dels genitals perquè és tabú: ningú no en parla i pot generar sorpresa, vergonya o rebuig. Això no vol dir que aquestes parts del cos no siguin nostres, que no hi sentim coses ni que no les puguem gaudir.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 4: El nostre cos» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16578-itinerari-cee-promocio-salut-sexual--sessio-4.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-paraules-noves-sobre-diversitat",
+    "titol": "Paraules noves sobre diversitat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure un vídeo divulgatiu sobre la diversitat sexual i de gènere.",
+    "resum": "Mentre miren un vídeo sobre diversitat sexual i de gènere, l'alumnat anota les paraules noves o que li desperten curiositat i les comenta en grup.",
+    "objectius": "Conèixer el vocabulari bàsic de la diversitat sexual i de gènere.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Mireu un vídeo sobre la diversitat sexual i de gènere. Podeu aturar-lo per integrar els conceptes, o anotar-los per fer un mural sobre la diversitat.\n\nCadascú apunta una o dues paraules que li siguin noves o li despertin curiositat.\n\nDesprés les comparteixen en grups de 4 o 5 persones.",
+    "avaluacio": "Ronda final: com us heu sentit? Heu descobert alguna cosa nova? Us ha despertat curiositat?",
+    "notes": "Forma part de la sessió «Ens qüestionem? Indagant en la diversitat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16569-ens-qestionem-indagant-en-la-diversitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-perfil-de-xarxes-socials",
+    "titol": "Perfil de xarxes socials",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "parelles",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Mig foli i un bolígraf per persona.",
+    "resum": "Cadascú escriu la descripció honesta que faria de si mateix en un perfil per fer amistats, la comparteix en parelles i el grup analitza què ha destacat i per què.",
+    "objectius": "Entrenar l'autoconeixement observant com ens descrivim i què decidim mostrar.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Repartiu mig foli a cada persona. Individualment, imaginen i escriuen la descripció per a un perfil de xarxes socials per fer amistats o conèixer gent. Poden parlar de com es veuen físicament, de les seves habilitats, virtuts i punts forts, del que valoren de si mateixos. No hi ha d'haver mentides: ha de ser una descripció honesta.\n\nDeixeu uns minuts perquè ho comparteixin en parelles, fins on vulguin.\n\nEn gran grup, comenteu com ha anat. Podeu anotar a la pissarra els aspectes que han apuntat (físic, caràcter, aficions...) i marcar amb ratlles quants ho han fet, per veure'n la tendència.",
+    "avaluacio": "Ha estat fàcil o difícil? Què ha costat més?\nQuè heu destacat i en què us heu fixat? Per què destaquem unes coses i no unes altres?\nHeu dit mitges veritats?\nHauríeu fet una descripció diferent si fos per a una altra persona?",
+    "notes": "Per tancar la sessió original, l'alumnat passa per una taula amb una «caixa del tresor»: a dins hi ha un mirall amb una nota que diu «El tresor més gran que tens ets tu!».\n\nForma part de la sessió «Canvis en la pubertat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16511-canvis-en-la-pubertat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-preguntes-sobre-el-genere",
+    "titol": "Preguntes sobre el gènere",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra, paper i bolígraf.",
+    "resum": "Les parelles combinen una paraula relacionada amb el gènere amb una altra de la seva realitat (diners, edat, religió...) per formular una pregunta oberta i pensar-hi tres respostes.",
+    "objectius": "Practicar a fer-se preguntes sobre la construcció social del gènere i com afecta les nostres vides, connectant-la amb altres desigualtats.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Demaneu a l'alumnat la primera paraula que li vingui al cap relacionada amb el gènere i anoteu-les en una columna: home, dona, persona trans, violència, sexe, desig, masclisme, feminisme...\n\nAl costat, escriviu una altra columna amb paraules relacionades amb altres desigualtats que l'alumnat viu: racisme, religió, discapacitat, diners, edat, estructura familiar, institut, el nom del poble o la ciutat...\n\nEn parelles o grups de 3, l'alumnat inventa una pregunta que combini una paraula de cada columna (o del mateix camp semàntic). Les preguntes obertes donen més joc: «Com seria si...?», «Què passaria si...?», «Com...?».\n\nDesprés hi escriuen tres respostes diferents i argumentades. No cal que siguin el que pensen: només respostes possibles.\n\nCada grup llegeix en veu alta la seva pregunta i les respostes, i la resta pot afegir-hi preguntes i respostes noves. Insistiu que les aportacions al debat siguin, sempre que es pugui, preguntes.",
+    "avaluacio": "Sovint argumentem per tenir raó, no per aprendre. Com ha de ser una pregunta perquè sigui interessant i faci possible l'intercanvi d'opinions?",
+    "notes": "Forma part de la sessió «Gènere, masclisme i més» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16571-genere-masclisme-i-mes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-qui-li-diu-a-qui",
+    "titol": "Qui li diu a qui?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "Els grups pensen qui acostuma a dir algunes frases que són mites de la sexualitat i a qui van dirigides, i el grup en desmunta el missatge.",
+    "objectius": "Identificar mites i expressions habituals que promouen les violències sexuals. Parlar de consentiment i de com gestionar el rebuig.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En grups de 4 o 5 persones. Escriviu a la pissarra les frases següents. Cada grup ha de pensar qui les acostuma a dir i a qui van dirigides (nois, noies, mares, pares, amics, amigues...). Després es comenten en gran grup.\n\n«La primera vegada fa mal». Redueix la sexualitat a la penetració i l'associa amb el dolor i la por. Si la penetració fa mal és perquè no hi ha desig, no hi ha excitació o no es vol aquesta pràctica. És una frase dirigida a les noies.\n\n«Havia begut massa». Sovint es diu per justificar nois que han comès una agressió. Quan es parla de noies, en canvi, s'usa per responsabilitzar-les i culpar-les de no haver posat límits.\n\n«No facis el préssec, torna-ho a intentar». Es diu entre nois, en situacions de pressió de grup, amb la idea que insistint s'acaba aconseguint. Va de bracet amb la frase següent.\n\n«Diuen que no per semblar interessants». Pregunteu-vos què ens pot portar a dir que no quan algú intenta lligar amb nosaltres: que no ens agradi, que no en tinguem ganes, que tinguem por o vergonya... Què necessitem dels altres quan tenim por? Sempre tenim clar què volem? Què podem fer quan la resposta és ambigua? La pressió i la insistència funcionen quan no sabem què volem?\n\n«Com se t'acut sortir així de casa». La solen sentir les noies. Responsabilitza la persona agredida de l'agressió: si no haguessis portat faldilla curta, si no haguessis tornat sola a casa...",
+    "avaluacio": "Per parlar de consentiment podeu partir d'una idea bàsica: una de les coses que dona més plaer és el plaer de l'altra persona. Què cal fer per gaudir-ne? Estar atents als senyals de l'altra persona (si està relaxada o distant), preguntar què vol i assumir que la gràcia és el que passa entre totes dues, no arribar a fer el que un s'imaginava.\n\nParleu també del rebuig: què ens passa quan algú ens diu que no? Què ens fa pensar de nosaltres? I com se sent l'altra persona si accepto el límit que em posa?\n\nPer tancar, una ronda d'una paraula sobre com està cadascú.",
+    "notes": "Forma part de la sessió «Violències sexuals» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip Sigues Tu i Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/14490-violencies-sexuals.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-quins-drets-sexuals-i-reproductius-tenim",
+    "titol": "Quins drets sexuals i reproductius tenim?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "moviment"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Targetes amb els títols dels drets i targetes amb les seves descripcions, paper de mural, cola, tisores i retoladors.",
+    "resum": "Els grups han d'interactuar entre ells per aparellar els títols dels drets sexuals i reproductius amb les seves descripcions, i en fan un mural.",
+    "objectius": "Conèixer els drets sexuals i reproductius treballant de manera cooperativa.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar dialogant: què és un dret? Teniu drets? I deures? Amb què creieu que estan relacionats els drets sexuals i reproductius? Totes les persones tenim drets, i deures lligats a aquests drets: per exemple, tenim dret a no ser agredits i el deure de no agredir.",
+    "descripcio": "Feu grups de 4 o 5 persones. Repartiu a l'atzar les targetes de títols i de descripcions, de manera que cada grup n'hagi d'intercanviar amb els altres per aparellar-les.\n\nEls drets són:\n\n1. Igualtat i no-discriminació: gaudir de la sexualitat sense ser discriminat per gènere, edat, religió, orientació sexual, identitat o expressió de gènere o discapacitat.\n2. Vida, llibertat i seguretat: que no et facin mal ni físicament ni psicològicament.\n3. Autonomia i integritat del cos: decidir lliurement sobre el teu cos i la teva sexualitat.\n4. Privacitat: tenir espais protegits de la mirada dels altres i controlar què se sap de la teva sexualitat.\n5. Gaudir d'una sexualitat saludable: relacions plaents i segures, i serveis de salut sexual adequats.\n6. Beneficiar-te dels avenços científics.\n7. Informació sobre sexualitat: real, senzilla i accessible.\n8. Educació sexual integral: adequada a l'edat, basada en la ciència i en la igualtat de gènere.\n9. Casar-te o viure en parella, o no fer-ho, en una relació d'igualtat i lliure consentiment, i trencar-la quan vulguis.\n10. Tenir o no tenir fills.\n11. Llibertat d'opinió sobre la sexualitat i la reproducció.\n12. Associar-te i participar en la política per defensar els teus drets.\n13. Accedir a la justícia si es vulneren els teus drets.\n\nQuan ho tenen tot aparellat, ho enganxen en ordre al paper de mural i el decoren.",
+    "notes": "El mural pot quedar penjat a l'aula per anar-hi afegint, al llarg del curs, situacions en què es vulneren aquests drets.\n\nForma part de la sessió «Drets sexuals i reproductius» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21550-drets-sexuals-i-reproductius.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-ens-dona-plaer",
+    "titol": "Què ens dona plaer?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Imatges o pictogrames d'elements que poden donar plaer a través dels cinc sentits, escampats per l'aula.",
+    "resum": "L'alumnat s'atura al costat d'imatges de coses que li agraden, assenyala on sent el plaer al cos i descobreix que cadascú gaudeix de maneres diferents.",
+    "objectius": "Relacionar la sexualitat amb el plaer i explorar el plaer propi més enllà del que habitualment entenem com a sexualitat.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Escampeu les imatges per l'aula de manera que tothom hi pugui accedir. Expliqueu què és el plaer: una cosa que ens fa sentir molt bé, que ens agrada i que podem experimentar amb moltes parts del cos. Podeu fer una ronda en què cadascú diu el seu nom i una cosa que li dona molt de plaer, representant-la perquè els altres l'endevinin.",
+    "descripcio": "L'alumnat es desplaça per l'espai (sol o amb suport) i s'atura al costat d'una imatge que mostri una cosa que li agrada molt.\n\nPrimera vegada: quan tothom s'ha aturat, demaneu que es posin la mà a la part o parts del cos on allò els fa sentir plaer. On el sentim? A tot el cos? En alguna part més que en una altra?\n\nSegona vegada: pregunteu si creuen que a tothom li agrada el que han triat. La resta ho pot confirmar o desmentir. Ens agrada a tothom el mateix? Cadascú sent el plaer de maneres i en llocs diferents.\n\nTercera vegada: es col·loquen al costat de la imatge que més plaer els dona i expressen la sensació com vulguin: amb un so, un gest, una paraula o un dibuix.",
+    "avaluacio": "Com sabem que algú està gaudint? Com ho expressem? Si algú no ho expressa amb el cos o la veu, com ho podem saber?\nQue ara m'agradi una cosa vol dir que m'agradarà sempre? Els gustos canvien, de vegades en qüestió de minuts.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16575-itinerari-cee-promocio-salut-sexual--sessio-1.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-es-la-toxicitat-en-una-relacio",
+    "titol": "Què és la toxicitat en una relació?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Papers, bolígrafs i pissarra.",
+    "resum": "En grups, l'alumnat fa la llista del que entén per toxicitat en una relació, la classifica i el grup la relaciona amb l'iceberg de les violències.",
+    "objectius": "Reflexionar sobre les relacions tòxiques i entendre que sovint amaguen situacions de violència normalitzades.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Per saber què és tòxic, convé partir del que és sa. Podeu començar amb una ronda en què cadascú diu el seu nom i una situació en què s'hagi sentit estimat o respectat: què feia l'altra persona perquè se sentís així?",
+    "descripcio": "En grups de 4 persones, durant 5 minuts, comparteixen què entenen per toxicitat en una relació de parella, d'amants o d'aventura, amb imatges concretes o exemples, i en fan una llista.\n\nCada grup comparteix la seva llista i anoteu els exemples a la pissarra.\n\nDesprés, en els mateixos grups, proposen una manera de classificar les situacions: les podríem agrupar? Què tenen en comú? Al cap de 5 o 10 minuts, cada grup explica la seva classificació.\n\nPer acabar, relacioneu la toxicitat amb les violències. Sovint, quan parlem de relacions tòxiques parlem de relacions on hi ha violència. La paraula ens sembla molt greu perquè la relacionem amb la violència física, però per arribar-hi abans s'han normalitzat moltes altres violències. Dibuixeu un iceberg i col·loqueu-hi les situacions, a la punta les més visibles i a la base les menys identificades. Plantegeu dues preguntes:\n\n- On impacta més cada situació? En quina dimensió de la salut (psicològica, física, idees, creences...)?\n- Amb quin tipus de poder té a veure? (edat, gènere, origen, discapacitat...)",
+    "avaluacio": "Si fem servir la paraula «violència» no és per culpar ningú, sinó per poder identificar-la i fer-nos-en càrrec. Totes les persones aprenem, patim i exercim violències.",
+    "notes": "Forma part de la sessió «Relacions tòxiques» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16587-relacions-toxiques.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-es-normal",
+    "titol": "Què és normal?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Paper d'embalar o pissarra.",
+    "resum": "Els grups classifiquen una llista de termes de diversitat sexual i de gènere en una taula de sexe, identitat, orientació i expressió, i debaten què vol dir «normal».",
+    "objectius": "Adquirir un llenguatge precís per parlar de la diversitat sexual i de gènere, i visibilitzar que totes les opcions tenen nom, no només les que es consideren diferents.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Escriviu a la pissarra aquesta llista de termes:\n\ngènere fluid, transsexual, agènere, pansexual, dona, intersexual, bigènere, femení, homosexual, home, demisexual, bisexual, mascle, asexual, masculí, demigènere, tercer sexe, transgènere, andrògin, femella, heterosexual, cisgènere, al·losexual\n\nPengeu un paper d'embalar o dibuixeu una taula amb quatre columnes: sexe biològic, identitat de gènere, orientació sexual, expressió de gènere.\n\nEn grups, l'alumnat decideix a quina columna va cada terme. Després ho comparteixen, en debateu i, quan arribeu a un acord, escriviu els termes a la taula.",
+    "avaluacio": "Què vol dir «normal», «normalitat» i «normatiu»? (Normal: que segueix una norma; comú, majoritari. Normatiu: que estableix una norma.)\nQuè genera el concepte «normal»?\nQuines diversitats són menys acceptades socialment? Per què?",
+    "notes": "Exemple per encetar-ho: sovint es fa servir «gai» com a insult, però mai no diem «heterosexual» per descriure el que considerem normal.\n\nForma part de la sessió «Diversitat sexual» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16570-diversitat-sexual.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-es-per-a-mi-la-sexualitat",
+    "titol": "Què és per a mi la sexualitat?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Fulls, colors, revistes, tisores i cola. Pissarra. Opcionalment, imatges relacionades amb diferents aspectes de la sexualitat.",
+    "resum": "Cadascú dibuixa, escriu o fa un collage del que per a ell és la sexualitat, i el grup en construeix una definició àmplia classificada per àmbits.",
+    "objectius": "Reflexionar sobre la transversalitat de l'afectivitat i la sexualitat i reconèixer tots els àmbits que engloba.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Es recomana haver treballat abans els conceptes de sexualitat i intimitat. Podeu començar amb una ronda en què cadascú diu el seu nom i una cosa amb què se li passa el temps volant, per connectar amb el plaer.",
+    "descripcio": "Repartiu un paper a cada persona perquè dibuixi, pinti o escrigui el que per a ella és la sexualitat. També poden retallar imatges de revistes. Convé que cadascú busqui un racó de l'aula on se senti còmode i amb una certa intimitat.\n\nDesprés, trieu una de les tres opcions segons el grup:\n\nOpció A. Compartiu-ho en gran grup i escriviu a la pissarra el que surti, agrupat en columnes. Al final, poseu un títol a cada columna segons l'àmbit de la sexualitat (emocions i sentiments, pràctiques, salut i prevenció, orientació, relacions...) i amplieu-les amb noves idees.\n\nOpció B. Anoteu a la pissarra totes les paraules que han sortit. L'alumnat es desplaça per l'espai i, quan dieu «Stop!», llanceu una de les paraules: cadascú fa una estàtua amb el cos del que significa per a ell. Pregunteu què representen, si els connecta amb una altra paraula, i amplieu la pissarra.\n\nOpció C. Com l'opció A, però per ampliar-ho feu servir imatges impreses o projectades relacionades amb la sexualitat. Cadascú en tria una que el sorprengui o li generi dubtes i la comenta amb el grup.",
+    "notes": "A l'itinerari original, tot el que surt d'aquesta sessió es recull en un mural viu que es penja a l'aula i s'amplia a les sessions següents. Preguntes per al mural: com és la sexualitat que vull per a mi? Què és per a mi el plaer? Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16579-itinerari-cee-violencies-sexuals--sessio-1-in.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-role-playing-de-limits-i-consentiment",
+    "titol": "Role-playing de límits i consentiment",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "resum": "Voluntaris improvisen situacions quotidianes de parella i d'amistat en què algú vol una cosa i l'altre no, i la classe les analitza.",
+    "objectius": "Practicar com expressar el que volem i el que no, i respectar els límits dels altres.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Demaneu persones voluntàries. Doneu-los una situació i que la improvisin davant la classe. Situacions:\n\n- Dues persones de 12 anys acaben de començar a sortir. Una vol anar de la mà a l'institut i l'altra no.\n- Una persona s'escriu molts missatges per Instagram amb una altra que li agrada, però quan es troben a l'institut amb prou feines es parlen.\n- Un noi es vol fer petons amb mi i jo preferiria conèixer-lo millor perquè no sé si hi confio.\n- M'agrada una persona que és molt amiga meva. Ho comento amb les amistats: unes em diuen que li digui, que jo també li agrado; d'altres, que no.\n\nDesprés de cada escena, analitzeu-la.",
+    "avaluacio": "Quins personatges han aparegut directament? I indirectament?\nQuè volia i què necessitava cadascun? Ho ha sabut expressar?\nQuines emocions han tingut?\nPer tancar: com et pots assegurar que respectes els límits propis i els dels altres? Quines estratègies pots fer servir per expressar el que vols o rebutjar una proposta sense sentir-te culpable?",
+    "notes": "Forma part de la sessió «Límits i consens» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16521-limits-i-consens.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-sento-quan",
+    "titol": "Sento... quan...",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Papers petits, bolígrafs i una capsa o bossa.",
+    "resum": "De manera anònima, cadascú escriu una frase «Sento... quan...» relacionada amb la sexualitat, i es llegeixen totes en veu alta.",
+    "objectius": "Reconèixer les emocions relacionades amb la sexualitat i l'afectivitat.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu començar definint amb el grup què són les emocions i els sentiments, fer una pluja d'emocions a la pissarra i encerclar les que es poden relacionar amb la sexualitat. Si no s'ha treballat abans, introduïu breument la salut afectivosexual: procureu que surtin el plaer, el consentiment, la diversitat, saber què m'agrada i què no...",
+    "descripcio": "Repartiu papers petits i demaneu que cadascú hi escrigui una frase amb aquesta estructura:\n\n«SENTO... (emoció) QUAN... (situació)»\n\nLa frase ha d'estar relacionada amb la sexualitat i és anònima.\n\nQuan acaben, passeu amb una capsa o una bossa perquè hi deixin els papers. Després llegiu-los tots en veu alta.",
+    "notes": "Els papers recollits serveixen de punt de partida per a «Teatre imatge de les emocions».\n\nForma part de la sessió «Línies vermelles» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16507-linies-vermelles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-sexualitat-i-drets",
+    "titol": "Sexualitat i drets",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Targetes amb frases sobre situacions i targetes amb drets sexuals i reproductius (vegeu la fitxa original de Sigues tu o la guia «Tens drets sexuals i reproductius, ho saps?» de DINCAT). Targetes en blanc i bolígrafs.",
+    "resum": "En petits grups, l'alumnat decideix si unes situacions són violències sexualitzades o no, i les col·loca al costat del dret que vulneren.",
+    "objectius": "Reconèixer les violències sexualitzades i conèixer els drets sexuals i reproductius.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Dividiu la classe en grups de 3 persones com a màxim. Repartiu les targetes amb frases i algunes de blanc.\n\nCada grup debat si cada situació és una violència o no. Algunes ho són; d'altres poden ser desagradables sense ser-ho (per exemple, que et deixi la parella és incòmode, però no és una violència). Si reconeixen alguna situació viscuda, la poden escriure en una targeta en blanc.\n\nDesprés, mostreu les targetes dels drets i aneu posant en comú les frases, col·locant cada una al costat del dret que vulnera. Així es construeix un mapa conceptual dels drets i les violències associades.\n\nSi no s'ha fet abans, reserveu un moment perquè comparteixin situacions pròpies o conegudes.",
+    "avaluacio": "Ronda breu: què t'ha sorprès més? Què destacaries com a més important? Què t'emportes?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, centrat en els drets de les persones amb diversitat funcional, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 4: Tenim sexualitat i drets» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: advocació i compromís social, pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16582-itinerari-cee-violencies-sexuals--sessio-4-te.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-si-els-altres-son-estranys-llavors-jo-soc",
+    "titol": "Si els altres són estranys, llavors jo soc...",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio",
+      "emocions"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure el curtmetratge «The Light».",
+    "resum": "A partir d'un curtmetratge sobre un nen que no s'ajusta a les normes de gènere, el grup analitza les reaccions del seu entorn i el canvi d'actitud del pare.",
+    "objectius": "Reflexionar sobre les normes de gènere i identificar com funcionen les violències socials que generen.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Mireu el curtmetratge «The Light»: un nen fa coses que no s'ajusten a les normes de gènere tradicionals (porta vestits, juga amb ponis) i el seu entorn hi reacciona de maneres diferents. No se senten les paraules, però la comunicació no verbal és molt clara.\n\nPregunteu: què ha passat? Quins personatges hi surten? Què us ha cridat més l'atenció?\n\nAjudeu a distingir els fets de les interpretacions. Per exemple, no podem dir que el protagonista és una nena trans: el que sabem és que l'entorn espera que sigui un nen i que a ell li agrada jugar amb ponis i portar vestit.\n\nCentreu-vos en el pare:\n\n- Què li passa? Potser tenia expectatives (jugar a bàsquet i a videojocs amb el fill) o té por del que li pot passar.\n- Què li passa quan agafa el fill amb força pel braç a la sortida de l'escola? Pot sentir vergonya: què pensaran de mi? Què vol transmetre als altres amb aquest gest?\n- Què el fa canviar d'actitud?\n- Per què es posa un vestit? Quina diferència hi ha entre acceptar que el fill porti vestits i posar-se'n ell un? Ell també es posa en el focus de la violència.\n\nRemarqueu que, quan insultem algú amb un pretext LGTBI-fòbic, no l'informem de res: diem als altres, i a nosaltres mateixos, que nosaltres som «normals».",
+    "avaluacio": "Reflexió personal, que no cal compartir: quin personatge del vídeo triaries ser? I en el teu dia a dia, quin personatge ets?\n\nTothom pot exercir i patir violència en algun moment, i això no ens fa dolents. El que ens fa responsables és la capacitat de reaccionar quan ens trobem en una situació de violència, ja sigui com a protagonistes, víctimes o observadors.",
+    "notes": "Forma part de la sessió «Diversitat sexual» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16570-diversitat-sexual.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-si-o-no-mites-sobre-la-sexualitat",
+    "titol": "Sí o no: mites sobre la sexualitat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Amb l'aula dividida entre el sí i el no, l'alumnat es posiciona davant mites sobre la sexualitat i en debat.",
+    "objectius": "Ampliar la mirada sobre els àmbits de la sexualitat i desmuntar-ne mites habituals.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Dividiu l'aula en dues parts: un costat és el sí i l'altre el no. Tothom comença en una línia central imaginària i hi torna després de cada debat.\n\nLlegiu les frases una a una. Després de cada posicionament, obriu el diàleg:\n\n«Només sentim plaer en algunes parts del cos.» Tothom sent plaer només als genitals? Sempre ens agrada que ens toquin al mateix lloc?\n\n«La sexualitat és només per a les persones adultes.» Masturbar-se és sexualitat? Quan som petits, a alguns ens agrada explorar-nos? I fer-nos carícies? Ens pot agradar algú?\n\n«Masturbar-se o mirar porno quan tens parella és una infidelitat.» Parleu de consentiment, límits, pactes, respecte i confiança. Què vol dir per a mi la infidelitat?\n\n«Ens podem sentir atrets per qualsevol persona.» És important reproduir-nos quan tenim sexualitat? Si soc un noi i m'agrada un altre noi, serà fàcil dir-ho? Coneixeu persones homosexuals?\n\nAneu afegint a la pissarra els conceptes nous que surtin.",
+    "avaluacio": "Idees clau: el plaer com a eix vertebrador, totes les persones podem viure la sexualitat de manera diferent, i el consentiment.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 1: Introducció» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16579-itinerari-cee-violencies-sexuals--sessio-1-in.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-si-o-no-som-adolescents",
+    "titol": "Sí o no: som adolescents?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "resum": "Debat en moviment: l'alumnat es posiciona al costat del sí o del no davant la pregunta «Us considereu adolescents?».",
+    "objectius": "Obrir el diàleg sobre l'adolescència i els canvis que comporta.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Dividiu la classe en dos espais: un costat és el sí i l'altre el no. Tothom comença al centre.\n\nFeu la pregunta: «Us considereu adolescents? Per què?». Cadascú es mou al costat que vulgui.\n\nObriu el debat perquè comparteixin els seus punts de vista. Podeu anotar les aportacions a la pissarra.",
+    "notes": "Forma part de la sessió «Canvis en la pubertat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16511-canvis-en-la-pubertat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-teatre-imatge-de-les-emocions",
+    "titol": "Teatre imatge de les emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "expressio-corporal",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Els papers anònims de la dinàmica «Sento... quan...».",
+    "resum": "Cada grup rep una emoció i les situacions que l'alumnat ha escrit, i crea una foto fixa amb el cos per representar-la; després el grup busca com transformar-la.",
+    "objectius": "Identificar quines situacions de la vida afectivosexual generen cada emoció i pensar com es poden transformar.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Formeu grups de 4 o 5 persones. Agrupeu els papers que han sortit per emocions i doneu a cada grup una emoció amb les situacions corresponents.\n\nQuines situacions poden generar por, ràbia, alegria, amor...? S'assemblen? Què tenen en comú? En què es diferencien?\n\nA partir de l'emoció i de les situacions, cada grup pensa una foto fixa que la representi (en pot pensar més d'una). Deixeu una estona perquè ho parlin i ho preparin.\n\nCada grup presenta la seva foto al gran grup i debateu com es podria canviar aquella imatge.",
+    "avaluacio": "Què us genera veure aquesta imatge?\nÉs real? Passa o pot passar?\nCom es pot resoldre o continuar?\nQuina seria la foto ideal? Com podem passar de la real a la ideal? Què necessitem?",
+    "notes": "Forma part de la sessió «Línies vermelles» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16507-linies-vermelles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-dansa-de-mans",
+    "titol": "Una dansa de mans",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "expressio-corporal",
+      "musica",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música tranquil·la de fons.",
+    "resum": "Cadascú explora moviments nous i plaents amb les mans i, quan troba la seva dansa, obre la mirada a la dels altres.",
+    "objectius": "Relacionar el plaer propi amb el dels altres: quan estem connectats amb el nostre plaer, és més fàcil gaudir amb els altres.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Amb música tranquil·la de fons:\n\n- Cadascú s'acaricia les mans.\n- Mou una sola mà i n'explora el moviment.\n- Mou les mans de maneres que no fa normalment. Pot imaginar que són animals: com volen? I si fossin cavalls, meduses, serps? O elements: terra, aigua, foc, aire...\n- Fa els moviments que li donen més plaer.\n\nQuan tothom gaudeix de la seva dansa, obren la mirada a les mans dels altres. Es pot jugar al rei (una persona balla i la resta la imita) o deixar-ho lliure, inspirant-se en els altres.",
+    "avaluacio": "En obrir els ulls poden aparèixer resistències i vergonyes. Aprofiteu-ho per parlar-ne: què ens fa vergonya? Què ens costa de compartir?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Promoció salut sexual - SESSIÓ 2: Amor propi» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16576-itinerari-cee-promocio-salut-sexual--sessio-2.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-estona-per-a-mi",
+    "titol": "Una estona per a mi",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "ulls-tapats",
+      "silenci",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Un pinzell suau o una ploma per persona.",
+    "resum": "Amb els ulls tancats, cada persona explora quines sensacions li provoca el tacte d'un pinzell o una ploma sobre la pell, i el grup parla del propi plaer i de la vergonya.",
+    "objectius": "Experimentar el plaer de cuidar-se amb tendresa i identificar les emocions que desperta parlar-ne.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Introduïu el tema acollint totes les maneres de viure'l: a algunes persones parlar de masturbació els genera curiositat, fàstic o culpa; per a d'altres és una cosa habitual i còmoda. Expliqueu que masturbar-se és donar-se plaer als genitals, que és una pràctica sempre opcional i que és important cuidar-se amb tendresa encara que es decideixi no fer-ho.",
+    "descripcio": "Pregunteu per què és important cuidar-se a un mateix amb tendresa i atenció.\n\nRepartiu un pinzell suau o una ploma a cada persona (si no en teniu, poden fer servir les mans). Amb els ulls tancats, cadascú investiga quines sensacions li provoca el tacte de l'objecte sobre la pell: primer a les mans i després a la cara.\n\nFeu una ronda ràpida en què cadascú diu on i com li han agradat més les carícies: més fortes, més fluixes, amb quina part del pinzell... Es tracta que es preguntin pel seu propi plaer i que normalitzin parlar-ne.\n\nSi el grup és molt tímid, feu-ho com un termòmetre amb els ulls tancats: que aixequin la mà els qui ho han preferit a les mans, a la cara, a prop dels ulls, a prop dels llavis, més fort, més suau...",
+    "avaluacio": "Quines emocions s'han activat fent-nos carícies davant el grup? Ha aparegut la vergonya?\nCom reacciona el cos quan parlem d'una cosa que ens fa vergonya? Fem més broma o parlem amb més desimboltura?\nTé a veure amb si pensem que està bé o malament?",
+    "notes": "Forma part de la sessió «Masturbació» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21554-masturbacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-gota-d-aigua-forma-part-de-l-ocea",
+    "titol": "Una gota d'aigua forma part de l'oceà",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En grups, l'alumnat pensa accions per fer al centre perquè les violències de gènere no facin més difícil l'estada de ningú, i la classe decideix quines farà.",
+    "objectius": "Practicar l'acció col·lectiva i el suport mutu davant les violències de gènere i LGTBI-fòbiques.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En petits grups, l'alumnat pensa accions per fer al centre perquè les violències de gènere no ens facin més difícil la vida a l'institut. Preguntes que poden ajudar:\n\n- Què passa a l'institut que ens recorda que només hi ha una manera vàlida de ser noi o noia?\n- Què farem quan sentim insults LGTBI-fòbics?\n- Si veig que tracten malament algú i no faig res, estic prenent alguna decisió?\n- Com podem fer alguna cosa sense sortir-ne malparats?\n- Coneixeu persones heterosexuals o cisgènere que potser farien coses diferents si no hi hagués el risc de ser menyspreades? Què necessitarien per sentir-se lliures?\n- Coneixeu persones LGTBI a l'institut? Els heu preguntat mai com estan i què necessitarien per estar millor?\n\nPoseu en comú les accions amb el gran grup i decidiu quines podeu fer com a classe.",
+    "avaluacio": "Davant la violència sovint pensem en respostes individuals. És important empoderar-se, però no estem sols: les dinàmiques que perpetuen la violència es transformen amb el suport mutu i l'acció col·lectiva.\n\nPer tancar, ronda d'una paraula sobre el que cadascú s'emporta de la sessió.",
+    "notes": "Forma part de la sessió «Diversitat sexual» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16570-diversitat-sexual.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-imatge-val-mes-que-mil-paraules",
+    "titol": "Una imatge val més que mil paraules",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 50,
+    "grup": "mitja",
+    "materials": "Ordinador i projector amb una selecció d'obres d'art que representin relacions entre persones (el web de Sigues tu n'ofereix un annex). Fulls i bolígrafs.",
+    "resum": "Cadascú tria una obra d'art que mostra una relació, en dialoga per escrit i, en grup, en fa un poema amb els títols que n'han sortit.",
+    "objectius": "Reflexionar sobre què fa que una relació sigui sana, entrenant la comunicació interpersonal.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar preguntant què és la salut, què és la salut en una relació i quina diferència hi ha entre la salut d'una amistat i la d'una parella. Després, una ronda en què cadascú diu el seu nom i un ingredient saludable d'alguna relació que hagi viscut (no cal que sigui sexoafectiva).",
+    "descripcio": "Projecteu les imatges de les obres d'art. Cada persona, sense pensar-hi gaire, en tria una que li cridi l'atenció i n'anota el número en un full.\n\nIndividualment, respon en el mateix full:\n\n- Quin títol li posaries?\n- Quin tipus de relació creus que tenen les persones que hi surten?\n- Quina pregunta els faries?\n- Com és la comunicació entre elles?\n\nDesprés formeu grups de 3 o 4 segons la imatge triada (no importa si una imatge es repeteix en diversos grups). Cadascú comparteix el que ha trobat; convé fixar un temps per persona, per exemple 3 minuts.\n\nEntre tots, cada grup escriu una poesia unint els títols que han posat a l'obra.\n\nA la rotllana gran, cada grup llegeix el seu poema.",
+    "avaluacio": "Ronda final: què has descobert, què t'ha sorprès o què has recordat sobre les relacions?",
+    "notes": "A la sessió original, durant tota l'estona hi ha un full gran (A3 o A2) al centre de la rotllana amb ceres de colors: és «l'obra d'art» del grup, i qui vulgui hi pot anar dibuixant, una o dues persones alhora i sense desatendre el que passa al grup. Les relacions també són obres d'art que es construeixen. Al final, el grup tria un títol per a l'obra col·lectiva.\n\nForma part de la sessió «Relacions sanes» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16572-relacions-sanes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-part-del-meu-cos-que-m-agrada",
+    "titol": "Una part del meu cos que m'agrada",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "cercle",
+      "silenci",
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Paper i bolígraf.",
+    "resum": "Amb els ulls tancats, l'alumnat recorre el seu cos; després descriu una part que li agrada com si fos per a una persona cega i es presenta amb ella.",
+    "objectius": "Entrenar l'autoconeixement i reflexionar sobre la relació entre la imatge corporal i l'autoestima.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Convideu l'alumnat a tancar els ulls i centrar-se en el seu cos: que noti cada part i observi quines sent més i quines menys.\n\nDesprés, cadascú escriu en un paper una part del seu cos que li agradi. L'ha de descriure com si fos per a una persona que no hi veu: amb quines parts està relacionada, si va tapada per la roba, quina proporció del cos ocupa, quin tacte, color o olor té.\n\nFeu una ronda en què cadascú diu el seu nom i, qui vulgui, la part del cos que ha descrit.",
+    "avaluacio": "Us ha estat fàcil trobar una part del cos que us agradi?\nSi us hagués demanat una part que no us agradi, l'hauríeu trobada més de pressa?\nAlgú ha sentit vergonya?\nCom es relaciona això amb l'autoestima?",
+    "notes": "Forma part de la sessió «Canvis en la pubertat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16511-canvis-en-la-pubertat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-videoforum-margarita-with-a-straw",
+    "titol": "Videofòrum: «Margarita with a Straw»",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure el tràiler de la pel·lícula «Margarita with a Straw».",
+    "resum": "A partir del tràiler d'una pel·lícula protagonitzada per una noia amb paràlisi cerebral que viu el desig i l'amor, el grup parla de diversitat funcional, sexualitat i drets.",
+    "objectius": "Aprendre a anomenar violències i reconèixer el dret de les persones amb diversitat funcional a viure la seva sexualitat.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Mireu el tràiler i, si cal, atureu-vos a cada escena. Preguntes per al diàleg:\n\n- Com és la protagonista? (És guapa, jove, vol lligar i té paràlisi cerebral.)\n- És habitual veure persones amb diversitat funcional arreglant-se, lligant o fent-se petons a les pel·lícules i sèries?\n- Què pensa la mare quan la Laila li diu que li agrada un noi? I quan li diu que ell no l'estima?\n- Què diu la carta que rep? (L'han acceptat a la universitat.) És habitual veure-ho a les pel·lícules?\n- Què pensa la protagonista quan mira l'altra noia a la manifestació? Què passa a l'escena de les mans i els llavis? Veieu sovint relacions homosexuals entre persones amb diversitat funcional?\n- Per què s'enfada la Laila amb la seva mare? Com se sent la mare? Què la preocupa?\n- De vegades és important que la família o els educadors coneguin la nostra intimitat?\n- Coneixeu els vostres límits en la sexualitat? Sempre sabem veure quan una cosa ens fa mal?\n- Què passa a l'última escena amb el professor i l'altre alumne?",
+    "avaluacio": "Amb quines escenes us heu sentit identificats?\nEn quines situacions ha estat fàcil veure injustícies i en quines no?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 4: Tenim sexualitat i drets» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: advocació i compromís social, pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16582-itinerari-cee-violencies-sexuals--sessio-4-te.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-violencies-visibles-i-invisibles",
+    "titol": "Violències visibles i invisibles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "resum": "A partir de situacions incòmodes que l'alumnat ha viscut, el grup les classifica en un iceberg segons si són violències fàcils o difícils de veure.",
+    "objectius": "Aprendre a reconèixer violències sexualitzades que sovint normalitzem.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Comenceu amb una ronda en què qui vulgui comparteix alguna cosa que li hagi passat i l'hagi fet sentir malament en relació amb la sexualitat. Anoteu-les a la pissarra.",
+    "descripcio": "Dibuixeu a la pissarra un iceberg tallat per la superfície del mar, amb la major part sota l'aigua. Pregunteu què és i per què el feu servir per parlar de violències.\n\nGran part de les violències sexualitzades no les identifiquem: ens incomoden, potser no sabem què sentim, però ens costa veure que són injustes. Ens hi acostumem perquè les hem viscut moltes vegades i ningú no ha fet res per canviar-ho.\n\nRecupereu les situacions de la ronda inicial i classifiqueu-les a l'iceberg segons com de fàcil és identificar-les com a injustes.\n\nExemples de violències visibles: m'obliguen a fer coses que no vull, em toquen parts íntimes sense consentiment, m'insulten, em peguen, em criden.\n\nExemples de violències invisibles: em pressionen per fer coses que no vull, m'ignoren, em miren malament, se'n riuen de mi, em parlen com si fos més petit del que soc, no valoren el meu cos.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Violències sexuals - SESSIÓ 4: Tenim sexualitat i drets» del programa Sigues tu de Dipsalut (eix sexualitats; habilitats per a la vida: advocació i compromís social, pensament crític). Autoria: Equip «Sigues tu» amb l'assessorament de Gemma Deulofeu. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16582-itinerari-cee-violencies-sexuals--sessio-4-te.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-zones-erogenes",
+    "titol": "Zones erògenes",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Fulls i material per dibuixar. Pissarra.",
+    "resum": "En petits grups, l'alumnat dibuixa un cos i hi marca les zones més sensibles al plaer; després el grup parla del clítoris, que sovint no hi surt.",
+    "objectius": "Ampliar la idea de plaer a tot el cos i informar sobre el clítoris.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "En petits grups on se sentin còmodes, l'alumnat dibuixa un cos i hi marca les zones que creu que poden ser més sensibles al plaer.\n\nQuan acaben, pregunteu en quants dibuixos ha aparegut el clítoris. Pot ser que no hi surti, perquè és un òrgan desconegut que l'educació sexual ha passat per alt.\n\nDibuixeu el clítoris a la pissarra i pregunteu on el situarien, quina mida creuen que té i per a què serveix.\n\nInformació per al docent: el clítoris és l'únic òrgan del cos humà que té com a única funció donar plaer. Té una part interna i unes 8.000 terminacions nervioses, el doble que el penis. És l'òrgan de l'orgasme.",
+    "avaluacio": "Per tancar la sessió: quan hem de decidir si ens masturbarem o no, si serà una pràctica habitual o no? No cal decidir res ara. No saber què volem també és una opció, i mentrestant cuidar-nos sense fer res està bé. No hi ha pressa.",
+    "notes": "Cal que tant l'alumnat com el docent se sentin prou còmodes. Si hi ha massa reticències, feu només la conversa sobre el clítoris, i pregunteu al grup què necessita per poder parlar de les zones erògenes i com cuidar-se amb la vergonya.\n\nForma part de la sessió «Masturbació» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21554-masturbacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-es-facil-ser-lgtbi-en-aquest-institut",
+    "titol": "És fàcil ser LGTBI en aquest institut?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "resum": "L'alumnat es posiciona a l'aula davant l'afirmació «És fàcil ser LGTBI en aquest institut» i debat com afecta a tothom la LGTBI-fòbia.",
+    "objectius": "Prendre consciència de les violències LGTBI-fòbiques al centre i de com limiten tothom.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Indiqueu quina zona de l'aula és «sí, hi estic d'acord» i quina «no, no hi estic d'acord». Llegiu la frase: «És fàcil ser LGTBI en aquest institut».\n\nCadascú es col·loca i després explica per què s'hi ha posat. Si en escoltar els altres algú vol canviar de lloc, ho pot fer.\n\nPreguntes per a la reflexió:\n\n- Què vol dir «és fàcil»?\n- Se senten insults LGTBI-fòbics a l'institut?\n- A qui es dirigeixen? Només a persones que sabem que són LGTBI?\n- Què feu quan passa?\n- Hi ha rumors sobre la vida de persones suposadament LGTBI?",
+    "avaluacio": "Si no és fàcil ser LGTBI és perquè tampoc no és fàcil ser un noi o una noia normatius. Quan diem «gai» a un noi li diem que no és prou fort o que és massa sensible; quan fem servir insults lesbòfobs, sovint és contra noies que s'enfaden, parlen de sexe o no vesteixen «de noia». La LGTBI-fòbia ens afecta a tots, perquè ens recorda que només hi ha una manera vàlida de ser noi o noia.",
+    "notes": "Forma part de la sessió «Diversitat sexual» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16570-diversitat-sexual.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  }
+]

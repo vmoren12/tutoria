@@ -1,5 +1,5 @@
 {
-  "introduccio": "Les fitxes del catàleg són adaptacions al català de dos reculls publicats: un aplec de dinàmiques de grup i un programa d'acció tutorial per a 3r i 4t d'ESO. A sota hi ha les obres d'on provenen, amb el nombre de fitxes que n'han sortit. Si n'afegiu de noves, indiqueu-ne la font al camp «Font» de la fitxa i afegiu l'obra en aquesta llista.",
+  "introduccio": "Les fitxes del catàleg són adaptacions al català de reculls publicats: un aplec de dinàmiques de grup, un programa d'acció tutorial per a 3r i 4t d'ESO i les sessions del programa Sigues tu. A sota hi ha les obres d'on provenen, amb el nombre de fitxes que n'han sortit. Si n'afegiu de noves, indiqueu-ne la font al camp «Font» de la fitxa i afegiu l'obra en aquesta llista.",
   "obres": [
     {
       "titol": "700 dinámicas grupales",
@@ -42,6 +42,14 @@
       "publicacio": "SIBE — Sistema de Información Bibliotecario (ECOSUR) i Universidad Juárez Autónoma de Tabasco, Villahermosa, 2007",
       "font": "Manual de Tecnicas y Dinamicas (Maria de Jesus Gomez Hernandez; SIBE/ECOSUR - UJAT, 2007)",
       "nota": "Recull de tècniques de dinàmica de grup per a l'aprenentatge, agrupades en presentació, relaxació, animació i concentració, treball de continguts (anàlisi, comunicació i dramatització) i tancament. D'aquí surten les categories «Anàlisi i debat», «Dramatització» i «Tancament i avaluació». Les tècniques que el manual comparteix amb «700 dinámicas grupales» no s'han incorporat dues vegades."
+    },
+    {
+      "titol": "Sigues tu. Programa d'educació per a la salut basat en les habilitats per a la vida",
+      "autoria": "Dipsalut — Organisme de Salut Pública de la Diputació de Girona",
+      "publicacio": "Recursos per a docents publicats a siguestu.cat, amb llicència CC BY-NC-SA 4.0",
+      "url": "https://www.siguestu.cat/ca/etiquetes.html",
+      "font": "Sigues tu (Dipsalut) — siguestu.cat",
+      "nota": "Sessions de tutoria per a l'ESO dels eixos de convivència, sexualitats i consums i hàbits saludables. Cada dinàmica d'una sessió és una fitxa del catàleg, escrita directament en català, amb l'enllaç a la sessió original a les notes. De moment s'han incorporat les dinàmiques d'ESO de les etiquetes que comencen per A (de «Abusos sexuals» a «Autoconeixement»). Aquestes fitxes es poden reutilitzar sense finalitat comercial, citant-ne l'autoria i amb la mateixa llicència."
     }
   ],
   "eines": [

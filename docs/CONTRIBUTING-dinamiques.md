@@ -8,7 +8,7 @@ El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
 
 | `tipus` | Què és | D'on surt |
 | --- | --- | --- |
-| `dinamica` | Joc, exercici o tècnica de grup, que es fa sol. És el valor per defecte. | *700 dinámicas grupales* i *Manual de técnicas y dinámicas* |
+| `dinamica` | Joc, exercici o tècnica de grup, que es fa sol. És el valor per defecte. | *700 dinámicas grupales*, *Manual de técnicas y dinámicas* i programa *Sigues tu* |
 | `activitat` | Activitat d'aula amb material i pauta de treball, part d'una unitat. | Programa HEBE |
 | `unitat` | Unitat didàctica de diverses sessions que agrupa activitats. | Programa HEBE |
 
@@ -156,9 +156,12 @@ La traducció és automàtica i no revisada. Per corregir-la a mà, edita direct
 `data/traduccions/ca/<categoria>.json` i deixa la `_signatura` tal com està: mentre no
 canviï l'original castellà, l'script respectarà el text que hi hagis posat.
 
-Si escrius una fitxa **directament en català**, posa-la a `data/dinamiques/` i no li
-afegeixis entrada de traducció: sense `es`, el bundle la mostrarà igual en totes dues
-llengües.
+Si escrius una fitxa **directament en català**, posa-la a `data/dinamiques/` amb
+`"idioma": "ca"` i no li afegeixis entrada de traducció. `npm run tradueix` se la salta (si
+no, la passaria per Apertium com si fos castellà) i, sense `es`, el bundle la mostrarà igual
+en totes dues llengües. És el cas de les fitxes del programa *Sigues tu*, a
+`convivencia.json`, `sexualitats.json` i `consums-habits.json`: cap extractor no toca
+aquests fitxers.
 
 ## Afegir una obra a la bibliografia
 

@@ -1,0 +1,590 @@
+[
+  {
+    "id": "st-aterrant-la-realitat",
+    "titol": "Aterrant la realitat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra, pòsits (8 per grup) i bolígrafs.",
+    "resum": "L'alumnat comparteix experiències de relacions nascudes o mantingudes a través de les pantalles i en busca avantatges, inconvenients i estratègies.",
+    "objectius": "Compartir experiències properes i identificar què facilita i què dificulta les relacions a través de les pantalles. Pensar estratègies per relacionar-s'hi de manera saludable.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Pregunteu a la classe si coneixen gent que s'hagi conegut a través de les pantalles i si volen compartir-ne breument la història.\n\nSi no en surten, poseu-ne exemples: «Vaig conèixer la meva parella en línia», «La meva millor amiga viu a l'altra punta del país i ens comuniquem per internet», «Parlo amb la família per videotrucada», «El meu company de joc és en línia».\n\nAnoteu les experiències a la pissarra, classificades per temes.\n\nDesprés, en grups de 4, cada grup rep 8 pòsits. En 4 hi escriuen avantatges i en els altres 4, inconvenients de fer, tenir o mantenir una relació a través de les xarxes.\n\nEls grups enganxen els pòsits a la pissarra. Mireu en què coincideixen i en què no, i debateu els temes interessants que surtin.\n\nFixeu-vos sobretot en els inconvenients i penseu col·lectivament estratègies per resoldre'ls o afrontar-los de manera saludable.",
+    "avaluacio": "El que trobes en línia, ho pots trobar també fora de les pantalles? Ho podeu concretar?\nQuè t'emportes de la sessió d'avui?",
+    "notes": "Forma part de la sessió «Pantalles - Relacions» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15037-pantalles--relacions.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-autocontrol-o-fluir",
+    "titol": "Autocontrol o fluir?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "subgrups",
+      "reflexio",
+      "moviment"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pòsits, bolígrafs i pissarra.",
+    "resum": "L'alumnat escriu què fa per aconseguir allò que li agrada i, en grups, analitza com aquestes estratègies l'afecten a ell i als altres.",
+    "objectius": "Reflexionar sobre les estratègies per satisfer els plaers i les seves conseqüències, des de l'autoconeixement.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Repartiu pòsits. A cada un, l'alumnat escriu què fa per aconseguir allò que li agrada: demano permís, demano diners, ho faig o ho compro d'amagat, en presumeixo...\n\nPengen els pòsits a la pissarra i els agrupeu per semblances.\n\nFeu grups de 4 i doneu a cada grup una estratègia. Han de respondre:\n\n- Com em pot fer sentir fer servir aquesta estratègia?\n- Com pot fer sentir els altres (família, amistats)?\n- Travesso alguna línia vermella?\n- Quins valors hi ha en aquesta acció?\n- S'adequa a les meves possibilitats?\n- És sostenible en el temps?\n- Com em sentiria si algú ho fes amb mi?\n\nTambé es pot fer de manera col·lectiva, llegint les respostes en veu alta i de manera anònima.\n\nDesprés llegiu aquestes afirmacions i demaneu que s'aixequi qui cregui que, en el seu cas, és certa:\n\n- A vegades, encara que ho intento, em costa contenir-me.\n- La manera com satisfaig el meu plaer em fa sentir malament.\n- El que puc acabar fent per satisfer el meu plaer és negatiu per als altres.\n- Crec que la meva resposta és sostenible en el temps.\n- M'agradaria trobar una altra estratègia.",
+    "notes": "Forma part de la sessió «Gestió dels plaers» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16532-gestio-dels-plaers.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-com-soc-en-els-diferents-espais",
+    "titol": "Com soc en els diferents espais",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En una línia del 0 al 10, l'alumnat es posiciona sobre diverses frases segons com és a casa, a l'institut, amb les amistats i a les pantalles.",
+    "objectius": "Adonar-se de com canvia la manera de mostrar-nos segons l'espai, i especialment a les pantalles.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Marqueu a terra una línia imaginària: un extrem és el 0 i l'altre el 10. L'alumnat s'hi col·loca segons el grau d'identificació amb cada frase.\n\nFeu cada pregunta per a diversos àmbits (a casa, a l'institut, amb les amistats, a les pantalles) i demaneu-los que observin si hi ha molta diferència entre un i altre:\n\n- Soc una persona agradable.\n- Normalment tinc vergonya.\n- Soc una persona directa.\n- M'enfado amb facilitat.\n\nDeixeu espai perquè expliquin per què s'han col·locat on són i per què canvien d'un àmbit a l'altre.",
+    "avaluacio": "Què us ha sorprès més de les diferències entre àmbits?\nHi ha més diferències entre les pantalles i la resta d'espais? Per què creieu que passa?",
+    "notes": "Forma part de la sessió «Pantalles - Identitat» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15033-pantalles--identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-concurs-quant-de-sucre-porta",
+    "titol": "Concurs: quant de sucre porta?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "competitiu"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Concurs en moviment en què l'alumnat endevina quants terrossos de sucre porten productes quotidians, responent amb postures diferents segons l'opció.",
+    "objectius": "Prendre consciència de la quantitat de sucre amagada en productes d'ús quotidià.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Pregunteu quant de sucre porten diversos aliments i doneu quatre opcions. L'alumnat respon amb el cos:\n\n- Opció A: dret damunt la cadira.\n- Opció B: assegut a terra.\n- Opció C: assegut a la cadira.\n- Opció D: fent una estàtua creativa.\n\nExemples (1 terròs ≈ 4 g; la resposta correcta, entre parèntesis):\n\n- 100 g de llaminadures: A) 8, B) 12, C) 20, D) 14 terrossos (D, 58 g).\n- Gelat de tarrina, uns 200 g: A) 12, B) 17, C) 14, D) 29 (C, 58 g).\n- Gelat de cucurutxo: A) 5, B) 7,5, C) 6, D) 1 (B, 31 g).\n- Hamburguesa de pollastre de menjar ràpid: A) 3,25, B) no en porta, C) 5,5, D) 1,75 (A, 13 g).\n- Biquini de pernil i formatge: A) 1, B) 2, C) no en porta, D) 1,5 (A, 4 g).\n- Bric de tomàquet fregit de 200 g: A) 2, B) 4, C) 6, D) 3 (B, 16 g).\n- 8 galetes tipus Maria: A) 1, B) 8, C) 6, D) 3 (D, 12 g).\n- Galetes dobles farcides de xocolata: A) 7,5, B) 9,4, C) 8,4, D) 10,4 (C, 34 g).\n- Palmera de xocolata: A) 15, B) 25, C) 30, D) 33 (D, 140 g).\n- Suc de fruita i llet individual: A) 5, B) 6, C) 8, D) 3 (B, 25 g).\n- Beguda energètica de 473 ml: A) 8, B) 6, C) 13, D) 10 (C, 53 g).\n- Llauna de refresc de taronja: A) 5, B) 6,5, C) 9, D) 7 (D, 28 g).\n\nPodeu afegir-hi altres productes o demanar a l'alumnat que busqui el sucre dels que tenen a casa.",
+    "avaluacio": "Us imaginàveu els resultats? Com us fa sentir veure tant de sucre en productes tan quotidians?\nTorneu a preguntar: creieu que teniu un consum de sucre saludable? Recordeu que l'OMS recomana un màxim de 25 g al dia, uns 6 terrossos.\n\nPer tancar, parleu d'alternatives (fruita, verdura, cereals integrals, llegums), d'altres maneres de connectar amb el plaer i la felicitat, i de la importància d'informar-se per triar amb llibertat, sense judicis.",
+    "notes": "Les quantitats de sucre són orientatives i poden variar segons la marca.\n\nForma part de la sessió «Consum de sucre» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16596-consum-de-sucre.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-construim-un-descans-saludable",
+    "titol": "Construïm un descans saludable",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "cooperatiu"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Quatre fulls DIN A4 per grup i retoladors.",
+    "resum": "Cada grup construeix una ciutat de paper amb quatre peces: els estressors que afecten el son, els bons hàbits, els hàbits que caldria reduir i els que cal evitar.",
+    "objectius": "Identificar els estressors i els hàbits que afavoreixen o perjudiquen el descans.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu grups de 4 o 5 i doneu quatre fulls a cada grup. Cada full és una construcció d'una ciutat, que poden dibuixar:\n\n- La muralla. «Els terratrèmols»: tot el que genera estrès i dificulta el descans. Àmbits: acadèmic (exàmens, deures, notes), social (conflictes, xarxes, por de perdre's coses), familiar (discussions, manca de rutines), tecnològic (pantalles, videojocs, notificacions) i personal (preocupacions, pensaments repetitius).\n- La casa. «Els pilars»: bons hàbits que ja tenen o coneixen. Per exemple: desconnectar les pantalles una hora abans, fer estiraments o respiracions, llegir, tenir horaris regulars, preparar la motxilla, escriure les preocupacions.\n- La torre. «Les esquerdes»: hàbits que no són greus però que caldria reduir. Per exemple: mirar el mòbil al llit, estudiar fins tard, mirar sèries abans de dormir.\n- El pont. «Les bombes»: hàbits que afecten molt i cal evitar. Per exemple: jugar a videojocs fins a la matinada, dormir amb les notificacions activades, fer maratons de sèries entre setmana.\n\nAbans de posar-ho en comú, poden fer una volta per veure les construccions dels altres grups. Després cada grup presenta la seva.",
+    "avaluacio": "Per tancar, cadascú escriu en un pòsit un hàbit de son que ja fa bé, un que vol reduir, un que vol eliminar i un que vol incorporar. El poden enganxar a l'agenda, a l'escriptori o a la porta de l'habitació.",
+    "notes": "Forma part de la sessió «Estrès i son» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l’estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24418-estres-i-son.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-creuar-el-riu",
+    "titol": "Creuar el riu",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "moviment",
+      "cooperatiu"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Fulls de diari.",
+    "resum": "Cada grup ha d'arribar a l'altra banda de l'aula trepitjant només uns fulls de diari que es van passant, sense que ningú toqui a terra.",
+    "objectius": "Treballar la cooperació i la coordinació en equip, i relacionar l'activitat física amb la salut.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "espai": "Preferiblement exterior: pati, pavelló o gimnàs.",
+    "descripcio": "Feu grups de 4 persones. Cada grup ha d'anar d'una banda a l'altra de l'aula sense que ningú toqui a terra en cap moment i sense xocar amb els altres grups.\n\nPer avançar tenen uns quants fulls de diari, que han de moure de manera coordinada. El diari no es pot arrossegar: s'ha de transportar entre tots.\n\nSi algú toca a terra, tot el grup torna a començar.",
+    "avaluacio": "Us ha costat organitzar-vos?\nQuines dificultats heu trobat?\nUs ho heu passat bé?\nQuina relació té aquesta activitat amb la salut?",
+    "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-des-de-quina-emocio-mengem-dolc",
+    "titol": "Des de quina emoció mengem dolç?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "En cercle, l'alumnat s'acosta al centre com més s'identifica amb afirmacions sobre quan i per què menja dolços.",
+    "objectius": "Identificar des de quines emocions es consumeix sucre i com pot convertir-se en una via d'escapament.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Tothom dret, en cercle. Llegiu les afirmacions; com més s'hi identifiqui cadascú, més a prop del centre s'ha de posar.\n\n- Quan estic trist menjo dolços.\n- A les celebracions (aniversaris, bones notícies...) menjo dolços.\n- Quan m'avorreixo menjo més del que és habitual.\n- Quan estic estressat menjo més.\n- Quan vull menjar un dolç a casa i no n'hi ha, sento enuig o frustració.\n- Tinc por d'engreixar-me si menjo dolços.\n\nPer acabar, dividiu l'aula en dos espais i que es col·loquin segons si creuen que tenen un consum de sucre saludable o no.",
+    "avaluacio": "Des de quina emoció consumeixes sucre?\n\nEl sucre estimula el sistema de recompensa del cervell i ens connecta amb el plaer i les emocions agradables, de vegades amb la nostàlgia de la infància. Això pot generar dependència emocional i fer que el fem servir per fugir de les emocions desagradables.",
+    "notes": "Forma part de la sessió «Consum de sucre» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16596-consum-de-sucre.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-meu-perfil",
+    "titol": "El meu perfil",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "sense-material",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "resum": "Cada persona es presenta dient què destacaria de si mateixa en el seu perfil de xarxes socials, i el grup reflexiona sobre la identitat i les pantalles.",
+    "objectius": "Prendre consciència de les parts de la identitat pròpia que es construeixen a partir del món virtual.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar parlant del concepte de salut (física, emocional, social, planetària) i preguntant en quins casos les pantalles ens fan bé (vessant social, creatiu, comunicatiu, de diversió) i en quins ens poden perjudicar.",
+    "descripcio": "Cadascú es presenta dient el seu nom i alguna cosa de si mateix que destacaria en el seu perfil de xarxes socials.\n\nÉs probable que l'alumnat mostri les característiques que creu que el grup acceptarà o valorarà més. No en feu cap judici: recolliu el que diuen, perquè us servirà més endavant. Vetlleu perquè es respectin les normes del grup.\n\nDesprés definiu entre tots què és la identitat i quina relació té amb les pantalles:\n\n- Què creieu que és la identitat?\n- Ens agrada ser nosaltres mateixos?\n- Les pantalles ens influeixen? De quina manera?\n- Com ens poden afectar positivament i negativament?",
+    "avaluacio": "Al final de la sessió, recupereu aquesta presentació:\nA la vida real, les persones són com les veiem a les pantalles?\nQuè amaguem? Què ensenyem?\nSi el món fos al revés i no es valoressin els estereotips habituals, què destacaríeu de vosaltres per presentar-vos a les xarxes?",
+    "notes": "Forma part de la sessió «Pantalles - Identitat» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15033-pantalles--identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-mocador-en-parelles",
+    "titol": "El mocador en parelles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "moviment",
+      "exterior",
+      "cooperatiu"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Un mocador i un dau.",
+    "resum": "Variant cooperativa del joc del mocador: es corre en parelles agafades de la mà i els punts els decideix el dau.",
+    "objectius": "Fomentar la col·laboració per damunt de la competició.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "espai": "Pati, pavelló o gimnàs.",
+    "descripcio": "Dividiu el grup en dos equips, cadascun a una banda del camp. Al mig, una persona aguanta un mocador penjant de la mà.\n\nEs juga com al mocador tradicional, però els participants no corren sols sinó en parelles agafades de la mà. La parella que agafa el mocador ha de tornar a la seva zona sense que la parella perseguidora l'atrapi.\n\nNo hi ha eliminats ni presoners. La parella que guanya la jugada tira un dau, i la puntuació se suma al marcador del seu equip. Així, és l'atzar qui decideix quin equip suma més punts.",
+    "avaluacio": "Havíeu jugat mai a aquesta versió? Us ha agradat? Per què?\nUs ha estat fàcil col·laborar? Us ha costat coordinar-vos per anar a buscar el mocador?\nQuè reforça aquest joc?",
+    "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-pendol",
+    "titol": "El pèndol",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cercle",
+      "expressio-corporal",
+      "cooperatiu"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Una persona amb els peus junts es deixa caure i la rotllana la va empenyent suaument d'un costat a l'altre sense deixar-la caure.",
+    "objectius": "Treballar la confiança i la coordinació del grup.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Es forma una rotllana de sis persones o més, ben juntes. Una altra persona, el pèndol, es col·loca al centre amb els peus junts i, si vol, amb els ulls tancats.\n\nEl pèndol es deixa caure sense moure els peus de terra, i els de la rotllana, amb suavitat, l'empenyen d'un costat a l'altre sense deixar que caigui.\n\nTothom qui vulgui passa pel rol de pèndol.",
+    "avaluacio": "Què ha passat?\nCom us heu sentit fent de pèndol? I quan el fèieu moure?\nUs ha costat confiar en els companys?\nUs heu coordinat?",
+    "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-els-diferents-jo",
+    "titol": "Els diferents jo",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pissarra. Opcionalment, un quadre d'adjectius per projectar.",
+    "resum": "Cadascú es descriu amb adjectius en diversos espais (casa, institut, amistats) i observa com canvia la seva manera de ser.",
+    "objectius": "Conèixer-se millor per connectar amb els propis desitjos i pors: com soc, com reacciono, quines estratègies faig servir.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Feu una pluja d'adjectius que serveixin per definir com som i anoteu-los a la pissarra.\n\nDesprés, individualment, cadascú es descriu amb adjectius en diferents espais: a casa, a l'institut, amb les amistats. Ajuda posar un exemple propi: «Soc simpàtica i generosa amb les amistats i a l'institut, però a casa soc antipàtica i garrepa». També els pot ajudar pensar què fan al llarg del dia i amb qui es relacionen.\n\nPoden fer servir la llista d'adjectius de la pissarra o un quadre d'adjectius projectat.",
+    "avaluacio": "Ronda final: com esteu? Què heu après? Com us sentiu?",
+    "notes": "Forma part de la sessió «Gestió dels plaers» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16532-gestio-dels-plaers.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-gran-abracada",
+    "titol": "La gran abraçada",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cooperatiu",
+      "sense-material"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "resum": "Una filera agafada de les mans s'enrotlla en espiral fins a fer una gran abraçada col·lectiva, i després s'ha de desfer sense deixar-se anar.",
+    "objectius": "Treballar el contacte, la cooperació i el respecte als ritmes de cadascú.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "El grup fa una filera agafat de les mans. La persona d'un extrem comença a fer voltes al voltant de la de l'altre extrem, de manera que es forma una gran espiral amb aquesta al centre.\n\nA mesura que es fan voltes i la filera es tensa, el contacte és més estret i l'abraçada es fa més gran.\n\nEl repte és fer la gran abraçada, fins que no es puguin fer més voltes, i desfer-la sense que ningú deixi anar cap mà.",
+    "avaluacio": "Us ha costat mantenir el contacte amb els altres? Per què?\nCom us heu sentit?\nHeu sabut col·laborar i respectar els temps i les necessitats dels companys?",
+    "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-portada-del-diari-les-pantalles",
+    "titol": "La portada del diari: les pantalles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "cooperatiu"
+    ],
+    "durada": 120,
+    "grup": "mitja",
+    "materials": "Ordinadors o articles de premsa impresos sobre l'ús de les pantalles. Material per maquetar la portada, en paper o digital.",
+    "resum": "En «consells de redacció», l'alumnat crea la portada d'un diari sobre un tema de les pantalles, amb article central, article d'opinió a partir d'entrevistes a la família, humor gràfic i consells.",
+    "objectius": "Aprofundir en l'ús de les pantalles contrastant diverses fonts, promoure la reflexió individual i de grup, i obrir el debat a les famílies i a la resta del centre.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Formeu grups de 4 o 5 persones, que fan de consell de redacció. Cada grup crea la portada d'un diari amb, com a mínim:\n\n1. Titular i article central. Cada grup tria un tema, fa una pluja d'idees del que en sap i en pensa, busca informació i redacta un article breu amb titular i una fotografia. També posa nom al diari. Temes possibles:\n\n- Virtual i presencial: les pantalles ens aïllen? Generen soledat o una falsa sensació de companyia?\n- Videojocs i sèries: quantes hores són raonables? Com parar quan es perd el control?\n- Xarxes socials: venem la nostra privacitat? Quines fotos compartim? Com ens fan sentir els likes?\n- Addiccions: què és una addicció a les pantalles? Com se'n surt? Quan i com demanar ajuda?\n- El fenomen dels influenciadors: com detectar mentides, discursos d'odi i publicitat amagada.\n- Pantalles, sobreestimulació i estrès; ciberassetjament; perills de les xarxes (sèxting, ciberseducció de menors, suplantació d'identitat).\n\n2. Article d'opinió. Cada membre del grup entrevista almenys un familiar amb tres preguntes: quins aspectes positius i negatius aporten les pantalles a la família? Com es pot fer un bon ús de les pantalles en família? Com serà la relació amb la tecnologia en el futur? Després posen en comú les entrevistes i escriuen un article d'opinió conjunt.\n\n3. Humor gràfic. Busquen o creen una vinyeta sobre l'ús de les pantalles en què se sentin identificats tots els membres del grup.\n\n4. Consells. Acorden els consells sobre l'ús de les pantalles que consideren més necessaris.\n\nPer acabar, cada grup presenta la seva portada a la classe i comenteu-ne les semblances i les diferències, i què ha generat el procés de creació.",
+    "notes": "És una proposta de continuïtat de l'obra de teatre «Qui té a qui» del programa Sigues tu, però es pot fer sense haver vist l'obra. Es pot fer sencera o per parts; algunes parts es poden fer a casa. Les portades es poden exposar al centre, presentar a altres grups o compartir amb les famílies.\n\nForma part de la sessió «Proposta pedagògica teatre «Qui té a qui»» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: pensament crític). Autoria: Companyia La Nave Va i Equip «Sigues Tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/18116-proposta-pedagogica-teatre-qui-te-a-qui.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-les-escultures-cegues",
+    "titol": "Les escultures cegues",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "ulls-tapats",
+      "expressio-corporal"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Mocadors per tapar els ulls (opcional).",
+    "resum": "En trios, l'escultor palpa amb els ulls tapats la postura del model i l'ha de reproduir modelant el cos de l'escultura.",
+    "objectius": "Treballar la confiança, la comunicació i el respecte al cos de l'altre.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu grups de 3 persones: l'escultor, el model i l'escultura.\n\nEl model fa una postura i es queda immòbil. L'escultor, amb els ulls tapats o tancats, el palpa per saber en quina posició està. Després ha de modelar el cos de l'escultura perquè quedi igual que el model.\n\nL'escultor ha de demanar permís per tocar els cossos i mantenir els ulls tancats tota l'estona.\n\nRoteu els rols perquè tothom passi pels tres.",
+    "avaluacio": "Heu pogut fer els tres rols? En quin us heu sentit més còmodes?\nN'hi ha hagut algun que no hàgiu volgut fer? Per què?\nHi ha hagut respecte?\nQuè creieu que es treballa amb aquesta activitat?\nPer tancar la sessió, cadascú acaba la frase: «L'activitat física és saludable perquè...».",
+    "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-likes",
+    "titol": "Likes",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "moviment",
+      "cercle",
+      "reflexio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En dos cercles concèntrics, les parelles canvien cada deu segons i s'han de dir opinions ràpides, de les agradables a les desagradables.",
+    "objectius": "Experimentar què vol dir opinar sobre algú, i comparar-ho amb el que passa quan s'opina a través d'una pantalla.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu dos cercles, un dins de l'altre, de manera que cada persona quedi davant d'una parella.\n\nCada deu segons aproximadament (és important que sigui poc temps), qui dinamitza diu «Canvi!» i un dels cercles gira cap a la dreta, de manera que tothom canvia de parella. En cada torn, les parelles s'han de dir:\n\n- El plat preferit.\n- L'última pel·lícula que han vist.\n- Una cosa bonica.\n- Alguna cosa sobre la roba que porta l'altre.\n- Un comentari sobre el pentinat de l'altre.\n- Què en pensen de l'última intervenció a classe de l'altre.\n- Una cosa desagradable.",
+    "avaluacio": "Heu pogut dir alguna cosa a tothom? Per què?\nÉs fàcil expressar-se sense pensar gaire? Quins filtres hem posat? Hi ha diferència si coneixem molt o poc l'altra persona?\nQuè hauria passat si fos anònim? A internet passa igual?\nQuin impacte té que molta gent opini sobre nosaltres? Com ho gestionem quan els comentaris són negatius?\nQuina consigna us ha estat més fàcil? Seria igual darrere una pantalla?",
+    "notes": "Forma part de la sessió «Pantalles - Relacions» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15037-pantalles--relacions.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-linia-de-foc-mites-del-tabac-i-el-vaper",
+    "titol": "Línia de foc: mites del tabac i el vàper",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "resum": "L'alumnat es col·loca entre «cert» i «fals» davant mites sobre el tabac i el vàper, i el docent aporta la informació per desmuntar-los.",
+    "objectius": "Reflexionar sobre el consum de vapejadors i tabac i desmuntar-ne els mites més estesos.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú diu el que li ve al cap quan sent «vàper» o «tabac». Després expliqueu les esferes de la salut (física, emocional, social...) i anoteu com hi afecten el vàper i el tabac, incloent-hi els aspectes positius que l'alumnat atribueixi a fumar.",
+    "descripcio": "Un extrem de l'aula és «totalment cert» i l'altre «totalment fals»; l'espai entremig també es pot ocupar. Llegiu cada frase, l'alumnat es posiciona i pregunteu a persones de llocs diferents per què s'hi han col·locat. Si algú canvia d'opinió en escoltar els altres, pot moure's.\n\n1. «El vàper és inofensiu: el que surt és vapor d'aigua.» Fals. Els aerosols contenen compostos perjudicials. L'ús de cigarretes electròniques augmenta un 40% el risc d'infart respecte de qui no fuma, i fins a un 400% si es combina amb tabac. Els aromes de postres i llaminadures són inofensius menjats, però no escalfats i inhalats. Els adolescents que vapegen tenen almenys quatre vegades més risc de passar al tabac.\n2. «Els vàpers no porten nicotina i per això no són addictius.» Fals. Els més consumits a Catalunya porten nicotina. I els que no en porten també emeten partícules ultrafines, metalls pesants i compostos cancerígens. A més, l'addicció és sobretot psicològica.\n3. «El vàper ajuda a deixar de fumar.» No és una alternativa saludable. Els estudis que diuen que sí sovint els finança la indústria tabaquera.\n4. «El tabac tranquil·litza.» Fals: la nicotina estimula el sistema nerviós (es pot comprovar mirant el pols després de fumar).\n5. «Fumar aprimeix.» Fals. Qui ho deixa de vegades guanya pes al principi, per l'ansietat i perquè el menjar torna a tenir gust, però una alimentació sana i l'activitat física ho compensen.\n6. «El tabac de cargolar és menys perjudicial.» Fals. Pot tenir fins a un 70% més de nicotina, un 85% més de quitrà i un 84% més de monòxid de carboni que els cigarrets de paquet.\n7. «Deixar de fumar és pitjor que continuar.» Fals. El malestar és temporal; els beneficis apareixen als pocs dies.\n8. «Fumar fa més atractiu i ajuda a encaixar al grup.» És la imatge que ha venut la indústria. El tabac envelleix la pell, taca les dents i fa pudor. I cada vegada és més impopular: segons l'enquesta ESTUDES 2023, els joves de 14 a 18 anys que han fumat alguna vegada han passat del 64,4% el 1996 al 33,4% el 2023.\n9. «Hi ha molta gent gran que fuma i no ha estat mai malalta.» Què ens fa pensar que tindrem la mateixa sort? Qui fuma té unes 20 vegades més risc de càncer de pulmó.",
+    "notes": "Dades extretes del Canal Salut de la Generalitat, el Plan Nacional sobre Drogas i l'enquesta ESTUDES 2023. Convé revisar-les periòdicament.\n\nForma part de la sessió «Vapejador i tabac» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16564-vapejador-i-tabac.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-t-agrada",
+    "titol": "Què t'agrada?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "parelles",
+      "sense-material",
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Caminant per l'espai, l'alumnat s'aparella diverses vegades i respon «Què t'agrada?» sense poder repetir mai la resposta.",
+    "objectius": "Aprofundir en el coneixement dels propis gustos i plaers, més enllà dels tòpics.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "L'alumnat camina per l'espai al ritme que li demani el cos, concentrat en si mateix i sense imitar la resta. Si tendeixen a seguir la inèrcia o a fer voltes en cercle, trenqueu-ho.\n\nQuan ho indiqueu, cadascú es posa amb una altra persona. Una pregunta: «Què t'agrada?», i l'altra respon. Després canvien els rols.\n\nContinuen caminant fins al senyal següent i busquen una altra parella. Fan la mateixa pregunta, però no poden repetir cap resposta. Repetiu-ho 6 o 7 vegades: així han de sortir dels tòpics i aprofundir.",
+    "avaluacio": "Ha estat fàcil o difícil? Còmode? De què depenia?\nT'has bloquejat?\nPer què és important saber què ens agrada i què no?",
+    "notes": "És diferent dir una sola cosa que t'agrada davant el gran grup que haver d'aprofundir-hi. Per encetar la sessió, cadascú es pot presentar dient el seu nom i una cosa que li resulti irresistible: xocolata, mirar una sèrie, acabar la partida...\n\nForma part de la sessió «Gestió dels plaers» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16532-gestio-dels-plaers.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-es-una-relacio",
+    "titol": "Què és una relació?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "Pluja d'idees sobre què fa que una relació ho sigui, també quan passa a través de les pantalles.",
+    "objectius": "Entendre que les relacions a través de les pantalles també són reals i ens afecten.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu una pluja d'idees i escriviu les respostes a la pissarra:\n\n- Què és important en una relació?\n- Què s'ha de compartir amb una altra persona perquè hi hagi una relació?\n\nIdees que poden ajudar a estirar el fil: que t'escoltin, el respecte, que t'esperin, que et preguntin, que et mirin, que no et jutgin; temps, comprensió, llibertat d'expressió, espai (en línia o no).",
+    "notes": "Forma part de la sessió «Pantalles - Relacions» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15037-pantalles--relacions.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-questionari-mogut-sobre-el-son",
+    "titol": "Qüestionari mogut sobre el son",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "resum": "L'alumnat respon afirmacions sobre els seus hàbits de son enfilant-se a la cadira, asseient-se a terra o quedant-se assegut, i el grup relaciona son, estrès i pantalles.",
+    "objectius": "Prendre consciència dels hàbits de son i de la seva relació amb l'estrès i l'ús de les pantalles.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una ronda en què cadascú diu el seu nom i una cosa que li genera estrès, i explicar que el son i l'estrès funcionen com un sistema: el que passa en un afecta l'altre.",
+    "descripcio": "Llegiu les afirmacions. Qui hi està d'acord s'enfila a la cadira; qui no, s'asseu a terra; qui no ho sap, es queda assegut.\n\n- Dormo 8 hores al dia.\n- En general, em costa adormir-me.\n- Normalment recordo que he somiat alguna cosa.\n- A vegades sento estrès abans d'anar a dormir.\n- A vegades sento que descanso bé.\n- A vegades em llevo molt cansat.\n- El primer que faig en despertar-me és mirar el mòbil.\n- Quan estic estressat, me n'adono.\n- Quan tinc exàmens, estudio fins tard.\n- Faig servir pantalles abans d'anar a dormir.\n- A vegades faig els deures just abans d'anar a dormir.\n- Tinc estratègies per gestionar l'estrès.\n\nDesprés pregunteu: què és l'estrès? Sempre és perjudicial? Quant de temps abans d'anar a dormir desconnecteu de les pantalles? Creieu que us afecta el son?",
+    "avaluacio": "L'estrès és un estat de tensió davant una situació difícil. Un cert grau és natural i ens ajuda a afrontar reptes, com un examen; el perill és quan es fa crònic.\n\nLes pantalles dificulten el son per diversos motius: la llum blava frena la melatonina, l'hormona que indica al cos que és hora de dormir; el contingut manté el cervell actiu; i les notificacions o la necessitat de «mirar una última cosa» endarrereixen l'hora d'anar a dormir. Convé desconnectar una estona abans.",
+    "notes": "Forma part de la sessió «Estrès i son» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l’estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24418-estres-i-son.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-respirem-per-reduir-l-estres",
+    "titol": "Respirem per reduir l'estrès",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "musica",
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música relaxant (opcional).",
+    "resum": "Relaxació guiada amb respiració lenta i tensió i distensió dels músculs, que l'alumnat pot fer servir abans d'anar a dormir.",
+    "objectius": "Aprendre una tècnica senzilla per calmar el sistema nerviós i facilitar el son.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Expliqueu que la respiració lenta ajuda a calmar el sistema nerviós. L'alumnat s'asseu còmode, amb l'esquena recta però relaxada i els peus a terra, i tanca els ulls (o abaixa la mirada). Si hi ha espai, es poden estirar a terra.\n\nGuieu-los amb veu calmada i ritme lent:\n\n1. Connexió amb el cos: «Nota els peus, les cames, l'esquena... No cal canviar res, només observar. Deixa caure una mica les espatlles.»\n2. Respiració: «Inspira pel nas comptant fins a 4. Aguanta l'aire 2 segons. Expira lentament comptant fins a 6.» Feu de 6 a 8 cicles.\n3. Relaxació progressiva: «Cada vegada que deixes anar l'aire, una part del cos es relaxa una mica més: els peus, les cames, la panxa, les espatlles, la mandíbula...». Amb algunes parts, demaneu que les tensin i després les relaxin per notar la diferència: estrènyer els dits dels peus, contreure els abdominals, fer un puny, arrugar el front, estrènyer la mandíbula... També poden posar-se les mans a la panxa, al pit o a la cara per notar el contacte.\n\nDeixeu 1 o 2 minuts de silenci i torneu a poc a poc fent tres respiracions profundes.",
+    "avaluacio": "En un cercle de paraula: com us heu sentit? Us podria servir per agafar el son?",
+    "notes": "Forma part de la sessió «Estrès i son» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l’estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24418-estres-i-son.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-role-playing-situacions-amb-el-tabac-i-el-vaper",
+    "titol": "Role-playing: situacions amb el tabac i el vàper",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Papers petits i bolígrafs.",
+    "resum": "L'alumnat escriu situacions viscudes amb el tabac o el vàper, i voluntaris les improvisen perquè el grup busqui com resoldre-les.",
+    "objectius": "Entrenar l'habilitat de negociació i refús davant les situacions de consum.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Cadascú escriu en un paper petit una situació relacionada amb el vàper o el tabac: experiències pròpies, de persones properes que en consumeixen, situacions que els han agradat o incomodat, situacions que els han generat preguntes...\n\nRecolliu els papers i mireu quins s'assemblen. Comenceu per les situacions més repetides, perquè són les que desperten més interès.\n\nDemaneu voluntaris que improvisin la situació. Després, la resta explica què ha vist, com ho hauria resolt, què hauria fet diferent o què es podria fer.",
+    "avaluacio": "Per tancar, cadascú pensa una frase que es pugui dir a si mateix si mai té ganes de provar el tabac o el vàper, o una frase per dir a un amic si se sent pressionat.",
+    "notes": "Forma part de la sessió «Vapejador i tabac» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16564-vapejador-i-tabac.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-sucre-i-emocions",
+    "titol": "Sucre i emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pissarra. Cartells amb les emocions bàsiques.",
+    "resum": "Els grups fan el mapa dels productes amb sucre que consumeixen i després l'alumnat es col·loca a l'emoció que li provoca menjar-los.",
+    "objectius": "Prendre consciència del sucre que contenen alguns aliments i de la relació entre el consum de sucre i les emocions.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una ronda de noms i postres preferides, i preguntar: hi ha relació entre el sucre i les emocions? Quan menjo sucre ho noto al cos? I les emocions, les noto al cos?",
+    "descripcio": "En grups de 4 o 5 persones, feu una pluja d'idees de 4 o 5 minuts de productes que contenen sucre, tant natural com afegit. Després, cada grup tria els que més consumeix. Ho anoteu tot a la pissarra en forma de mapa.\n\nAjudeu a diferenciar els sucres naturals i els hidrats de carboni complexos dels sucres afegits, i a ampliar la llista amb productes que no semblen dolços però en porten: plats precuinats, ultraprocessats, tomàquet fregit...\n\nInformació per al docent: segons l'OMS, els sucres lliures són els afegits als aliments i les begudes i els presents en la mel, els xarops i els sucs de fruita. Aporten calories innecessàries i un consum elevat s'associa a més risc d'obesitat, càries i malalties cròniques. No cal prendre sucre afegit: la glucosa que necessitem prové del pa, la pasta, l'arròs, la fruita sencera, els llegums o la llet. L'OMS recomana no passar de 25 g de sucre al dia.\n\nA continuació, dividiu l'aula en espais per a les emocions bàsiques (alegria, tristesa, ràbia, por, fàstic, sorpresa) i un per a «altres». Feu preguntes i l'alumnat es col·loca a l'emoció que més li ressoni:\n\n- Quina emoció et provoquen, en general, els aliments de la pissarra quan te'ls menges?\n- Com et sents quan prens un refresc de cola? I un pastís, una llaminadura, un gelat?\n- Com et fa sentir veure un dolç amb molt bona pinta que no et pots menjar?",
+    "avaluacio": "Feu veure que el consum de sucre està molt associat a emocions positives i en genera un reforç, cosa que pot afavorir-ne la dependència.",
+    "notes": "Forma part de la sessió «Consum de sucre» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16596-consum-de-sucre.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-trobem-els-estereotips",
+    "titol": "Trobem els estereotips",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "El grup fa la llista dels seus referents a les pantalles i analitza quins cossos, edats, gèneres i realitats hi surten i quins no.",
+    "objectius": "Conèixer quins estereotips reprodueixen els referents del món virtual i desenvolupar-hi una mirada crítica.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Pregunteu a l'alumnat quins referents tenen a les pantalles (youtubers, tiktokers, persones que segueixen a Instagram...) i escriviu-los a la pissarra. Anoteu també si algú no ho sap o diu que no segueix ningú. Feu una ratlla al costat dels que es repeteixen per veure quins són els més seguits.\n\nReflexioneu-hi:\n\n- Quin tipus de cos tenen?\n- De quin color tenen la pell?\n- Són guapos? Què vol dir ser guapo? Per què?\n- Com són els nois? I les noies?\n- Hi ha alguna persona trans?\n- Hi ha algú que vagi en cadira de rodes, que sigui cec o que porti bastó?\n- Quina edat tenen?\n\nSi les respostes són molt uniformes (per exemple, tots són blancs), pregunteu si en coneixen algun de diferent. És important formular la pregunta des de qui compleix la norma: «Quins són prims?».\n\nContinueu preguntant si creuen que aquests personatges són sempre així a la vida real: amb la família, quan van al metge, quan queden amb les amistats, quan es troben malament...",
+    "avaluacio": "Com influeix tot el que veiem en la nostra identitat? Afecta la mirada que tenim sobre nosaltres mateixos?",
+    "notes": "Forma part de la sessió «Pantalles - Identitat» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15033-pantalles--identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  }
+]

@@ -61,6 +61,7 @@ const dinamiques = [];
 const vistos = new Set();
 let avisos = 0;
 let traduides = 0;
+let en_catala = 0;
 
 for (const fitxer of fitxers) {
   const contingut = JSON.parse(await readFile(path.join(DIR, fitxer), 'utf8'));
@@ -123,6 +124,9 @@ for (const fitxer of fitxers) {
       if (d[camp]) net[camp] = String(d[camp]).trim();
     }
 
+    // Les fitxes escrites directament en català no tenen original castellà.
+    if (d.idioma === 'ca') en_catala++;
+
     // El català passa a davant i el castellà original es guarda dins de `es`.
     const traduccio = traduccions[d.id];
     if (traduccio) {
@@ -182,7 +186,7 @@ const capcalera = `/* Fitxer generat per scripts/build-data.mjs. No l'editeu a m
   `   Font: data/taxonomia.json + data/dinamiques/*.json\n` +
   `         + data/traduccions/ca/*.json + data/bibliografia.json\n` +
   `   Fitxes: ${dinamiques.length} — ${resum_tipus}\n` +
-  `           (${traduides} amb versió catalana) */\n`;
+  `           (${traduides} traduïdes del castellà, ${en_catala} escrites en català) */\n`;
 
 await writeFile(
   OUT,
@@ -192,7 +196,8 @@ await writeFile(
 );
 
 console.log(`bundle.js generat amb ${dinamiques.length} fitxes de ${fitxers.length} fitxers: ${resum_tipus}.`);
-console.log(`${traduides} fitxes amb text català; ${dinamiques.length - traduides} només en castellà.`);
+console.log(`${traduides} fitxes traduïdes del castellà; ${en_catala} escrites en català; ` +
+  `${dinamiques.length - traduides - en_catala} només en castellà.`);
 if (avisos) console.log(`${avisos} avís(os) de taxonomia.`);
 if (repetits.length) console.log(`${repetits.length} títol(s) repetit(s).`);
 

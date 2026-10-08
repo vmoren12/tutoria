@@ -3,13 +3,14 @@
 Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita propostes de
 tutoria, i munta sessions** llestes per imprimir o desar en PDF.
 
-- **876 fitxes** en català, de tres menes:
-  - **717 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
+- **998 fitxes** en català, de tres menes:
+  - **839 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
   - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
   - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
 
-  Classificades en 27 categories i etiquetades per durada, mida de grup, nivell i material
-  necessari. L'original castellà es conserva i es pot mostrar des dels ajustos.
+  Classificades en 30 categories i etiquetades per durada, mida de grup, nivell i material
+  necessari. De les fitxes traduïdes, l'original castellà es conserva i es pot mostrar des
+  dels ajustos.
 - **Cerca facetada** per paraula clau, tipus de proposta, nivell, categoria, etiquetes,
   durada màxima, mida de grup, material i origen.
 - **Constructor de sessions**: seqüència de blocs amb temps assignat, càlcul d'horaris i
@@ -121,7 +122,7 @@ afegir fitxes és editar un fitxer i executar `npm run build`. El detall és a
 
 ## Sobre el contingut
 
-Les fitxes provenen de tres obres.
+Les fitxes provenen de quatre obres.
 
 Les **dinàmiques de grup**, del recull *[700 Dinámicas
 grupales](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/700-dinamicas-grupales.html)*
@@ -143,6 +144,16 @@ Jesús Gómez Hernández; SIBE-ECOSUR i UJAT, 2007): 36 tècniques de presentaci
 animació, treball de continguts i tancament. D'aquí surten tres categories que el recull de
 jocs no cobria — **Anàlisi i debat**, **Dramatització** i **Tancament i avaluació** — amb
 propostes com la pluja d'idees, el Phillips 6/6, el sociodrama, el joc de rols o el PNI.
+
+Les **dinàmiques d'educació per a la salut**, de les sessions per a l'ESO del programa
+*[Sigues tu](https://www.siguestu.cat/)* de Dipsalut, publicades amb llicència
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca). Cada
+dinàmica d'una sessió és una fitxa escrita directament en català, classificada en un dels
+tres eixos del programa — **Convivència**, **Sexualitats** i **Consums i hàbits
+saludables** — i amb l'enllaç a la sessió original a les notes. De moment hi ha les de les
+etiquetes del web que comencen per A (de «Abusos sexuals» a «Autoconeixement»). Aquestes
+fitxes mantenen la llicència d'origen: es poden reutilitzar sense finalitat comercial,
+citant-ne l'autoria.
 
 La llista completa és a `data/bibliografia.json` i es consulta des de la vista
 **Bibliografia** de l'aplicació.

@@ -92,13 +92,14 @@ amb la unitat d'on surt, de manera que tant es pot programar la unitat sencera c
 una activitat solta.
 
 Les categories també venen de les obres d'origen, i per això a la taxonomia porten un camp
-`familia` (`grup` o `hebe`) que el panell de filtres fa servir per presentar-les separades.
+`familia` (`grup`, `hebe` o `siguestu`) que el panell de filtres fa servir per presentar-les
+separades.
 Les tècniques del *Manual de técnicas y dinámicas* comparteixen família amb les dinàmiques
 de grup i n'hi afegeixen tres categories: `analisi`, `dramatitzacio` i `tancament`.
 
 El camp `nivells` funciona a l'inrevés del que és habitual en una faceta: una fitxa **sense**
 nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 717 dinàmiques
-de grup, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
+dels reculls de jocs, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
 
 ## Catàleg bilingue
 

@@ -46,9 +46,9 @@
     return '<ul class="filtres__llista">' + html + '</ul>';
   }
 
-  /* Les categories venen de dues fonts amb lògiques diferents (les dinàmiques
-     de grup i els blocs del Programa HEBE) i es presenten separades perquè es
-     vegi d'on surt cada una. */
+  /* Les categories venen de fonts amb lògiques diferents (les dinàmiques de
+     grup, els blocs del Programa HEBE i els eixos de Sigues tu) i es presenten
+     separades perquè es vegi d'on surt cada una. */
   function faceta_categories(seleccionades, recomptes) {
     return TUT.data.families().map(function (f) {
       var opcions = TUT.data.categories_de(f.id);

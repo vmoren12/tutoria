@@ -154,6 +154,9 @@ def tradueix_fitxer(nom, refes):
     sortida = {}
     segments, ubicacions = [], []
     for d in dinamiques:
+        # Les fitxes escrites directament en catala no passen per Apertium.
+        if d.get('idioma') == 'ca':
+            continue
         firma = signatura(d)
         anterior = previ.get(d['id'])
         if anterior and anterior.get('_signatura') == firma:

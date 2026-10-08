@@ -6,7 +6,8 @@
   ],
   "families": [
     { "id": "grup", "nom": "Dinàmiques de grup", "descripcio": "Categories del recull «700 dinámicas grupales»." },
-    { "id": "hebe", "nom": "Programa HEBE", "descripcio": "Blocs del programa d'acció tutorial per a 3r i 4t d'ESO." }
+    { "id": "hebe", "nom": "Programa HEBE", "descripcio": "Blocs del programa d'acció tutorial per a 3r i 4t d'ESO." },
+    { "id": "siguestu", "nom": "Programa Sigues tu", "descripcio": "Eixos del programa d'habilitats per a la vida de Dipsalut." }
   ],
   "categories": [
     { "id": "presentacio", "familia": "grup", "nom": "Presentació", "descripcio": "Primer contacte: aprendre noms i trencar distàncies el primer dia de curs." },
@@ -36,7 +37,11 @@
     { "id": "ser-persona", "familia": "hebe", "nom": "Ensenyar a ser persona", "descripcio": "Bloc 2 del Programa HEBE: identitat, afectivitat, compromís social i ciutadania." },
     { "id": "conviure", "familia": "hebe", "nom": "Ensenyar a conviure", "descripcio": "Bloc 3 del Programa HEBE: família, igualtat, assetjament i conflictes." },
     { "id": "comportar-se", "familia": "hebe", "nom": "Ensenyar a comportar-se", "descripcio": "Bloc 4 del Programa HEBE: assertivitat, crítica constructiva i medi ambient." },
-    { "id": "prendre-decisions", "familia": "hebe", "nom": "Ensenyar a prendre decisions", "descripcio": "Bloc 5 del Programa HEBE: orientació acadèmica i professional i projecte de vida." }
+    { "id": "prendre-decisions", "familia": "hebe", "nom": "Ensenyar a prendre decisions", "descripcio": "Bloc 5 del Programa HEBE: orientació acadèmica i professional i projecte de vida." },
+
+    { "id": "convivencia", "familia": "siguestu", "nom": "Convivència", "descripcio": "Eix del programa Sigues tu: cohesió de grup, autoconeixement, assetjament, antiracisme, diversitat i compromís social." },
+    { "id": "sexualitats", "familia": "siguestu", "nom": "Sexualitats", "descripcio": "Eix del programa Sigues tu: cos i plaer, diversitat sexual i de gènere, relacions sanes, consentiment i violències sexuals." },
+    { "id": "consums-habits", "familia": "siguestu", "nom": "Consums i hàbits saludables", "descripcio": "Eix del programa Sigues tu: pantalles, tabac i vàper, alimentació, activitat física i descans." }
   ],
   "etiquetes": [
     { "id": "sense-material", "nom": "Sense material" },
