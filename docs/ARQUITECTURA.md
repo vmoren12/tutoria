@@ -101,6 +101,11 @@ El camp `nivells` funciona a l'inrevés del que és habitual en una faceta: una 
 nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 717 dinàmiques
 dels reculls de jocs, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
 
+El camp `temes` és transversal a les famílies: la categoria diu d'on surt una proposta i
+quina funció té, i el tema diu de què tracta. Així, filtrar per «Afectivitat i sexualitat»
+reuneix unitats de l'HEBE i dinàmiques de Sigues tu. Al contrari que el nivell, una fitxa
+sense temes queda fora quan el filtre és actiu, i per això els jocs de grup no en porten.
+
 ## Catàleg bilingue
 
 Cada fitxa del bundle porta el text **català** als camps principals i l'**original

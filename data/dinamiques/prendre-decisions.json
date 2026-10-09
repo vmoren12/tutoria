@@ -17,6 +17,9 @@
       "competitiu",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -44,6 +47,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "",
@@ -69,6 +75,9 @@
     "unitat": "hebe-3-13",
     "etiquetes": [
       "moviment"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -97,6 +106,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Ordenadores o tabletas con conexion a internet.",
@@ -123,6 +135,9 @@
     "etiquetes": [
       "exterior",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -156,6 +171,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 110,
     "grup": "mitja",
     "materials": "",
@@ -181,6 +199,9 @@
     "unitat": "hebe-3-14",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -209,6 +230,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -235,6 +259,9 @@
     "etiquetes": [
       "exterior",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -266,6 +293,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -292,6 +322,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -321,6 +354,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -347,6 +383,9 @@
     "etiquetes": [
       "expressio-corporal",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -378,6 +417,9 @@
       "cooperatiu",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 110,
     "grup": "mitja",
     "materials": "",
@@ -405,6 +447,9 @@
       "cercle",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -431,6 +476,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -461,6 +509,9 @@
     ],
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 165,
     "grup": "mitja",
@@ -494,6 +545,9 @@
       "musica",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido. Pizarra, cartulinas y material de escritura.",
@@ -520,6 +574,9 @@
     "etiquetes": [
       "moviment"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -545,6 +602,9 @@
     "unitat": "hebe-4-12",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -578,6 +638,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -603,6 +666,9 @@
     "unitat": "hebe-4-13",
     "etiquetes": [
       "moviment"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -631,6 +697,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -657,6 +726,9 @@
     "etiquetes": [
       "moviment"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "",
@@ -681,6 +753,9 @@
     ],
     "unitat": "hebe-4-13",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "",
@@ -707,6 +782,9 @@
     "etiquetes": [
       "escriptura",
       "interior"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -738,6 +816,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -763,6 +844,9 @@
     "unitat": "hebe-4-14",
     "etiquetes": [
       "exterior"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -790,6 +874,9 @@
     "etiquetes": [
       "expressio-corporal"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -814,6 +901,9 @@
     ],
     "unitat": "hebe-4-14",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet. Pizarra, cartulinas y material de escritura.",
@@ -845,6 +935,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -869,6 +962,9 @@
     ],
     "unitat": "hebe-4-15",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -893,6 +989,9 @@
     ],
     "unitat": "hebe-4-15",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet. Pizarra, cartulinas y material de escritura.",
@@ -917,6 +1016,9 @@
     ],
     "unitat": "hebe-4-15",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -941,6 +1043,9 @@
     ],
     "unitat": "hebe-4-15",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -973,6 +1078,9 @@
       "cooperatiu",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -1001,6 +1109,9 @@
       "cooperatiu",
       "escriptura",
       "exterior"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -1031,6 +1142,9 @@
       "exterior",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -1057,6 +1171,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -1082,6 +1199,9 @@
     "unitat": "hebe-4-16",
     "etiquetes": [
       "competitiu"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -1113,6 +1233,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -1137,6 +1260,9 @@
     ],
     "unitat": "hebe-4-17",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet. Pizarra, cartulinas y material de escritura.",
@@ -1163,6 +1289,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet.",
@@ -1187,6 +1316,9 @@
     ],
     "unitat": "hebe-4-17",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -1218,6 +1350,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -1245,6 +1380,9 @@
       "competitiu",
       "moviment"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -1269,6 +1407,9 @@
     ],
     "unitat": "hebe-4-18",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -1293,6 +1434,9 @@
     ],
     "unitat": "hebe-4-18",
     "etiquetes": [],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -1320,6 +1464,9 @@
       "cooperatiu",
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",

@@ -88,6 +88,11 @@
         esc(TUT.data.nom_etiqueta(t)) + '</a>';
     }).join(' ');
 
+    var temes = (d.temes || []).map(function (t) {
+      return '<a class="etiqueta" href="#/cataleg?tem=' + esc(t) + '">' +
+        esc(TUT.data.nom_tema(t)) + '</a>';
+    }).join(' ');
+
     contenidor.innerHTML = '' +
       '<a class="enllac-tornar no-imprimir" href="' + TUT.app.enllac_cataleg() +
         '">Torna al catàleg</a>' +
@@ -136,6 +141,8 @@
             (d.espai ? '<dt>Espai</dt><dd>' + esc(d.espai) + '</dd>' : '') +
             '<dt>Material</dt><dd>' + (d.materials ? esc(d.materials) : 'No cal material') + '</dd>' +
           '</dl>' +
+          (temes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Temàtica</div>' +
+            '<div class="etiquetes">' + temes + '</div></div>' : '') +
           (etiquetes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes</div>' +
             '<div class="etiquetes">' + etiquetes + '</div></div>' : '') +
           (d.font ? '<p class="petit tenue" style="margin-top:16px">Font: ' + esc(d.font) + '</p>' : '') +
@@ -235,6 +242,7 @@
     }
     var d = nova ? TUT.data.plantilla() : Object.assign({}, original);
     d.nivells = d.nivells || [];
+    d.temes = d.temes || [];
     d.tipus = d.tipus || 'dinamica';
     var tax = TUT.data.taxonomia;
 
@@ -290,6 +298,16 @@
             return '<label class="casella"><input type="checkbox" name="nivells" value="' +
               esc(n.id) + '"' + (d.nivells.indexOf(n.id) >= 0 ? ' checked' : '') + '>' +
               esc(n.nom) + '</label>';
+          }).join('') +
+        '</div></fieldset>' +
+
+        '<fieldset><legend>Temàtica</legend>' +
+          '<p class="formulari__ajuda">De què tracta la proposta. Un joc de grup sense tema concret no en necessita cap.</p>' +
+          '<div class="caselles" style="margin-top:8px">' +
+          (tax.temes || []).map(function (t) {
+            return '<label class="casella"><input type="checkbox" name="temes" value="' +
+              esc(t.id) + '"' + (d.temes.indexOf(t.id) >= 0 ? ' checked' : '') + '>' +
+              esc(t.nom) + '</label>';
           }).join('') +
         '</div></fieldset>' +
 
@@ -351,6 +369,7 @@
         durada: Math.max(1, Number(dades.get('durada')) || 15),
         etiquetes: dades.getAll('etiquetes'),
         nivells: dades.getAll('nivells'),
+        temes: dades.getAll('temes'),
         descripcio: descripcio,
       };
       /* Els vincles entre unitat i activitats no s'editen des del formulari,

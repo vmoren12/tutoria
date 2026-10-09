@@ -19,6 +19,8 @@
   (taxonomia.tipus || []).forEach(function (t) { per_tipus[t.id] = t; });
   var per_nivell = {};
   (taxonomia.nivells || []).forEach(function (n) { per_nivell[n.id] = n; });
+  var per_tema = {};
+  (taxonomia.temes || []).forEach(function (t) { per_tema[t.id] = t; });
 
   var llista = [];
   var index = {};
@@ -32,6 +34,7 @@
       nom_tipus(d.tipus),
       (d.nivells || []).map(nom_nivell).join(' '),
       (d.etiquetes || []).map(nom_etiqueta).join(' '),
+      (d.temes || []).map(nom_tema).join(' '),
     ].join(' '));
   }
 
@@ -41,6 +44,10 @@
 
   function nom_etiqueta(id) {
     return per_etiqueta[id] ? per_etiqueta[id].nom : id || '';
+  }
+
+  function nom_tema(id) {
+    return per_tema[id] ? per_tema[id].nom : id || '';
   }
 
   function nom_grup(id) {
@@ -110,6 +117,7 @@
       var d = acumulat[id];
       d.etiquetes = d.etiquetes || [];
       d.nivells = d.nivells || [];
+      d.temes = d.temes || [];
       d.tipus = d.tipus || 'dinamica';
       d.durada = Number(d.durada) || 15;
       d._cerca = text_cercable(d);
@@ -127,23 +135,25 @@
 
   function obte(id) { return index[id] || null; }
 
-  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus i nivell. */
+  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus, nivell i tema. */
   function recomptes(conjunt) {
     var categories = {};
     var etiquetes = {};
     var grups = {};
     var tipus = {};
     var nivells = {};
+    var temes = {};
     (conjunt || llista).forEach(function (d) {
       categories[d.categoria] = (categories[d.categoria] || 0) + 1;
       grups[d.grup] = (grups[d.grup] || 0) + 1;
       tipus[d.tipus] = (tipus[d.tipus] || 0) + 1;
       d.etiquetes.forEach(function (t) { etiquetes[t] = (etiquetes[t] || 0) + 1; });
       d.nivells.forEach(function (n) { nivells[n] = (nivells[n] || 0) + 1; });
+      d.temes.forEach(function (t) { temes[t] = (temes[t] || 0) + 1; });
     });
     return {
       categories: categories, etiquetes: etiquetes, grups: grups,
-      tipus: tipus, nivells: nivells,
+      tipus: tipus, nivells: nivells, temes: temes,
     };
   }
 
@@ -161,6 +171,7 @@
       categoria: taxonomia.categories.length ? taxonomia.categories[0].id : 'varies',
       etiquetes: [],
       nivells: [],
+      temes: [],
       durada: 15,
       grup: 'mitja',
       materials: '',
@@ -189,6 +200,7 @@
     categories_de: categories_de,
     nom_categoria: nom_categoria,
     nom_etiqueta: nom_etiqueta,
+    nom_tema: nom_tema,
     nom_grup: nom_grup,
     nom_tipus: nom_tipus,
     nom_nivell: nom_nivell,

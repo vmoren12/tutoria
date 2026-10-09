@@ -9,6 +9,7 @@
     consulta: '',
     tipus: [],
     nivells: [],
+    temes: [],
     categories: [],
     etiquetes: [],
     grups: [],
@@ -23,7 +24,7 @@
 
   function actius(filtres) {
     return !!(filtres.consulta || filtres.tipus.length || filtres.nivells.length ||
-      filtres.categories.length || filtres.etiquetes.length ||
+      filtres.temes.length || filtres.categories.length || filtres.etiquetes.length ||
       filtres.grups.length || filtres.durada_max || filtres.material !== 'tot' ||
       filtres.origen !== 'tot');
   }
@@ -49,6 +50,13 @@
          per a qualsevol curs, així que el filtre de nivell no les descarta. */
       if (excepte !== 'nivells' && filtres.nivells.length && d.nivells.length &&
           !d.nivells.some(function (n) { return filtres.nivells.indexOf(n) >= 0; })) {
+        return false;
+      }
+
+      /* A diferència del nivell, una fitxa sense temes no surt quan es filtra
+         per tema: els temes només els tenen les propostes que en tracten. */
+      if (excepte !== 'temes' && filtres.temes.length &&
+          !d.temes.some(function (t) { return filtres.temes.indexOf(t) >= 0; })) {
         return false;
       }
 
@@ -104,6 +112,7 @@
     if (filtres.consulta) p.set('q', filtres.consulta);
     if (filtres.tipus.length) p.set('tip', filtres.tipus.join(','));
     if (filtres.nivells.length) p.set('niv', filtres.nivells.join(','));
+    if (filtres.temes.length) p.set('tem', filtres.temes.join(','));
     if (filtres.categories.length) p.set('cat', filtres.categories.join(','));
     if (filtres.etiquetes.length) p.set('eti', filtres.etiquetes.join(','));
     if (filtres.grups.length) p.set('grup', filtres.grups.join(','));
@@ -120,6 +129,7 @@
     f.consulta = p.get('q') || '';
     f.tipus = (p.get('tip') || '').split(',').filter(Boolean);
     f.nivells = (p.get('niv') || '').split(',').filter(Boolean);
+    f.temes = (p.get('tem') || '').split(',').filter(Boolean);
     f.categories = (p.get('cat') || '').split(',').filter(Boolean);
     f.etiquetes = (p.get('eti') || '').split(',').filter(Boolean);
     f.grups = (p.get('grup') || '').split(',').filter(Boolean);

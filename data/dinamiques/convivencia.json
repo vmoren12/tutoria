@@ -13,6 +13,9 @@
       "sense-material",
       "reflexio"
     ],
+    "temes": [
+      "compromis"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "L'alumnat aixeca els braços o els creua segons si està d'acord amb afirmacions sobre l'activisme i els moviments socials, i el grup en construeix la definició.",
@@ -41,6 +44,11 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "violencies",
+      "emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Música per acompanyar la dinàmica (opcional).",
@@ -68,6 +76,10 @@
       "reflexio",
       "emocions"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "Reflexió personal, i després en parelles, sobre una situació en què hem fet mal a algú, per posar-nos al seu lloc i assumir-ne la responsabilitat.",
@@ -91,6 +103,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -117,6 +132,9 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Cartes de necessitats (per exemple, les que proposa el Departament d'Educació).",
@@ -141,6 +159,9 @@
       "subgrups",
       "moviment",
       "escriptura"
+    ],
+    "temes": [
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -167,6 +188,10 @@
       "subgrups",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "Dos grups preparen arguments, des d'una mirada col·lectiva i de justícia social, per rebatre situacions plantejades des de la idea que cadascú és responsable de la seva pobresa.",
@@ -191,6 +216,10 @@
       "escriptura",
       "subgrups",
       "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -220,6 +249,9 @@
       "cercle",
       "reflexio"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "Caminant per l'espai, l'alumnat s'aparella cada vegada que sona un cop de mans i es respon una pregunta sobre gustos i preferències.",
@@ -246,6 +278,9 @@
       "cercle",
       "cooperatiu"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Revistes, tisores, cola, pintura i paper per al mural.",
@@ -269,6 +304,10 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "autoconeixement",
+      "convivencia"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -295,6 +334,10 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "orientacio",
+      "autoconeixement"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Plantilla de l'Ikigai (quatre cercles que s'encavalquen) i bolígraf per persona.",
@@ -318,6 +361,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "assetjament"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -347,6 +393,9 @@
       "reflexio",
       "cooperatiu"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pòsits de tres colors, bolígrafs i paper d'embalar per al mural.",
@@ -370,6 +419,9 @@
     "etiquetes": [
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -398,6 +450,9 @@
       "subgrups",
       "sense-material"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Cinta o guix per marcar quadrats a terra.",
@@ -423,6 +478,9 @@
     "etiquetes": [
       "cercle",
       "escriptura"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -451,6 +509,9 @@
       "cercle",
       "sense-material"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "L'objecte de paraula que es faci servir a l'aula per al cercle de paraula.",
@@ -475,6 +536,9 @@
       "subgrups",
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "emocions"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -502,6 +566,9 @@
     ],
     "etiquetes": [
       "escriptura"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -533,6 +600,10 @@
       "expressio-corporal",
       "emocions"
     ],
+    "temes": [
+      "violencies",
+      "emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "En dues files enfrontades, una persona s'acosta a la seva parella fins que aquesta li indica que ja és dins el seu espai vital.",
@@ -558,6 +629,10 @@
       "subgrups",
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "autoconeixement",
+      "convivencia"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -585,6 +660,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "diversitat"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Papers petits per als compromisos.",
@@ -609,6 +687,10 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "orientacio",
+      "autoconeixement"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -638,6 +720,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "En rotllana, fan un pas endavant les persones a qui els agrada una cosa i un pas enrere les que no; després expressen què els fa sentir bé a classe.",
@@ -660,6 +746,9 @@
     ],
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -686,6 +775,10 @@
       "subgrups",
       "escriptura",
       "cooperatiu"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -715,6 +808,10 @@
       "sense-material",
       "reflexio"
     ],
+    "temes": [
+      "convivencia",
+      "autoconeixement"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Una cadira per persona menys una.",
@@ -742,6 +839,9 @@
       "reflexio",
       "emocions"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pissarra per dibuixar l'esquema de rols de l'assetjament.",
@@ -768,6 +868,9 @@
       "ulls-tapats",
       "sense-material"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Amb els ulls clucs, el grup ha d'endevinar, fent preguntes, qui és la persona que s'ha posat al centre de la rotllana.",
@@ -791,6 +894,10 @@
       "moviment",
       "emocions",
       "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -818,6 +925,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pòsits, bolígrafs i pissarra.",
@@ -844,6 +954,9 @@
       "moviment",
       "sense-material"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Ronda en què cadascú diu què volia ser de gran quan era petit, i després s'aixequen els qui encara ho volen, els qui han canviat d'idea i els qui no ho saben.",
@@ -868,6 +981,9 @@
       "cercle",
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -897,6 +1013,9 @@
       "expressio-corporal",
       "reflexio"
     ],
+    "temes": [
+      "diversitat"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Papers i bolígrafs.",
@@ -922,6 +1041,10 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -950,6 +1073,9 @@
       "reflexio",
       "cercle"
     ],
+    "temes": [
+      "autoconeixement"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Mig full i un bolígraf per persona.",
@@ -976,6 +1102,10 @@
       "escriptura",
       "silenci"
     ],
+    "temes": [
+      "autoconeixement",
+      "convivencia"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Un full per persona, pinces d'estendre roba i bolígrafs.",
@@ -1000,6 +1130,10 @@
     "etiquetes": [
       "subgrups",
       "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 35,
     "grup": "mitja",

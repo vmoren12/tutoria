@@ -66,6 +66,7 @@
 
     var rt = TUT.data.recomptes(TUT.search.filtra(tot, f, 'tipus'));
     var rn = TUT.data.recomptes(TUT.search.filtra(tot, f, 'nivells'));
+    var rm = TUT.data.recomptes(TUT.search.filtra(tot, f, 'temes'));
     var rc = TUT.data.recomptes(TUT.search.filtra(tot, f, 'categories'));
     var re = TUT.data.recomptes(TUT.search.filtra(tot, f, 'etiquetes'));
     var rg = TUT.data.recomptes(TUT.search.filtra(tot, f, 'grups'));
@@ -82,6 +83,12 @@
         opcions_faceta('nivells', 'nivells', tax.nivells || [], f.nivells, rn.nivells, 'checkbox') +
         '<p class="filtres__ajuda">Les propostes sense nivell assignat serveixen per a ' +
           'qualsevol curs i surten sempre.</p>' +
+      '</div>' +
+      '<div class="filtres__grup">' +
+        '<legend>Temàtica</legend>' +
+        opcions_faceta('temes', 'temes', tax.temes || [], f.temes, rm.temes, 'checkbox') +
+        '<p class="filtres__ajuda">De què tracta la proposta. Els jocs de grup no en tenen: ' +
+          'es classifiquen per categoria.</p>' +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Categoria</legend>' +
@@ -148,6 +155,7 @@
     if (f.consulta) xip('«' + f.consulta + '»', 'consulta');
     f.tipus.forEach(function (t) { xip(TUT.data.nom_tipus(t), 'tipus', t); });
     f.nivells.forEach(function (n) { xip(TUT.data.nom_nivell(n), 'nivells', n); });
+    f.temes.forEach(function (t) { xip(TUT.data.nom_tema(t), 'temes', t); });
     f.categories.forEach(function (c) { xip(TUT.data.nom_categoria(c), 'categories', c); });
     f.etiquetes.forEach(function (t) { xip(TUT.data.nom_etiqueta(t), 'etiquetes', t); });
     f.grups.forEach(function (g) { xip(TUT.data.nom_grup(g), 'grups', g); });
@@ -316,7 +324,7 @@
           '<h1 class="vista__titol">Catàleg de propostes</h1>' +
           '<p class="vista__descripcio">Dinàmiques de grup, activitats de tutoria i unitats ' +
             'didàctiques. Cerca per paraula clau i filtra per tipus de proposta, nivell, ' +
-            'categoria, durada, mida de grup o material per muntar la sessió.</p>' +
+            'temàtica, categoria, durada, mida de grup o material per muntar la sessió.</p>' +
         '</div>' +
         '<div class="vista__accions">' +
           '<a class="boto" href="#/dinamica/nova">' + dom.icona('mes') + 'Nova proposta</a>' +

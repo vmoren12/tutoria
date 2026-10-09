@@ -43,6 +43,24 @@
     { "id": "sexualitats", "familia": "siguestu", "nom": "Sexualitats", "descripcio": "Eix del programa Sigues tu: cos i plaer, diversitat sexual i de gènere, relacions sanes, consentiment i violències sexuals." },
     { "id": "consums-habits", "familia": "siguestu", "nom": "Consums i hàbits saludables", "descripcio": "Eix del programa Sigues tu: pantalles, tabac i vàper, alimentació, activitat física i descans." }
   ],
+  "temes": [
+    { "id": "afectivitat", "nom": "Afectivitat i sexualitat", "descripcio": "Cos, pubertat, plaer, amor i relacions de parella." },
+    { "id": "genere", "nom": "Gènere i diversitat sexual", "descripcio": "Estereotips i rols de gènere, masclisme, igualtat i diversitat LGTBI." },
+    { "id": "violencies", "nom": "Violències i consentiment", "descripcio": "Límits, consentiment, abusos, violències sexuals i relacions de control." },
+    { "id": "assetjament", "nom": "Assetjament i ciberassetjament", "descripcio": "Bullying, ciberassetjament i el paper del grup." },
+    { "id": "autoconeixement", "nom": "Autoconeixement i autoestima", "descripcio": "Identitat, imatge corporal, qualitats i valoració d'un mateix." },
+    { "id": "emocions", "nom": "Emocions i salut mental", "descripcio": "Reconèixer i gestionar emocions, estrès, gelosia i benestar psicològic." },
+    { "id": "convivencia", "nom": "Convivència i cohesió de grup", "descripcio": "Clima d'aula, cohesió, conflictes i convivència familiar." },
+    { "id": "comunicacio", "nom": "Comunicació i habilitats socials", "descripcio": "Expressar-se, escoltar, argumentar i fer i rebre crítiques." },
+    { "id": "diversitat", "nom": "Diversitat i antiracisme", "descripcio": "Racisme, prejudicis, aporofòbia, diversitat funcional i models familiars." },
+    { "id": "compromis", "nom": "Drets i compromís social", "descripcio": "Drets, ciutadania, activisme i accions col·lectives." },
+    { "id": "pantalles", "nom": "Pantalles i xarxes socials", "descripcio": "Ús de les pantalles, identitat digital, xarxes i privacitat." },
+    { "id": "consums", "nom": "Tabac, alcohol i altres consums", "descripcio": "Tabac, vàper, alcohol, altres drogues i pressió de grup." },
+    { "id": "habits", "nom": "Alimentació, activitat i descans", "descripcio": "Hàbits saludables: menjar, moure's i dormir." },
+    { "id": "orientacio", "nom": "Orientació i projecte de vida", "descripcio": "Presa de decisions sobre estudis i feina, i projecte personal." },
+    { "id": "aprenentatge", "nom": "Estudi i aprenentatge", "descripcio": "Hàbits d'estudi, autoregulació i sentit del que s'aprèn." },
+    { "id": "medi-ambient", "nom": "Medi ambient", "descripcio": "Sostenibilitat i cura del planeta." }
+  ],
   "etiquetes": [
     { "id": "sense-material", "nom": "Sense material" },
     { "id": "moviment", "nom": "Amb moviment" },

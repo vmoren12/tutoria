@@ -17,6 +17,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "comunicacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -45,6 +49,10 @@
       "expressio-corporal",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -71,6 +79,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -96,6 +108,10 @@
     "unitat": "hebe-3-01",
     "etiquetes": [
       "expressio-corporal"
+    ],
+    "temes": [
+      "aprenentatge",
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -126,6 +142,10 @@
       "reflexio",
       "subgrups",
       "ulls-tapats"
+    ],
+    "temes": [
+      "aprenentatge",
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -158,6 +178,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -185,6 +208,9 @@
       "atencio",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido.",
@@ -210,6 +236,9 @@
     "unitat": "hebe-3-02",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -239,6 +268,9 @@
       "memoria",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "",
@@ -264,6 +296,9 @@
     "unitat": "hebe-3-02",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -298,6 +333,9 @@
       "atencio",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -324,6 +362,9 @@
     "etiquetes": [
       "competitiu",
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -352,6 +393,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -377,6 +421,9 @@
     "unitat": "hebe-3-03",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -405,6 +452,9 @@
       "atencio",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "",
@@ -432,6 +482,9 @@
       "atencio",
       "competitiu",
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -465,6 +518,9 @@
       "competitiu",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 110,
     "grup": "mitja",
     "materials": "",
@@ -492,6 +548,9 @@
       "competitiu",
       "cooperatiu",
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -521,6 +580,9 @@
       "memoria",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -545,6 +607,9 @@
     ],
     "unitat": "hebe-4-01",
     "etiquetes": [],
+    "temes": [
+      "aprenentatge"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -570,6 +635,9 @@
     "unitat": "hebe-4-01",
     "etiquetes": [
       "musica"
+    ],
+    "temes": [
+      "aprenentatge"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -602,6 +670,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -632,6 +704,10 @@
       "exterior",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -659,6 +735,10 @@
       "competitiu",
       "memoria",
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge",
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -688,6 +768,10 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "aprenentatge",
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -714,6 +798,10 @@
     "etiquetes": [
       "memoria",
       "reflexio"
+    ],
+    "temes": [
+      "aprenentatge",
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -748,6 +836,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -773,6 +865,10 @@
     "unitat": "hebe-4-03",
     "etiquetes": [
       "competitiu"
+    ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -801,6 +897,10 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -826,6 +926,10 @@
     "unitat": "hebe-4-03",
     "etiquetes": [
       "atencio"
+    ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -853,6 +957,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido.",
@@ -879,6 +987,10 @@
     "etiquetes": [
       "emocions",
       "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "orientacio"
     ],
     "durada": 15,
     "grup": "mitja",

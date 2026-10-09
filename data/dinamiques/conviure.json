@@ -16,6 +16,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -46,6 +49,9 @@
       "interior",
       "reflexio"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido. Pizarra, cartulinas y material de escritura.",
@@ -72,6 +78,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -100,6 +109,9 @@
       "expressio-corporal",
       "interior",
       "memoria"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -132,6 +144,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "genere"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -157,6 +172,9 @@
     "unitat": "hebe-3-08",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "genere"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -184,6 +202,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "genere"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -213,6 +234,9 @@
       "expressio-corporal",
       "reflexio"
     ],
+    "temes": [
+      "genere"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "",
@@ -241,6 +265,9 @@
       "expressio-corporal",
       "parelles",
       "reflexio"
+    ],
+    "temes": [
+      "genere"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -272,6 +299,9 @@
     ],
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "assetjament"
     ],
     "durada": 220,
     "grup": "mitja",
@@ -305,6 +335,9 @@
       "reflexio",
       "silenci"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -334,6 +367,9 @@
       "reflexio",
       "silenci"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -360,6 +396,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -385,6 +424,9 @@
     "unitat": "hebe-3-09",
     "etiquetes": [
       "silenci"
+    ],
+    "temes": [
+      "assetjament"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -417,6 +459,10 @@
       "interior",
       "reflexio"
     ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -446,6 +492,10 @@
       "exterior",
       "reflexio"
     ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -474,6 +524,10 @@
       "cooperatiu",
       "escriptura"
     ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -501,6 +555,10 @@
       "emocions",
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -532,6 +590,9 @@
     "etiquetes": [
       "parelles",
       "reflexio"
+    ],
+    "temes": [
+      "assetjament"
     ],
     "durada": 110,
     "grup": "mitja",
@@ -565,6 +626,9 @@
       "reflexio",
       "silenci"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -592,6 +656,9 @@
       "emocions",
       "parelles"
     ],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -616,6 +683,9 @@
     ],
     "unitat": "hebe-4-07",
     "etiquetes": [],
+    "temes": [
+      "assetjament"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -647,6 +717,9 @@
       "escriptura",
       "exterior",
       "reflexio"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 165,
     "grup": "mitja",
@@ -681,6 +754,9 @@
       "reflexio",
       "subgrups"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido. Pizarra, cartulinas y material de escritura.",
@@ -709,6 +785,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "convivencia"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -735,6 +814,9 @@
     "etiquetes": [
       "competitiu",
       "emocions"
+    ],
+    "temes": [
+      "convivencia"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -769,6 +851,10 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "violencies"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -798,6 +884,10 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "violencies"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Proyector o pantalla con sonido. Pizarra, cartulinas y material de escritura.",
@@ -825,6 +915,10 @@
       "expressio-corporal",
       "parelles",
       "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "violencies"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -855,6 +949,10 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "violencies"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Proyector o pantalla con sonido.",
@@ -880,6 +978,10 @@
     "unitat": "hebe-4-09",
     "etiquetes": [
       "parelles"
+    ],
+    "temes": [
+      "afectivitat",
+      "violencies"
     ],
     "durada": 55,
     "grup": "mitja",

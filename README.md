@@ -11,8 +11,10 @@ tutoria, i munta sessions** llestes per imprimir o desar en PDF.
   Classificades en 30 categories i etiquetades per durada, mida de grup, nivell i material
   necessari. De les fitxes traduïdes, l'original castellà es conserva i es pot mostrar des
   dels ajustos.
-- **Cerca facetada** per paraula clau, tipus de proposta, nivell, categoria, etiquetes,
-  durada màxima, mida de grup, material i origen.
+- **Cerca facetada** per paraula clau, tipus de proposta, nivell, temàtica, categoria,
+  etiquetes, durada màxima, mida de grup, material i origen. La temàtica (afectivitat i
+  sexualitat, assetjament, pantalles, orientació...) creua les fonts i reuneix les unitats de
+  l'HEBE i les dinàmiques de Sigues tu sobre un mateix tema.
 - **Constructor de sessions**: seqüència de blocs amb temps assignat, càlcul d'horaris i
   control de la durada prevista.
 - **Full de sessió imprimible** amb el contingut que triïs, pensat per a A4.
@@ -83,7 +85,7 @@ Per desar en PDF: **Full de sessió → Imprimeix** i, al diàleg del navegador,
 index.html                pàgina única
 assets/css/               base, aplicació i impressió
 assets/js/                mòduls (dom, store, data, search, ui, vistes, app)
-data/taxonomia.json       tipus, categories, etiquetes, mides de grup i nivells
+data/taxonomia.json       tipus, categories, temes, etiquetes, mides de grup i nivells
 data/dinamiques/*.json    el catàleg original en castellà, un fitxer per categoria
 data/traduccions/ca/*.json  traducció al català, un fitxer per categoria
 data/bibliografia.json    obres d'origen de les fitxes

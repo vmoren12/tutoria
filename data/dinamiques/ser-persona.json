@@ -17,6 +17,10 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -46,6 +50,10 @@
       "interior",
       "musica"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Proyector o pantalla con sonido.",
@@ -72,6 +80,10 @@
     "etiquetes": [
       "emocions",
       "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "emocions"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -101,6 +113,10 @@
       "expressio-corporal",
       "parelles"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -128,6 +144,10 @@
       "emocions",
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "emocions"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -160,6 +180,10 @@
       "interior",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -188,6 +212,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -212,6 +240,10 @@
     ],
     "unitat": "hebe-3-05",
     "etiquetes": [],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -236,6 +268,10 @@
     ],
     "unitat": "hebe-3-05",
     "etiquetes": [],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet. Pizarra, cartulinas y material de escritura.",
@@ -267,6 +303,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "assetjament",
+      "pantalles"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -292,6 +332,10 @@
     "unitat": "hebe-3-06",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "assetjament",
+      "pantalles"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -320,6 +364,10 @@
       "expressio-corporal",
       "reflexio"
     ],
+    "temes": [
+      "assetjament",
+      "pantalles"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet. Proyector o pantalla con sonido.",
@@ -346,6 +394,10 @@
     "etiquetes": [
       "expressio-corporal"
     ],
+    "temes": [
+      "assetjament",
+      "pantalles"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Ordenadores o tabletas con conexion a internet.",
@@ -371,6 +423,10 @@
     "unitat": "hebe-3-06",
     "etiquetes": [
       "interior"
+    ],
+    "temes": [
+      "assetjament",
+      "pantalles"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -406,6 +462,11 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -435,6 +496,11 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -462,6 +528,11 @@
       "cercle",
       "competitiu",
       "emocions"
+    ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -491,6 +562,11 @@
       "emocions",
       "escriptura"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -518,6 +594,11 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "",
@@ -544,6 +625,11 @@
     "etiquetes": [
       "emocions",
       "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "emocions",
+      "genere"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -577,6 +663,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 110,
     "grup": "mitja",
     "materials": "",
@@ -602,6 +691,9 @@
     "unitat": "hebe-4-05",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -629,6 +721,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "orientacio"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "",
@@ -654,6 +749,9 @@
     "unitat": "hebe-4-05",
     "etiquetes": [
       "competitiu"
+    ],
+    "temes": [
+      "orientacio"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -688,6 +786,10 @@
       "interior",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -713,6 +815,10 @@
     "unitat": "hebe-4-06",
     "etiquetes": [
       "interior"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -741,6 +847,10 @@
       "interior",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Proyector o pantalla con sonido.",
@@ -768,6 +878,10 @@
       "parelles",
       "reflexio"
     ],
+    "temes": [
+      "diversitat",
+      "compromis"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad. Pizarra, cartulinas y material de escritura.",
@@ -794,6 +908,10 @@
     "etiquetes": [
       "competitiu",
       "musica"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -824,6 +942,10 @@
       "expressio-corporal",
       "parelles",
       "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "compromis"
     ],
     "durada": 40,
     "grup": "mitja",

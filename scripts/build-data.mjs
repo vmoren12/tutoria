@@ -49,6 +49,7 @@ async function llegeix_opcional(fitxer, per_defecte) {
 const taxonomia = JSON.parse(await readFile(path.join(ROOT, 'data', 'taxonomia.json'), 'utf8'));
 const categories = new Set(taxonomia.categories.map((c) => c.id));
 const etiquetes = new Set(taxonomia.etiquetes.map((t) => t.id));
+const temes = new Set((taxonomia.temes || []).map((t) => t.id));
 const grups = new Set(taxonomia.grups.map((g) => g.id));
 const tipus = new Set(taxonomia.tipus.map((t) => t.id));
 const nivells = new Set(taxonomia.nivells.map((n) => n.id));
@@ -91,6 +92,12 @@ for (const fitxer of fitxers) {
         avisos++;
       }
     }
+    for (const t of d.temes || []) {
+      if (!temes.has(t)) {
+        console.warn(`  avís  ${d.id}: tema desconegut "${t}"`);
+        avisos++;
+      }
+    }
     if (d.grup && !grups.has(d.grup)) {
       console.warn(`  avís  ${d.id}: mida de grup desconeguda "${d.grup}"`);
       avisos++;
@@ -118,6 +125,7 @@ for (const fitxer of fitxers) {
       grup: d.grup || 'mitja',
     };
     if (d.nivells && d.nivells.length) net.nivells = [...d.nivells];
+    if (d.temes && d.temes.length) net.temes = [...new Set(d.temes)];
     if (d.unitat) net.unitat = d.unitat;
     if (d.activitats && d.activitats.length) net.activitats = [...d.activitats];
     for (const camp of CAMPS_TEXT) {

@@ -16,6 +16,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -47,6 +50,9 @@
       "reflexio",
       "silenci"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Pizarra, cartulinas y material de escritura.",
@@ -76,6 +82,9 @@
       "expressio-corporal",
       "parelles"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -104,6 +113,9 @@
       "escriptura",
       "parelles"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "",
@@ -131,6 +143,9 @@
       "emocions",
       "interior",
       "subgrups"
+    ],
+    "temes": [
+      "comunicacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -162,6 +177,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
+    ],
     "durada": 165,
     "grup": "mitja",
     "materials": "",
@@ -191,6 +210,10 @@
       "exterior",
       "parelles",
       "reflexio"
+    ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -222,6 +245,10 @@
       "exterior",
       "reflexio"
     ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -247,6 +274,10 @@
     "unitat": "hebe-3-12",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -278,6 +309,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -302,6 +337,10 @@
     ],
     "unitat": "hebe-4-10",
     "etiquetes": [],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Ordenadores o tabletas con conexion a internet.",
@@ -328,6 +367,10 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -353,6 +396,10 @@
     "unitat": "hebe-4-10",
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "medi-ambient",
+      "orientacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -384,6 +431,9 @@
     "etiquetes": [
       "reflexio"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 220,
     "grup": "mitja",
     "materials": "",
@@ -412,6 +462,9 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "comunicacio"
+    ],
     "durada": 55,
     "grup": "mitja",
     "materials": "Fotocopias de los cuadros y fichas de la actividad.",
@@ -438,6 +491,9 @@
     "etiquetes": [
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "comunicacio"
     ],
     "durada": 55,
     "grup": "mitja",
@@ -466,6 +522,9 @@
       "moviment",
       "reflexio",
       "subgrups"
+    ],
+    "temes": [
+      "comunicacio"
     ],
     "durada": 55,
     "grup": "mitja",

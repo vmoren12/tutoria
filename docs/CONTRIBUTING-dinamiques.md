@@ -14,7 +14,7 @@ El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
 
 ```
 data/
-├── taxonomia.json          categories, etiquetes, mides de grup, nivells
+├── taxonomia.json          categories, temes, etiquetes, mides de grup, nivells
 ├── bibliografia.json       obres d'origen de les dinàmiques
 ├── dinamiques/
 │   ├── presentacio.json
@@ -51,6 +51,7 @@ avisa dels **títols repetits**, que solen ser fitxes duplicades.
   "categoria": "presentacio",        // obligatori, id de data/taxonomia.json
   "etiquetes": ["cercle", "sense-material"],
   "nivells": ["3eso"],               // opcional; sense nivells serveix per a qualsevol curs
+  "temes": ["convivencia"],          // opcional; de què tracta la proposta
   "durada": 20,                      // minuts, nombre enter
   "grup": "mitja",                   // petit | mitja | gran
   "materials": "Un cabdell de llana",
@@ -79,6 +80,12 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
 - **`durada`**: minuts orientatius; a la sessió es pot ajustar bloc a bloc.
 - **`tipus`** i **`nivells`**: han d'existir a `data/taxonomia.json`. Si s'ometen, la fitxa
   és una `dinamica` sense nivell assignat, i el filtre de nivell no la descarta mai.
+- **`temes`**: la temàtica de la proposta (afectivitat i sexualitat, assetjament,
+  pantalles...), de la llista `temes` de `data/taxonomia.json`. A diferència del nivell,
+  una fitxa sense temes **no** surt quan es filtra per temàtica, així que només els porten
+  les propostes que tracten un tema concret: les de l'HEBE i les de Sigues tu. Els jocs de
+  grup no en tenen i es classifiquen per categoria. Els temes de l'HEBE es fixen per unitat
+  a `TEMES`, dins de `scripts/extract_hebe.py`, i les activitats hereten els de la seva unitat.
 
 ### Unitats didàctiques i les seves activitats
 

@@ -14,6 +14,10 @@
       "escriptura",
       "reflexio"
     ],
+    "temes": [
+      "pantalles",
+      "comunicacio"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pissarra, pòsits (8 per grup) i bolígrafs.",
@@ -41,6 +45,10 @@
       "reflexio",
       "moviment"
     ],
+    "temes": [
+      "autoconeixement",
+      "emocions"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pòsits, bolígrafs i pissarra.",
@@ -65,6 +73,10 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "pantalles",
+      "autoconeixement"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En una línia del 0 al 10, l'alumnat es posiciona sobre diverses frases segons com és a casa, a l'institut, amb les amistats i a les pantalles.",
@@ -88,6 +100,9 @@
     "etiquetes": [
       "moviment",
       "competitiu"
+    ],
+    "temes": [
+      "habits"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -114,6 +129,10 @@
       "escriptura",
       "cooperatiu"
     ],
+    "temes": [
+      "habits",
+      "emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Quatre fulls DIN A4 per grup i retoladors.",
@@ -139,6 +158,10 @@
       "subgrups",
       "moviment",
       "cooperatiu"
+    ],
+    "temes": [
+      "habits",
+      "convivencia"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -168,6 +191,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "habits",
+      "emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "En cercle, l'alumnat s'acosta al centre com més s'identifica amb afirmacions sobre quan i per què menja dolços.",
@@ -192,6 +219,10 @@
       "cercle",
       "sense-material",
       "reflexio"
+    ],
+    "temes": [
+      "pantalles",
+      "autoconeixement"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -219,6 +250,10 @@
       "moviment",
       "exterior",
       "cooperatiu"
+    ],
+    "temes": [
+      "habits",
+      "convivencia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -248,6 +283,10 @@
       "expressio-corporal",
       "cooperatiu"
     ],
+    "temes": [
+      "habits",
+      "convivencia"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Una persona amb els peus junts es deixa caure i la rotllana la va empenyent suaument d'un costat a l'altre sense deixar-la caure.",
@@ -271,6 +310,10 @@
     "etiquetes": [
       "escriptura",
       "reflexio"
+    ],
+    "temes": [
+      "autoconeixement",
+      "emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -298,6 +341,10 @@
       "cooperatiu",
       "sense-material"
     ],
+    "temes": [
+      "habits",
+      "convivencia"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Una filera agafada de les mans s'enrotlla en espiral fins a fer una gran abraçada col·lectiva, i després s'ha de desfer sense deixar-se anar.",
@@ -323,6 +370,9 @@
       "escriptura",
       "cooperatiu"
     ],
+    "temes": [
+      "pantalles"
+    ],
     "durada": 120,
     "grup": "mitja",
     "materials": "Ordinadors o articles de premsa impresos sobre l'ús de les pantalles. Material per maquetar la portada, en paper o digital.",
@@ -347,6 +397,10 @@
       "subgrups",
       "ulls-tapats",
       "expressio-corporal"
+    ],
+    "temes": [
+      "habits",
+      "convivencia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -375,6 +429,10 @@
       "cercle",
       "reflexio"
     ],
+    "temes": [
+      "pantalles",
+      "comunicacio"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En dos cercles concèntrics, les parelles canvien cada deu segons i s'han de dir opinions ràpides, de les agradables a les desagradables.",
@@ -398,6 +456,9 @@
     "etiquetes": [
       "moviment",
       "reflexio"
+    ],
+    "temes": [
+      "consums"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -425,6 +486,10 @@
       "sense-material",
       "reflexio"
     ],
+    "temes": [
+      "autoconeixement",
+      "emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Caminant per l'espai, l'alumnat s'aparella diverses vegades i respon «Què t'agrada?» sense poder repetir mai la resposta.",
@@ -447,6 +512,10 @@
     ],
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "pantalles",
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -472,6 +541,11 @@
       "moviment",
       "reflexio"
     ],
+    "temes": [
+      "habits",
+      "emocions",
+      "pantalles"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "L'alumnat respon afirmacions sobre els seus hàbits de son enfilant-se a la cadira, asseient-se a terra o quedant-se assegut, i el grup relaciona son, estrès i pantalles.",
@@ -496,6 +570,10 @@
     "etiquetes": [
       "silenci",
       "musica",
+      "emocions"
+    ],
+    "temes": [
+      "habits",
       "emocions"
     ],
     "durada": 15,
@@ -524,6 +602,9 @@
       "expressio-corporal",
       "reflexio"
     ],
+    "temes": [
+      "consums"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Papers petits i bolígrafs.",
@@ -551,6 +632,10 @@
       "emocions",
       "reflexio"
     ],
+    "temes": [
+      "habits",
+      "emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pissarra. Cartells amb les emocions bàsiques.",
@@ -575,6 +660,10 @@
     ],
     "etiquetes": [
       "reflexio"
+    ],
+    "temes": [
+      "pantalles",
+      "genere"
     ],
     "durada": 30,
     "grup": "mitja",
