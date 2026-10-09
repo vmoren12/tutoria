@@ -1,5 +1,32 @@
 [
   {
+    "id": "st-animals-que-ens-envolten",
+    "titol": "Animals que ens envolten",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "temes": [
+      "habits",
+      "medi-ambient"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "resum": "Pluja d'idees sobre els animals del nostre voltant que porta a qüestionar per què uns són de companyia i uns altres, per menjar.",
+    "objectius": "Adonar-se que la frontera entre animals de companyia i animals de consum és cultural.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu una pluja d'idees amb tota la classe: quins animals tenim al voltant? Segurament diran primer els animals vius amb qui conviuen. Deixeu temps per veure si surten els animals de consum; si no, pregunteu-ho.\n\n- Animals de companyia: gat, gos, conill, fura, lloro, hàmster, peix...\n- Animals de consum: conill, porc, gall dindi, gallina, vedella, xai, cabrit, cavall, ànec, cargols, peix i marisc...\n\nAmb la llista feta, pregunteu:\n\n- Aquesta classificació és igual a tot el món?\n- Seríem capaços de menjar-nos un animal de companyia?\n- Com ho vivim? Ho podem jutjar?\n\nRemarqueu que cada país té la seva cultura: aquí la carn de vaca és habitual, però a l'Índia és tabú; a Austràlia menjar conill és impensable, i en alguns països asiàtics es mengen gossos i gats.",
+    "notes": "Forma part de la sessió «Benestar animal» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16455-benestar-animal.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-aterrant-la-realitat",
     "titol": "Aterrant la realitat",
     "tipus": "dinamica",
@@ -60,6 +87,36 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-campanya-de-sensibilitzacio-vial",
+    "titol": "Campanya de sensibilització vial",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "escriptura"
+    ],
+    "temes": [
+      "consums",
+      "compromis"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs. Opcionalment, l'anunci de la campanya de trànsit del 2010 que la fitxa original posa d'exemple (https://www.youtube.com/watch?v=9q6qosR9MSw).",
+    "resum": "Com si treballessin a Trànsit, els grups preparen entre tots una campanya per reduir els accidents de joves, cada grup a partir d'una pregunta diferent.",
+    "objectius": "Reflexionar sobre la conducció sota els efectes de les drogues i proposar maneres de prevenir-la.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Feu grups de tres. Són personal del departament de sensibilització i prevenció de Trànsit i, entre tota la classe, han de preparar una campanya per a joves per reduir els accidents i les morts a la carretera. Cada grup rep un tema:\n\n1. Atenció interna: com fomentarem la revisió personal?\n2. Rellevància social: quina importància té el problema per a la societat?\n3. Fortaleses: amb què comptem per afrontar-lo?\n4. Comprensió del fenomen: quin és el problema?\n5. Mirada: des d'on el volem mirar?\n6. Posicionament: quin és el nostre discurs?\n7. Afrontament: com volem que siguin les relacions i els vincles?\n8. Rols: com veiem els personatges principals?\n9. Alertes: què proposem?\n\nDesprés d'una estona, els grups s'ajunten per blocs per posar-ho en comú, veure si s'han repetit i, si cal, refer algun punt:\n\n- El sentir: temes 1, 2 i 3.\n- El pensar: temes 4, 5 i 6.\n- El fer: temes 7, 8 i 9.\n\nFinalment, compartiu-ho amb tota la classe i mireu si la campanya és coherent. Si hi ha temps, podeu fer-ne un tríptic amb frases clau.\n\nCom a exemple, podeu mostrar l'anunci de la campanya de trànsit del 2010, molt innovador perquè deixava el discurs de la por i se centrava en el dolor de les famílies de les víctimes.",
+    "avaluacio": "Feu una roda en què cadascú diu com se sent després de la sessió i com creu que afrontarà aquestes decisions d'ara endavant.",
+    "notes": "Forma part de la sessió «Drogues i vehicles» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16597-drogues-i-vehicles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-com-soc-en-els-diferents-espais",
     "titol": "Com soc en els diferents espais",
     "tipus": "dinamica",
@@ -85,6 +142,36 @@
     "descripcio": "Marqueu a terra una línia imaginària: un extrem és el 0 i l'altre el 10. L'alumnat s'hi col·loca segons el grau d'identificació amb cada frase.\n\nFeu cada pregunta per a diversos àmbits (a casa, a l'institut, amb les amistats, a les pantalles) i demaneu-los que observin si hi ha molta diferència entre un i altre:\n\n- Soc una persona agradable.\n- Normalment tinc vergonya.\n- Soc una persona directa.\n- M'enfado amb facilitat.\n\nDeixeu espai perquè expliquin per què s'han col·locat on són i per què canvien d'un àmbit a l'altre.",
     "avaluacio": "Què us ha sorprès més de les diferències entre àmbits?\nHi ha més diferències entre les pantalles i la resta d'espais? Per què creieu que passa?",
     "notes": "Forma part de la sessió «Pantalles - Identitat» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15033-pantalles--identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-com-vivim-persones-animals-de-consum-i-de-companyia",
+    "titol": "Com vivim? Persones, animals de consum i animals de companyia",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "habits",
+      "medi-ambient"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra, papers i bolígrafs.",
+    "resum": "Els grups comparen les condicions que fan viure bé les persones amb les dels animals que consumim i les dels animals de companyia.",
+    "objectius": "Reflexionar sobre el benestar animal a través de l'empatia.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Per començar, feu una roda en què cadascú diu el seu nom i el primer que li ve al cap quan sent «benestar animal». Parleu de l'empatia: què és? Per a què serveix? Què passa si en tenim massa? I si en tenim molt poca?\n\nDesprés, en grups de quatre, escriuen com creuen que el consum de carn pot afectar cada esfera de la salut (física, mental, social, del planeta). Ho apunteu a la pissarra i ho debateu. També poden sortir altres usos dels animals: experimentació, roba de pell, cosmètics...",
+    "descripcio": "Amb els mateixos grups, feu tres preguntes successives. Deixeu temps perquè les responguin per escrit i aneu anotant les respostes a la pissarra en tres columnes:\n\n1. Quines condicions ens fan viure bé a les persones?\n2. En quines condicions viuen els animals que consumim?\n3. En quines condicions viuen els animals de companyia?\n\nPoden sortir coses com:\n\n- Persones: un sostre, calefacció, menjar variat, comunicació (el mòbil), higiene, oci, amistats, espai vital...\n- Animals de consum: granges de cria intensiva, viuen apilonats o a l'aire lliure, llum artificial, mengen sempre el mateix, se'ls mediquen amb hormones, poca higiene, no poden seguir el seu comportament natural...\n- Animals de companyia: un sostre, pinso o llaunes, higiene, comparteixen l'espai amb les persones que els estimen, poden moure's...\n\nAfavoriu que l'alumnat arribi a les seves pròpies conclusions i escolteu tots els arguments.",
+    "notes": "Forma part de la sessió «Benestar animal» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16455-benestar-animal.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -176,6 +263,34 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-del-consum-puntual-al-consum-problematic",
+    "titol": "Del consum puntual al consum problemàtic",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pissarra, papers i bolígrafs.",
+    "resum": "Els grups classifiquen actituds i comportaments de persones consumidores segons si corresponen a un consum puntual, habitual o problemàtic.",
+    "objectius": "Distingir els tipus de consum i entendre que qualsevol persona pot arribar a tenir-ne un de problemàtic.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Amb els mateixos grups, l'alumnat pensa en persones consumidores que coneix i escriu quines actituds i comportaments posaria en tres columnes: consum puntual, consum habitual i consum problemàtic. Poseu-ho en comú. Poden sortir coses com:\n\n- Consum puntual: divertir-se, fer-se veure, curiositat, demanar temps, diners o la substància, dir que no s'ha consumit, no hi ha mono, tolerància baixa.\n- Consum habitual: dependència (mal humor si no pot consumir), sentiment de pertinença, buscar diners, tancament del cercle social, identificar-se amb l'adult, mono, tolerància creixent.\n- Consum problemàtic: dependència extrema, manipulació, mentides, robatoris, aïllament social, mono, tolerància alta (calen dosis altes).\n\nRemarqueu que qualsevol persona pot tenir un consum problemàtic: no depèn de la classe social, l'origen ni cap altra condició.",
+    "notes": "Forma part de la sessió «Consum de drogues» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16553-consum-de-drogues.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-des-de-quina-emocio-mengem-dolc",
     "titol": "Des de quina emoció mengem dolç?",
     "tipus": "dinamica",
@@ -203,6 +318,64 @@
     "descripcio": "Tothom dret, en cercle. Llegiu les afirmacions; com més s'hi identifiqui cadascú, més a prop del centre s'ha de posar.\n\n- Quan estic trist menjo dolços.\n- A les celebracions (aniversaris, bones notícies...) menjo dolços.\n- Quan m'avorreixo menjo més del que és habitual.\n- Quan estic estressat menjo més.\n- Quan vull menjar un dolç a casa i no n'hi ha, sento enuig o frustració.\n- Tinc por d'engreixar-me si menjo dolços.\n\nPer acabar, dividiu l'aula en dos espais i que es col·loquin segons si creuen que tenen un consum de sucre saludable o no.",
     "avaluacio": "Des de quina emoció consumeixes sucre?\n\nEl sucre estimula el sistema de recompensa del cervell i ens connecta amb el plaer i les emocions agradables, de vegades amb la nostàlgia de la infància. Això pot generar dependència emocional i fer que el fem servir per fugir de les emocions desagradables.",
     "notes": "Forma part de la sessió «Consum de sucre» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16596-consum-de-sucre.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-drogues-i-volant-el-video-d-en-carlos",
+    "titol": "Drogues i volant: el vídeo d'en Carlos",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure un vídeo curt sobre un accident (https://www.youtube.com/watch?v=TZmXDS_VsD0).",
+    "resum": "Després de parlar de les drogues i la conducció, l'alumnat mira un vídeo sobre un accident i, per parelles, analitza què el va provocar i com s'hauria pogut evitar.",
+    "objectius": "Sensibilitzar sobre els perills de conduir sota els efectes de l'alcohol i altres drogues, entrenant la presa de decisions.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Introduïu la presa de decisions: què vol dir prendre decisions? En preneu moltes? És fàcil? De què depèn? Com us sentiu quan decideixen per vosaltres? Demaneu que indiquin amb l'alçada de la mà com els costa decidir (a tocar de terra, 0; amb el braç estirat amunt, 10) i feu una roda en què diuen el nom i, si volen, una decisió important que han pres.\n\nDades per contextualitzar: les drogues són substàncies que actuen sobre el sistema nerviós central i alteren la conducta, l'estat d'ànim o la percepció; les més consumides són el tabac, l'alcohol, els psicofàrmacs i el cànnabis. Segons la DGT, l'alcohol és present en el 30-50 % dels accidents mortals; alguns medicaments (ansiolítics, antidepressius, antigripals, antihistamínics) fan venir son i redueixen els reflexos; les drogues il·legals es relacionen amb un 10 % dels accidents més greus, i fumar mentre es condueix també redueix la capacitat de reacció.",
+    "descripcio": "Obriu el tema per veure la sensibilitat del grup:\n\n- Coneixeu algú que hagi conduït sota els efectes d'alguna droga?\n- Heu pujat mai a un cotxe o a una moto amb algú que n'hagués pres?\n- Coneixeu algú que hagi tingut un accident?\n- Què pot portar una persona a conduir sota els efectes de l'alcohol o les drogues?\n- Creieu que us pot passar? Es pot evitar? Com?\n\nMireu el vídeo. Després, per parelles, responen:\n\n- Quins factors porten en Carlos a tenir l'accident?\n- Quines conseqüències hi ha hagut?\n- Com creieu que se sent?\n- Hauria pogut actuar d'una altra manera? Com?\n\nPoseu-ho en comú.",
+    "notes": "Forma part de la sessió «Drogues i vehicles» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16597-drogues-i-vehicles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-mapa-sensorial",
+    "titol": "El mapa sensorial",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "exterior"
+    ],
+    "temes": [
+      "medi-ambient"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Paper de mural, colors, retoladors, ceres.",
+    "espai": "A l'exterior: al pati o, si és possible, en un espai natural.",
+    "resum": "Els grups dibuixen un mapa de l'espai que han recorregut i hi situen els sons, les olors, les textures i les formes que hi han descobert.",
+    "objectius": "Practicar la comunicació i el treball en equip en una creació conjunta, i valorar la riquesa de l'entorn natural.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "A partir d'una exploració sensorial prèvia, cada grup rep una missió: dibuixar un mapa sensorial de l'espai que ha recorregut.\n\nHan de dibuixar l'espai i situar-hi els elements que hi han descobert: un racó amb una olor especial, una textura curiosa, un so interessant... Si teniu temps, poden tornar a explorar per completar el mapa. Al final, poseu en comú els mapes o feu-ne un de conjunt.",
+    "avaluacio": "Com ens hem organitzat? Ha estat fàcil cooperar? Us ha sorprès alguna cosa? Com valoreu la riquesa natural d'aquest entorn?",
+    "notes": "Forma part de la sessió «Connexió amb la natura» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21548-connexio-amb-la-natura.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -327,6 +500,127 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-exploracio-sensorial-a-la-natura",
+    "titol": "Exploració sensorial a la natura",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "subgrups",
+      "escriptura",
+      "exterior",
+      "atencio"
+    ],
+    "temes": [
+      "medi-ambient"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Papers, bolígrafs, colors.",
+    "espai": "A l'exterior: al pati o, si és possible, en un espai natural.",
+    "resum": "L'alumnat camina en silenci posant atenció a la respiració, al cos i al que capten els sentits; després, en grups, recull les sensacions d'un sentit.",
+    "objectius": "Millorar la connexió amb l'entorn natural i amb els companys a través dels sentits.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Convideu l'alumnat a caminar per l'espai en silenci i a poc a poc, primer atent a la respiració, al cos i a com trepitja. Després, aneu donant indicacions per posar atenció a la natura: «Centra't en els teus sentits, camina lentament i observa».\n\n- Oïda: escoltar i identificar sons naturals (vent, ocells, fulles...).\n- Vista: trobar formes o patrons.\n- Tacte: explorar textures sense mirar, com l'escorça d'un arbre.\n- Olfacte: identificar olors naturals.\n\nAl cap de 6 o 8 minuts, feu grups de tres o quatre i assigneu un sentit a cada grup. Cada grup busca un racó tranquil i escriu o dibuixa el que ha percebut amb aquell sentit. Després ho comparteixen amb la resta.",
+    "avaluacio": "Com ens hem sentit? Què hem descobert? Què ens ha sorprès? Ha estat fàcil caminar a poc a poc?",
+    "notes": "Forma part de la sessió «Connexió amb la natura» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21548-connexio-amb-la-natura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-guia-i-explorador",
+    "titol": "Guia i explorador",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "ulls-tapats",
+      "exterior"
+    ],
+    "temes": [
+      "medi-ambient"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Antifaços o mocadors per tapar els ulls (opcional). Paper per al tancament.",
+    "espai": "A l'exterior: al pati o, si és possible, en un espai natural.",
+    "resum": "Per parelles, una persona amb els ulls tapats es deixa guiar per l'altra per un recorregut natural; a mig temps s'intercanvien els papers.",
+    "objectius": "Treballar la confiança i la cooperació, i percebre l'entorn sense la vista.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Per parelles: una persona porta els ulls tapats i l'altra la guia per l'espai. Si heu fet un mapa sensorial, poden seguir-ne la ruta i aturar-se als punts que hi han marcat perquè l'explorador els toqui, els olori o els escolti.\n\nA mig temps, intercanvien els papers.",
+    "avaluacio": "Què ha estat més difícil? Com us heu sentit confiant en l'altra persona?\n\nPer tancar, trieu una opció:\n- El cercle de les fulles: cadascú agafa una fulla del terra i hi escriu al revers un aspecte positiu de l'experiència. En cercle, comparteixen una paraula o frase que resumeixi el taller i deixen les fulles al centre formant un mandala.\n- Compromís: cadascú escriu un compromís per passar més temps a la natura i el deseu en una capsa per revisar-lo d'aquí a un temps.\n- Acció col·lectiva: el grup acorda una activitat a la natura o un projecte ecològic per fer junts.",
+    "notes": "Forma part de la sessió «Connexió amb la natura» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21548-connexio-amb-la-natura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-i-que-farieu-situacions-amb-alcohol",
+    "titol": "I què faríeu? Situacions amb alcohol",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Pissarra, papers i bolígrafs. Una targeta amb una situació per grup.",
+    "resum": "En grups de quatre, l'alumnat busca maneres de resoldre situacions d'oci en què hi ha alcohol i les valora segons si són saludables per a un mateix, per als altres i per al grup.",
+    "objectius": "Reflexionar sobre els efectes de l'alcohol i practicar la negociació i el refús. Promoure les cures entre iguals.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "La proposta és de prevenció universal: doneu per fet que la majoria de l'alumnat no beu, encara que les dades diguin que potser no és així (segons l'enquesta Estudes 2023, el 73,6 % dels joves de 14 a 18 anys ha begut alcohol alguna vegada i l'edat mitjana d'inici és de 13,9 anys). Reforceu l'abstinència com una bona manera d'evitar problemes i recordeu que qui s'hi acosti ha d'extremar la prudència i, si cal, demanar ajuda. Parleu de «algunes persones que beuen» i eviteu preguntes directes («Quins efectes tens quan beus?») i generalitzacions («La majoria de joves s'emborratxa quan surt»).\n\nPer començar, feu una roda en què cadascú diu el seu nom i què passa, o què podria passar, quan una persona beu alcohol, i per què creuen que hi ha gent que en beu. Dibuixeu una corba a la pissarra i aneu-hi anotant els efectes, ordenats de menys a més greus. Expliqueu que, quan la corba comença a baixar, perdem la capacitat d'expressar amb claredat el que sentim, pensem o necessitem, i per això costa més negociar o dir que no.",
+    "descripcio": "Feu grups de quatre i doneu a cada grup una situació:\n\n- Són les festes del poble. Has quedat que tornaries a casa a les dues. T'hi ha de portar una amistat amb moto, però quan falta una hora va molt borratxa.\n- Celebreu el final de curs en una discoteca de tarda. La teva amiga espera trobar-s'hi una persona que li agrada; porta tota l'estona un cubata a la mà, et demana que l'acompanyis a fer-ne un altre i un xopet, i comença a tenir la mirada perduda just quan aquella persona s'acosta.\n- És divendres i sou al parc. Tres persones que s'hi afegeixen porten ampolles per fer botellot. Acabeu en un parc infantil buit i un de vosaltres, que ha begut força, s'enfila per tot arreu sense cap precaució.\n- És Cap d'Any i sou a casa d'un amic. Algú proposa jocs de beure, els xopets corren i la gent comença a tenir ganes de vomitar.\n- És Sant Joan i heu decidit portar beguda. No n'has dit res a casa i no tens diners per comprar-ne.\n- No t'agrada la cervesa, les amistats t'empenyen a beure'n i no hi ha cap altra cosa amb alcohol.\n- Una amistat està molt ratllada perquè ho acaba de deixar amb la parella. Aneu a fer una volta i a beure alguna cervesa; ell se les beu molt de pressa i et demana la teva.\n\nPrimer, cada grup fa una pluja d'idees de maneres de resoldre la situació, sense jutjar-les. Després, per a cada solució, omplen una taula amb aquestes columnes:\n\n- La decisió que prenc és saludable per a mi?\n- És saludable per a l'altra persona?\n- Afecta el grup (amistats, família...)?\n- Hi ha danys materials?\n- Hi ha pressió de grup?",
+    "avaluacio": "Cada grup explica la situació que li ha tocat i la taula que ha omplert. Si hi ha temps, debateu les solucions: quines us semblen més fàcils de posar en pràctica? Com es pot dir que no sense perdre l'amistat?",
+    "notes": "Les situacions es poden adaptar a les festes i els espais d'oci de la zona.\n\nForma part de la sessió «Alcohol i oci» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16554-alcohol-i-oci.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-bruixola-de-les-emocions",
+    "titol": "La brúixola de les emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "emocions",
+      "exterior"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "espai": "A l'exterior: al pati o, si és possible, en un espai natural.",
+    "resum": "Amb el grup en cercle com si fos una brúixola, cadascú es presenta i es col·loca al punt cardinal que correspon a com se sent.",
+    "objectius": "Obrir la sessió connectant amb com està cadascú i presentar l'habilitat de cooperació i treball en equip.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Introduïu l'habilitat de cooperació i treball en equip amb preguntes: què vol dir cooperar? És el mateix que ajudar? Quins problemes trobeu quan heu de treballar en equip? Quines qualitats ha de tenir una persona per treballar bé en equip?\n\nDesprés, el grup forma un cercle que farà de brúixola. Acordeu on és el nord, el sud, l'est i l'oest, i quina emoció correspon a cada punt (es pot adaptar al grup):\n\n- Nord: ràbia.\n- Sud: tranquil·litat.\n- Est: indiferència.\n- Oest: alegria.\n\nCadascú es presenta responent «Com et sents avui?» i es col·loca a la part del cercle que li correspon.",
+    "notes": "Forma part de la sessió «Connexió amb la natura» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21548-connexio-amb-la-natura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-la-gran-abracada",
     "titol": "La gran abraçada",
     "tipus": "dinamica",
@@ -414,6 +708,35 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-les-fases-del-canvi",
+    "titol": "Les fases del canvi",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "autoconeixement"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Cinc folis amb el nom de cada fase.",
+    "resum": "Després de conèixer les cinc fases d'un canvi d'hàbit, l'alumnat se situa a terra en la fase en què es troba respecte d'un hàbit propi i en parla.",
+    "objectius": "Comprendre el procés de deixar un hàbit o una addicció i posar-se en el lloc de qui l'està vivint.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Expliqueu el model de les fases del canvi de Prochaska i DiClemente (1984), molt utilitzat per deixar el tabac:\n\n- Precontemplació: no hi ha intenció de canviar, per desinformació o per por de fracassar. No es veu com un problema («D'alguna cosa m'he de morir»).\n- Contemplació: la persona s'adona dels efectes que no li agraden i vol canviar («Em llevo amb tos», «M'ofego quan camino»).\n- Preparació: comença a fer coses per canviar: dir-ho a les amistats, demanar ajuda, pensar a reduir el consum, fixar una data...\n- Acció: es produeix el canvi.\n- Manteniment: es manté el canvi. És la fase més dura, perquè les recaigudes són habituals. No es tracta de sentir-se culpable si es recau, sinó de valorar el temps que s'ha aconseguit i tornar a mirar en quina fase s'és.\n\nPoseu a terra cinc folis amb el nom de cada fase, formant un cercle gran. Convideu l'alumnat a col·locar-se en una fase pensant en un hàbit propi: el tabac, el mòbil, el sucre, l'esport... No cal que diguin en què pensen. Pregunteu com s'hi troben, com es deuen sentir les persones properes i què necessitarien per passar a la fase següent.",
+    "avaluacio": "Feu una ronda en què cadascú diu si ha canviat alguna cosa de la seva mirada cap a les addiccions i les persones que consumeixen.\n\nRecordeu que el canvi només arriba quan la mateixa persona ho decideix. Nosaltres podem acompanyar-la amb empatia, ajudar-la a prendre consciència i proposar alternatives, però també cal saber posar límits.",
+    "notes": "Forma part de la sessió «Consum de drogues» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16553-consum-de-drogues.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-likes",
     "titol": "Likes",
     "tipus": "dinamica",
@@ -468,6 +791,66 @@
     "preparacio": "Podeu començar amb una ronda en què cadascú diu el que li ve al cap quan sent «vàper» o «tabac». Després expliqueu les esferes de la salut (física, emocional, social...) i anoteu com hi afecten el vàper i el tabac, incloent-hi els aspectes positius que l'alumnat atribueixi a fumar.",
     "descripcio": "Un extrem de l'aula és «totalment cert» i l'altre «totalment fals»; l'espai entremig també es pot ocupar. Llegiu cada frase, l'alumnat es posiciona i pregunteu a persones de llocs diferents per què s'hi han col·locat. Si algú canvia d'opinió en escoltar els altres, pot moure's.\n\n1. «El vàper és inofensiu: el que surt és vapor d'aigua.» Fals. Els aerosols contenen compostos perjudicials. L'ús de cigarretes electròniques augmenta un 40% el risc d'infart respecte de qui no fuma, i fins a un 400% si es combina amb tabac. Els aromes de postres i llaminadures són inofensius menjats, però no escalfats i inhalats. Els adolescents que vapegen tenen almenys quatre vegades més risc de passar al tabac.\n2. «Els vàpers no porten nicotina i per això no són addictius.» Fals. Els més consumits a Catalunya porten nicotina. I els que no en porten també emeten partícules ultrafines, metalls pesants i compostos cancerígens. A més, l'addicció és sobretot psicològica.\n3. «El vàper ajuda a deixar de fumar.» No és una alternativa saludable. Els estudis que diuen que sí sovint els finança la indústria tabaquera.\n4. «El tabac tranquil·litza.» Fals: la nicotina estimula el sistema nerviós (es pot comprovar mirant el pols després de fumar).\n5. «Fumar aprimeix.» Fals. Qui ho deixa de vegades guanya pes al principi, per l'ansietat i perquè el menjar torna a tenir gust, però una alimentació sana i l'activitat física ho compensen.\n6. «El tabac de cargolar és menys perjudicial.» Fals. Pot tenir fins a un 70% més de nicotina, un 85% més de quitrà i un 84% més de monòxid de carboni que els cigarrets de paquet.\n7. «Deixar de fumar és pitjor que continuar.» Fals. El malestar és temporal; els beneficis apareixen als pocs dies.\n8. «Fumar fa més atractiu i ajuda a encaixar al grup.» És la imatge que ha venut la indústria. El tabac envelleix la pell, taca les dents i fa pudor. I cada vegada és més impopular: segons l'enquesta ESTUDES 2023, els joves de 14 a 18 anys que han fumat alguna vegada han passat del 64,4% el 1996 al 33,4% el 2023.\n9. «Hi ha molta gent gran que fuma i no ha estat mai malalta.» Què ens fa pensar que tindrem la mateixa sort? Qui fuma té unes 20 vegades més risc de càncer de pulmó.",
     "notes": "Dades extretes del Canal Salut de la Generalitat, el Plan Nacional sobre Drogas i l'enquesta ESTUDES 2023. Convé revisar-les periòdicament.\n\nForma part de la sessió «Vapejador i tabac» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16564-vapejador-i-tabac.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-persona-substancia-i-context",
+    "titol": "Persona, substància i context",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra, papers i bolígrafs. Els tres casos.",
+    "resum": "A partir de tres casos d'adolescents que comencen a consumir, els grups analitzen els factors de risc i de protecció relacionats amb la persona, la substància i el context.",
+    "objectius": "Entendre que el consum problemàtic de drogues té causes diverses i relacionades, i reflexionar-hi des de l'empatia.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Podeu començar amb una roda de noms en què cadascú diu quines addiccions o consums problemàtics coneix: drogues, però també jocs, xarxes socials, compres, roba, sexe... Anoteu-los i marqueu quins són legals i quins il·legals. Pregunteu quina relació té l'empatia amb les addiccions: per exemple, com afecta el consum a la família o com podem ajudar algú que té un consum problemàtic.",
+    "descripcio": "Expliqueu que les causes del consum de drogues solen ser una barreja de factors que es poden agrupar en tres blocs: la persona, la substància i el context. En cada bloc hi ha factors de risc i factors de protecció. Dibuixeu a la pissarra un triangle amb aquests tres vèrtexs.\n\nEn grups de tres o quatre, l'alumnat desenvolupa cada bloc a partir d'un cas:\n\n- En Marc, 15 anys. Des que els pares es van separar està més tancat. La mare treballa moltes hores i ell ha de cuidar el germà petit. Ha baixat el rendiment. Surt amb uns nois més grans del barri amb qui se sent acceptat; fumen porros i beuen cervesa al parc. Ho va provar per curiositat i ara ho fa cada cap de setmana per desconnectar. Ha deixat el futbol, que li agradava. Sap que hi ha gent que el pot ajudar.\n- La Carla, 16 anys. Viu amb el pare i l'àvia; la mare va marxar i gairebé no en sap res. Falta molt a l'institut, s'ha distanciat de les amigues i surt amb un noi més gran el grup del qual beu i pren pastilles. Ella ho ha començat a provar quan està trista. Li agrada dibuixar, una professora li ha proposat un projecte artístic i l'àvia sempre l'escolta.\n- L'Amadou, 17 anys, fa batxillerat. Fa mesos que dorm malament i té pensaments negatius, i ha passat de fumar porros algun cap de setmana a fer-ho gairebé cada dia. Ha baixat notes, ha deixat el bàsquet i discuteix amb el pare. Encara escriu cançons i rapeja, i la seva germana l'escolta i l'anima.\n\nSi no surten, completeu-ho:\n\n- Persona: expectatives, estat d'ànim, estat físic (edat, sexe, pes, tolerància, malalties), motivació, vulnerabilitat, personalitat.\n- Substància: dosi, puresa, via de consum, barreges.\n- Context: en grup o sol, espai públic o privat, temps de lleure o d'obligacions; família, escola i amistats; feina, oci i barri; percepció social, accessibilitat, lleis, mitjans de comunicació, publicitat i alternatives.",
+    "avaluacio": "En quins dels aspectes que heu escrit influeix l'empatia? De què ens pot servir? A qui li pot ser útil?",
+    "notes": "Forma part de la sessió «Consum de drogues» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16553-consum-de-drogues.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-quin-oci-teniu",
+    "titol": "Quin oci teniu?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "habits"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs. Pissarra.",
+    "resum": "Cadascú escriu dues maneres de divertir-se; els papers es barregen i l'alumnat ha de trobar de qui és el que li ha tocat, mentre a la pissarra es va dibuixant l'oci de la classe.",
+    "objectius": "Prendre consciència de què fem en el temps lliure i valorar l'oci saludable, sense alcohol.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Demaneu que cadascú escrigui en un paper almenys dues maneres de divertir-se: a què dedica el temps d'oci, és a dir, allò que fa sense que sigui una obligació (tot i que tenir oci és gairebé obligatori per a la salut).\n\nRecolliu els papers doblegats, barregeu-los i torneu-los a repartir. Tothom s'aixeca i busca la persona a qui creu que correspon el paper que li ha tocat.\n\nA mesura que es troben, les parelles apunten a la pissarra les activitats d'oci dels dos papers i s'asseuen. Si una activitat ja hi és, hi afegiu un palet.\n\nComenteu com ha anat: ha estat fàcil trobar la persona? Què ho ha fet fàcil o difícil?\n\nPer acabar, mireu el resultat: «Veiem que X és el que més feu en el temps lliure. Té a veure amb l'alcohol?».",
+    "avaluacio": "Quines maneres de divertir-se no tenen res a veure amb l'alcohol? Què en podeu aprofitar per quan sortiu?",
+    "notes": "Forma part de la sessió «Alcohol i oci» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16554-alcohol-i-oci.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -674,6 +1057,35 @@
     "descripcio": "Pregunteu a l'alumnat quins referents tenen a les pantalles (youtubers, tiktokers, persones que segueixen a Instagram...) i escriviu-los a la pissarra. Anoteu també si algú no ho sap o diu que no segueix ningú. Feu una ratlla al costat dels que es repeteixen per veure quins són els més seguits.\n\nReflexioneu-hi:\n\n- Quin tipus de cos tenen?\n- De quin color tenen la pell?\n- Són guapos? Què vol dir ser guapo? Per què?\n- Com són els nois? I les noies?\n- Hi ha alguna persona trans?\n- Hi ha algú que vagi en cadira de rodes, que sigui cec o que porti bastó?\n- Quina edat tenen?\n\nSi les respostes són molt uniformes (per exemple, tots són blancs), pregunteu si en coneixen algun de diferent. És important formular la pregunta des de qui compleix la norma: «Quins són prims?».\n\nContinueu preguntant si creuen que aquests personatges són sempre així a la vida real: amb la família, quan van al metge, quan queden amb les amistats, quan es troben malament...",
     "avaluacio": "Com influeix tot el que veiem en la nostra identitat? Afecta la mirada que tenim sobre nosaltres mateixos?",
     "notes": "Forma part de la sessió «Pantalles - Identitat» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15033-pantalles--identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-un-porc-domestic",
+    "titol": "Un porc domèstic?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "habits",
+      "medi-ambient"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure el vídeo de la fitxa original sobre un porc que viu com a animal domèstic (https://www.youtube.com/watch?v=hLwyhsLTQYU).",
+    "resum": "A partir d'un vídeo d'un porc que viu en una casa, el grup es pregunta quina diferència hi ha entre un animal de companyia i un de granja.",
+    "objectius": "Posar-se en el lloc dels animals i qüestionar la diferència entre els que estimem i els que mengem.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Mireu el vídeo i pregunteu:\n\n- Sabíeu que els porcs poden ser animals domèstics?\n- Què heu vist?\n- Els animals també tenen sentiments?\n- Quines diferències hi ha entre un animal de companyia i un de granja?\n\nPotser hi ha poques diferències, o cap. El que canvia és com la societat ha decidit criar i fer servir uns animals per tenir-los a casa i uns altres per consumir-los.",
+    "avaluacio": "Per tancar, feu una roda en què cadascú diu com se sent i una paraula que defineixi la sessió.",
+    "notes": "Forma part de la sessió «Benestar animal» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16455-benestar-animal.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   }
 ]

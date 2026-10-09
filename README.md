@@ -3,8 +3,8 @@
 Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita propostes de
 tutoria, i munta sessions** llestes per imprimir o desar en PDF.
 
-- **998 fitxes** en català, de tres menes:
-  - **839 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
+- **1.080 fitxes** en català, de tres menes:
+  - **921 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
   - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
   - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
 
@@ -153,7 +153,9 @@ Les **dinàmiques d'educació per a la salut**, de les sessions per a l'ESO del 
 dinàmica d'una sessió és una fitxa escrita directament en català, classificada en un dels
 tres eixos del programa — **Convivència**, **Sexualitats** i **Consums i hàbits
 saludables** — i amb l'enllaç a la sessió original a les notes. De moment hi ha les de les
-etiquetes del web que comencen per A (de «Abusos sexuals» a «Autoconeixement»). Aquestes
+etiquetes del web que comencen per A, B i C (de «Abusos sexuals» a «Creativitat»).
+També hi ha les sessions per a l'ESO i primària i les dels itineraris per a centres
+d'educació especial; queden fora les que són només d'infantil, de primària o dels CFA. Aquestes
 fitxes mantenen la llicència d'origen: es poden reutilitzar sense finalitat comercial,
 citant-ne l'autoria.
 

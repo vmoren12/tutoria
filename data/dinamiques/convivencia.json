@@ -91,6 +91,68 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-aplaudim-l-autoestima",
+    "titol": "Aplaudim l'autoestima",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "sense-material",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "autoconeixement"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Per torns, cadascú surt al centre de la rotllana i diu o fa qualsevol cosa, i el grup l'aplaudeix amb eufòria com si acabés de veure una gran obra de teatre.",
+    "objectius": "Generar cohesió a través del riure, la desinhibició i el reforç de l'autoestima, des de la cura i el respecte.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Dempeus en rotllana. Per ordre, cadascú surt al centre i diu o fa el primer que li ve al cap, sempre amb respecte: una anècdota, una cosa sobre si mateix, el primer que ha fet en llevar-se, una cosa que li agrada... («Avui he posat una rentadora», «Tinc son», «M'agrada la pastanaga», «Avui fa sol»), o un gest (aixecar una mà, despentinar-se...).\n\nEn acabar, tot el grup l'aplaudeix amb eufòria i molta emoció. Variant: asseguts, i en aplaudir s'aixequen d'un salt. Com més fluid i ràpid, millor.\n\nSi algú diu o fa alguna cosa que travessa una línia de respecte, atureu l'activitat (o comenteu-ho al final) i, des de la curiositat, esbrineu què ha passat: quin ús faig del meu lloc al grup? Com afecten el grup les meves paraules? No tot és aplaudible: si ho deixéssim passar, estaríem permetent la violència.",
+    "avaluacio": "Com us heu sentit? Voleu compartir alguna cosa de la vivència?",
+    "notes": "Forma part de la sessió «Dinàmiques de joc participatiu» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, empatia, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17472-dinamiques-de-joc-participatiu.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ara-em-sento",
+    "titol": "Ara em sento",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "silenci",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Després d'uns minuts amb els ulls tancats, cadascú es presenta dient quina emoció té més present i en quina part del cos la nota.",
+    "objectius": "Prendre consciència de com ens sentim i de com ho manifesta el cos.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Asseguts en una postura còmoda, tanquen els ulls, fan una respiració profunda, connecten amb el cos i deixen anar tensions. Durant dos o tres minuts, connecten amb l'emoció que tenen més present.\n\nDesprés, en una roda de presentació, cadascú diu el seu nom i quina emoció té més present. També pot dir on la nota al cos: tensió a la panxa, tremolor a les mans, parlar més de pressa...",
+    "avaluacio": "De què em serveix ser conscient de com em sento? Què em pot passar si no sé escoltar els senyals del cos? Com pot afectar la manera de relacionar-me amb els altres i amb mi mateix?",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-barometre-de-la-cohesio-a-l-aula",
     "titol": "Baròmetre de la cohesió a l'aula",
     "tipus": "dinamica",
@@ -115,6 +177,156 @@
     "descripcio": "Marqueu a terra una línia imaginària que va del 0 (el mínim) al 10 (el màxim). Expliqueu que tots els números són vàlids i que cadascú ha de respondre individualment el que senti.\n\nFormuleu les preguntes una per una i l'alumnat es col·loca al número que el representi més:\n\n- Quin és el teu nivell de comoditat a l'aula?\n- Coneixes totes les companyes i companys de l'aula?\n- Fins a quin punt sents que el grup està cohesionat?\n- Quin és el teu nivell d'implicació perquè aquest grup estigui unit?",
     "avaluacio": "Ha estat fàcil respondre? Quines preguntes més i quines menys?\nCom us sentiu després de fer-ho?\nLes respostes podrien canviar segons el dia o el vostre estat?",
     "notes": "Forma part de la sessió «Cohesió de grup (I)» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16428-cohesio-de-grup-i.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-canviem-el-conte",
+    "titol": "Canviem el conte",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "sense-material",
+      "atencio"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "El grup explica entre tots un conte popular, tros a tros i per torns aleatoris, mantenint-ne l'essència però fent-hi passar coses diferents.",
+    "objectius": "Treballar la creativitat col·lectiva, l'escolta i la gestió dels nervis davant del grup.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Trieu un conte popular que tothom conegui: la Caputxeta Vermella, la Blancaneu, els tres porquets...\n\nAlgú comença a explicar-ne el primer tros. Qui dinamitza indica, a l'atzar, qui continua. Es tracta d'explicar el conte mantenint-ne l'essència, però fent que hi passin coses diferents. Canvieu el conte com a grup!",
+    "avaluacio": "Com t'has sentit? Què t'ha posat tens? Com t'has sentit més còmode: escoltant o havent de participar? Què et diu això de tu? Això que passa en el joc, passa en altres situacions?",
+    "notes": "Forma part de la sessió «Dinàmiques de joc participatiu» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, empatia, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17472-dinamiques-de-joc-participatiu.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-cercles-restauratius",
+    "titol": "Cercles restauratius",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Un full amb les preguntes del cercle per a qui facilita. Opcionalment, un cartell amb les preguntes per penjar a l'aula.",
+    "resum": "En cercle i de manera voluntària, les persones implicades en un conflicte del grup el dialoguen en quatre fases guiades per preguntes: comprensió mútua, responsabilitat, acords i revisió.",
+    "objectius": "Oferir a l'alumnat una eina per a l'autogestió dialogada dels conflictes i generar un espai d'expressió que fomenti l'empatia.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Les persones que hi volen participar s'asseuen en cercle per tractar un conflicte del grup: tant les implicades directament com les afectades i qualsevol altra que vulgui prendre-hi part. Qui facilita n'explica el funcionament i vetlla pels torns de paraula perquè tothom pugui ser escoltat. El cercle té quatre fases:\n\n1. Comprensió mútua (el present). Cada persona explica com se sent ara amb relació al conflicte.\n- Què vols que se sàpiga, i a qui ho vols dir? (La persona s'adreça a algú concret.)\n- Què has entès que t'ha dit? (Qui facilita comprova que s'ha entès, parafrasejant.)\n- És això el que volies dir? Vols afegir-hi res?\nLes preguntes es repeteixen fins que tothom ha pogut dir el que volia. A les fases següents es procedeix igual.\n\n2. Responsabilitat personal o mútua (el passat). Cadascú explica què pensava i què volia aconseguir quan va actuar com ho va fer.\n- Què vols que se sàpiga, i a qui, sobre el que pensaves o volies quan van passar els fets?\n- Què has entès que t'ha dit? És això el que volies dir? Hi ha res més que vulguis dir?\n\n3. Accions acordades (el futur).\n- Què t'agradaria que passés a partir d'ara?\n- Què pots oferir, i a qui?\n- Què necessites, i a qui ho vols demanar?\nCada persona proposa voluntàriament una acció. Qui facilita les anota, ajuda a concretar-les i hi posa un termini.\n\n4. Post-cercle (la revisió). Passat el termini, el cercle es torna a reunir:\n- Què vols que se sàpiga, i a qui, sobre com et sents ara respecte als acords i a les seves conseqüències?\nNo es tracta d'analitzar en detall què s'ha fet, sinó de saber com se sent la gent. Si està satisfeta, celebreu que el grup ha resolt el conflicte dialogant; si queden coses pendents, es poden plantejar noves accions.",
+    "avaluacio": "Per tancar amb moviment, cadascú fa una figura amb el cos i un so que representin com se sent ara, i la resta del grup l'imita.",
+    "notes": "Si teniu temps, val la pena repartir la sessió en dos dies i deixar el cercle restauratiu per al segon. Pengeu les preguntes a l'aula perquè el grup pugui fer servir els cercles de manera autònoma i se'n pugui fer el seguiment.\n\nForma part de la sessió «Els conflictes a l'aula» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu» i Barabara Educació. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16560-els-conflictes-a-laula.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-com-expliquem-el-capacitisme",
+    "titol": "Com expliquem el capacitisme?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "comunicacio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Papers, bolígrafs i qualsevol material de l'aula. Paperets amb els rols.",
+    "resum": "Cada grup crea una manera lliure i creativa d'explicar el capacitisme a altres joves, i cada membre hi contribueix des d'un rol assignat a l'atzar.",
+    "objectius": "Fer visible el capacitisme i practicar estratègies de cooperació i treball en equip amb rols definits.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "El capacitisme és molt present en la societat, però sovint passa desapercebut. Per combatre'l, el primer pas és conèixer-lo i saber-lo detectar.\n\nFeu grups i doneu la consigna: com explicaríeu el capacitisme a altres joves perquè l'entenguin? Pot ser una definició, un discurs, un esquema, una cançó, un dibuix...\n\nRepartiu a l'atzar paperets amb els rols. Cada membre ha de contribuir a l'objectiu del grup des del seu rol:\n\n- Coordinador: dirigeix el grup, s'assegura que tothom entén la tasca i el manté centrat.\n- Secretari i portaveu: pren notes, recull les idees i decisions i presenta el resultat a la classe.\n- Creatiu: proposa idees i solucions originals i dissenya com presentar-les.\n- Organitzador: planifica les tasques i vetlla pel temps i els recursos.\n- Facilitador: ajuda a resoldre els conflictes del grup, procura que tothom participi i manté un bon ambient.\n\nEn grups grans o si teniu més temps, podeu afegir-hi l'investigador (busca informació), el revisor (comprova que el treball és correcte i complet) i l'avaluador (observa com treballa el grup i en fa un retorn constructiu).\n\nDeixeu 15 minuts de feina i, en acabar, els portaveus presenten les creacions a la classe.",
+    "avaluacio": "En rotllana:\n- Us ha estat fàcil posar-vos al servei del grup des del vostre rol?\n- Hi ha hagut diferències entre vosaltres? Ha estat fàcil acceptar-les pel bé de l'objectiu comú?\n- Éreu conscients del que podíeu aportar des del vostre rol?\n- Quina diferència heu notat entre aquesta activitat i la del cas, en què no hi havia rols?\n- El resultat és millor que si l'haguéssiu fet individualment?",
+    "notes": "Per allargar l'activitat, podeu exposar les creacions en algun espai comú del centre.\n\nForma part de la sessió «Capacitisme» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21547-capacitisme.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-com-solucionar-els-conflictes",
+    "titol": "Com solucionar els conflictes?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs. Situacions de conflicte escrites.",
+    "resum": "En grups petits, l'alumnat analitza un conflicte d'aula, imagina com se sent cada persona, busca tres maneres de resoldre'l i les representa.",
+    "objectius": "Aportar eines i estratègies per resoldre conflictes de manera curosa.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu grups de tres o quatre. Cada grup rep una situació de conflicte i ha de:\n\n- Escriure com s'ha pogut sentir cada personatge.\n- Buscar tres maneres diferents de resoldre el conflicte.\n- Representar-les.\n\nL'ideal és fer servir situacions reals, que l'alumnat pot escriure abans o que la tutoria pot portar preparades. Alguns exemples:\n\n- A la Kauta li arriba que la Marina ha parlat malament d'ella. S'hi acosta i l'insulta directament; la Marina, ofesa, li torna l'insult.\n- En Jofre ha deixat de jugar a futbol perquè en Xavier i la Marta no paren de criticar com juga i no li passen mai la pilota. Ara s'ha allunyat d'ells, i ells no entenen la seva actitud.\n- Un grup d'alumnes parla per sobre de qui té la paraula. Quan algú els diu que callin, responen «calla tu».\n- Quan algú s'equivoca, la classe riu. A algunes persones els fa gràcia, però a d'altres no; els qui riuen no demanen disculpes perquè creuen que s'ha de saber riure d'un mateix.\n\nCada grup representa les seves solucions i entre tots valoreu si són curoses amb les persones implicades. Durant l'activitat, procureu un ambient en què tothom s'expressi sense por i intervingueu davant les actituds poc respectuoses amb preguntes com «Com creus que se sent aquesta persona?» o «Quina responsabilitat tens en aquesta situació?».",
+    "avaluacio": "Quines estratègies heu vist que ajuden a resoldre conflictes sense fer mal?\nQuina diferència hi ha entre dir el que penses i dir-ho de manera curosa?\nCom ajuda parlar en primera persona («jo sento...»)?\nQuè passa si només una de les parts intenta resoldre el conflicte amb cura?\nCom podem contribuir, com a grup, que els conflictes es resolguin sense crits, burles ni insults?\n\nAlgunes estratègies: escoltar sense interrompre; parlar des del jo sense culpar; buscar punts en comú; proposar diverses solucions; demanar perdó i perdonar; respirar abans de reaccionar; posar-se en la pell de l'altre.",
+    "notes": "Forma part de la sessió «Com cuidar-nos» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16568-com-cuidar-nos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-comptem-fins-a-deu",
+    "titol": "Comptem fins a deu",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "atencio",
+      "silenci",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "El grup ha de comptar de l'1 al 10 sense ordre establert: cada número el diu una sola persona i, si dues parlen alhora, es torna a començar.",
+    "objectius": "Practicar l'escolta i l'atenció al grup per aconseguir un objectiu comú.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Expliqueu que el grup ha d'arribar al número 10 comptant en veu alta, sense cap ordre (no val seguir la rotllana). Una persona diu «1», una altra «2», i així successivament. Si dues persones o més diuen un número alhora, es torna a començar per l'1. Indiqueu cada inici, i cada error, picant de mans.\n\nSi el grup ho aconsegueix ràpidament, compliqueu-ho: amb els ulls tancats, d'esquena, arribant a un número més alt... Si costa molt, atureu el joc i demaneu que comptin les respiracions durant un minut abans de tornar-hi.",
+    "avaluacio": "Com us heu sentit? Ha estat fàcil o difícil?\nQuè ha passat quan dues persones parlaven alhora? Com ha reaccionat el grup?\nHeu pogut escoltar tot el grup? Per què és important escoltar per aconseguir un objectiu comú?\nQuines estratègies heu fet servir, conscientment o no?\nTothom s'ha sentit escoltat i inclòs? Què podríem millorar?\n\nRecordeu que la cohesió es treballa dia a dia: les petites accions de cada persona fan que la classe estigui més o menys unida.",
+    "notes": "Forma part de la sessió «Cohesió de grup (II)» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16476-cohesio-de-grup-ii.html També surt a «Dinàmiques de cohesió de grup i cooperació»: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -143,6 +355,36 @@
     "participants": "Alumnat de 3r i 4t d'ESO.",
     "descripcio": "Escampeu les cartes de necessitats al centre del cercle. L'alumnat s'aixeca i les observa amb calma.\n\nPlantegeu la pregunta: «Què necessiteu per prendre una decisió sobre el vostre futur?». No cal que sigui sobre els estudis.\n\nCadascú es col·loca al costat de la carta que millor representa la seva necessitat. Si diverses persones trien la mateixa, la poden compartir.\n\nAgafen la carta i tornen al cercle. En una ronda, cadascú la mostra i explica què creu que el pot ajudar. Per exemple:\n\n- «Necessito claredat. M'ajudaria estudiar bé les opcions.»\n- «Necessito reconeixement. M'ajudaria sentir-me escoltada per les amistats i la família.»\n- «Necessito contribució. M'ajudaria parlar amb diferents persones.»",
     "notes": "Forma part de la sessió «Orientació futura» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu» i Barabara Educació. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16561-orientacio-futura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-conflictes-en-quatre-passos",
+    "titol": "Conflictes en quatre passos: situació, sentiment, necessitat i petició",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "moviment",
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pòsits i bolígrafs. Gomets (opcional).",
+    "resum": "Cada alumne escriu en un pòsit un conflicte no resolt del grup seguint els passos de la comunicació no violenta, i el grup tria quin vol treballar a fons.",
+    "objectius": "Comprendre i naturalitzar els conflictes, i practicar la comunicació no violenta per expressar-los.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Definiu entre tots què és un conflicte i anoteu les idees. Doneu-ne una mirada positiva amb preguntes: seria possible no tenir mai cap conflicte? Els conflictes són negatius? Què podem fer quan en tenim un? La reflexió ha d'anar cap a la idea que tenir conflictes és natural, perquè som persones diverses, i que gestionar-los bé enforteix les relacions i ens ajuda a conèixer els nostres límits.\n\nRepartiu un pòsit a cada alumne perquè hi expliqui una situació conflictiva que hagi viscut al grup i que no s'hagi resolt o que es repeteixi. A la cara del davant hi escriu la situació i el sentiment; a la del darrere, la necessitat i la petició:\n\n- Situació: què passa? Descriu-ho parlant des del jo, de la manera més objectiva possible.\n- Sentiment: com et fa sentir? Hi ha algú més afectat? Com es pot sentir?\n- Necessitat: quina necessitat teva no queda coberta? Pots reconèixer que l'altra persona també en té?\n- Petició: què podries demanar per millorar la situació? Què proposes per resoldre el conflicte?\n\nDesprés, llegiu uns quants pòsits a l'atzar o feu una ronda en què cadascú comparteix només la situació i com el fa sentir. Qui se senti identificat amb el que es llegeix s'aixeca. Agrupeu-los a la pissarra i trieu el conflicte que el grup vol treballar més a fons.\n\nVariant amb moviment: els pòsits són anònims i es col·loquen al centre de l'aula amb la cara de la situació i el sentiment a la vista. L'alumnat hi passeja i enganxa gomets als conflictes amb què més s'identifica.",
+    "notes": "Claus de la comunicació no violenta: observar els fets sense jutjar; expressar com em sento des del jo («Em sento frustrada»); identificar la necessitat que hi ha darrere de l'emoció («...perquè no em sento escoltada quan parlo»); fer una petició concreta, clara i empàtica; escoltar l'altra persona amb empatia, i arribar a acords.\n\nForma part de la sessió «Els conflictes a l'aula» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu» i Barabara Educació. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16560-els-conflictes-a-laula.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -175,6 +417,36 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-conte-d-una-paraula",
+    "titol": "Conte d'una paraula",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "sense-material",
+      "atencio"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "En rotllana, cadascú afegeix una sola paraula per construir entre tots un conte, com més ràpid millor.",
+    "objectius": "Treballar la cohesió a través de la creativitat, l'escolta i la improvisació.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "En rotllana, cada persona diu una sola paraula que continua la frase de l'anterior, per construir un conte conjunt: «Jo... vaig... veure... un... monstre... a... la... sopa... de... llimona...». És més divertit si es fa de pressa. Podeu fixar abans un tema.\n\nVariants:\n\n- Hi havia una vegada...: en lloc d'una paraula, cada persona continua la història amb una frase o un tros a partir del que ha dit l'anterior.\n- Amb disfresses o objectes: la història s'inventa a partir de mocadors, disfresses o objectes de l'aula que cadascú agafa en el seu torn.",
+    "avaluacio": "Ha estat fàcil seguir el fil? Escoltàveu el que deien els altres o pensàveu en la vostra paraula?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i creativitat» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16592-dinamiques-de-cohesio-de-grup-i-creativitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-debat-arguments-contra-l-aporofobia",
     "titol": "Debat: arguments contra l'aporofòbia",
     "tipus": "dinamica",
@@ -200,6 +472,36 @@
     "descripcio": "Dividiu la classe en dos grups a l'atzar. Cada grup rep una situació plantejada des de la perspectiva que l'èxit i el fracàs depenen de cada individu, i ha de preparar arguments en contra, tenint en compte el context social i proposant solucions col·lectives.\n\nSituació 1: «Som en un bar i un home se'ns acosta a demanar unes monedes. No n'hi donem perquè pensem que s'ho gastarà en alcohol.» El que interessa no és si s'han de donar monedes o no, sinó els judicis aporofòbics que se'ns disparen i que treuen a la persona el poder de decidir.\n\nSituació 2: «Unes persones sense llar fa setmanes que dormen al barri, fan les necessitats a l'aire lliure i es renten a la font. Els veïns demanen a l'Ajuntament que talli l'aigua.» A Catalunya, la proposta de llei de mesures urgents contra el sensellarisme preveu anul·lar les sancions per conductes derivades de no tenir habitatge, com menjar al carrer o rentar-se a les fonts públiques mentre no es garanteixin dutxes ni lavabos públics.\n\nConceptes que poden ajudar a construir els arguments:\n\n- Garantia de drets: el dret a un habitatge digne és a l'article 47 de la Constitució.\n- Interseccionalitat: les discriminacions per gènere, classe, origen o orientació sexual s'entrellacen i es multipliquen.\n- Preus del lloguer: han pujat molt més que els sous, i moltes famílies hi destinen gairebé la meitat dels ingressos.\n- Justícia social i bé comú: repartir de manera justa recursos com l'educació, la salut i l'habitatge.\n- Polítiques públiques: les accions de les administracions per garantir els drets fonamentals.\n- Meritocràcia: la idea que qui s'esforça triomfa fa jutjar qui no ho aconsegueix sense tenir en compte les seves oportunitats.\n- Responsabilitat col·lectiva: com a societat, compartim la responsabilitat que tothom visqui dignament.\n- Racisme immobiliari: negar un lloguer a algú que el pot pagar pel seu origen o color de pell.",
     "avaluacio": "Com us heu sentit? Us ha sorprès alguna cosa? Què us ha semblat conèixer aquest tema i parlar-ne?",
     "notes": "Deixeu temps perquè els grups es preparin i es reparteixin bé els arguments.\n\nForma part de la sessió «Aporofòbia» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu» i Carol Mowatt. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21546-aporofobia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-dibuixa-el-que-t-explico",
+    "titol": "Dibuixa el que t'explico",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "atencio"
+    ],
+    "temes": [
+      "comunicacio"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Un dibuix senzill de formes geomètriques que només veu qui explica. Fulls i bolígrafs.",
+    "resum": "Un voluntari descriu un dibuix que la resta no veu i la classe l'ha de reproduir sense poder fer preguntes; després es comparen els resultats.",
+    "objectius": "Adonar-se de les dificultats de la comunicació en un sol sentit i de què ajuda a entendre's.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Un voluntari es posa davant de la classe i rep un dibuix que no pot ensenyar. L'ha d'explicar perquè la resta el dibuixi en un full, sense fer preguntes. Pot repetir cada instrucció dues vegades. Durant la primera ronda, no intervingueu.\n\nQuan acaba, tothom ensenya el seu dibuix i el compareu amb l'original. Podeu repetir-ho amb un altre voluntari i un altre dibuix, aquesta vegada permetent preguntes.",
+    "avaluacio": "Què ens ha ajudat a entendre millor el company? Quina informació ens ha faltat? Hem preguntat molt (quan es podia)? El deixàvem concentrar-se? Ha fet l'explicació de manera clara i ordenada?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i escolta activa» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16593-dinamiques-de-cohesio-de-grup-i-escolta-activ.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -234,6 +536,194 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-discapacitats-la-vida-d-una-persona-adulta",
+    "titol": "Discapacitats: la vida d'una persona adulta",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra, papers i bolígrafs.",
+    "resum": "Els grups imaginen la vida adulta d'una persona amb una discapacitat concreta i analitzen quines barreres i quins suports trobarà per viure de manera autònoma.",
+    "objectius": "Conèixer els diferents tipus de discapacitat i detectar les barreres que dificulten l'autonomia i la igualtat d'oportunitats.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Pregunteu quins tipus de discapacitat coneixen i anoteu-los a la pissarra. Si en surten pocs, podeu afegir-hi: discapacitat física o motora; sensorial (vista, oïda, olfacte, gust); intel·lectual o cognitiva (síndrome de Down, de Prader-Willi, X fràgil...); trastorns del neurodesenvolupament (autisme, TDAH, trastorn del desenvolupament del llenguatge...), i discapacitat psicosocial, relacionada amb la salut mental.\n\nFeu grups de tres o quatre. Cada grup tria el cas d'una persona adulta amb una de les discapacitats de la pissarra i li inventa un context: edat, gènere, origen, estudis o professió, família, amistats i lloc on viu. Després responen:\n\n- Ho tindrà fàcil per viure de manera autònoma? Com ho pot aconseguir?\n- Quines dificultats pot trobar per ser independent econòmicament?\n- Quines facilitats o dificultats trobarà per fer amistats i tenir relacions afectives i sexuals?\n- Tindrà les mateixes oportunitats per realitzar-se en els estudis, la feina...?\n\nCada grup explica un breu resum del seu cas a la resta.",
+    "notes": "Forma part de la sessió «Capacitisme» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21547-capacitisme.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-donar-i-prendre",
+    "titol": "Donar i prendre",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "autoconeixement"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Per parelles, una persona diu a l'altra deu coses que li agraden d'ella i l'altra només escolta, amb les mans obertes, i les «pren»; després s'intercanvien els papers.",
+    "objectius": "Treballar la cohesió i el sentiment de pertinença a partir de l'equilibri entre donar i acceptar el que ens donen.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "preparacio": "Bert Hellinger parlava de «donar i rebre», però va veure que rebre no és el mateix que prendre. Si algú et diu «Que bé que estàs avui!» i respons «Què dius!», ho has rebut però no ho has pres; si respons «Gràcies!», ho prens. Perquè una relació estigui en equilibri, cal donar i també prendre el que ens donen.",
+    "descripcio": "El grup es mou per l'espai, es mira en silenci i forma parelles. Una persona és la 1 i l'altra, la 2.\n\nLa 1 obre les mans i només escolta: no pot respondre, fer cares, sons ni dir res, només escoltar i prendre. La 2 li diu deu coses que li agraden d'ella, seguides, sense pensar-hi gaire: «Una cosa que m'agrada de tu és com vesteixes. Una cosa que m'agrada de tu és com m'escoltes...». Es fa a poc a poc, posant atenció a com se sent cadascú.\n\nQuan totes les parelles han acabat, s'intercanvien els papers. Si voleu, abans de canviar podeu fer una pausa per preguntar com s'han sentit.\n\nPer acabar, demaneu que s'acomiadin posant consciència en com ho fan, i pregunteu si a tothom li ha agradat el comiat.",
+    "avaluacio": "Quin rol us resulta més còmode en el dia a dia, donar o prendre? Sentiu equilibri entre donar i prendre a la vostra vida o a l'aula? Hi ha algun àmbit on noteu desequilibri? Què podríeu fer per recuperar-lo?\n\nSi una part d'una relació ho dona tot i l'altra no, hi ha desequilibri i apareixen conflictes. Quan no prenem el que ens donen, on queda qui dona?",
+    "notes": "A algunes persones els costarà trobar coses per dir: l'important és dedicar aquest temps a l'altra persona. Cal canviar sempre de rols perquè la relació s'equilibri.\n\nForma part de la sessió «Dinàmiques de sentiment de pertinença» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17286-dinamiques-de-sentiment-de-pertinenca.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-ball-sensorial",
+    "titol": "El ball sensorial",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "ulls-tapats",
+      "musica",
+      "expressio-corporal"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Música tranquil·la. Mocadors o antifaços (opcional).",
+    "resum": "Per parelles i amb música, una persona amb els ulls tancats es deixa guiar pel ball de l'altra a través del contacte suau de les mans.",
+    "objectius": "Treballar la confiança, el respecte i la consciència corporal en els rols de guiar i deixar-se guiar.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Per parelles, amb música de fons, es miren, se somriuen i es diuen una cosa que els agrada de l'altra persona (un minut).\n\nUna persona posa les mans a l'altura del melic amb els palmells cap amunt; l'altra hi posa les seves a sobre, sense agafar-les, només notant el contacte. La primera acompanya i la segona, amb els ulls tancats o tapats, es deixa acompanyar. Al ritme de la música, qui acompanya balla i guia amb les mans, i l'altra es deixa endur. Després s'intercanvien els papers. Si hi ha temps i el grup està a gust, canvieu de parella.\n\nMentrestant, observeu: la persona acompanyada se sent respectada? Qui acompanya agafa fort les mans en lloc de només tocar-les? La persona acompanyada es deixa portar o va a la seva?",
+    "avaluacio": "Com m'he sentit? Què m'ha resultat més fàcil, guiar o deixar-me guiar? Com he notat el cos? Quina emoció s'ha generat al grup? Com afecta un joc així la cohesió del grup?",
+    "notes": "Cançons que proposa la fitxa original: «Mona Ki Ngi Xica» (Bonga), «Particles» (Ólafur Arnalds) i «Flight from the City» (Jóhann Jóhannsson).\n\nForma part de la sessió «Dinàmiques sensorials» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17327-dinamiques-sensorials.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-cercle-emocional",
+    "titol": "El cercle emocional",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "parelles",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "comunicacio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "resum": "En rotllana, cadascú comparteix una situació que li provoca una emoció desagradable i una d'agradable, i qui sent el mateix fa un pas endavant; després ho comenten per parelles amb escolta activa.",
+    "objectius": "Identificar quines situacions ens generen cada emoció, expressar-ho i observar com escoltem i ens expressem.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Feu una pluja d'idees de les emocions que coneixen i anoteu-les a la pissarra. Deixeu una estona perquè pensin quines situacions els fan sentir alegria, amor, por, tristesa, rebuig, frustració, inseguretat... (amb les amistats, la família, a l'institut, en el lleure).\n\nAparteu taules i cadires i feu una rotllana dempeus:\n\n- Primera ronda: per ordre, cadascú comparteix una situació que li provoca una emoció desagradable («Sento frustració quan em posen una incidència»). Qui sent el mateix fa un pas endavant.\n- Segona ronda: igual, amb una emoció agradable («Sento alegria quan em retrobo amb les amistats»).\n\nRespecteu els torns i el silenci: no es comenta ni es qüestiona el que diu ningú, i sempre es parla en primera persona.\n\nDesprés, per parelles, cadascú comparteix durant dos minuts el que necessiti de l'experiència. Qui parla para atenció a com s'expressa i on nota l'emoció al cos; qui escolta només escolta, i observa com se sent. També es pot fer en grups de tres, amb una persona que observa la comunicació verbal i no verbal.",
+    "avaluacio": "Quina emoció ha estat més present? Quina t'has permès sentir menys? Què has observat de tu en escoltar i en compartir? Per què pot ser útil expressar el que sentim?",
+    "notes": "Forma part de la sessió «Dinàmiques d'expressió emocional» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16904-dinamiques-dexpressio-emocional.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-desmai",
+    "titol": "El desmai",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "atencio",
+      "cooperatiu"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música (opcional).",
+    "resum": "Cadascú té un número secret; quan qui dinamitza diu el seu número, es deixa caure com si es desmaiés i la resta ha de reaccionar ràpid per aguantar-lo.",
+    "objectius": "Treballar la confiança i l'atenció als altres.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Assigneu a cada alumne un número secret, de manera que n'hi hagi tres o quatre de cada (tres o quatre 1, tres o quatre 2...).\n\nTothom camina tranquil·lament per l'aula, amb música si voleu. Quan digueu un número, les persones que el tenen es «desmaien» i es deixen caure a poc a poc. La resta ha de reaccionar de pressa per aguantar-les abans que toquin a terra.\n\nRecordeu que cal caure lentament i que la seguretat és el primer.",
+    "avaluacio": "He arribat a caure? M'he aliat amb algú per evitar que una altra persona caigués? Com m'he sentit quan em deixava caure? I quan havia d'aguantar algú?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-director-el-cec-i-el-mut",
+    "titol": "El director, el cec i el mut",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "ulls-tapats",
+      "cooperatiu",
+      "moviment"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Mocadors o antifaços. Un objecte per grup per amagar per l'aula.",
+    "resum": "En grups de tres, qui fa de director veu però no es pot moure, qui fa de mut guia sense parlar i qui fa de cec, amb els ulls tapats, ha d'arribar a l'objecte amagat.",
+    "objectius": "Treballar la coordinació, la confiança i l'empatia amb rols que limiten la comunicació.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Feu grups de tres en un extrem de l'aula (si són de quatre, la quarta persona observa). Cada grup té assignat un objecte, que amagueu lluny d'ells. Només el director veu on l'amagueu; els altres dos es giren d'esquena o tanquen els ulls.\n\nRols:\n\n- Director: és «sord», no es pot moure de darrere la línia de sortida i és l'únic que pot parlar i donar indicacions.\n- Mut: no pot parlar. Segueix les indicacions del director i guia el cec sense parlar ni tocar-lo (només el pot tocar si hi ha perill). L'ha de protegir i acompanyar.\n- Cec: porta els ulls tapats i es deixa guiar, confiant que el mut el protegirà.\n\nL'objectiu és recollir l'objecte tan de pressa com es pugui. La rapidesa introdueix la competició: observeu si algun grup en surt i ajuda els altres. Podeu posar obstacles per complicar-ho. Feu tres rondes perquè tothom passi per tots els rols.\n\nVariant senzilla: el cec ha de recollir els llapis vermells escampats per l'aula.",
+    "avaluacio": "Com us heu sentit en cada rol? Quin ha estat més difícil? Què hauríeu necessitat?\nHi ha hagut coordinació entre els tres rols? Quina estratègia hauríeu pogut seguir?\nAlgun grup n'ha ajudat un altre o heu competit? Algú ha fet trampes, s'ha posat controlador o s'ha sentit superat?\nPodeu anotar a la pissarra les emocions i necessitats de cada rol.",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html També recull la versió de «Dinàmiques cooperatives de moviment»: https://www.siguestu.cat/ca/recursos2/l/17332-dinamiques-cooperatives-de-moviment.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-el-focus",
     "titol": "El focus",
     "tipus": "dinamica",
@@ -260,6 +750,36 @@
     "descripcio": "L'alumnat camina per l'espai còmodament, sense xocar i mirant-se. Qui dinamitza pot convidar a fer alguna respiració profunda, a connectar amb el propi cos i a deixar anar tensions.\n\nQuan piqueu de mans, cadascú s'atura amb la persona que tingui més a prop i s'expliquen en detall la resposta a una consigna. Després torneu a picar de mans i continuen caminant. Han d'intentar aparellar-se cada vegada amb algú diferent.\n\nConsignes:\n\n- El menjar preferit i què és el que més els agrada d'aquest plat.\n- Què farien si els toqués la loteria.\n- Què és el que més els agrada fer quan no són a l'institut.\n- La seva cançó, grup o gènere musical preferit, i per què.\n- Què és el que més els agrada del grup classe.\n- Què és el que més els agrada d'ells mateixos.\n\nPer acabar, tornen al cercle i fan una ronda en què cadascú comparteix la resposta que li vingui més de gust.",
     "avaluacio": "Com us heu sentit? Hi ha hagut alguna cosa que us hagi costat més compartir? Per què?\nCom us heu sentit escoltant els altres? Us ha sorprès res?\nUs ha agradat saber coses noves dels companys? Heu coincidit amb algú?\nQuina relació té aquesta dinàmica amb la cohesió de grup? I amb l'autoconeixement?",
     "notes": "Forma part de la sessió «Cohesió de grup (I)» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16428-cohesio-de-grup-i.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-gat-i-els-ratolins",
+    "titol": "El gat i els ratolins",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "parelles",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Un gat persegueix els ratolins, que només se salven quan estan abraçats per parelles; el ratolí atrapat passa a ser el gat.",
+    "objectius": "Moure l'energia del grup i observar si es coopera o es va a la seva.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Una persona fa de gat i la resta són ratolins. El gat vol caçar ratolins i els ratolins no volen ser caçats.\n\nEls ratolins se salven quan estan abraçats per parelles. Només parelles: si es forma un trio i el gat toca una persona d'una punta, la pot caçar; només se salva qui és al mig.\n\nQuan el gat caça un ratolí, s'intercanvien els papers. El nou gat diu «Miauuu!» per avisar i es posa a caçar.\n\nSi hi ha molts crits i sembla un «campi qui pugui», atureu el joc i pregunteu: què està passant? Com estan els ratolins? S'ajuden? També podeu proposar jugar sense veu.",
+    "avaluacio": "Com us heu sentit? Heu trobat una bona estratègia de grup per salvar-vos? Què us ha ajudat a cooperar i què us ho ha dificultat?",
+    "notes": "Forma part de la sessió «Dinàmiques cooperatives de moviment» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17332-dinamiques-cooperatives-de-moviment.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -349,6 +869,131 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-el-mirall-dels-animals",
+    "titol": "El mirall dels animals",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "expressio-corporal",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Animals de joguina.",
+    "resum": "Cadascú tria un animal de joguina que s'assembla a com reacciona en un conflicte i, per parelles d'animals oposats, s'imiten l'un a l'altre com en un mirall.",
+    "objectius": "Identificar com reaccionem quan alguna cosa ens fa enfadar o no surt com esperàvem, i experimentar altres maneres de reaccionar.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Pregunteu què saben de la comunicació: què és? Per a què serveix? De quines maneres ens comuniquem? Relacioneu-la amb els conflictes, que són moments en què ens enfadem molt o en què dues persones no s'entenen perquè necessiten coses diferents: «Comunicar-nos és fer arribar a una altra persona el que pensem, sentim o necessitem».\n\nPoseu animals de joguina sobre una taula i pregunteu: «Quin animal s'assembla a mi quan tinc un conflicte?». Podeu ajudar-los: fa molt soroll o poc? Va ràpid o lent? S'acosta o s'allunya? S'amaga? Ataca? Es queda quiet? Demana ajuda? En una ronda, cadascú agafa un animal i es presenta. No doneu un significat fix als animals: el mateix animal pot voler dir coses diferents per a cadascú.",
+    "descripcio": "Feu parelles de persones que hagin triat animals oposats (petit i gran, fort i fluix, ràpid i lent, agressiu i suau).\n\nPer torns, una persona fa el seu animal i l'altra la imita com si fos un mirall. Després s'intercanvien.\n\nAnimeu-los a provar registres que no els són habituals, exagerant el rol (fent-lo més gran, apujant-li el volum) o fent-lo més petit, tant el seu animal com el de la parella. Així poden viure reaccions conegudes i d'altres que no ho són tant.",
+    "avaluacio": "Amb quin animal t'has sentit més còmode, amb el teu o amb el de l'altra persona?\nQuè t'ha agradat més de fer l'animal de l'altre?\nQuè passaria si reaccionessis així quan algú et fa una cosa que no t'agrada?\nQuè passa quan reacciones de manera suau, ràpida, agressiva...?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 2: Gestió de conflictes» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26771-itinerari-cee-convivencia--sessio-2-gestio-de.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-pou-dels-desitjos",
+    "titol": "El pou dels desitjos",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "silenci",
+      "escriptura",
+      "musica"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Papers, bolígrafs, una capsa o un bol, i música suau.",
+    "resum": "Després d'una breu meditació sobre com els agradaria sentir-se aquest curs, cadascú escriu el seu desig, el llegeix i el diposita en un pou comú; qui dinamitza en fa un poema per al grup.",
+    "objectius": "Fer un tancament emocional que generi cohesió i compromís de grup, per exemple a l'inici de curs.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "En cercle, feu una breu meditació amb música: tothom tanca els ulls, fa dues o tres respiracions profundes i connecta amb com li agradaria sentir-se aquest curs, a l'aula, amb els companys...\n\nQuan acabeu, obren els ulls a poc a poc i, en silenci, escriuen una paraula o una frase que resumeixi el desig amb què han connectat.\n\nPoseu una capsa o un bol al centre. Per ordre, cadascú llegeix el seu desig, s'aixeca i el diposita al recipient. Mentrestant, aneu anotant el que surt per fer-ne un retorn en forma de poema amb els desitjos del grup, que llegireu al final. El recipient pot quedar a l'aula com a racó dels desitjos, i el poema es pot penjar o enviar al grup.",
+    "avaluacio": "Com us heu sentit? Quina emoció ha generat la dinàmica al grup? Voleu compartir alguna cosa de la vivència?",
+    "notes": "La proposta original l'adreça al professorat a l'inici de curs; aquí s'adapta al grup classe.\n\nForma part de la sessió «Dinàmiques de sentiment de pertinença» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17286-dinamiques-de-sentiment-de-pertinenca.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-regal-tres-coses-bones-de-tu",
+    "titol": "El regal: tres coses bones de tu",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Papers petits i bolígrafs. Suro de l'aula (opcional).",
+    "resum": "Cadascú rep a l'atzar el nom d'un company o companya i li escriu tres coses positives; després li lliura el paper i diu com se sent.",
+    "objectius": "Practicar el reconeixement i la cura entre els membres del grup.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Repartiu un paper petit a cada persona. Cadascú hi escriu el seu nom en petit a la part de dalt i el doblega dues vegades.\n\nRecolliu els papers i torneu-los a repartir a l'atzar. Que els obrin de seguida: si a algú li toca el seu, el canvia.\n\nCadascú escriu tres coses positives de la persona que li ha tocat. Voluntàriament, també hi pot demanar disculpes o donar les gràcies.\n\nQuan tothom hagi acabat, aneu dient els noms un per un: qui té el paper d'aquella persona s'aixeca i l'hi dona. Qui el rep diu el seu nom i quina emoció sent.",
+    "avaluacio": "Opcional: demaneu propostes de com es poden cuidar com a grup (petits gestos, accions, paraules), escriviu-les en papers i pengeu-les classificades al suro. També podeu demanar que cadascú pensi, per a si, què pot fer per millorar la cura dins del grup i què vol començar a posar en pràctica.",
+    "notes": "Forma part de la sessió «Com cuidar-nos» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16568-com-cuidar-nos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-semafor-de-les-relacions",
+    "titol": "El semàfor de les relacions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "temes": [
+      "violencies",
+      "afectivitat"
+    ],
+    "durada": 45,
+    "grup": "mitja",
+    "materials": "Una targeta vermella i una de verda per grup.",
+    "resum": "Els grups aixequen una targeta verda o vermella davant de situacions de relacions d'amistat i de parella per decidir si són respectuoses o si cal parar i demanar ajuda.",
+    "objectius": "Identificar situacions de benestar i de risc en les relacions (respecte, consentiment, privacitat, límits) i saber què fer quan alguna cosa ens incomoda.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Comenceu demanant que cadascú pensi un desig: «Què t'agradaria molt que passés en les teves relacions (d'amistat, de parella...)?», i compartiu-los en una ronda. Expliqueu que, sovint, el que ens fa caure en situacions nocives és un desig molt profund: si desitgem molt tenir parella, potser quan aparegui renunciarem a coses fonamentals per a la nostra salut.",
+    "descripcio": "Feu grups i doneu a cada un una targeta vermella i una de verda. Llegiu situacions i deixeu un temps limitat perquè decideixin quina aixequen:\n\n- Verda: «Això em sembla respectuós o em fa sentir bé».\n- Vermella: «Això no està bé. Em pot fer mal. Necessito parar i buscar ajuda».\n\nTrieu les situacions que més us interessin per al grup. Algunes són ambigües a propòsit, per obrir converses sobre temes tabú.\n\nRespectar el sí i el no:\n- Algú et vol abraçar i abans et pregunta si en tens ganes.\n- Dius que no vols una abraçada i l'altra persona para.\n- Li dius que pari, però continua.\n- Primer vols fer una cosa i després ja no vols continuar.\n- Algú et diu que no vol ser la teva parella o la teva amiga.\n- Una amiga et diu que avui no vol parlar del que li passa.\n\nPrivacitat:\n- Algú et mira el mòbil sense preguntar.\n- Demanes veure el mòbil d'algú i et diu que no.\n- Algú explica una cosa privada teva sense preguntar-te-ho.\n- Entra a la teva habitació sense demanar permís, o no et deixa tancar la porta.\n- Algú t'espia per sota la porta del lavabo.\n\nFotos i internet:\n- Algú et vol fer una foto i abans t'ho pregunta.\n- Algú comparteix una foto teva sense preguntar-te-ho.\n- Una persona que has conegut per internet et demana una foto que no vols enviar.\n- Surts molt guapa en una foto i la penges a les teves xarxes.\n\nControl i aïllament:\n- Algú et diu amb qui pots parlar i amb qui no.\n- Una persona vol estar sempre sola amb tu i que no expliquis a ningú que us veieu.\n- Et diu: «Això és un secret i no ho pots explicar a ningú», i et fa sentir malament o tens por.\n- Vols anar al centre de salut a informar-te i et diu que ja t'ho ensenyarà amb un vídeo.\n\nSexualitat:\n- Dues persones es fan carícies i una diu que ja no vol continuar.\n- Algú vol tocar una part íntima de l'altra persona i li pregunta si vol.\n- Algú et diu que no a un petó i continueu passant-vos-ho bé.\n- Se te'n van les ganes i l'altra persona et diu que, si has començat, has d'acabar.\n- Et pregunta si estàs còmoda abans de continuar.\n- Una persona vol fer servir preservatiu i l'altra s'hi nega.\n- Vols tenir relacions amb més d'una persona.\n- En una relació sexual, l'altra persona et recorda que pots canviar d'opinió.\n\nCom em fan sentir:\n- Després d'estar amb una persona, sovint et sents malament o penses coses dolentes de tu.\n- Mentre parles, l'altra persona espera que acabis per respondre.\n- Expliques que una cosa t'ha fet mal i et diu: «T'ho inventes», «No ha passat», «Exageres».\n- Dubtes si t'ha agradat el que heu fet.\n- No vol conèixer ningú del teu entorn i vol que quedeu sempre sols.\n- Recorda que hi ha un soroll que et molesta i abaixa el volum.\n- Et pregunta com prefereixes que t'anomeni.\n- No et pregunta mai per la teva vida.\n- Opina del teu cos sense que li ho hagis demanat.\n\nQuan algú decideix per mi:\n- Algú parla sempre per tu sense preguntar-te què vols dir.\n- Algú fa per tu una cosa que pots fer sola, sense preguntar-te si necessites ajuda.\n- Algú no t'entén i et demana que l'hi tornis a explicar d'una altra manera.\n- Algú t'ajuda perquè l'hi has demanat.\n\nAprofiteu les situacions que generin més reacció (quan l'alumnat es posa a parlar o es mou) per obrir converses, i aneu introduint què es pot fer: dir-ho, apartar-se o marxar, demanar ajuda, explicar-ho a una persona de confiança...",
+    "notes": "Activitat recomanada la setmana abans: cadascú escriu el seu nom en una pedra, es posen totes en una bossa i cadascú en treu una amb el nom de la persona que haurà de cuidar durant una setmana. Al començament de la sessió, pregunteu: què t'ha agradat del que ha fet aquesta persona per cuidar-te? Què fa que t'hi sentis bé? Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 3: Les relacions de risc» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26772-itinerari-cee-convivencia--sessio-3-les-relac.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-el-semafor-del-bullying",
     "titol": "El semàfor del bullying",
     "tipus": "dinamica",
@@ -374,6 +1019,69 @@
     "descripcio": "Dividiu l'aula en tres zones, com un semàfor. Llegiu les afirmacions una a una; l'alumnat es col·loca a la zona que correspongui a la seva opinió. Després torneu a dir la frase i cada grup hi afegeix algun concepte. Si no surt, acompanyeu-los.\n\n«Bullying vol dir que peguen un company repetidament.» És cert, però falta dir que hi ha intenció, que es manté en el temps i que hi ha més violències que la física:\n\n- Verbal: cridar, insultar o riure-se'n (directa); parlar malament d'algú d'amagat, dir-ne coses perquè ho senti, difondre rumors falsos (indirecta).\n- Social: excloure deliberadament, no deixar participar, no convidar per marginar, ignorar.\n- Sexual: cosificació, tocaments, insinuacions no desitjades.\n- A través de les pantalles: suplantació d'identitat, difusió d'imatges, enganys.\n\n«A la víctima li canvia l'humor, està més irritable.» Cert, entre altres canvis: baixa el rendiment i la motivació, es tanca, s'aïlla, perd confiança o comença a agredir altres alumnes; alteracions de la son i l'alimentació; somatitzacions (es troba malament al matí, demana que el vinguin a buscar); no vol anar a l'institut. La víctima ha d'entendre que no és culpable de res.\n\n«Qui agredeix té problemes personals.» Pot estar afrontant una situació difícil, haver patit abusos o voler tenir més poder. En qualsevol cas, ha d'entendre que la seva conducta és inacceptable i té conseqüències, i alhora cal ajudar-lo a deixar el rol d'agressor.",
     "avaluacio": "Recordeu que, en cas de patir assetjament, cal explicar-ho a una persona adulta de confiança.",
     "notes": "Important: si al grup hi ha un cas obert d'assetjament, no es recomana fer aquesta sessió. Podeu demanar assessorament a l'equip de Sigues tu (info@siguestu.cat).\n\nForma part de la sessió «Bullying, què fem?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16477-bullying-que-fem.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-termometre-de-la-tranquil-litat",
+    "titol": "El termòmetre de la tranquil·litat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "emocions",
+      "sense-material"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "resum": "Amb els ulls tancats, cadascú imagina un termòmetre del 0 al 10 i mostra amb els dits quanta tranquil·litat sent a l'aula; després el grup observa el resultat en silenci.",
+    "objectius": "Fer visible, sense jutjar, com se sent el grup respecte a la feina i el clima de l'aula.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Tothom tanca els ulls, fa tres respiracions profundes i escolta la respiració. Podeu fer un breu repàs del cos, dels peus al cap.\n\nAmb els ulls encara tancats, imaginen un termòmetre del 0 (gens) al 10 (molt) i responen: «Quanta tranquil·litat sento a l'aula (amb la classe, la càrrega de feina...)?». Quin número els surt?\n\nHo poden compartir de dues maneres: obrint els ulls i dient el número en veu alta, o mostrant-lo amb els dits amb els ulls tancats i obrint-los després tots alhora per mirar, sense dir res, els números dels altres.",
+    "avaluacio": "Millor no parlar-ne gaire: es tracta de fer visible el que no sempre expressem. Si cal, cadascú diu només una emoció: com se sent en veure el que ha expressat el grup.",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-totem",
+    "titol": "El tòtem",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "silenci",
+      "musica",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Un objecte que faci de tòtem. Música relaxant. Opcionalment, una tela, flors o altres elements per decorar el centre.",
+    "resum": "En rotllana i amb un objecte que marca el torn de paraula, qui vol comparteix com està i què necessita del grup, mentre la resta escolta sense comentar.",
+    "objectius": "Crear un espai ritualitzat d'escolta que reforci el sentiment de pertinença al grup.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "El grup s'asseu en rotllana (a terra o a les cadires) o es queda dret. Al mig hi poseu el tòtem: un objecte personal o un que triï el grup. Si voleu ritualitzar més l'espai, hi podeu posar una tela, flors... i música inspiradora. Només pot parlar qui té el tòtem; la resta escolta activament, sense comentar.\n\nDemaneu que tanquin els ulls, facin tres respiracions profundes i connectin amb com se senten avui. Després, plantegeu una pregunta sobre la convivència: què t'aporta calma? Què t'aporta de bo el grup? Què necessitaries per estar millor al grup? Què li agrairies? Et vols disculpar per alguna cosa?\n\nObriu els ulls i qui vulgui comparteix la resposta. Hi ha diverses maneres de fer-ho:\n\n- Qui vol parlar agafa el tòtem, torna al seu lloc, parla i el passa a la persona de l'esquerra; si aquesta no vol parlar, el passa a la següent.\n- Qui vol parlar agafa el tòtem, parla des del seu lloc i el torna a deixar al centre.\n- Qui vol parlar ho fa des del centre i espera la següent persona per passar-li el tòtem.\n\nÉs millor que participi tothom, però no sempre tothom voldrà. Agraïu tot el que s'ha compartit i, si algú necessita dir alguna cosa més, torneu a obrir l'espai.",
+    "notes": "Forma part de la sessió «Dinàmiques de sentiment de pertinença» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17286-dinamiques-de-sentiment-de-pertinenca.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -407,6 +1115,37 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-els-desconeguts",
+    "titol": "Els desconeguts",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "parelles",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Asseguts al costat d'algú amb qui no es relacionen gaire, l'alumnat s'explica per parelles una situació del grup que no li agrada i després la resumeix a la classe intentant endevinar l'emoció de l'altre.",
+    "objectius": "Practicar l'escolta activa i l'empatia amb persones de fora del cercle habitual.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Col·loqueu les cadires en cercle, sense taules. Assigneu un número a cada cadira i a cada alumne de manera que tothom segui al costat d'algú amb qui no es relaciona gaire.\n\nCadascú fa parella amb qui té a la dreta. Durant dos minuts, un explica una situació del grup classe que no li agrada; després s'intercanvien. Qui escolta no pot fer preguntes: només para atenció i intenta recordar el que li diuen.\n\nFeu una ronda en què cadascú explica breument el que li ha dit la seva parella, sempre amb el seu consentiment, i hi afegeix l'emoció que creu que sentia. L'altra persona diu si l'ha encertada o no (si no, no cal que digui quina era).",
+    "avaluacio": "Com us heu sentit escoltant sense poder preguntar? I sentint com l'altre explicava la vostra situació? Ha estat fàcil endevinar l'emoció?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i escolta activa» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16593-dinamiques-de-cohesio-de-grup-i-escolta-activ.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-els-passos-per-prendre-una-decisio",
     "titol": "Els passos per prendre una decisió",
     "tipus": "dinamica",
@@ -431,6 +1170,36 @@
     "participants": "Alumnat de 3r i 4t d'ESO.",
     "descripcio": "Pregunteu quins criteris tenen en compte per decidir com continuar després de l'ESO i anoteu-los a la pissarra. Solen sortir la capacitat d'aprenentatge, el suport familiar, si els farà feliços, l'esforç, la durada dels estudis, les habilitats i els interessos. Recordeu que cada persona té la seva escala de valors i que tots els criteris són vàlids.\n\nDesprés, cadascú explora la decisió que ha de prendre per al curs vinent seguint aquests passos:\n\n1. Delimitar la situació: d'on parteixo?\n2. Explorar totes les possibilitats: llista d'opcions.\n3. Què ofereix cada opció: avantatges i inconvenients.\n4. Valors: quin valor té cada opció per a mi?\n5. Autoboicot: quina és la meva part de responsabilitat? No tot ve de fora.\n6. Quedar-se amb una opció.\n7. Justificar la tria.\n\nPer ajudar-los, cadascú pot triar el cas que s'acosti més a la seva situació:\n\n- Cas 1: no sé si fer un cicle o el batxillerat, quin fer, o on fer-lo.\n- Cas 2: no sé si estudiar, treballar o fer un any sabàtic.\n- Cas 3: el que jo vull xoca amb les influències que tinc (família, amistats, entorn).\n\nQui ja té la decisió clara pot analitzar com l'ha presa seguint els mateixos passos.",
     "notes": "Forma part de la sessió «Orientació futura» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu» i Barabara Educació. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16561-orientacio-futura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-endevina-que-estic-mirant",
+    "titol": "Endevina què estic mirant",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "atencio",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "resum": "Per parelles, una persona mira fixament alguna cosa de l'aula i l'altra ha d'endevinar què és fixant-se en els seus ulls i el seu cos.",
+    "objectius": "Prendre consciència de la comunicació no verbal i de la importància de l'atenció.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Feu una demostració davant del grup amb un alumne i després la fa tothom alhora, per parelles.\n\nUna persona mira insistentment alguna cosa de l'entorn i pregunta: «Què estic mirant?». L'altra ha d'endevinar-ho. Quan l'encerta, pregunteu-li com ho ha sabut. Es tracta que verbalitzi el que ha observat: «He vist com aixecaves el cap», «Com et giraves», «T'he mirat els ulls per veure on es dirigien»...\n\nIntercanvieu els papers.",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i escolta activa» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16593-dinamiques-de-cohesio-de-grup-i-escolta-activ.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -464,6 +1233,93 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-ens-aixequem",
+    "titol": "Ens aixequem",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "cooperatiu",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Asseguts a terra en rotllana i amb els braços entrellaçats, tot el grup s'ha d'aixecar alhora; després es reflexiona sobre com s'ha organitzat.",
+    "objectius": "Experimentar com es relaciona el grup quan té un objectiu comú i identificar què afavoreix la cohesió.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una roda en què cadascú diu el seu nom i una paraula o idea relacionada amb la cohesió de grup.",
+    "descripcio": "Tothom s'asseu a terra en rotllana, amb el cul tocant a terra, i entrellaça els braços amb les persones del costat. L'objectiu és que tot el grup s'aixequi alhora sense deixar-se anar.\n\nEl grup tria l'estratègia: no hi ha una sola manera de fer-ho i és important deixar-li autonomia. Després de cada intent fallit, tothom torna a seure amb el cul a terra (no val ajupir-se ni recolzar-se sobre les cames).\n\nRepetiu-ho fins que ho aconsegueixin o fins que ho considereu oportú: no sempre s'aconsegueix, i el que importa és el com, no el què. El vostre paper és observar, guiar i acompanyar. Perquè el grup s'autogestioni s'haurà de comunicar, escoltar, pactar, deixar que apareguin lideratges, respectar els ritmes i gestionar la impulsivitat. Si s'encallen, podeu compartir-hi el que observeu.\n\nAnoteu a la pissarra els elements clau de les respostes de la reflexió: seran les accions que el grup considera importants per estar cohesionat.",
+    "avaluacio": "Ha estat difícil? Ens necessitàvem per aconseguir-ho? Què ha passat quan algú no podia aixecar-se?\nHi havia algun lideratge? Era acceptat? Has proposat alguna cosa i no t'han escoltat?\nCom us heu sentit quan no sortia i quan ha sortit? Hi ha hagut reaccions impulsives?\nA la classe, som un equip? Ens ajudem? Quins comportaments ajuden a crear un bon ambient de treball?\n\nTreballar en equip no és només repartir tasques: és relacionar-nos amb respecte, escoltar-nos, confiar-hi i buscar el bé comú.",
+    "notes": "Si hi ha algú amb diversitat funcional, una lesió o roba que li dificulti seure a terra, convideu-lo igualment a participar: el grup es pot adaptar a moltes situacions.\n\nForma part de la sessió «Cohesió de grup (II)» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16476-cohesio-de-grup-ii.html També recull la versió de «Dinàmiques cooperatives de moviment»: https://www.siguestu.cat/ca/recursos2/l/17332-dinamiques-cooperatives-de-moviment.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-ens-presentem-amb-mimica",
+    "titol": "Ens presentem amb mímica",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "expressio-corporal",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "En una roda de presentació, cadascú diu el seu nom i representa amb mímica la seva afició preferida; la persona del costat l'endevina i qui la comparteix s'aixeca fent un moviment divertit.",
+    "objectius": "Descobrir aficions comunes i entendre els altres a través de la comunicació no verbal.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Amb els ulls tancats, cadascú connecta amb com està i pensa en la seva afició preferida (tot és vàlid).\n\nEn una roda, cadascú diu el seu nom i representa l'afició amb mímica. La persona de la seva dreta ha d'endevinar-la i després és el seu torn. Si costa, poden ajudar-hi els altres; després de cinc intents, qui representa ho explica.\n\nQui també té aquella afició s'aixeca fent un moviment qualsevol: un pas de sardana, una volta, aixecar els braços, aplaudir... Tot en clau de joc i humor.",
+    "avaluacio": "Quina emoció ha generat al grup? Per què aquesta dinàmica pot potenciar l'empatia? Ens costa entendre'ns sense paraules?",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-entendre-el-dol",
+    "titol": "Entendre el dol",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "resum": "En cercle, el grup comparteix què li evoca la paraula «pèrdua» i descobreix que el dol és un procés normal que no només té a veure amb la mort.",
+    "objectius": "Reconèixer que el dol i les pèrdues formen part de la vida i que poden adoptar moltes formes.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "En cercle, feu una pregunta oberta: «Quan sentiu la paraula pèrdua, què us ve al cap? Què se us mou per dins?». Recolliu algunes idees sense aprofundir-hi encara.\n\nExpliqueu breument que el dol és un procés normal d'adaptació quan perdem alguna cosa, una situació o una persona important. No parlem només de la mort, sinó de totes les pèrdues de la vida: una separació a la família, un canvi d'escola o de casa, una amistat que s'allunya, un procés migratori o deixar enrere una etapa, com el pas de la infància a l'adolescència.\n\nRemarqueu que cadascú viu les pèrdues de manera diferent, segons com és, les seves circumstàncies, la importància del vincle trencat i el moment. No hi ha una manera correcta o incorrecta de viure el dol.\n\nPodeu repassar les fases del dol de Kübler-Ross (xoc, negació, ràbia, negociació, depressió i acceptació), preguntant si les coneixen, i afegir-hi les tasques del dol de Worden: com que el dol no és un camí lineal, més que passar per fases cal fer unes tasques per avançar (acceptar la realitat de la pèrdua, treballar les emocions i el dolor, adaptar-se a la nova realitat, i recol·locar emocionalment la pèrdua i continuar vivint).",
+    "notes": "Al llarg de la sessió no forceu la participació oral: hi ha alumnes que s'expressen millor dibuixant o escrivint. Si surt algun cas personal sensible, acolliu-lo amb naturalitat i oferiu-ne seguiment si cal.\n\nForma part de la sessió «El dol i les pèrdues: expressar, agrair» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» i Carme Dolz (Intel·ligència Emocional i Acompanyament al Dol). Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24253-el-dol-i-les-perdues-expressar-agrair.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-et-desitjo",
     "titol": "Et desitjo",
     "tipus": "dinamica",
@@ -491,6 +1347,38 @@
     "preparacio": "Prepareu les targetes amb el nom de cada alumne o alumna (també es poden fer a l'aula amb el grup) i poseu-les dins la bossa o el sobre.",
     "descripcio": "Col·loqueu el grup en rotllana.\n\nCada alumne o alumna treu una targeta de la bossa sense mirar i no diu a ningú quin nom li ha tocat.\n\nRepartiu un paper de color i un retolador per persona. Cadascú escriu un desig per a la persona que li ha tocat.\n\nQuan tothom ha acabat, un per un i en veu alta, cadascú va fins a la persona que li ha tocat i li diu el desig que li ha escrit.",
     "notes": "Alternativa: cadascú escriu un desig sense saber a qui anirà, més universal i menys personal. Els desitjos es posen a la bossa i cadascú n'agafa un a l'atzar.\n\nForma part de la sessió «Desitjos pel futur» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13461-desitjos-pel-futur.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-etiquetes-al-front",
+    "titol": "Etiquetes al front",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "subgrups",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "comunicacio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Etiquetes adhesives o paperets amb paraules.",
+    "resum": "Cadascú porta al front una etiqueta que no veu i, en petits grups, la resta el tracta segons el que hi diu, fins que endevina quina és la seva.",
+    "objectius": "Adonar-se de com les etiquetes condicionen com veiem i tractem els altres, i practicar posar-se al seu lloc.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Podeu començar amb una roda en què cadascú diu el seu nom i un tret físic propi, sense jutjar-lo (soc molt alta, tinc la veu fina, tinc pigues...). Després obriu el tema: alguna vegada t'has sentit jutjat per com vas vestit? Has jutjat mai algú? Per què jutgem les persones? Creus que amb un altre físic o un altre color de pell et tractarien diferent? Què és una etiqueta? I un rumor?",
+    "descripcio": "Enganxeu a cada alumne una etiqueta al front sense que la vegi. Tothom camina per l'aula fixant-se en les etiquetes dels altres. Quan ho indiqueu, es formen grups de dues a quatre persones que conversen una estona tractant-se segons l'etiqueta que veuen, i cadascú intenta esbrinar quina porta.\n\nEtiquetes possibles: gras, generós, influenciable, agressiu, tímid, atractiu, bromista, gandul, brut, trist, expert, rebel, homosexual, despistat, depressiu, intel·ligent, pobre, ric, guapo, lleig... Assigneu-les tenint en compte el perfil de cada alumne.\n\nVariant: un voluntari surt davant de la classe i representa amb mímica una etiqueta; la resta l'endevina.\n\nDesprés, pregunteu: quina etiqueta creieu que portàveu? L'heu endevinada de seguida? Què us hi ha portat? Com us heu sentit? Com us hauria agradat que us miressin? Ha estat còmode relacionar-vos amb les altres etiquetes? Hi ha hagut paraules difícils d'interpretar?\n\nExpliqueu que una etiqueta és un judici simplificat sobre una persona o un grup, sovint basat en estereotips (creences sobre com són els membres d'un grup social, que n'anul·len les diferències: «Els joves no respecten les normes»), que en limita la mirada i pot afectar-ne l'autoestima. Parleu dels eixos de discriminació i privilegi (origen, color de pell, gènere, orientació sexual, capacitats, classe social...): amb uns tenim més prejudicis que amb d'altres? N'hi ha algun que creguis que no t'afecta? Sovint, el que trobem «normal» és el que ens dona privilegi.",
+    "avaluacio": "Quines emocions us ha generat la dinàmica? Com podem evitar que les etiquetes decideixin com tractem algú?",
+    "notes": "Si algú se sent afectat o incòmode, atengueu-lo i pregunteu-li com està. Demaneu que tothom s'expressi en primera persona («jo crec...», «jo sento...») per evitar malentesos.\n\nForma part de la sessió «Etiquetes, prejudicis i rumors» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16559-etiquetes-prejudicis-i-rumors.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -553,6 +1441,194 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-festa-extraterrestre",
+    "titol": "Festa extraterrestre",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cooperatiu",
+      "emocions"
+    ],
+    "temes": [
+      "diversitat",
+      "convivencia"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Imatges i pictogrames. El que calgui per a una petita celebració (música, menjar, un espai tranquil...).",
+    "resum": "El grup prepara una petita festa accessible en què càpiguen les necessitats de cada extraterrestre: des de ballar fins a observar des d'un racó tranquil.",
+    "objectius": "Aplicar la idea d'accessibilitat i organitzar una activitat en què tothom pugui participar a la seva manera.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Abans de celebrar, pregunteu: «Què necessita la meva extraterrestre per passar-s'ho bé i sentir-se cuidada?». Es poden fer servir imatges i pictogrames per expressar-ho: música, música fluixa, ballar, menjar, beure, llum suau, un espai tranquil, poder seure, poder moure's, estar amb amigues, estar una estona sola, saber què passarà, no rebre abraçades, rebre'n, poder sortir i tornar...\n\nEntre tots, penseu si podeu fer una festa accessible on càpiguen totes aquestes necessitats, i prepareu una petita celebració que les tingui en compte.\n\nLa festa no vol dir necessàriament música, soroll i ball. Per a algunes persones, participar pot ser observar, descansar, estar en un racó tranquil o entrar i sortir de l'activitat. Si algú necessita celebrar-ho des d'un espai íntim, es respecta.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 1: Identitat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26769-itinerari-cee-convivencia--sessio-1-identitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-gracies-i-perdo",
+    "titol": "Gràcies i perdó",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "silenci",
+      "musica",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Un objecte que faci de tòtem. Música relaxant.",
+    "resum": "Cadascú té la seva «caseta» a l'aula i va a visitar companys per donar-los les gràcies per una cosa i demanar-los perdó per una altra; qui rep la visita només escolta.",
+    "objectius": "Promoure la cohesió de grup a través del reconeixement, l'agraïment i la reparació.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "preparacio": "Expliqueu que fareu una sessió per donar les gràcies o demanar perdó a algú de l'aula, que ho farà qui vulgui i respectant els temps de cadascú. Es tracta de crear un espai ritualitzat i de confiança. Feu servir un objecte com a tòtem (un objecte personal o un que triï el grup) per marcar el torn de paraula quan parleu en gran grup: només parla qui el té, i la resta escolta sense comentar.",
+    "descripcio": "Cadascú busca un lloc a l'aula amb la seva cadira: serà la seva «caseta». Un cop hi és, tanca els ulls un o dos minuts per connectar amb com està.\n\nDesprés, mira els companys i tria algú a qui vol donar les gràcies per una cosa i demanar perdó per una altra. S'aixeca, el «visita» i li ho diu. No cal buscar grans coses: les petites també mouen molt («Gràcies perquè cada dia em saludes», «Perdó perquè a vegades soc sec amb tu»). Si hi ha gent nova que no té història amb el grup, pot compartir en lloc d'això una cosa positiva que li desperta l'altra persona o un desig («M'agradaria que fóssim amics perquè em transmets confiança»).\n\nNormes:\n\n- Qui rep la visita no parla: només escolta i rep. Com a molt, pot dir gràcies. No s'entra en conversa, perquè conversar és una manera d'evitar el moment.\n- Si qui rep també vol dir alguna cosa a qui l'ha visitat, ho farà després, en una altra visita. Visiteu algú si de debò hi teniu alguna cosa a dir, no per compensar.\n- Es permet el contacte (agafar-se les mans, abraçar-se...) si totes dues persones ho volen.\n- Les visites són individuals, breus i concretes, sense justificacions: menys és més.\n- En acabar una visita, torneu a la caseta, respireu i deixeu-vos sentir abans de fer-ne una altra. Així també podeu rebre visites.\n- Intenteu visitar també persones amb qui teniu poca relació o no us porteu bé, i no només el vostre grup d'afinitat.\n- Qui té els ulls tancats no està disponible per rebre visites. Està bé fer-ho si es necessita.\n\nPodeu posar música de fons per ajudar a connectar amb l'emoció.",
+    "avaluacio": "Quina emoció has tingut més present? Quina emoció hi ha ara al grup?\nQuè t'ha costat més: dir gràcies i perdó o deixar que t'ho diguessin? Has dit tot el que podies?\nHas pogut visitar tothom que volies? T'esperaves més visites? Com t'ha fet sentir?\nEt donaries les gràcies a tu mateix per alguna cosa? I et demanaries perdó?\nCom influeixen les petites coses en com ens relacionem? Faries aquesta dinàmica amb algú que no és aquí?\n\nPer tancar, pregunteu quina emoció senten ara i si ha canviat respecte del principi. Donar les gràcies i demanar perdó és un acte de valentia, humilitat i generositat. Sovint són les petites coses, els gestos i les paraules quotidianes, les que més ens mouen i les que, si no les atenem, ens acumulen malestar.",
+    "notes": "Si a algú li costa molt, pot quedar-se a la seva caseta amb els ulls tancats; respecteu els temps de cadascú.\n\nForma part de la sessió «Gràcies i perdó» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13462-gracies-i-perdo.html També surt a «Dinàmiques de sentiment de pertinença»: https://www.siguestu.cat/ca/recursos2/l/17286-dinamiques-de-sentiment-de-pertinenca.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-histories-de-peces-de-fusta",
+    "titol": "Històries de peces de fusta",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "subgrups",
+      "cooperatiu"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Una peça de fusta (o un objecte petit) per persona.",
+    "resum": "Cada persona decideix què és la seva peça de fusta; després, per parelles, en grups de quatre, de vuit... i finalment tota la classe, van fusionant les històries en una de sola.",
+    "objectius": "Practicar com arribar a acords i construir una creació conjunta on tothom se senti tingut en compte.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Repartiu una peça de fusta a cada alumne. Cadascú decideix què és o què representa i s'inventa una petita història.\n\nPer parelles, s'expliquen les seves històries i les integren en una de nova amb les dues peces. Després s'ajunten en grups de quatre i fan una història amb quatre peces, i així successivament (vuit, setze...) fins que tota la classe té una sola història amb totes les peces.",
+    "avaluacio": "Com arribàvem als acords? Com hem creat la història en grup? Tothom s'ha sentit escoltat i tingut en compte? Quin paper he tingut jo al grup gran: m'he deixat portar o he proposat?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i creativitat» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16592-dinamiques-de-cohesio-de-grup-i-creativitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-introspeccio-a-traves-d-imatges",
+    "titol": "Introspecció a través d'imatges",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "autoconeixement"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Imatges diverses (es poden triar segons el tema que es vulgui treballar: violències, masclisme, estrès...). Fulls i bolígrafs.",
+    "resum": "Cada alumne tria una imatge que li crida l'atenció i respon per escrit preguntes sobre què hi veu, què va passar abans i després, i quina relació té amb ell i amb la salut.",
+    "objectius": "Reconèixer les pròpies emocions i com ens relacionem, per millorar la salut i l'autoestima.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "En cercle, poseu les imatges al mig. Cadascú les mira una estona i n'agafa una que li cridi l'atenció. Si voleu, es poden descalçar i caminar per sobre de les imatges per notar com respon el cos a cadascuna.\n\nAmb la imatge triada, responen per escrit les preguntes que aneu fent en veu alta, d'una en una:\n\n- Per què has triat aquesta imatge? Què expressa per a tu?\n- Imagina què ha passat just abans de la imatge. I just després.\n- Hi trobes relació amb la salut? I amb tu?\n\nDesprés, subratllen les emocions que apareixen en el que han escrit. Qui vulgui ho comparteix amb el grup.",
+    "avaluacio": "Reconèixer què sentim i com ens relacionem ens ajuda a cuidar la salut i les relacions. Identificar les emocions ens ajuda a gestionar-nos millor i a no perdre'ns en les emocions dels altres.",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-jo-entre-els-altres",
+    "titol": "Jo entre els altres",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Animals de joguina. Un espai d'un metre quadrat (unes taules juntes o un tros de terra) que faci d'escenari.",
+    "resum": "Amb animals de joguina sobre un petit escenari, el grup representa conflictes senzills, pensa què necessita cada animal i què podria dir, i busca solucions que tinguin en compte tothom.",
+    "objectius": "Entrenar l'escolta i la comunicació respectuosa, i buscar solucions cooperatives als conflictes.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Prepareu un escenari d'un metre quadrat, a terra o sobre unes taules perquè sigui accessible. Cadascú hi col·loca l'animal que representa com es relaciona en un conflicte.\n\nPlantegeu una situació senzilla i inventada: «Dos animals volen fer servir el mateix objecte alhora», «Un animal fa molt soroll i a un altre el molesta», «Un animal vol jugar i l'altre vol estar tranquil».\n\nPregunteu: què necessita aquest animal en aquesta situació? Què podria dir? Podeu oferir opcions: «Para», «No m'agrada», «Puc jugar?», «Ara no», «Necessito silenci», «Fem torns?», «M'ajudes?», «Ho podem fer d'una altra manera?».\n\nDesprés pregunteu què podria fer l'altre animal: en un conflicte hi pot haver més d'una necessitat. Busqueu entre tots una solució que tingui en compte tothom. Per exemple, si un animal fa soroll i l'altre es molesta: abaixar el volum, allunyar-se, anar a un espai tranquil, fer servir un suport que ajudi...\n\nRemarqueu que un conflicte no vol dir que algú ho faci malament: a vegades dues persones necessiten coses diferents i han de buscar com entendre's.",
+    "avaluacio": "Per tancar, deixeu uns minuts tranquils perquè cadascú decideixi si vol dir alguna cosa al grup. Agraïu la disponibilitat del grup i cada petit gest d'obrir-se a la resta.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 2: Gestió de conflictes» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26771-itinerari-cee-convivencia--sessio-2-gestio-de.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-just-i-injust",
+    "titol": "Just i injust",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pòsits o papers petits i bolígrafs. La fórmula de la comunicació no violenta a la pissarra.",
+    "resum": "En grups petits, l'alumnat comparteix situacions en què algú va ser injust amb ells i en què ells van ser injustos, i les reformula amb la comunicació no violenta.",
+    "objectius": "Analitzar situacions reals d'injustícia relacionades amb la pressió de grup i practicar una manera no violenta d'expressar-se.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "En grups de tres o quatre, cada persona comparteix:\n\n- Una situació en què algú va actuar de manera injusta amb ella.\n- Una altra en què ella va actuar de manera injusta.\n\nEscriuen les situacions en pòsits, que es recullen de manera anònima. Llegiu-ne algunes davant del grup i reflexioneu-hi: per què passen aquestes situacions? Què hi té a veure la pressió de grup? Com ens podem expressar de manera no violenta?\n\nEscriviu a la pissarra la fórmula de la comunicació no violenta:\n\n- Em sento...\n- quan...\n- perquè valoro...\n- i voldria que...\n\nCada grup tria una situació i la reformula amb aquesta fórmula.",
+    "avaluacio": "En cercle, cadascú diu un aprenentatge o una reflexió que s'emporta. També poden escriure un petit compromís personal per afrontar millor la pressió de grup: dir que no quan ho senti, no riure els comentaris fora de lloc, donar suport a qui es queda sol...\n\n«La convivència no és un fet espontani, sinó un aprenentatge constant» (Rosario Ortega, 2000).",
+    "notes": "Forma part de la sessió «Pressió de grup i convivència» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16479-pressio-de-grup-i-convivencia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-l-arbre-dels-desitjos",
     "titol": "L'arbre dels desitjos",
     "tipus": "dinamica",
@@ -580,6 +1656,38 @@
     "preparacio": "Prepareu el material en un espai visible i informeu tothom del propòsit de l'activitat col·lectiva.",
     "descripcio": "Cada persona que vulgui escriu o dibuixa un desig per al curs, el trimestre o l'any vinent. Ho pot fer en la seva llengua materna.\n\nPodeu donar consignes de color: blau per a un desig personal, groc per a un desig per a l'institut i verd per a un desig per al món. També es pot deixar totalment lliure.\n\nUn cop escrit, cadascú penja el paper a l'arbre del pati que s'hagi triat, o l'enganxa amb un pòsit en un paper d'embalar.",
     "notes": "És una proposta pensada per a tot el centre, però es pot fer només amb el grup classe.\n\nForma part de la sessió «Desitjos pel futur» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13461-desitjos-pel-futur.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-escultor-i-l-escultura-cega",
+    "titol": "L'escultor i l'escultura cega",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "ulls-tapats",
+      "silenci",
+      "expressio-corporal"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Música suau. Antifaços (opcional). Un mirall (opcional).",
+    "resum": "Per parelles i amb els ulls tancats, una persona modela l'altra com una escultura que expressi la relació que vol tenir-hi durant el curs, i li posa un títol.",
+    "objectius": "Treballar la cohesió, la confiança i la cura en el contacte.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "El grup es mou per l'espai, es mira i forma parelles. Una persona fa d'escultor i l'altra d'escultura. Totes dues tenen els ulls tancats (variant: l'escultor els pot tenir oberts).\n\nAbans de començar, l'escultor pregunta a l'escultura si hi ha alguna part del cos que no vol que li toqui. L'escultura pot dir el que necessiti, i si en algun moment s'incomoda, ho ha de dir.\n\nEn silenci, a poc a poc i amb música, l'escultor modela l'escultura durant uns cinc minuts. Pot pensar en què li transmet l'altra persona, quina relació li agradaria tenir-hi, què li vol oferir aquest curs...\n\nQuan s'acaba el temps, l'escultura obre els ulls i es queda immòbil. D'una en una, les escultures diuen amb una emoció, una paraula o una imatge com ha estat l'experiència, i els escultors diuen el títol de la seva obra. Opcionalment, l'escultor pot imitar la postura perquè l'escultura s'hi vegi reflectida, o fer servir un mirall. Després s'intercanvien els papers.",
+    "avaluacio": "Com us heu sentit? En quin rol us heu sentit millor? Heu vist alguna cosa de vosaltres en algun dels dos rols?",
+    "notes": "Forma part de la sessió «Dinàmiques sensorials» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17327-dinamiques-sensorials.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -616,6 +1724,433 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-l-estrella-de-l-equilibri",
+    "titol": "L'estrella de l'equilibri",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "cooperatiu",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "resum": "En rotllana i agafats de les mans, les persones numerades amb 1 es tiren enrere i les numerades amb 2, endavant, i el grup ha de trobar l'equilibri sense caure.",
+    "objectius": "Viure que la unió fa la força i que cada persona és igual d'important per mantenir l'equilibri del grup.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Dempeus en rotllana, tothom s'agafa de les mans. Numereu les persones alternant 1 i 2. A la vostra indicació, els 1 es tiren enrere i, alhora, els 2 es tiren endavant, sense deixar-se anar. Feu-ho a poc a poc, parant atenció i cuidant el grup.\n\nQuan s'aguantin estables, canvieu: els 1 endavant i els 2 enrere. Podeu variar la velocitat.",
+    "avaluacio": "Com us heu sentit? Què us ha transmès la dinàmica? Creieu que fomenta el sentiment de pertinença?",
+    "notes": "Forma part de la sessió «Dinàmiques de joc participatiu» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, empatia, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17472-dinamiques-de-joc-participatiu.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-estrella-de-la-pressio",
+    "titol": "L'estrella de la pressió",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "parelles",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio",
+      "autoconeixement"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Fulls, bolígrafs i colors.",
+    "resum": "Cada alumne dibuixa una estrella amb cinc situacions en què sent pressió de grup i, al centre, les estratègies que fa servir; després marca si reacciona de manera assertiva, passiva o agressiva.",
+    "objectius": "Identificar situacions concretes de pressió de grup i explorar estratègies assertives per afrontar-les.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Cadascú dibuixa una estrella de cinc puntes. A cada punta escriu una situació en què sent pressió de grup a l'aula o a l'institut. Per exemple: seguir bromes que no fan gràcia, no opinar per por del rebuig, sentir-se obligat a jugar amb qui no vol, vestir d'una manera per encaixar, callar davant d'una injustícia...\n\nAl centre de l'estrella hi escriu les estratègies que fa servir per gestionar aquestes situacions.\n\nExpliqueu breument la diferència entre la comunicació assertiva, la passiva i l'agressiva. Després, cadascú marca amb un color diferent quin tipus de comunicació fa servir en cada situació.\n\nHo comparteixen per parelles i, qui vulgui, amb tot el grup.",
+    "avaluacio": "Aquestes estratègies em fan sentir bé? Em protegeixen o em fan més vulnerable? Respecto les altres persones amb la meva manera de reaccionar?",
+    "notes": "Forma part de la sessió «Pressió de grup i convivència» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16479-pressio-de-grup-i-convivencia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-infant-que-hi-ha-en-mi",
+    "titol": "L'infant que hi ha en mi",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "silenci",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "autoconeixement"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pòsits i bolígrafs. Ordinador i projector per veure el vídeo «Ballant davant del mirall» (https://www.videoman.gr/es/98979).",
+    "resum": "A partir d'una frase d'«El petit príncep» i d'un vídeo, cada alumne recorda què li agradava i què no de petit, i escriu un missatge al seu infant interior.",
+    "objectius": "Connectar amb la pròpia història emocional i reflexionar sobre com hem canviat.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Comenteu la frase d'«El petit príncep»: «Totes les persones grans van ser nens, però poques se'n recorden». Què us desperta?\n\nRepartiu dos pòsits. En un, cadascú escriu què el feia sentir bé o feliç quan era petit; en l'altre, què no li agradava o el feia sentir trist o enfadat. És personal i no cal compartir-ho. Pregunteu: en què heu canviat? El que us agradava de petits és molt diferent del que us agrada ara?\n\nMireu el vídeo. Després, convideu-los a trobar-se amb el seu infant interior: què li diries? L'has traït en algun moment o hi has seguit connectat? Et surt algun propòsit o pacte?\n\nAl darrere del pòsit, li donen les gràcies pel que considerin (pel que els aporta, pel que els ha ensenyat...) i li demanen perdó pel que creguin necessari (per no escoltar-lo, per no cuidar-lo...). Opcionalment, ho poden compartir en petits grups d'afinitat.",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-objectiu-del-grup",
+    "titol": "L'objectiu del grup",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "escriptura",
+      "musica",
+      "cooperatiu"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pissarra, pòsits i bolígrafs. Música (opcional).",
+    "resum": "El grup proposa objectius per millorar l'ambient de la classe, en tria un per votació sonora i cadascú escriu què hi pot aportar.",
+    "objectius": "Generar cohesió, compromís de grup i responsabilitat personal en la millora de la convivència.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "En rotllana, cadascú fa una llista d'objectius que li agradaria aconseguir per tenir un bon ambient a la classe. Després en tria el principal i el comparteix en veu alta. Anoteu-los a la pissarra i agrupeu els que s'assemblin.\n\nPer triar l'objectiu prioritari ara i aquí, llegiu-los d'un en un i el grup fa soroll amb les mans i els peus segons la importància que li dona. La llista es pot guardar: és viva, i un altre dia potser cal treballar l'escolta, els insults...\n\nAmb l'objectiu triat, cadascú pensa què pot aportar de positiu per aconseguir-lo (habilitats, qualitats, actituds) i n'escriu tres o quatre en un pòsit. En una roda, cadascú llegeix el seu i el deixa en un racó al mig del cercle. Podeu posar música per acompanyar aquest moment.",
+    "avaluacio": "Llegiu els pòsits i reflexioneu sobre el talent del grup, l'oportunitat d'aprendre que ofereixen les crisis de convivència i la responsabilitat de cadascú en el canvi. La clau és que l'objectiu no quedi en paper mullat: d'aquí a uns dies, reviseu si esteu posant en pràctica el que us heu proposat.",
+    "notes": "Forma part de la sessió «Dinàmiques per establir objectius grupals i compromís» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: presa de decisions i resolució de problemes, pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17292-dinamiques-per-establir-objectius-grupals-i-c.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-l-obra-de-les-relacions-que-ens-agraden",
+    "titol": "L'obra de les relacions que ens agraden",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "cooperatiu",
+      "emocions"
+    ],
+    "temes": [
+      "afectivitat",
+      "emocions"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Paper d'embalar, retalls, colors i altres materials plàstics.",
+    "resum": "Després de fer una estàtua amb el cos de com se senten amb una persona estimada, el grup crea un mural conjunt sobre com és una relació que ens agrada.",
+    "objectius": "Reconèixer les característiques d'una relació basada en el respecte, la cura i el bon tracte.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Tothom camina per l'espai. Al cap d'una estona, demaneu que pensin en una persona amb qui estan molt a gust i pregunteu: «Què sento al cos quan estic amb aquesta persona?». Cadascú fa una estàtua amb el cos que expressi aquesta emoció. Observeu les estàtues: com són, si s'assemblen o no, si ha estat fàcil.\n\nA partir d'aquí, poseu un paper d'embalar al mig de l'aula i proposeu fer entre tots una obra d'art sobre «Com és una relació que m'agrada?», amb retalls, frases, dibuixos... Si surten paraules o reflexions, també s'hi poden escriure.\n\nPot ajudar fer servir metàfores: «Quan estic amb aquesta persona em sento com... (un animal, un paisatge, una textura, un color)». De quin color pintaria aquesta relació? Si fos una pel·lícula, quina seria? Si li haguessis de fer un regal, quin seria?\n\nValideu totes les aportacions, perquè cadascú prioritza coses diferents, i reforceu la idea que els nostres drets s'han de respectar sempre.",
+    "avaluacio": "El grup tria un títol per al mural. Després, cadascú completa la frase: «Una cosa que vull recordar és...».",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 3: Les relacions de risc» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26772-itinerari-cee-convivencia--sessio-3-les-relac.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-cadena-del-rumor",
+    "titol": "La cadena del rumor",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "atencio",
+      "memoria",
+      "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "El text de la història.",
+    "resum": "Una història sobre dues alumnes i un examen passa de boca en boca entre cinc voluntaris, mentre la classe observa com es transforma.",
+    "objectius": "Adonar-se de com es formen i es deformen els rumors, i de com afecten les relacions.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Un rumor és un comentari o una notícia no verificada que corre de boca en boca. Solen tractar temes tabú: relacions sexoafectives, separacions, agressions, la mort, els diners...\n\nQuatre o cinc voluntaris surten de l'aula. Feu entrar el primer i llegiu-li la història una sola vegada. Ell l'ha d'explicar al segon, que entra a continuació, i així fins al cinquè. La resta de la classe observa què passa amb el contingut.\n\nLa història: «La Najat sempre ha tret bones notes. La Carolina també en treia a primària, però des que fa l'ESO no li va tan bé. A l'institut hi ha gent nova que té ganes de conèixer, i no acaba d'entendre com fa les coses la seva tutora. S'acaba el trimestre i arriben els exàmens. El que porta millor són les socials i les llengües; el que pitjor, les matemàtiques i la tecnologia. A l'hora del pati, la Carolina diu a les amigues que ha estudiat però que no hi ha manera d'entendre les arrels quadrades i les potències. Una amiga li diu que no s'hi capfiqui i que copiï, i comencen a compartir maneres de fer-ho. La Carolina es posa nerviosa: no es veu capaç de fer trampes. I si l'enxampen? L'amiga li proposa que s'assegui al costat de la Najat, que en sap molt, i que la Najat li allargui el full quan la professora no miri. Cap de les dues no ho ha fet mai. Es posen nervioses, però decideixen fer-ho. L'endemà, la professora fa separar les taules, deixar les motxilles al fons i treure els papers de sota els pupitres. Elles dues seuen de costat, a una taula de distància. La Carolina es queda en blanc: respon les preguntes que sap i després mira la Najat, que no aixeca els ulls del seu full. Passa molta estona fins que la Najat se n'adona i posa el full a la punta de la taula. La Carolina no acaba de veure què hi posa. I...». La història queda oberta.",
+    "avaluacio": "Què ha passat amb la història? Hi ha informació nova? N'hi ha que ha desaparegut? A quina part posaven més èmfasi? Quines sensacions teníeu mentre l'escoltàveu? I mentre l'explicàveu? Hi havia judicis en la manera d'explicar-la?\n\nPer tancar la sessió, pregunteu si alguna vegada han patit un rumor, un prejudici o una etiqueta i què van fer per superar-ho.",
+    "notes": "Forma part de la sessió «Etiquetes, prejudicis i rumors» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16559-etiquetes-prejudicis-i-rumors.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-cadira-buida",
+    "titol": "La cadira buida",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cooperatiu",
+      "atencio"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Una cadira per persona.",
+    "espai": "Un espai gran: gimnàs, pati, aula polivalent...",
+    "resum": "Una persona intenta seure a l'única cadira lliure, avançant al ritme d'un so, i el grup s'ha de coordinar per ocupar-la abans que hi arribi.",
+    "objectius": "Practicar l'escolta, la coordinació i pensar com a grup, gestionant l'estrès i la impulsivitat.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Cadascú col·loca la seva cadira on vulgui de l'espai, sense cap ordre, i s'hi asseu. Una persona s'aixeca i deixa una cadira lliure; el grup es pot recol·locar abans de començar.\n\nAquesta persona intenta seure a la cadira buida. Per començar fa un so repetitiu («po, po, po», «piu, piu...») i camina al ritme del so, sense accelerar-lo. L'objectiu del grup és impedir que segui.\n\nNorma: qui aixeca el cul de la cadira, per poc que sigui, ja no hi pot tornar a seure i ha de buscar-ne una altra. Compte: quan algú es mou, la seva cadira queda lliure, tret que una altra persona l'ocupi... Cal coordinació.\n\nSi aconsegueix seure, l'última persona que ha quedat dreta passa a buscar la cadira buida.",
+    "avaluacio": "Com t'has sentit? Quina emoció ha generat al grup? Què mostra la dinàmica del grup? Què facilita i què dificulta la cohesió?",
+    "notes": "Forma part de la sessió «Dinàmiques cooperatives de moviment» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17332-dinamiques-cooperatives-de-moviment.html La sessió també inclou «Ens aixequem alhora», que trobareu a la fitxa «Ens aixequem».",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-linia-de-la-pressio",
+    "titol": "La línia de la pressió",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia",
+      "comunicacio"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "Després de compartir alguna vegada que van fer una cosa per pressió del grup, l'alumnat se situa en una línia del 0 al 10 segons la pressió de grup que sent a l'aula.",
+    "objectius": "Prendre consciència, de manera visual i corporal, de la pressió de grup que es percep a l'aula.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Presenteu l'habilitat de negociació i refús. Podeu projectar-ne la definició: «És la capacitat de dilucidar qualsevol assumpte amb altres persones que senten, pensen o tenen interessos o necessitats diferents [...] i reconeix el dret de les persones a no arribar a un acord, a rebutjar determinades opinions, conductes o valors i a negar-se a actuar contra la pròpia consciència i voluntat sense que això suposi ni el rebuig a la persona ni l'exercici de cap violència» (Batlle, 2023).\n\nFeu una roda en què qui vulgui diu el nom i explica una vegada que va fer una cosa que no volia perquè altres la feien o l'hi van animar. A partir d'aquests relats, pregunteu: què enteneu per pressió de grup? Com afecta la convivència a l'aula? Quina relació té amb la capacitat de dir que no o de posar límits? Podeu esmentar l'experiment d'Asch (1951): les persones arriben a canviar d'opinió per ajustar-se al grup, fins i tot quan el grup s'equivoca.",
+    "descripcio": "Imagineu una línia a terra: un extrem és el 0 (cap pressió de grup) i l'altre, el 10 (moltíssima). Cadascú es col·loca al punt que representa com sent la pressió de grup dins l'aula.\n\nConsignes:\n\n- No cal justificar-se davant dels altres.\n- No cal seguir el grup ni posar-se al costat de qui ens cau bé: cadascú ha de ser fidel al que sent.\n\nQuan tothom s'ha col·locat, obriu el diàleg des del lloc de cadascú: què us ha fet posar en aquest punt? Hi ha espais o moments concrets en què sentiu més pressió?",
+    "notes": "Forma part de la sessió «Pressió de grup i convivència» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16479-pressio-de-grup-i-convivencia.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-marea-humana",
+    "titol": "La marea humana",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "cooperatiu",
+      "musica"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Tot el grup s'estira a terra de bocaterrosa formant una catifa humana i, amb moviments ondulatoris, fa passar per sobre una persona d'una punta a l'altra.",
+    "objectius": "Generar confiança i cohesió a través del contacte i el moviment conjunt.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Tothom s'estira a terra de bocaterrosa, un al costat de l'altre. Una persona s'estira damunt dels cossos, perpendicular a ells. El grup la fa avançar fins a l'altra punta amb moviments ondulatoris del cos, com una onada. Podeu seguir un ritme musical o cantar una cançó.\n\nQui arriba a l'altre costat s'estira al final de la catifa i en surt una altra persona.",
+    "notes": "És una dinàmica de molt contacte: avisu-ho abans i respecteu qui prefereixi no fer de persona transportada.\n\nForma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-maquina-del-grup",
+    "titol": "La màquina del grup",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "expressio-corporal",
+      "cooperatiu",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Un cabdell de llana per al tancament.",
+    "resum": "En grups de fins a dotze, l'alumnat construeix amb el cos i la veu una màquina en què cada persona és una peça que encaixa amb les altres.",
+    "objectius": "Cooperar per construir una creació col·lectiva i reflexionar sobre com es prenen les decisions al grup.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu grups de deu o dotze persones com a màxim. Cada grup tria en secret una màquina: un túnel de rentat, una màquina d'escriure, un rentaplats, una màquina de fer crispetes, una d'inventada... Tenen 10 minuts per preparar-la.\n\nUna persona comença a fer una peça de la màquina, amb moviment i so. La resta s'hi va afegint, cadascú amb un so i un moviment nous que connectin amb una peça anterior, fins que tot el grup forma la màquina sencera i la fa funcionar. La resta de la classe pot endevinar quina màquina és.",
+    "avaluacio": "Com heu decidit quina màquina faríeu? Heu escoltat totes les idees? Quin ambient hi havia? Com us heu comunicat? Com us heu sentit amb la vostra aportació?\n\nPer tancar la sessió podeu fer una teranyina: en cercle, qui té el cabdell el llança a una altra persona mentre diu alguna cosa positiva que pot aportar al grup, i se'n queda la punta. La xarxa fa visible que tothom està connectat i que cada aportació té valor: si algú deixa anar el fil, la xarxa es debilita; si algú l'estira massa, es pot trencar.",
+    "notes": "Forma part de la sessió «Cohesió de grup (II)» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16476-cohesio-de-grup-ii.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-pissarra-dels-prejudicis",
+    "titol": "La pissarra dels prejudicis",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra, pòsits i bolígrafs.",
+    "resum": "L'alumnat enganxa a la pissarra els prejudicis que coneix sobre diversos col·lectius i el grup els analitza i en busca l'origen, amb dades per desmuntar-los.",
+    "objectius": "Identificar els prejudicis més estesos i reflexionar sobre d'on vénen i com afecten les relacions.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Pregunteu quins col·lectius poden patir prejudicis (idees preconcebudes amb què es jutja algú sense conèixer-lo prou) i anoteu-los a la pissarra. Poden sortir: dones, homes, persones musulmanes, gitanes, xineses, catalanes, grasses, LGTBI, immigrants, professorat, adolescents...\n\nCadascú escriu dos o tres prejudicis que coneix en pòsits i els enganxa al costat del col·lectiu corresponent.\n\nAgrupeu-los per semblances i pregunteu-vos: d'on deuen venir aquestes idees? Coneixem alguna persona d'aquest col·lectiu? Com canvien els prejudicis la manera de relacionar-nos? Molts prejudicis vénen de la cultura, de la família, de les creences... i maten la diversitat.\n\nFeu servir dades per desmuntar-ne alguns (vegeu les notes).",
+    "notes": "Algunes dades de la fitxa original per contrarestar prejudicis:\n- «Els comerços d'immigrants no paguen impostos»: fals. L'Agència Tributària confirma que no hi ha cap bonificació per origen; l'exempció de l'impost d'activitats econòmiques depèn del negoci (inici d'activitat o facturació petita), igual per a tothom.\n- «Els musulmans són terroristes»: hi ha uns 1.900 milions de musulmans al món, i els cinc pilars de l'islam no inclouen la violència. No s'ha de confondre musulmà (religió), àrab (origen) i gihadista. A Espanya hi viuen prop de 2 milions de musulmans, el 42,5 % dels quals tenen la nacionalitat espanyola.\n- «Els immigrants vénen a robar»: no hi ha correlació entre immigració i delinqüència; la taxa de criminalitat ha baixat mentre augmentava la població d'origen estranger.\n- «Els immigrants es queden les ajudes»: les ajudes es donen per ingressos, no per origen. 7 de cada 10 beques menjador són per a fills de pares amb nacionalitat espanyola, i en conjunt la població immigrant aporta més del que rep.\n- «Els gitanos són traficants»: a Espanya hi viuen gairebé 700.000 gitanos (65.000 a Catalunya), i els casos de tràfic són aïllats. El 80 % de la població gitana està en risc d'exclusió: la relació amb el tràfic és qüestió d'exclusió social, no d'ètnia.\n- «Les persones grasses no s'aprimen per falta de voluntat»: l'obesitat no és només menjar massa; hi influeixen el context social, la genètica, alguns medicaments... La grassofòbia es tradueix en assetjament, rebuig i discriminació.\n- «Les persones LGTBI demanen drets especials»: demanen els mateixos drets que tothom. En 64 països l'homosexualitat és delicte, i a Catalunya l'Observatori contra l'LGTBIfòbia ha recollit més de 1.800 incidències del 2014 al 2024.\n- «Els catalans són garrepes» o «Els andalusos són mandrosos»: La Marató de TV3 del 2023 va recaptar més de 8 milions d'euros; Andalusia té una taxa d'absentisme laboral (5,2 %) per sota de la mitjana espanyola i de Catalunya (5,9 %).\n\nForma part de la sessió «Etiquetes, prejudicis i rumors» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16559-etiquetes-prejudicis-i-rumors.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-ponencia-d-un-expert",
+    "titol": "La ponència d'un expert",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "expressio-corporal",
+      "escriptura"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Papers petits i bolígrafs.",
+    "resum": "Per parelles, un fa d'expert estranger que explica en una llengua inventada una situació divertida o vergonyosa, i l'altre fa de traductor improvisant el que li ve al cap.",
+    "objectius": "Desinhibir-se, riure junts i treballar la improvisació i la complicitat.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Feu parelles. Cadascú pensa una situació que hagi viscut (divertida, vergonyosa, ridícula, de por, en què es va equivocar...) i l'escriu en un paper. Recolliu-los, barregeu-los i deixeu-los a la vista.\n\nCada parella fa un joc de rol: és una conferència d'un expert. Un membre fa de ponent i l'altre de traductor. El ponent agafa a l'atzar un paper que no sigui el seu i l'ha de representar i explicar en una llengua inventada, com si vingués d'un país llunyà. Fa pauses perquè el traductor «tradueixi». El traductor no ha d'endevinar res: es deixa portar i diu el que li ve, encara que no tingui cap sentit. La ponència ha de tenir un principi i un final i pot durar uns cinc minuts.\n\nAl final, llegiu el paper per veure si s'hi assemblava. Després s'intercanvien els papers o es canvia de parella.\n\nVariant improvisada: sense escriure res, el ponent té un minut per pensar què vol explicar.",
+    "avaluacio": "Quina emoció has tingut més present? Què t'ha posat més tens i què t'ha fet sentir millor? Com t'has sentit respecte al grup?",
+    "notes": "Forma part de la sessió «Dinàmiques de joc participatiu» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, empatia, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17472-dinamiques-de-joc-participatiu.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-recepta-de-la-convivencia",
+    "titol": "La recepta de la convivència",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "ulls-tapats",
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra. Opcionalment, cartes de les emocions.",
+    "resum": "El grup escriu els ingredients de la convivència com si fos una recepta i, amb els ulls tancats, aixeca la mà davant d'afirmacions sobre el clima de la classe.",
+    "objectius": "Fer visible com se sent cadascú dins del grup i motivar a favor de la convivència des de l'empatia.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Comenceu amb una ronda: «Quina emoció sento pel fet de formar part d'aquesta classe?». Si costa trobar-la, pregunteu: «Quina paraula faria servir per definir com és pertànyer a aquest grup?». Anoteu les respostes a la pissarra com un mapa del grup. Podeu ajudar-vos de cartes de les emocions o altres suports visuals.\n\nDesprés, introduïu l'empatia amb preguntes: com creus que se senten els teus companys dins del grup? Com et sents quan veus que algú no està bé o quan hi ha un conflicte? Quan hi ha un conflicte, penses en com se sent l'altra persona? Com contribueixes a fer que tothom se senti acollit? Com pot ajudar l'empatia a gestionar les emocions i els conflictes de l'aula?",
+    "descripcio": "Definiu entre tots què és la convivència i, com si fos una recepta, aneu anotant-ne els ingredients a la pissarra.\n\nDesprés, tothom tanca els ulls. Llegiu afirmacions i qui cregui que són certes aixeca la mà. Compteu les mans de cada una:\n\n- Crec que el grup està cohesionat.\n- Hi ha coses que fan els meus companys que no em fan sentir bé.\n- Crec que hi ha conflictes per resoldre.\n- M'agradaria poder resoldre els conflictes que hi ha a l'aula.\n- M'agradaria que hi hagués més espais per treballar els conflictes del grup.\n- Vull contribuir a fer que tothom se senti a gust a l'aula.\n\nQuan acabeu, mostreu els resultats al grup.",
+    "avaluacio": "Com et fa sentir veure que hi ha companys que se senten diferent? T'ha sorprès alguna resposta?\nQuè deuen necessitar les persones que no se senten a gust al grup? Què necessitaries tu?\nEts conscient de l'impacte que té el teu comportament en les emocions dels altres?\nQuè podem fer com a grup per cuidar-nos més? I quan hi ha un conflicte?\n\nL'empatia és clau per conviure: ens permet entendre com se sent l'altre i actuar amb cura i respecte, encara que no hi estiguem d'acord.",
+    "notes": "Forma part de la sessió «Els conflictes a l'aula» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu» i Barabara Educació. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16560-els-conflictes-a-laula.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-la-torre-de-fusta",
+    "titol": "La torre de fusta",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "cooperatiu"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Peces de fusta per construir.",
+    "resum": "Tot el grup construeix la torre de fusta més alta possible, mentre qui dinamitza observa com reacciona cadascú davant la frustració, l'enuig o el lideratge.",
+    "objectius": "Practicar la cooperació i la regulació emocional, i adonar-se de com la manera de comunicar-nos afecta el treball del grup.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "Entre tots, han de construir amb peces de fusta una torre tan alta com puguin. Si cau de seguida, feu més d'un intent.\n\nObserveu les reaccions durant la construcció: l'enuig, la frustració quan cau, el lideratge... Ajudeu l'alumnat a prendre consciència de les seves reaccions i de si s'adeqüen a la situació. Si una estratègia no funciona, proposeu-los que en provin una altra: és una activitat cooperativa, i si la meva manera de comunicar-me impedeix que el grup col·labori, és el moment de canviar-la.",
+    "avaluacio": "Relacioneu les reaccions que hi ha hagut amb els animals que representen com reacciona cadascú en un conflicte. Per exemple: si he triat el lleó, m'ha servit per expressar l'enuig amb contundència? Quin altre animal m'hauria ajudat en aquesta situació?",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 2: Gestió de conflictes» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26771-itinerari-cee-convivencia--sessio-2-gestio-de.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-les-experiencies-ens-influeixen",
     "titol": "Les experiències ens influeixen",
     "tipus": "dinamica",
@@ -643,6 +2178,36 @@
     "descripcio": "Dividiu el grup en tres (o en sis, si és nombrós) i doneu a cada grup un full amb un títol: «Família», «Institut» o «Societat». Si l'alumnat fa els grups, se sentirà més còmode per expressar-se. Demaneu que procurin acollir i escoltar tothom per igual.\n\nCada grup escriu al full:\n\n- Moments viscuts o vistos que poden influir negativament en la percepció que una persona té de si mateixa.\n- Moments o experiències que poden fer tenir creences positives sobre un mateix.\n\nDe vegades és més fàcil identificar aquestes situacions en altres persones.\n\nAl cap d'uns minuts, intercanvieu els fulls perquè tots els grups escriguin en els tres àmbits. Després es comparteix amb tota la classe.",
     "avaluacio": "Com us sentiu? Heu trobat alguna dificultat?\nUs ha sorprès alguna cosa? Heu après alguna cosa de vosaltres?\nL'aula és un espai on et sents valorat? I cuidat? Què podríem fer com a grup per sentir-nos més cuidats?",
     "notes": "Si va just de temps, cada grup pot treballar els tres àmbits alhora en un sol full.\n\nForma part de la sessió «Ens cuidem? - Cohesió de grup» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16481-ens-cuidem--cohesio-de-grup.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-les-extraterrestres-es-relacionen",
+    "titol": "Les extraterrestres es relacionen",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "autoconeixement"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "resum": "En rotllana, surten al mig les persones que comparteixen cada necessitat que es va dient, i el grup parla d'accessibilitat i de com entendre les necessitats dels altres.",
+    "objectius": "Prendre consciència de la diversitat de necessitats del grup i introduir la idea d'accessibilitat.",
+    "participants": "Alumnat d'ESO.",
+    "descripcio": "En rotllana, aneu dient frases a partir de les necessitats que hagin sortit al grup. Qui s'hi identifica es posa al mig. Per exemple:\n\n- Les persones que poden parlar en silenci perquè fan servir la llengua de signes.\n- Les persones a qui molesten els sorolls forts.\n- Les persones que no mengen algun aliment concret.\n- Qui no suporta tenir les mans brutes.\n- Qui a vegades necessita fer moviments repetitius per relaxar-se.\n- Qui necessita tenir-ho tot molt endreçat i sempre al mateix lloc.\n- Les persones que necessiten bastó, crosses o cadira de rodes per desplaçar-se.\n- Qui adora que l'abracin.\n- A qui els pictogrames ajuden a entendre.\n- Les persones que van molt a poc a poc. Les que van molt de pressa.\n- Les que s'atabalen pel carrer perquè hi ha massa coses.\n- Les que necessiten ballar de tant en tant per estar contentes.\n- Qui s'ha trobat amb gent que no entén les seves necessitats.\n- Qui sent que es mereix un premi per la paciència que té amb les que no són extraterrestres.\n\nIntroduïu de manera senzilla la idea d'accessibilitat: «fer les coses de manera que totes les persones hi puguin participar». Comenteu que a vegades els altres no entendran les nostres necessitats, o nosaltres les seves, perquè ens semblaran molt extraterrestres; que hi ha necessitats molt majoritàries (menjar mastegant i empassant) i d'altres que tenen poques persones (menjar amb sonda), i que cal oblidar-se de les presses per entendre'ns i fer-nos la vida més fàcil.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 1: Identitat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26769-itinerari-cee-convivencia--sessio-1-identitat.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -735,6 +2300,36 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-mocador-cooperatiu",
+    "titol": "Mocador cooperatiu",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cooperatiu",
+      "exterior"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Un mocador.",
+    "resum": "El joc clàssic del mocador, però quan es diuen dos o més números les persones cridades han de sortir juntes: agafades de la mà, a collibè, en carretó...",
+    "objectius": "Transformar un joc competitiu en un de cooperatiu i treballar la coordinació.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Jugueu al mocador com sempre: dos equips en fila, cada jugador amb un número, i qui sosté el mocador al mig crida un número.\n\nLa variant: es poden cridar dos números alhora i les persones que els tenen han de sortir juntes, agafades de la mà, a collibè, fent el carretó... Amb tres números, sortint en «cadira de la reina»; amb quatre o més, tots junts en fila amb les mans agafades. Inventeu altres maneres de sortir junts.",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-moviments-socials-i-valors",
     "titol": "Moviments socials i valors",
     "tipus": "dinamica",
@@ -759,6 +2354,223 @@
     "descripcio": "D'on venim? Feu una pluja d'idees dels canvis recents que afecten directament les nostres vides: la fi de l'esclavitud, el sufragi universal, l'accés de les dones a l'educació i al treball, la reducció de la jornada laboral, el salari mínim, les lleis de protecció de la natura, la despenalització de l'homosexualitat, el matrimoni entre persones del mateix sexe, les lleis contra la violència de gènere... No tots els canvis són mundials: els moviments veïnals, per exemple, tenen impacte en territoris petits.\n\nQuè en sabem? Feu a la pissarra una columna amb els moviments socials que coneixen: drets civils, feminisme, ecologisme, moviment LGTBI, drets laborals, drets dels animals, moviments estudiantils...\n\nPot ser que en surtin alguns que no es basen en valors democràtics o de drets humans. Deixeu-los sortir per debatre'ls; si no en surten, anomeneu-ne vosaltres: moviments supremacistes, campanyes de desinformació, ultranacionalismes excloents, grups sectaris.\n\nEn una segona columna, escriviu els valors de cada moviment. Què fa que una causa sigui defensable? Quins valors ètics l'acompanyen? (solidaritat, pau, respecte, llibertat, justícia, responsabilitat, empatia, col·laboració...)",
     "avaluacio": "No totes les causes són legítimes: alguns moviments vulneren els drets humans o contradiuen la justícia, la igualtat i la dignitat.\n\nLa llibertat d'expressió és un dret fonamental, però no absolut: el Codi Penal castiga incitar públicament a l'odi, la discriminació o la violència contra persones o grups.",
     "notes": "Forma part de la sessió «Moviments socials i activisme» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/25703-moviments-socials-i-activisme.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-necessito-no-necessito",
+    "titol": "Necessito, no necessito",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "moviment",
+      "emocions"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "resum": "En cercle, una persona al centre diu què necessita quan sent una emoció i qui necessita el mateix fa un pas endavant, més o menys gran segons la intensitat.",
+    "objectius": "Entrenar l'empatia adonant-se que cadascú gestiona les emocions de manera diferent i necessita coses diferents.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Dempeus en cercle. Comenceu amb: «Quan sento tristesa necessito...». La persona que comença es posa al centre i ho completa, per exemple: «Quan sento tristesa necessito sortir a passejar». Qui també ho necessita fa un pas endavant, més gran o més petit segons com de present és aquesta necessitat; qui no, es queda quiet. Si ningú no necessita el mateix, canvieu de lloc al cercle.\n\nDeixeu que surtin tres o quatre necessitats per emoció i treballeu tres o quatre emocions: tristesa, enuig, alegria, ràbia, malenconia, por, estrès, frustració, amor...\n\nDesprés feu la mateixa ronda amb «Quan sento... no necessito...», amb dues o tres emocions. També podeu començar pel «no necessito».\n\nMentre dura la dinàmica no es conversa ni es comenta res: el grup escolta, observa i sent. Es parla al final.",
+    "avaluacio": "Com us heu sentit? Us ha sorprès alguna cosa? Tothom necessita el mateix davant d'una mateixa emoció? Què en podem aprendre per entrenar l'empatia?\n\nNo saber què necessites pot ser una violència cap a tu mateix, i que els altres no respectin el que necessites o no necessites també ho és.",
+    "notes": "Forma part de la sessió «Dinàmiques d'expressió emocional» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16904-dinamiques-dexpressio-emocional.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-parar-mirar-actuar-el-meu-objectiu",
+    "titol": "Parar, mirar, actuar: el meu objectiu",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "silenci",
+      "reflexio"
+    ],
+    "temes": [
+      "autoconeixement",
+      "orientacio"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Fulls, pòsits i bolígrafs.",
+    "resum": "Després d'una visualització, cadascú tria un objectiu per al curs i analitza què de la seva manera de ser l'ajudarà a aconseguir-lo i què li ho dificultarà.",
+    "objectius": "Fomentar l'autoconeixement i el compromís amb un objectiu personal, qüestionant les creences que ens limiten.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Amb els ulls tancats, cadascú fa mentalment una llista dels objectius, desitjos o somnis que voldria aconseguir aquest curs, en l'àmbit acadèmic, personal... Després els escriu en un full sense jutjar-los («és impossible», «és una ximpleria»).\n\nN'escull un o dos dels més importants i respon per escrit:\n\n- De la meva manera de ser, pensar i veure les coses, què em dificultarà aconseguir-lo? (Em despisto, no soc constant, em desmotivo de seguida, no me'n veig capaç...)\n- I què m'ho facilitarà? (No em rendeixo, els reptes em motiven, soc tossut...)\n\nPodeu introduir el concepte de cost d'oportunitat: tota decisió implica renunciar a altres opcions, i per això ens costa decidir. Treballeu les creences i l'autoconcepte que limiten o ajuden l'alumnat: som molt més i tenim més capacitat del que creiem.\n\nPer acabar, qui vulgui comparteix l'objectiu triat (la resta és més personal). Per fer-ho més simbòlic, cadascú l'escriu en un pòsit i, en rotllana, el llegeix, s'aixeca i l'enganxa al mig dient: «Em comprometo a aconseguir el meu objectiu».",
+    "avaluacio": "Com us heu sentit fent l'activitat? Quina emoció teniu més present ara?",
+    "notes": "Forma part de la sessió «Dinàmiques per establir objectius grupals i compromís» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: presa de decisions i resolució de problemes, pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17292-dinamiques-per-establir-objectius-grupals-i-c.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-paraules-per-agrair",
+    "titol": "Paraules per agrair",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "silenci",
+      "musica",
+      "emocions"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Fulls DIN A5 o A6, bolígrafs, música suau, i una caixa o un mural amb el títol «Allò que m'ha fet créixer».",
+    "resum": "En silenci, cadascú escriu una carta breu per acomiadar-se, donar les gràcies o expressar alguna cosa sobre una pèrdua; després, qui vol en comparteix el dibuix i les cartes es deixen en un mural.",
+    "objectius": "Passar de la pèrdua a l'agraïment i donar sentit a les pròpies vivències a través de la paraula.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Repartiu un full petit a cadascú i poseu música suau. Serà un temps en silenci.\n\nConvideu l'alumnat a escriure un text breu, com una carta o un missatge, per acomiadar-se, donar les gràcies o expressar alguna cosa relacionada amb una pèrdua. Deixeu clar que no cal compartir-ho i que pot ser anònim. Si abans han fet un dibuix sobre la pèrdua, poden escriure-hi el text o enganxar-l'hi. Algunes orientacions:\n\n- Escriure a algú que ja no hi és, perquè ha mort o perquè ha marxat.\n- Escriure a una part d'ells mateixos que han deixat enrere.\n- Escriure a una situació que va canviar i que els va costar acceptar.\n\nDesprés, qui vulgui pot mostrar el dibuix i en podeu fer una petita exposició anònima. Els textos es deixen en una caixa o en un mural titulat «Allò que m'ha fet créixer». Passejar entre les obres ajuda a veure que hi ha tantes maneres de viure el dol com persones.",
+    "avaluacio": "En cercle, feu una ronda: «Una paraula o sensació amb què marxo avui...». També poden acabar la frase «La vida és...» (un regal, un camí emocionant, un sospir, amor...) i posar-la en un pot de vidre amb l'etiqueta VIDA, amb música de fons (la fitxa original proposa «Eso que tú me das», de Jarabe de Palo). Doneu les gràcies a tothom pel temps compartit.",
+    "notes": "Forma part de la sessió «El dol i les pèrdues: expressar, agrair» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» i Carme Dolz (Intel·ligència Emocional i Acompanyament al Dol). Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24253-el-dol-i-les-perdues-expressar-agrair.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-passa-el-cercol",
+    "titol": "Passa el cèrcol",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "cooperatiu",
+      "moviment"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "materials": "Un cèrcol per grup.",
+    "resum": "En rotllana i agafats de les mans, el grup ha de fer passar un cèrcol per tots els cossos sense deixar-se anar.",
+    "objectius": "Practicar la cooperació i l'ajuda mútua en un repte físic senzill.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Dividiu la classe en dos o tres grups. Cada grup fa una rotllana agafat de les mans. Doneu-los un cèrcol penjat entre dues persones: l'han de fer passar al voltant de tota la rotllana, travessant el cos i les cames de cadascú, sense deixar-se anar de les mans.\n\nPodeu cronometrar-ho i proposar que millorin el temps, o posar dos cèrcols en sentits contraris.",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-pedra-paper-tisores-i-animadors",
+    "titol": "Pedra, paper, tisores i animadors",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "sense-material",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Música (opcional). Papers petits, bolígrafs i pissarra per a la introducció.",
+    "resum": "L'alumnat juga a pedra, paper, tisores per l'aula i qui perd es fa animador de qui guanya, fins que dues persones s'enfronten amb tot el grup animant-les.",
+    "objectius": "Potenciar la cura i el reconeixement mutu dins del grup.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Per entrar en el tema, demaneu a cadascú que escrigui tres decisions que pren per cuidar-se i tres que altres persones prenen per cuidar-lo. Feu una roda de noms en què qui vulgui comparteix les seves decisions i anoteu-les a la pissarra en dues columnes: «Em cuido» i «Em cuiden». Podeu preguntar: quines emocions sents quan decideixes cuidar-te? Cuidar-se vol dir sempre fer el que ve de gust? Alguna vegada algú ha decidit per tu una cosa que no t'ha agradat i després has entès que era per cuidar-te? Pots cuidar els altres amb les teves decisions?\n\nRelacioneu-ho amb la presa de decisions: quan decidim com actuar (escoltar, incloure, respectar, defensar algú) també influïm en el benestar dels altres.",
+    "descripcio": "Recordeu que en les dinàmiques de grup l'objectiu és col·lectiu: encara que tinguem conflictes o poca relació amb algú, hem d'aprendre a fer coses junts amb respecte.\n\nTothom camina per l'aula. Quan dues persones es troben (o quan pari la música, o quan ho indiqueu), juguen a pedra, paper, tisores. Qui perd es posa darrere de qui guanya i el segueix animant-lo i donant-li ànims. Qui guanya continua jugant amb altres guanyadors, i qui perd passa, amb tot el seu seguici, a animar el nou guanyador.\n\nAl final queden dues persones, cadascuna amb un grup darrere animant-la. Deixeu clar que animar no és molestar.",
+    "avaluacio": "Quan animem algú, en què l'ajudem? Hem animat tothom per igual?\nQuè sentim quan cuidem els altres? I quan ens cuiden?\nQuè pot passar si ignorem sovint algú del grup? Com afecta l'ambient si hi ha persones que no se senten valorades?\nQuines petites accions podem fer cada dia per reconèixer algú? Cal ser amics íntims per fer-ho?\n\nCuidar els altres no vol dir acceptar faltes de respecte, sinó actuar amb respecte, empatia i responsabilitat.",
+    "notes": "Forma part de la sessió «Com cuidar-nos» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16568-com-cuidar-nos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-personifiquem-emocions",
+    "titol": "Personifiquem emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "expressio-corporal",
+      "musica",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Música que ajudi a connectar amb cada emoció (opcional).",
+    "resum": "L'alumnat camina per l'aula encarnant amb el cos diferents emocions (amor, tristesa, fàstic, ràbia, por) i després dues persones representen una escena des de l'emoció que els és més còmoda i des de la més incòmoda.",
+    "objectius": "Experimentar les emocions al cos i adonar-se de com influeixen en la manera de relacionar-nos.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Tothom camina per l'espai posant atenció al cos: el pes, els peus a terra, on nota tensió...\n\nAneu proposant emocions: amor, tristesa, fàstic, ràbia i por (o les que us interessin). Durant uns tres minuts, cadascú la «personifica»: com es mou, com camina, com mira, com respira, com és la veu d'un personatge amorós? Poden connectar amb records o situacions d'aquella emoció. No dialoguen, però poden mirar els altres des del personatge; al final, si voleu, poden mantenir una breu conversa amb qui es troben. Després, espolsen el cos, caminen de manera neutra i passeu a la següent emoció.\n\nOpcional: quan hagin passat per totes, cadascú tria amb quina s'ha sentit més còmode i amb quina més incòmode, i les tornen a personificar, ara interactuant.\n\nSegona part: tothom s'asseu i surten dos voluntaris. Representen dues escenes amb aquest context: «Dos alumnes parlen d'un company amb qui ha passat alguna cosa i han de decidir com solucionar-ho».\n\n- Escena 1: cadascú fa el personatge de l'emoció que li ha estat més còmoda, sense dir-la.\n- Escena 2: cadascú fa el de l'emoció més incòmoda.\n\nLa resta ha d'esbrinar quines emocions representaven. Podeu repetir la mateixa situació amb una altra parella.",
+    "avaluacio": "Com t'has sentit? T'ha sorprès com t'has sentit amb alguna emoció?\nQuines emocions representaven a les escenes? Com les hem vist? Com han influït en la manera de resoldre la situació?",
+    "notes": "Forma part de la sessió «Dinàmiques sensorials» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17327-dinamiques-sensorials.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-peus-lligats-de-dos-a-tot-el-grup",
+    "titol": "Peus lligats: de dos a tot el grup",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cooperatiu",
+      "exterior"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Cordes o cintes fortes per lligar els turmells.",
+    "espai": "Pati, gimnàs o un espai gran i diàfan.",
+    "resum": "Amb els turmells lligats, primer per parelles i després en grups cada cop més grans, l'alumnat ha de fer un recorregut fins que tota la classe camina unida.",
+    "objectius": "Buscar estratègies de coordinació i viure com canvia el treball en equip a mesura que el grup creix.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Feu parelles i lligueu el turmell esquerre d'una persona amb el dret de l'altra. Les parelles han de fer un recorregut caminant, per exemple d'una punta a l'altra de l'espai.\n\nDesprés, lligueu els turmells en grups de quatre, després de vuit, i així tres o quatre vegades fins que tot el grup estigui unit i faci el recorregut junt. La dificultat augmenta perquè les persones del mig tenen els dos turmells lligats, i això obliga a buscar maneres de coordinar-se.",
+    "avaluacio": "Com us heu sentit? Ha estat més fàcil en parelles, en grups petits o amb tot el grup?\nQuina actitud teniu quan treballeu en equip? La sabríeu explicar?\nQuè us ha agradat i què no? Hi ha hagut col·laboració?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -790,6 +2602,66 @@
     "descripcio": "Dividiu la classe en grups de 3 a 5 persones. Cada grup és portaveu d'un tipus de família i ha de:\n\n- Llegir-ne la definició i resoldre els dubtes que tingui.\n- Pensar quins prejudicis o discriminacions pateix. Per què és injust? Quina realitat volem defensar? Què demanem a la societat?\n- Crear un missatge per defensar-la: un eslògan, arguments o accions de sensibilització, en forma de cartell o de breu discurs.\n\nCada grup presenta el seu missatge a la resta.",
     "avaluacio": "Quines dificultats tenen aquestes famílies?\nQuè podem fer per defensar la diversitat familiar al nostre entorn? Quines accions petites poden tenir un gran impacte?\n\nPer tancar, ronda en què cadascú completa una frase: «Avui he descobert que...», «La sessió m'ha fet pensar que...», «Ara veig les famílies com...», «M'enduc la idea que...».",
     "notes": "Forma part de la sessió «La família «ideal»?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: advocació i compromís social). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/25701-la-familia-ideal.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-posar-cara-a-la-perdua",
+    "titol": "Posar cara a la pèrdua",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "musica",
+      "emocions"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Fulls DIN A3 o cartolines, llapis, retoladors i colors. Música suau instrumental (Ludovico Einaudi, Yann Tiersen, Max Richter...).",
+    "resum": "Amb música suau de fons, cada alumne dibuixa o representa, de manera literal o simbòlica, com sent la pèrdua, i posa títol a la seva obra.",
+    "objectius": "Afavorir l'expressió simbòlica de les emocions vinculades a la pèrdua.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Doneu a cada alumne un full gran o una cartolina i poseu música suau de fons.\n\nConvideu-los a dibuixar o representar com senten la pèrdua. Poden pensar en una pèrdua concreta o fer-ho de manera general, en la mort o en altres pèrdues, i la representació pot ser literal (objectes, persones, moments) o simbòlica (colors, formes, paisatges). Remarqueu que no es pot fer «bé» o «malament»: no busquem una obra d'art, sinó un espai d'expressió personal.\n\nPreguntes que poden servir de guia: «Com et sents quan perds alguna cosa o algú? Què passa dins teu? On ho notes al cos? Quin color o forma té?».\n\nQuan acabin, cadascú posa un títol a la seva obra.",
+    "notes": "Si surt algun cas personal sensible, acolliu-lo amb naturalitat i oferiu-ne seguiment si cal.\n\nForma part de la sessió «El dol i les pèrdues: expressar, agrair» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» i Carme Dolz (Intel·ligència Emocional i Acompanyament al Dol). Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24253-el-dol-i-les-perdues-expressar-agrair.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-presentacio-amb-ressonancia",
+    "titol": "Presentació amb ressonància",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "expressio-corporal",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Cartes de les emocions o imatges diverses.",
+    "resum": "Cadascú tria una imatge que parli del seu moment present i la presenta al grup; la persona del costat li respon amb un so i la següent, amb un moviment.",
+    "objectius": "Connectar amb com estem ara i presentar-nos des d'un lloc emocional.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Deixeu les cartes de les emocions o un conjunt d'imatges en un lloc accessible. Cadascú en tria una: la que més li cridi l'atenció, la que el sorprengui o amb què s'identifiqui. Després la mira: què hi ha que parli del seu moment present? Què li evoca?\n\nEn rotllana, per ordre, cadascú diu el seu nom i explica què li transmet la imatge. Llavors li fan ressonància:\n\n- La persona de la seva dreta li respon amb un so.\n- La següent persona de la dreta li respon amb un moviment del cos.\n\nEs tracta de deixar-se portar pel que surti. Si algú s'encalla, que expressi el primer que li vingui.",
+    "avaluacio": "Com us heu sentit triant la imatge? I presentant-vos a través d'ella? Les ressonàncies us han aportat alguna cosa sobre el que havíeu compartit?",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -911,6 +2783,38 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-que-mes-soc",
+    "titol": "Què més soc?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "moviment",
+      "silenci"
+    ],
+    "temes": [
+      "autoconeixement",
+      "convivencia"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Una cartolina per persona, colors i retoladors, i gomets.",
+    "resum": "Cadascú es representa en una cartolina de la manera més global possible (com és, què li agrada, què li importa); després passegen per l'exposició i enganxen gomets on s'identifiquen.",
+    "objectius": "Augmentar l'autoconeixement, anar més enllà dels rols habituals i descobrir afinitats dins del grup.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Repartiu una cartolina a cada alumne i deixeu material per dibuixar, pintar o escriure. Durant deu o quinze minuts, cadascú es representa a si mateix de manera lliure i creativa, com més global millor: com és, amb què s'identifica, què li agrada, què és important per a ell, què li dona plaer... No importa com quedi.\n\nExposeu les cartolines en un lloc visible. Tothom passeja en silenci observant les dels altres i enganxa gomets als elements amb què s'identifica o que comparteix (per exemple, si en un dibuix hi ha una mascota i la seva també és important). En una cartolina potser hi posa un gomet, en una altra molts i en una altra cap. Només es pot preguntar què vol dir alguna cosa a l'autor si és a prop de la seva cartolina.",
+    "avaluacio": "Com ha estat descriure-us? I veure com s'han descrit els altres? Heu descobert afinitats? Algú sent que té poques afinitats amb el grup? Us ha sorprès alguna cosa?",
+    "notes": "Forma part de la sessió «Dinàmiques de presentació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-que-podem-fer-davant-el-bullying",
     "titol": "Què podem fer davant el bullying?",
     "tipus": "dinamica",
@@ -997,6 +2901,100 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-salvem-els-globus",
+    "titol": "Salvem els globus",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cooperatiu",
+      "musica"
+    ],
+    "temes": [
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Globus (uns tres per a vuit persones, cinc o sis per a dotze, deu per a vint). Música (opcional).",
+    "resum": "El grup ha d'evitar que cap globus toqui a terra mentre qui dinamitza en llança més i canvia les normes: només amb les mans, només amb els peus, d'esquena...",
+    "objectius": "Generar cohesió i observar com es comunica i s'organitza el grup.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "El grup es reparteix per l'espai. Llanceu un globus a l'aire: no pot tocar a terra. A cada globus nou, doneu una norma: «Només el podeu tocar amb la mà», «Només amb el peu», amb el cap...\n\nVariants per complicar-ho:\n\n- Velocitats i maneres: molt lent, molt ràpid, de puntetes, d'esquena, asseguts a terra.\n- Tothom ha de tocar els globus almenys una o dues vegades, i ningú no pot donar més de tres cops seguits.\n- «Stop!»: tothom s'atura i, per parelles o grups de tres, han de sostenir un globus sense fer servir les mans.\n- Jugar parlant o en silenci.\n\nVersió en estrella: en grups, s'estiren d'esquena a terra en cercle amb els caps al centre. Han de mantenir un globus a l'aire, primer només amb les mans, després sense mans, després amb tres globus i, per acabar, tots agafats de les mans.",
+    "avaluacio": "Com us heu sentit? Heu pogut tocar els globus? Quin paper heu tingut? Com ha estat la comunicació del grup?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i cooperació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16591-dinamiques-de-cohesio-de-grup-i-cooperacio.html També recull «Salvem el globus», de «Dinàmiques cooperatives de moviment»: https://www.siguestu.cat/ca/recursos2/l/17332-dinamiques-cooperatives-de-moviment.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-seguir-la-ma",
+    "titol": "Seguir la mà",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "expressio-corporal",
+      "atencio",
+      "musica"
+    ],
+    "temes": [
+      "emocions",
+      "convivencia"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música (opcional).",
+    "resum": "Per parelles, una persona mou la mà i l'altra la segueix amb la cara i tot el cos, com si estigués hipnotitzada; després s'intercanvien i finalment se segueixen alhora.",
+    "objectius": "Treballar l'atenció a l'altre, la consciència corporal i els rols de guiar i seguir.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Per parelles, una davant de l'altra sense tocar-se. La 1 mou la mà i la 2 ha de seguir-ne el moviment amb la cara i tot el cos, mantenint la mateixa distància. Després s'intercanvien. Per acabar, totes dues mouen una mà i se segueixen alhora.\n\nEs pot fer amb música, de manera lenta i conscient, com un exercici de consciència corporal, o com un joc més ràpid i improvisat, segons el que necessiti el grup.",
+    "avaluacio": "Com t'has sentit? Què t'ha estat més fàcil, guiar o seguir? Què pot dir això de tu? Per què pot ser útil una dinàmica com aquesta?",
+    "notes": "Forma part de la sessió «Dinàmiques sensorials» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17327-dinamiques-sensorials.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-si-jo-fos-seria",
+    "titol": "Si jo fos..., seria...",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "sense-material"
+    ],
+    "temes": [
+      "convivencia",
+      "autoconeixement"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "resum": "Ronda de presentació en què cadascú diu el seu nom i què seria si fos un estri de cuina, un moble, un animal, un plat o una planta, i per què.",
+    "objectius": "Conèixer-se millor i obrir la imaginació per presentar-se d'una manera diferent.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "En rotllana, cadascú es presenta dient el seu nom i completant la frase «Si jo fos un/a..., seria...». Convideu-los a explicar per què, perquè dona més informació. Comenceu vosaltres, com a acompanyants del grup.\n\nTemes possibles: un estri de cuina («seria una forquilla»), un moble de casa («un sofà»), un animal («un lleó»), un plat («uns canelons»), una flor, planta o arbre («una rosa»), un element de l'institut («una pissarra»)... Podeu afegir-n'hi d'altres.\n\nLa dinàmica dona informació sobre l'alumnat i el seu estat d'ànim, i treballa la imaginació i l'abstracció.",
+    "avaluacio": "Per a què ens pot servir aquesta dinàmica? Per què pot ser útil per a la cohesió del grup? Creieu que l'element que heu triat és fruit de l'atzar o té relació amb vosaltres?",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i participació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16590-dinamiques-de-cohesio-de-grup-i-participacio.html També surt a «Dinàmiques de presentació»: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-situacions-de-racisme",
     "titol": "Situacions de racisme",
     "tipus": "dinamica",
@@ -1024,6 +3022,68 @@
     "participants": "Alumnat de 3r i 4t d'ESO.",
     "descripcio": "Cadascú escriu, de manera individual i anònima, una situació de racisme que hagi vist, viscut o percebut a l'aula o a l'institut, entre iguals o amb docents. Recolliu-les i repartiu-les a l'atzar entre grups de 4 o 5 persones.\n\nSi en surten poques, podeu fer servir aquestes:\n\n- Una dona d'origen equatorià espera el seu torn en una botiga. El venedor li demana que li ensenyi la bossa, cosa que no ha fet amb el client anterior, blanc. Ningú no intervé.\n- Un nen gitano arriba a un centre nou i ningú no vol seure al seu costat perquè pensen que serà violent o que els robarà.\n- Un alumne diu constantment a uns companys d'origen marroquí que fan pudor. Cada vegada, altres alumnes riuen.\n- Al pati, uns alumnes molesten una noia musulmana i un li treu el hijab davant d'altres companys.\n- Algú fa broma sobre l'accent d'un company nouvingut.\n- Es fa servir la paraula «moro» per parlar d'algú.\n- Una professora pregunta «D'on ets?» a una alumna negra que ha nascut i viscut sempre aquí.\n- Un grup no convida un company a una activitat perquè «és diferent».\n\nCada grup respon sobre la seva situació:\n\n- Qui és l'agressor, la víctima i el testimoni?\n- Posa't a la pell de la víctima: quines emocions pot haver sentit?\n- Com la pot haver afectat (emocionalment, socialment...)? Pot haver generat rebuig cap al propi cos, origen o cultura? Aïllament? Creure's l'estereotip?\n- Què pot haver portat l'agressor a actuar així?\n- Quin estereotip hi ha al darrere?\n- Has presenciat mai alguna cosa semblant? Què en penses ara?\n- Què faries avui si et trobessis en una situació així?",
     "notes": "Alternativa amb teatre: representeu una situació tres vegades. Primer tal com és, i es debat. Després, el públic la pot aturar quan vegi alguna acció injusta i proposar com actuar. Finalment, es torna a fer amb les propostes del grup per trobar un desenllaç més just.\n\nForma part de la sessió «Antiracisme» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu» (Exercici 3: Fil a l’agulla) amb l’assessorament del Departament d’Igualtat i Feminismes. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/17973-antiracisme.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-sobre-mi-traca-poca-traca-i-una-cosa-estranya",
+    "titol": "Sobre mi: traça, poca traça i una cosa estranya",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "cercle"
+    ],
+    "temes": [
+      "convivencia",
+      "autoconeixement"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pòsits, bolígrafs i una bossa o capsa.",
+    "resum": "Cadascú escriu de manera anònima una cosa per a la qual té traça, una per a la qual no en té i una cosa estranya seva; els papers es barregen i el grup endevina de qui són.",
+    "objectius": "Descobrir que cada persona és única i que les diferències sumen, i reforçar la cohesió a través del coneixement mutu.",
+    "participants": "Alumnat d'ESO; també s'adreça a primària.",
+    "descripcio": "Cadascú escriu en un pòsit, de manera anònima:\n\n- Tinc traça per a...\n- No tinc traça per a...\n- Una cosa estranya meva...\n\nRecolliu els pòsits en una bossa o capsa i barregeu-los. Per torns, cadascú en treu un que no sigui el seu, el llegeix en veu alta i intenta endevinar de qui és (fins a cinc intents).",
+    "avaluacio": "Què us ha sorprès? Quines conclusions en traieu? Saber que tothom és diferent i únic ens ajuda a respectar i respectar-nos, i a reconèixer qui som i qui són els altres.",
+    "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i participació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, gestió de les emocions, comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16590-dinamiques-de-cohesio-de-grup-i-participacio.html També surt a «Dinàmiques de presentació»: https://www.siguestu.cat/ca/recursos2/l/16588-dinamiques-de-presentacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-som-extraterrestres",
+    "titol": "Som extraterrestres",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso",
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "diversitat",
+      "autoconeixement"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Imatges o pictogrames, paper, colors i plastilina.",
+    "resum": "Cadascú crea amb dibuix o plastilina una extraterrestre amb els seus gustos, les seves necessitats i la seva manera de comunicar-se i de moure's, per adonar-se que tots som diferents.",
+    "objectius": "Fer un exercici d'autoconeixement (què m'agrada, com soc, què em fa especial) i naturalitzar que totes les persones tenim necessitats diferents.",
+    "participants": "Alumnat d'ESO.",
+    "preparacio": "Per començar, escampeu per terra o sobre una taula imatges o pictogrames. Cadascú en tria un que representi una cosa que li agrada i, en una ronda de noms, l'ensenya a la resta (parlant, assenyalant, amb un gest o mostrant la imatge). Comenteu les diferències: «Mireu quantes coses diferents ens agraden», «No a tothom li agrada el mateix, i està bé».",
+    "descripcio": "Expliqueu que conèixer com som ens ajuda a entendre què ens passa i a tenir relacions més sanes. Imagineu que arribem a un planeta on totes les persones són extraterrestres, però no n'hi ha dues d'iguals: cadascuna té coses que li agraden i que no, una manera de comunicar-se, de moure's i de sentir-se bé.\n\nCadascú crea la seva extraterrestre amb un dibuix o amb plastilina (millor en pla), amb tot allò que la fa especial. Poden ajudar aquestes preguntes:\n\n- Què li agrada? Què li agrada fer, menjar? La música? Les abraçades? Estar amb gent o tenir estones tranquil·les?\n- Què no li agrada? Algun soroll, olor, llum o textura? Alguna situació que l'atabala?\n- Com es comunica? Parla, fa gestos, signes, fa servir pictogrames o una tauleta?\n- Què necessita per estar bé? Silenci, música, moure's, descansar, ajuda, saber què passarà, tenir les coses ordenades, estar sola una estona?\n- Com es mou? Caminant, corrent, en cadira de rodes, amb crosses, amb ajuda?\n\nNo cal que l'extraterrestre sigui igual que qui la crea: pot ser real, imaginària o una barreja.\n\nQui vulgui l'ensenya, i aneu recollint idees: «A algunes extraterrestres els agrada el soroll i a d'altres les molesta», «Algunes necessiten ajuda per fer algunes coses», «Algunes necessiten moure's molt». Es tracta d'identificar el que ens fa diferents de la norma i explicar-ho amb un relat que normalitzi que totes som diferents.",
+    "notes": "Prové d'un itinerari pensat per a centres d'educació especial, però es pot fer amb qualsevol grup.\n\nForma part de la sessió «Itinerari CEE Convivència - SESSIÓ 1: Identitat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/26769-itinerari-cee-convivencia--sessio-1-identitat.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -1115,6 +3175,34 @@
     "descripcio": "Cada persona porta un full enganxat amb una pinça a l'esquena (pot ser el revers del full de «Valorar-me»).\n\nTothom s'aixeca i escriu una cosa positiva a l'esquena dels companys. També es pot donar les gràcies a algú, com a alternativa si algú es bloqueja.\n\nAneu mirant els fulls per assegurar-vos que es compleix la consigna i que tothom té més o menys el mateix nombre de qualitats escrites. Si algú en té poques, digueu en veu alta, sense dir noms: «Mirem tothom, que tothom tingui un nombre semblant de paraules: tothom és important en aquest grup».\n\nQuan acaben, cadascú torna al lloc i llegeix el que li han escrit.",
     "avaluacio": "Algú vol compartir alguna cosa: si l'ha sorprès, li ha agradat, li ha cridat l'atenció...?\nRecordeu que ara es tracta d'integrar-ho al dia a dia: un grup que és conscient de les qualitats dels altres i les expressa construeix un espai de cura més fort i segur.",
     "notes": "Forma part de la sessió «Ens cuidem? - Cohesió de grup» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16481-ens-cuidem--cohesio-de-grup.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-tan-com-tu-parlem-de-capacitisme",
+    "titol": "«Tan com tu»: parlem de capacitisme",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio",
+      "emocions"
+    ],
+    "temes": [
+      "diversitat"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Ordinador i projector per veure l'anunci «Tan como tú».",
+    "resum": "Després de veure un anunci protagonitzat per persones amb discapacitat, el grup conversa sobre la representació als mitjans, què vol dir «ser normal» i què és el capacitisme.",
+    "objectius": "Reflexionar sobre el concepte de capacitisme i com afecta la convivència.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Per començar, presenteu l'habilitat de cooperació i treball en equip i feu una roda de noms en què cadascú comparteix una dificultat o un avantatge que troba quan treballa en equip.",
+    "descripcio": "Mireu l'anunci «Tan como tú» i obriu el diàleg amb aquestes preguntes:\n\n- Què us ha fet sentir? Hi ha alguna escena que us hagi sorprès o fet riure? Per què? (Ajuda a connectar-hi emocionalment.)\n- Creieu que les persones amb discapacitat surten representades de manera realista als mitjans? (Ajuda a identificar actituds capacitistes quotidianes.)\n- Què vol dir per a vosaltres «ser normal»? Qui decideix què és normal?\n- Les persones amb discapacitat tenen les mateixes oportunitats que la resta? En quins àmbits hi ha més barreres: espais públics, educació, feina, amistats...?\n- Com podem ser aliats de les persones amb discapacitat en el dia a dia?\n- Què vol dir «inclusió»? És només estar junts en el mateix espai o va més enllà?\n\nTanqueu amb la definició: el capacitisme és una forma de discriminació i prejudici contra les persones amb discapacitat. Es manifesta en actituds, comportaments, polítiques i pràctiques que les subestimen, les marginen o les exclouen perquè se les suposa menys capaces o menys valuoses. Pot ser explícit o implícit i afecta l'accés a l'educació, la feina, els serveis públics i les activitats socials.",
+    "notes": "Forma part de la sessió «Capacitisme» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21547-capacitisme.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
