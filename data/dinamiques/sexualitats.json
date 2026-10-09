@@ -15,13 +15,10 @@
       "reflexio"
     ],
     "temes": [
-      "compromis",
+      "genere",
       "violencies",
-      "genere"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "us-de-pantalles"
+      "pantalles",
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -48,10 +45,6 @@
       "subgrups"
     ],
     "temes": [
-      "autoconeixement",
-      "genere"
-    ],
-    "siguestu": [
       "autoconeixement",
       "genere"
     ],
@@ -83,15 +76,12 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
+      "afectivitat",
       "genere",
+      "violencies",
+      "consums",
       "pantalles"
-    ],
-    "siguestu": [
-      "agressions-sexuals",
-      "mites-sexualitat",
-      "oci-nocturn",
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "violencia-masclista"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -120,12 +110,9 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "negociacio-i-refus"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -156,12 +143,9 @@
     ],
     "temes": [
       "autoconeixement",
+      "pensament",
+      "afectivitat",
       "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement",
-      "pensament-critic"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -187,11 +171,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -218,13 +199,9 @@
       "escriptura"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "genere",
-      "mites-sexualitat"
+      "afectivitat",
+      "genere"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -254,13 +231,9 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "empatia",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio",
+      "afectivitat"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -292,12 +265,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -325,12 +294,10 @@
       "reflexio"
     ],
     "temes": [
-      "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "diversitat",
-      "pensament-critic"
+      "pensament",
+      "afectivitat",
+      "genere",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -358,13 +325,10 @@
       "reflexio"
     ],
     "temes": [
+      "emocions",
+      "afectivitat",
       "violencies",
-      "pantalles",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-l-estres"
+      "pantalles"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -395,17 +359,12 @@
       "reflexio"
     ],
     "temes": [
+      "convivencia",
+      "dramatitzacio",
       "afectivitat",
       "genere",
-      "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "convivencia",
-      "estereotips",
-      "genere",
-      "teatre",
-      "violencia-masclista"
+      "violencies",
+      "diversitat"
     ],
     "durada": 60,
     "grup": "mitja",
@@ -438,13 +397,10 @@
       "reflexio"
     ],
     "temes": [
+      "cooperacio",
+      "comunicacio",
       "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip",
-      "empatia"
     ],
     "durada": 50,
     "grup": "mitja",
@@ -474,12 +430,9 @@
       "reflexio"
     ],
     "temes": [
+      "violencies",
       "pantalles",
-      "violencies"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "us-de-pantalles"
+      "compromis"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -506,16 +459,11 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
-      "genere"
-    ],
-    "siguestu": [
-      "empatia",
-      "estereotips",
       "genere",
-      "masculinitats",
-      "mites-sexualitat",
-      "violencia-masclista"
+      "violencies",
+      "diversitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -547,12 +495,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement"
+      "autoconeixement",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -583,12 +527,8 @@
       "emocions"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement"
+      "autoconeixement",
+      "afectivitat"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -621,13 +561,9 @@
       "emocions"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "empatia",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio",
+      "afectivitat"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -659,14 +595,10 @@
       "reflexio"
     ],
     "temes": [
-      "violencies",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "abusos-sexuals",
-      "agressions-sexuals",
+      "comunicacio",
+      "afectivitat",
       "genere",
-      "negociacio-i-refus"
+      "violencies"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -696,12 +628,9 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "pressio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -730,13 +659,9 @@
       "moviment"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "genere",
-      "mites-sexualitat"
+      "afectivitat",
+      "genere"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -765,11 +690,8 @@
       "emocions"
     ],
     "temes": [
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -798,12 +720,9 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "pensament-critic"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -834,12 +753,9 @@
     ],
     "temes": [
       "autoconeixement",
+      "pensament",
+      "afectivitat",
       "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement",
-      "pensament-critic"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -868,13 +784,9 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
       "emocions",
+      "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -903,12 +815,8 @@
       "cooperatiu"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -940,10 +848,6 @@
       "autoconeixement",
       "genere"
     ],
-    "siguestu": [
-      "autoconeixement",
-      "genere"
-    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En grups, l'alumnat busca arguments a favor i en contra de l'afirmació «L'autoestima depèn només d'un mateix».",
@@ -971,12 +875,9 @@
       "reflexio"
     ],
     "temes": [
+      "convivencia",
       "autoconeixement",
-      "convivencia"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement"
+      "afectivitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1005,13 +906,10 @@
       "reflexio"
     ],
     "temes": [
+      "afectivitat",
       "genere",
-      "violencies"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "afectivitat-sexualitat",
-      "violencia-masclista"
+      "violencies",
+      "compromis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1041,11 +939,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 60,
     "grup": "mitja",
@@ -1074,13 +969,10 @@
       "reflexio"
     ],
     "temes": [
+      "emocions",
+      "afectivitat",
       "violencies",
-      "pantalles",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-l-estres"
+      "pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1110,12 +1002,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1145,12 +1033,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -1180,13 +1064,10 @@
       "reflexio"
     ],
     "temes": [
+      "cooperacio",
       "afectivitat",
-      "compromis",
-      "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip"
+      "violencies",
+      "compromis"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1214,11 +1095,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "pressio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1247,16 +1125,11 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
-      "genere"
-    ],
-    "siguestu": [
-      "empatia",
-      "estereotips",
       "genere",
-      "masculinitats",
-      "mites-sexualitat",
-      "violencia-masclista"
+      "violencies",
+      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1287,14 +1160,10 @@
       "emocions"
     ],
     "temes": [
+      "emocions",
       "afectivitat",
-      "violencies",
-      "emocions"
-    ],
-    "siguestu": [
-      "agressions-sexuals",
-      "gestio-de-les-emocions",
-      "violencia-masclista"
+      "genere",
+      "violencies"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1322,12 +1191,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1356,11 +1221,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "pensament-critic"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1388,12 +1250,10 @@
       "escriptura"
     ],
     "temes": [
-      "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "diversitat",
-      "pensament-critic"
+      "pensament",
+      "afectivitat",
+      "genere",
+      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1423,12 +1283,9 @@
     ],
     "temes": [
       "autoconeixement",
-      "pantalles"
-    ],
-    "siguestu": [
-      "autoconeixement",
+      "afectivitat",
       "genere",
-      "mites-sexualitat"
+      "pantalles"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1458,13 +1315,10 @@
       "reflexio"
     ],
     "temes": [
+      "afectivitat",
       "genere",
-      "violencies"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "afectivitat-sexualitat",
-      "violencia-masclista"
+      "violencies",
+      "compromis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1492,15 +1346,11 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
+      "afectivitat",
+      "genere",
       "violencies",
-      "genere"
-    ],
-    "siguestu": [
-      "agressions-sexuals",
-      "mites-sexualitat",
-      "oci-nocturn",
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "violencia-masclista"
+      "consums"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1529,12 +1379,9 @@
       "moviment"
     ],
     "temes": [
+      "cooperacio",
       "afectivitat",
       "compromis"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1562,16 +1409,11 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
-      "genere"
-    ],
-    "siguestu": [
-      "empatia",
-      "estereotips",
       "genere",
-      "masculinitats",
-      "mites-sexualitat",
-      "violencia-masclista"
+      "violencies",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1601,11 +1443,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "pressio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1636,12 +1475,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1671,12 +1506,9 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "afectivitat",
       "violencies"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "negociacio-i-refus"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1705,11 +1537,9 @@
       "reflexio"
     ],
     "temes": [
-      "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip",
+      "cooperacio",
+      "afectivitat",
+      "genere",
       "diversitat"
     ],
     "durada": 30,
@@ -1740,10 +1570,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat"
-    ],
-    "siguestu": [
-      "pensament-critic"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1771,14 +1599,10 @@
       "reflexio"
     ],
     "temes": [
-      "violencies",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "abusos-sexuals",
-      "agressions-sexuals",
+      "comunicacio",
+      "afectivitat",
       "genere",
-      "negociacio-i-refus"
+      "violencies"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1805,13 +1629,10 @@
       "emocions"
     ],
     "temes": [
+      "emocions",
       "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "agressions-sexuals",
-      "gestio-de-les-emocions",
-      "violencia-masclista"
+      "genere",
+      "violencies"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1842,14 +1663,10 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
+      "afectivitat",
       "violencies",
-      "compromis",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "afectivitat-sexualitat",
-      "pensament-critic"
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1877,11 +1694,9 @@
       "emocions"
     ],
     "temes": [
-      "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip",
+      "cooperacio",
+      "afectivitat",
+      "genere",
       "diversitat"
     ],
     "durada": 30,
@@ -1912,10 +1727,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat"
-    ],
-    "siguestu": [
-      "pensament-critic"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1942,13 +1755,9 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "genere",
-      "mites-sexualitat"
+      "afectivitat",
+      "genere"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -1976,14 +1785,10 @@
       "reflexio"
     ],
     "temes": [
+      "emocions",
       "afectivitat",
-      "violencies",
-      "emocions"
-    ],
-    "siguestu": [
-      "agressions-sexuals",
-      "gestio-de-les-emocions",
-      "violencia-masclista"
+      "genere",
+      "violencies"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2015,12 +1820,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "autoconeixement"
+      "autoconeixement",
+      "afectivitat"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -2050,12 +1851,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2085,13 +1882,11 @@
       "reflexio"
     ],
     "temes": [
+      "cooperacio",
+      "afectivitat",
       "genere",
+      "diversitat",
       "compromis"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip",
-      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2119,12 +1914,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "comunicacio-interpersonal"
+      "comunicacio",
+      "afectivitat"
     ],
     "durada": 50,
     "grup": "mitja",
@@ -2155,13 +1946,9 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "genere",
-      "mites-sexualitat"
+      "afectivitat",
+      "genere"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -2190,14 +1977,11 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "afectivitat",
+      "violencies",
       "diversitat",
-      "violencies"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "afectivitat-sexualitat",
-      "pensament-critic"
+      "compromis"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2226,13 +2010,10 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
+      "afectivitat",
       "violencies",
       "compromis"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "afectivitat-sexualitat",
-      "pensament-critic"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2260,12 +2041,8 @@
       "reflexio"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "gestio-de-les-emocions"
+      "emocions",
+      "afectivitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2293,11 +2070,9 @@
       "reflexio"
     ],
     "temes": [
-      "genere"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cooperacio-i-treball-en-equip",
+      "cooperacio",
+      "afectivitat",
+      "genere",
       "diversitat"
     ],
     "durada": 20,

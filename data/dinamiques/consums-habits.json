@@ -13,12 +13,9 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "habits",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "benestar-animal",
-      "empatia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -46,13 +43,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "ciberassetjament",
-      "comunicacio-interpersonal",
-      "us-de-pantalles"
+      "comunicacio",
+      "assetjament",
+      "pantalles"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -83,11 +76,8 @@
     ],
     "temes": [
       "autoconeixement",
-      "emocions"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "drogues"
+      "emocions",
+      "consums"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -115,15 +105,9 @@
       "escriptura"
     ],
     "temes": [
+      "pensament",
       "consums",
       "compromis"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "drogues",
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "seguretat",
-      "us-dels-medicaments"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -151,12 +135,8 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "us-de-pantalles"
+      "pantalles"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -184,12 +164,9 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "habits",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "benestar-animal",
-      "empatia"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -217,11 +194,8 @@
       "competitiu"
     ],
     "temes": [
+      "emocions",
       "habits"
-    ],
-    "siguestu": [
-      "alimentacio",
-      "gestio-de-les-emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -249,12 +223,8 @@
       "cooperatiu"
     ],
     "temes": [
-      "habits",
-      "emocions"
-    ],
-    "siguestu": [
-      "activitat-i-descans",
-      "gestio-de-l-estres"
+      "emocions",
+      "habits"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -283,11 +253,8 @@
       "cooperatiu"
     ],
     "temes": [
-      "habits",
-      "convivencia"
-    ],
-    "siguestu": [
-      "activitat-i-descans"
+      "convivencia",
+      "habits"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -316,11 +283,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "pantalles"
-    ],
-    "siguestu": [
-      "pensament-critic",
-      "us-de-pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -350,12 +314,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "drogues",
-      "empatia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -384,12 +344,8 @@
       "reflexio"
     ],
     "temes": [
-      "habits",
-      "emocions"
-    ],
-    "siguestu": [
-      "alimentacio",
-      "gestio-de-les-emocions"
+      "emocions",
+      "habits"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -416,14 +372,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "consums"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "drogues",
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "seguretat",
-      "us-dels-medicaments"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -452,10 +402,8 @@
       "exterior"
     ],
     "temes": [
+      "cooperacio",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -485,12 +433,8 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "autoconeixement"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "us-de-pantalles"
+      "pantalles"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -520,11 +464,8 @@
       "cooperatiu"
     ],
     "temes": [
-      "habits",
-      "convivencia"
-    ],
-    "siguestu": [
-      "activitat-i-descans"
+      "convivencia",
+      "habits"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -553,12 +494,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "drogues",
-      "tabac"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -588,11 +525,8 @@
       "cooperatiu"
     ],
     "temes": [
-      "habits",
-      "convivencia"
-    ],
-    "siguestu": [
-      "activitat-i-descans"
+      "convivencia",
+      "habits"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -620,11 +554,8 @@
     ],
     "temes": [
       "autoconeixement",
-      "emocions"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "drogues"
+      "emocions",
+      "consums"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -652,11 +583,8 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
+      "emocions",
+      "consums"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -686,11 +614,8 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
+      "emocions",
+      "consums"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -720,11 +645,8 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
+      "emocions",
+      "consums"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -755,10 +677,8 @@
       "atencio"
     ],
     "temes": [
+      "cooperacio",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -788,10 +708,8 @@
       "exterior"
     ],
     "temes": [
+      "cooperacio",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -820,12 +738,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "drogues",
-      "tabac"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -855,12 +769,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "negociacio-i-refus",
-      "oci-nocturn"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -891,10 +801,8 @@
       "exterior"
     ],
     "temes": [
+      "cooperacio",
       "emocions"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -922,11 +830,8 @@
       "sense-material"
     ],
     "temes": [
-      "habits",
-      "convivencia"
-    ],
-    "siguestu": [
-      "activitat-i-descans"
+      "convivencia",
+      "habits"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -954,13 +859,10 @@
       "cooperatiu"
     ],
     "temes": [
+      "dramatitzacio",
+      "pensament",
+      "consums",
       "pantalles"
-    ],
-    "siguestu": [
-      "addiccions",
-      "pensament-critic",
-      "teatre",
-      "us-de-pantalles"
     ],
     "durada": 120,
     "grup": "mitja",
@@ -988,11 +890,8 @@
       "expressio-corporal"
     ],
     "temes": [
-      "habits",
-      "convivencia"
-    ],
-    "siguestu": [
-      "activitat-i-descans"
+      "convivencia",
+      "habits"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1020,13 +919,9 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "drogues",
-      "empatia"
+      "autoconeixement",
+      "comunicacio",
+      "consums"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1056,13 +951,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "ciberassetjament",
-      "comunicacio-interpersonal",
-      "us-de-pantalles"
+      "comunicacio",
+      "assetjament",
+      "pantalles"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1089,12 +980,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "addiccions",
-      "negociacio-i-refus",
-      "tabac"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -1122,11 +1009,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "pantalles"
-    ],
-    "siguestu": [
-      "pensament-critic",
-      "us-de-pantalles"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1156,12 +1040,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "drogues",
-      "empatia"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1191,12 +1071,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "habits"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "us-de-pantalles"
+      "pensament",
+      "habits",
+      "pantalles"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1225,13 +1102,9 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "habits"
-    ],
-    "siguestu": [
-      "consum-d-alcohol",
-      "negociacio-i-refus",
-      "oci-nocturn"
+      "comunicacio",
+      "habits",
+      "consums"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1260,12 +1133,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "habits"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "us-de-pantalles"
+      "pensament",
+      "habits",
+      "pantalles"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1294,11 +1164,8 @@
       "reflexio"
     ],
     "temes": [
-      "consums",
-      "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
+      "emocions",
+      "consums"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1329,11 +1196,8 @@
     ],
     "temes": [
       "autoconeixement",
-      "emocions"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "drogues"
+      "emocions",
+      "consums"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1359,13 +1223,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "ciberassetjament",
-      "comunicacio-interpersonal",
-      "us-de-pantalles"
+      "comunicacio",
+      "assetjament",
+      "pantalles"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1392,13 +1252,9 @@
       "reflexio"
     ],
     "temes": [
-      "habits",
       "emocions",
+      "habits",
       "pantalles"
-    ],
-    "siguestu": [
-      "activitat-i-descans",
-      "gestio-de-l-estres"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1427,12 +1283,8 @@
       "emocions"
     ],
     "temes": [
-      "habits",
-      "emocions"
-    ],
-    "siguestu": [
-      "activitat-i-descans",
-      "gestio-de-l-estres"
+      "emocions",
+      "habits"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1461,12 +1313,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "consums"
-    ],
-    "siguestu": [
-      "addiccions",
-      "negociacio-i-refus",
-      "tabac"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1496,12 +1344,8 @@
       "reflexio"
     ],
     "temes": [
-      "habits",
-      "emocions"
-    ],
-    "siguestu": [
-      "alimentacio",
-      "gestio-de-les-emocions"
+      "emocions",
+      "habits"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1529,12 +1373,9 @@
       "reflexio"
     ],
     "temes": [
-      "pantalles",
-      "genere"
-    ],
-    "siguestu": [
       "autoconeixement",
-      "us-de-pantalles"
+      "genere",
+      "pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1562,12 +1403,9 @@
       "emocions"
     ],
     "temes": [
+      "comunicacio",
       "habits",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "benestar-animal",
-      "empatia"
     ],
     "durada": 20,
     "grup": "mitja",

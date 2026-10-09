@@ -125,7 +125,7 @@
             (b.tipus === 'dinamica'
               ? (enllac
                 ? esc(TUT.data.nom_tipus(enllac.tipus)) + ' · ' +
-                  esc(TUT.data.nom_categoria(enllac.categoria))
+                  esc(TUT.data.classificacio(enllac).nom)
                 : 'Proposta no disponible')
               : 'Bloc lliure') + '</div>' +
           '<textarea class="bloc__notes" data-notes rows="2" ' +

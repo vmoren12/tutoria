@@ -91,30 +91,32 @@ La fitxa d'una unitat llista les activitats que la componen i la d'una activitat
 amb la unitat d'on surt, de manera que tant es pot programar la unitat sencera com agafar-ne
 una activitat solta.
 
-Les categories també venen de les obres d'origen, i per això a la taxonomia porten un camp
-`familia` (`grup`, `hebe` o `siguestu`) que el panell de filtres fa servir per presentar-les
-separades (les de `siguestu` hi queden substituïdes per les etiquetes del web; vegeu més avall).
+Les categories també venen de les obres d'origen i diuen a quin fitxer i a quina font
+pertany cada fitxa. A la taxonomia porten un camp `familia` (`grup`, `hebe` o `siguestu`).
 Les tècniques del *Manual de técnicas y dinámicas* comparteixen família amb les dinàmiques
-de grup i n'hi afegeixen tres categories: `analisi`, `dramatitzacio` i `tancament`.
+de grup i n'hi afegeixen tres categories: `analisi`, `dramatitzacio` i `tancament`. Al
+panell de filtres només hi surten com a filtre propi les famílies marcades amb
+`"programa": true`, que avui és només el Programa HEBE amb els seus cinc blocs.
 
 El camp `nivells` funciona a l'inrevés del que és habitual en una faceta: una fitxa **sense**
 nivells serveix per a qualsevol curs i el filtre no la descarta mai. Així les 717 dinàmiques
 dels reculls de jocs, que no tenen nivell assignat, continuen sortint quan es filtra per 3r o 4t d'ESO.
 
-El camp `temes` és transversal a les famílies: la categoria diu d'on surt una proposta i
-quina funció té, i el tema diu de què tracta. Així, filtrar per «Afectivitat i sexualitat»
-reuneix unitats de l'HEBE i dinàmiques de Sigues tu. Al contrari que el nivell, una fitxa
-sense temes queda fora quan el filtre és actiu, i per això els jocs de grup no en porten.
+El camp `temes` és la classificació comuna de totes les fonts i el filtre principal del
+catàleg. Els temes de la taxonomia porten un `bloc` (llista `blocs_temes`) i el panell els
+presenta agrupats. Cada font hi arriba d'una manera:
 
-El camp `siguestu` només el tenen les dinàmiques de Sigues tu: són les etiquetes que el web
-siguestu.cat dona a la sessió d'on surt cada fitxa (habilitats per a la vida com «Empatia»
-o «Pensament crític» i temes com «Drogues» o «Gènere»), amb la llista a `siguestu` de la
-taxonomia. Al panell de filtres fan el grup «Programa Sigues tu» i es combinen com els
-temes: n'hi ha prou que la fitxa en tingui una de les marcades. Com que les etiquetes són
-més fines que els tres eixos del programa i totes les fitxes de Sigues tu en tenen alguna,
-els eixos no surten al filtre de categoria (`FAMILIES_AMB_GRUP_PROPI` a `catalog.js`),
-tot i que cada fitxa conserva la seva categoria. El formulari d'edició no les mostra, però les
-conserva en desar.
+- **Jocs de grup**: la fitxa no porta temes; els hereta de la seva categoria, que els declara
+  a la taxonomia (`"temes": ["animacio"]`). Ho fa `scripts/build-data.mjs` en generar el
+  bundle, i de la mateixa manera hi afegeix les `etiquetes` que declari la categoria
+  (l'aire lliure hi suma `exterior`).
+- **Programa HEBE**: temes per unitat, fixats a `TEMES` dins de `scripts/extract_hebe.py`.
+- **Sigues tu**: temes escrits a cada fitxa, que inclouen la traducció de les etiquetes que
+  el web dona a la sessió d'on surt (Empatia → comunicació, Drogues → consums...).
+
+Al contrari que el nivell, una fitxa sense temes queda fora quan el filtre és actiu, i la
+build avisa si en troba cap. Les targetes, el full de sessió i l'ordenació «Temàtica»
+mostren el primer tema de la fitxa, o el bloc de l'HEBE si la fitxa n'és.
 
 ## Catàleg bilingue
 

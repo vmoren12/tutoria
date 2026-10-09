@@ -53,7 +53,7 @@
         '<span class="full__bloc-titol">' + esc(bloc.titol) + '</span>' +
       '</div>' +
       (d ? '<p class="petit tenue" style="margin:0 0 4px">' +
-        [TUT.data.nom_tipus(d.tipus), TUT.data.nom_categoria(d.categoria),
+        [TUT.data.nom_tipus(d.tipus), TUT.data.classificacio(d).nom,
           TUT.data.nom_grup(d.grup),
           d.materials ? 'Material: ' + d.materials : 'Sense material']
           .map(esc).join(' · ') + '</p>' : '') +

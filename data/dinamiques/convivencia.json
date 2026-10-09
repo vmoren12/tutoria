@@ -16,9 +16,6 @@
     "temes": [
       "compromis"
     ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
-    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "L'alumnat aixeca els braços o els creua segons si està d'acord amb afirmacions sobre l'activisme i els moviments socials, i el grup en construeix la definició.",
@@ -48,16 +45,10 @@
       "reflexio"
     ],
     "temes": [
+      "emocions",
+      "comunicacio",
       "afectivitat",
-      "violencies",
-      "emocions"
-    ],
-    "siguestu": [
-      "abusos-sexuals",
-      "afectivitat-sexualitat",
-      "comunicacio-interpersonal",
-      "gestio-de-les-emocions",
-      "negociacio-i-refus"
+      "violencies"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -87,13 +78,9 @@
       "emocions"
     ],
     "temes": [
+      "comunicacio",
       "diversitat",
       "compromis"
-    ],
-    "siguestu": [
-      "diversitat",
-      "empatia",
-      "prejudicis"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -123,9 +110,6 @@
     "temes": [
       "emocions",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -157,11 +141,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "autoconeixement"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -191,13 +173,9 @@
       "emocions"
     ],
     "temes": [
+      "convivencia",
       "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -224,11 +202,9 @@
       "reflexio"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -258,10 +234,8 @@
       "atencio"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -292,10 +266,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "convivencia",
-      "empatia"
-    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Un full amb les preguntes del cercle per a qui facilita. Opcionalment, un cartell amb les preguntes per penjar a l'aula.",
@@ -323,12 +293,9 @@
       "reflexio"
     ],
     "temes": [
-      "diversitat",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip",
-      "diversitat-funcional"
+      "cooperacio",
+      "comunicacio",
+      "diversitat"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -359,12 +326,8 @@
     ],
     "temes": [
       "convivencia",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "convivencia",
-      "presa-de-decisions-i-resolucio-de-problemes"
+      "comunicacio",
+      "pensament"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -394,12 +357,9 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
+      "cooperacio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "cooperacio-i-treball-en-equip",
-      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -427,11 +387,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "orientacio"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "sentit-de-coherencia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -463,10 +420,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "convivencia",
-      "empatia"
-    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Pòsits i bolígrafs. Gomets (opcional).",
@@ -494,9 +447,6 @@
     ],
     "temes": [
       "compromis"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -527,11 +477,9 @@
       "atencio"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "creativitat"
+      "cohesio",
+      "convivencia",
+      "pensament"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -561,9 +509,6 @@
       "diversitat",
       "compromis"
     ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
-    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "Dos grups preparen arguments, des d'una mirada col·lectiva i de justícia social, per rebatre situacions plantejades des de la idea que cadascú és responsable de la seva pobresa.",
@@ -591,11 +536,8 @@
       "atencio"
     ],
     "temes": [
+      "cohesio",
       "comunicacio"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "comunicacio-interpersonal"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -627,10 +569,6 @@
       "diversitat",
       "compromis"
     ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "diversitat"
-    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Deu papers petits per persona (o un full dividit en requadres) i llapis. Targetes amb els noms i les definicions de diferents estructures familiars (la fitxa original de Sigues tu n'inclou un annex).",
@@ -659,11 +597,8 @@
       "reflexio"
     ],
     "temes": [
+      "cooperacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip",
-      "diversitat-funcional"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -692,11 +627,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "autoconeixement"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -728,11 +661,9 @@
       "expressio-corporal"
     ],
     "temes": [
-      "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -764,11 +695,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "emocions",
       "comunicacio"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -799,11 +728,8 @@
       "cooperatiu"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -835,11 +761,8 @@
       "moviment"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -869,11 +792,9 @@
       "reflexio"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -903,10 +824,8 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -935,11 +854,9 @@
       "cooperatiu"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "acceptacio",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -966,12 +883,9 @@
       "reflexio"
     ],
     "temes": [
-      "autoconeixement",
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -999,12 +913,9 @@
       "reflexio"
     ],
     "temes": [
-      "orientacio",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "sentit-de-coherencia"
+      "autoconeixement",
+      "pensament",
+      "orientacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1037,9 +948,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "comunicacio-interpersonal"
-    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Animals de joguina.",
@@ -1071,9 +979,6 @@
       "emocions",
       "medi-ambient"
     ],
-    "siguestu": [
-      "gestio-de-l-estres"
-    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Tres trossos de paper d'embalar. Retoladors. Targetes de paper o cartolina, una per persona. Opcionalment, una llavor per persona i una cistella amb terra.",
@@ -1104,11 +1009,9 @@
       "musica"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "emocions"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1136,12 +1039,9 @@
       "emocions"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
       "convivencia",
-      "presa-de-decisions-i-resolucio-de-problemes"
+      "comunicacio",
+      "pensament"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1173,9 +1073,6 @@
     "temes": [
       "emocions"
     ],
-    "siguestu": [
-      "gestio-de-les-emocions"
-    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Tres cartolines (vermella, taronja i verda) dividides en cinc parts. Cinc pòsits i un retolador per persona. Música opcional.",
@@ -1205,11 +1102,9 @@
       "reflexio"
     ],
     "temes": [
-      "violencies",
-      "afectivitat"
-    ],
-    "siguestu": [
-      "negociacio-i-refus"
+      "comunicacio",
+      "afectivitat",
+      "violencies"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1237,12 +1132,9 @@
       "reflexio"
     ],
     "temes": [
-      "assetjament"
-    ],
-    "siguestu": [
+      "pensament",
       "assetjament",
-      "ciberassetjament",
-      "pensament-critic"
+      "pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1273,13 +1165,9 @@
       "sense-material"
     ],
     "temes": [
+      "convivencia",
       "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "comunicacio"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -1310,9 +1198,6 @@
     "temes": [
       "convivencia",
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-les-emocions"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1345,11 +1230,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "emocions"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1378,9 +1261,6 @@
     "temes": [
       "emocions",
       "medi-ambient"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1411,11 +1291,9 @@
       "cooperatiu"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "acceptacio",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1445,10 +1323,6 @@
     ],
     "temes": [
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres",
-      "salut-mental"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1480,12 +1354,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "comunicacio"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "comunicacio-interpersonal"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1512,11 +1383,8 @@
       "reflexio"
     ],
     "temes": [
+      "pensament",
       "orientacio"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "sentit-de-coherencia"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1544,12 +1412,8 @@
       "reflexio"
     ],
     "temes": [
-      "comunicacio",
-      "convivencia"
-    ],
-    "siguestu": [
       "convivencia",
-      "negociacio-i-refus"
+      "comunicacio"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1580,12 +1444,9 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "comunicacio"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "comunicacio-interpersonal"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -1614,11 +1475,9 @@
       "sense-material"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "acceptacio",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1647,10 +1506,6 @@
     ],
     "temes": [
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres",
-      "salut-mental"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1681,11 +1536,9 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
+      "cooperacio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1716,12 +1569,9 @@
       "sense-material"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "convivencia",
+      "emocions",
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1749,12 +1599,8 @@
       "emocions"
     ],
     "temes": [
-      "emocions"
-    ],
-    "siguestu": [
       "convivencia",
-      "dol-i-perdues",
-      "gestio-de-les-emocions"
+      "emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1782,13 +1628,11 @@
       "escriptura"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
+      "cohesio",
+      "convivencia",
       "autoconeixement",
-      "cohesio-de-grup",
-      "comunicacio-interpersonal",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1817,12 +1661,8 @@
       "reflexio"
     ],
     "temes": [
-      "comunicacio",
-      "convivencia"
-    ],
-    "siguestu": [
       "convivencia",
-      "negociacio-i-refus"
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1852,14 +1692,8 @@
       "reflexio"
     ],
     "temes": [
-      "diversitat",
-      "comunicacio"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "estereotips",
-      "etiquetes",
-      "prejudicis"
+      "comunicacio",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1890,13 +1724,11 @@
       "sense-material"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
+      "cohesio",
+      "convivencia",
       "autoconeixement",
-      "cohesio-de-grup",
-      "comunicacio-interpersonal",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1924,15 +1756,11 @@
       "reflexio"
     ],
     "temes": [
-      "emocions"
-    ],
-    "siguestu": [
+      "dramatitzacio",
       "autoconeixement",
-      "comunicacio-interpersonal",
-      "empatia",
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "salut-mental",
-      "teatre"
+      "emocions",
+      "comunicacio",
+      "pensament"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1963,11 +1791,9 @@
       "emocions"
     ],
     "temes": [
-      "diversitat",
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement"
+      "convivencia",
+      "autoconeixement",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1998,12 +1824,9 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "emocions"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "habilitats-per-a-la-vida"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2035,11 +1858,9 @@
       "cooperatiu"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "creativitat"
+      "cohesio",
+      "convivencia",
+      "pensament"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2070,13 +1891,9 @@
       "emocions"
     ],
     "temes": [
+      "autoconeixement",
       "emocions",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "comunicacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2109,9 +1926,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "comunicacio-interpersonal"
-    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Animals de joguina. Un espai d'un metre quadrat (unes taules juntes o un tros de terra) que faci d'escenari.",
@@ -2142,10 +1956,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "negociacio-i-refus",
-      "pressio-de-grup"
-    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pòsits o papers petits i bolígrafs. La fórmula de la comunicació no violenta a la pissarra.",
@@ -2173,13 +1983,11 @@
       "escriptura"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
+      "cohesio",
+      "convivencia",
       "autoconeixement",
-      "cohesio-de-grup",
-      "comunicacio-interpersonal",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2212,10 +2020,8 @@
       "expressio-corporal"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2247,16 +2053,13 @@
       "emocions"
     ],
     "temes": [
-      "violencies",
-      "emocions"
-    ],
-    "siguestu": [
-      "afectivitat-sexualitat",
-      "cohesio-de-grup",
+      "cohesio",
       "convivencia",
-      "pressio-de-grup",
-      "respecte-per-un-mateix",
-      "seguretat"
+      "autoconeixement",
+      "emocions",
+      "comunicacio",
+      "afectivitat",
+      "violencies"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2287,10 +2090,8 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -2319,12 +2120,8 @@
     ],
     "temes": [
       "convivencia",
-      "comunicacio",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "negociacio-i-refus",
-      "pressio-de-grup"
+      "autoconeixement",
+      "comunicacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2355,13 +2152,9 @@
       "emocions"
     ],
     "temes": [
+      "autoconeixement",
       "emocions",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2392,10 +2185,8 @@
       "cooperatiu"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2427,11 +2218,9 @@
       "emocions"
     ],
     "temes": [
-      "afectivitat",
-      "emocions"
-    ],
-    "siguestu": [
-      "negociacio-i-refus"
+      "emocions",
+      "comunicacio",
+      "afectivitat"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -2460,14 +2249,9 @@
       "reflexio"
     ],
     "temes": [
+      "convivencia",
       "comunicacio",
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "estereotips",
-      "etiquetes",
-      "prejudicis"
+      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2498,10 +2282,8 @@
       "atencio"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -2534,10 +2316,6 @@
       "convivencia",
       "comunicacio"
     ],
-    "siguestu": [
-      "negociacio-i-refus",
-      "pressio-de-grup"
-    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "Després de compartir alguna vegada que van fer una cosa per pressió del grup, l'alumnat se situa en una línia del 0 al 10 segons la pressió de grup que sent a l'aula.",
@@ -2567,11 +2345,8 @@
       "musica"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -2599,11 +2374,9 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
+      "cooperacio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "cooperacio-i-treball-en-equip"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2631,13 +2404,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "estereotips",
-      "etiquetes",
-      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2667,10 +2435,8 @@
       "escriptura"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2699,11 +2465,8 @@
       "emocions"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
       "convivencia",
-      "empatia"
+      "comunicacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2735,10 +2498,8 @@
     ],
     "temes": [
       "convivencia",
-      "emocions"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal"
+      "emocions",
+      "comunicacio"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2767,12 +2528,9 @@
       "reflexio"
     ],
     "temes": [
-      "autoconeixement",
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2803,11 +2561,8 @@
       "reflexio"
     ],
     "temes": [
-      "diversitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "autoconeixement"
+      "autoconeixement",
+      "diversitat"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2835,9 +2590,6 @@
     ],
     "temes": [
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-les-emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2868,12 +2620,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "diversitat",
-      "empatia",
-      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2901,12 +2649,9 @@
       "reflexio"
     ],
     "temes": [
-      "orientacio",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "sentit-de-coherencia"
+      "autoconeixement",
+      "pensament",
+      "orientacio"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2937,12 +2682,10 @@
       "reflexio"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
+      "autoconeixement",
       "emocions"
-    ],
-    "siguestu": [
-      "acceptacio",
-      "cohesio-de-grup"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2970,12 +2713,8 @@
       "reflexio"
     ],
     "temes": [
-      "comunicacio",
-      "convivencia"
-    ],
-    "siguestu": [
       "convivencia",
-      "negociacio-i-refus"
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3005,10 +2744,6 @@
     ],
     "temes": [
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres",
-      "salut-mental"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -3041,11 +2776,8 @@
       "exterior"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3072,9 +2804,6 @@
     ],
     "temes": [
       "compromis"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3105,10 +2834,8 @@
       "emocions"
     ],
     "temes": [
+      "cohesio",
       "emocions"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -3138,11 +2865,9 @@
       "reflexio"
     ],
     "temes": [
+      "cohesio",
       "autoconeixement",
       "orientacio"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3172,12 +2897,8 @@
       "emocions"
     ],
     "temes": [
-      "emocions"
-    ],
-    "siguestu": [
       "convivencia",
-      "dol-i-perdues",
-      "gestio-de-les-emocions"
+      "emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -3208,11 +2929,8 @@
       "moviment"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -3240,12 +2958,9 @@
       "reflexio"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
       "convivencia",
-      "presa-de-decisions-i-resolucio-de-problemes"
+      "comunicacio",
+      "pensament"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3278,11 +2993,9 @@
       "emocions"
     ],
     "temes": [
-      "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "emocions"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3313,11 +3026,8 @@
       "exterior"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3350,10 +3060,6 @@
       "diversitat",
       "compromis"
     ],
-    "siguestu": [
-      "advocacio-i-compromis-social",
-      "diversitat"
-    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Les targetes de les estructures familiars, paper i retoladors per als cartells.",
@@ -3382,12 +3088,8 @@
       "emocions"
     ],
     "temes": [
-      "emocions"
-    ],
-    "siguestu": [
       "convivencia",
-      "dol-i-perdues",
-      "gestio-de-les-emocions"
+      "emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3415,12 +3117,8 @@
       "reflexio"
     ],
     "temes": [
-      "comunicacio",
-      "convivencia"
-    ],
-    "siguestu": [
       "convivencia",
-      "negociacio-i-refus"
+      "comunicacio"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -3451,13 +3149,9 @@
       "emocions"
     ],
     "temes": [
+      "convivencia",
       "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "comunicacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3487,12 +3181,9 @@
       "reflexio"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
       "autoconeixement"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3522,12 +3213,9 @@
       "emocions"
     ],
     "temes": [
-      "assetjament"
-    ],
-    "siguestu": [
+      "pensament",
       "assetjament",
-      "ciberassetjament",
-      "pensament-critic"
+      "pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3556,11 +3244,9 @@
       "sense-material"
     ],
     "temes": [
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -3589,9 +3275,6 @@
     "temes": [
       "diversitat",
       "compromis"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -3622,13 +3305,10 @@
       "silenci"
     ],
     "temes": [
+      "convivencia",
       "autoconeixement",
-      "convivencia"
-    ],
-    "siguestu": [
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions"
+      "emocions",
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3657,12 +3337,9 @@
       "reflexio"
     ],
     "temes": [
-      "assetjament"
-    ],
-    "siguestu": [
+      "pensament",
       "assetjament",
-      "ciberassetjament",
-      "pensament-critic"
+      "pantalles"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -3691,11 +3368,8 @@
       "sense-material"
     ],
     "temes": [
+      "pensament",
       "orientacio"
-    ],
-    "siguestu": [
-      "presa-de-decisions-i-resolucio-de-problemes",
-      "sentit-de-coherencia"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -3723,12 +3397,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "diversitat",
-      "empatia",
-      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3759,11 +3429,8 @@
       "musica"
     ],
     "temes": [
+      "cohesio",
       "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3795,11 +3462,9 @@
       "musica"
     ],
     "temes": [
-      "emocions",
-      "convivencia"
-    ],
-    "siguestu": [
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "emocions"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3829,15 +3494,11 @@
       "sense-material"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions",
-      "participacio"
+      "autoconeixement",
+      "emocions",
+      "comunicacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3867,12 +3528,8 @@
       "reflexio"
     ],
     "temes": [
+      "comunicacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "diversitat",
-      "empatia",
-      "prejudicis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -3901,15 +3558,11 @@
       "cercle"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "cohesio-de-grup",
-      "comunicacio-interpersonal",
-      "empatia",
-      "gestio-de-les-emocions",
-      "participacio"
+      "autoconeixement",
+      "emocions",
+      "comunicacio"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -3940,9 +3593,6 @@
       "convivencia",
       "emocions"
     ],
-    "siguestu": [
-      "gestio-de-les-emocions"
-    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Un full i un bolígraf per persona.",
@@ -3972,11 +3622,8 @@
       "reflexio"
     ],
     "temes": [
-      "diversitat",
-      "autoconeixement"
-    ],
-    "siguestu": [
-      "autoconeixement"
+      "autoconeixement",
+      "diversitat"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -4006,12 +3653,10 @@
       "reflexio"
     ],
     "temes": [
+      "cohesio",
       "convivencia",
+      "autoconeixement",
       "diversitat"
-    ],
-    "siguestu": [
-      "acceptacio",
-      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -4042,10 +3687,6 @@
     ],
     "temes": [
       "emocions"
-    ],
-    "siguestu": [
-      "gestio-de-l-estres",
-      "salut-mental"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -4078,9 +3719,6 @@
     "temes": [
       "emocions"
     ],
-    "siguestu": [
-      "gestio-de-les-emocions"
-    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Mig full i un bolígraf per persona. Pissarra.",
@@ -4108,11 +3746,8 @@
       "cercle"
     ],
     "temes": [
+      "cohesio",
       "autoconeixement"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -4141,12 +3776,9 @@
       "silenci"
     ],
     "temes": [
-      "autoconeixement",
-      "convivencia"
-    ],
-    "siguestu": [
-      "autoconeixement",
-      "cohesio-de-grup"
+      "cohesio",
+      "convivencia",
+      "autoconeixement"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -4177,9 +3809,6 @@
       "emocions",
       "medi-ambient"
     ],
-    "siguestu": [
-      "gestio-de-l-estres"
-    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Música suau o sons de la natura.",
@@ -4208,10 +3837,6 @@
     "temes": [
       "emocions"
     ],
-    "siguestu": [
-      "gestio-de-l-estres",
-      "salut-mental"
-    ],
     "durada": 10,
     "grup": "mitja",
     "materials": "Música suau, opcional.",
@@ -4238,11 +3863,8 @@
       "emocions"
     ],
     "temes": [
+      "cooperacio",
       "diversitat"
-    ],
-    "siguestu": [
-      "cooperacio-i-treball-en-equip",
-      "diversitat-funcional"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -4272,9 +3894,6 @@
     "temes": [
       "diversitat",
       "compromis"
-    ],
-    "siguestu": [
-      "advocacio-i-compromis-social"
     ],
     "durada": 35,
     "grup": "mitja",

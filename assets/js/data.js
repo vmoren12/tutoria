@@ -21,8 +21,6 @@
   (taxonomia.nivells || []).forEach(function (n) { per_nivell[n.id] = n; });
   var per_tema = {};
   (taxonomia.temes || []).forEach(function (t) { per_tema[t.id] = t; });
-  var per_siguestu = {};
-  (taxonomia.siguestu || []).forEach(function (t) { per_siguestu[t.id] = t; });
 
   var llista = [];
   var index = {};
@@ -37,7 +35,6 @@
       (d.nivells || []).map(nom_nivell).join(' '),
       (d.etiquetes || []).map(nom_etiqueta).join(' '),
       (d.temes || []).map(nom_tema).join(' '),
-      (d.siguestu || []).map(nom_siguestu).join(' '),
     ].join(' '));
   }
 
@@ -51,11 +48,6 @@
 
   function nom_tema(id) {
     return per_tema[id] ? per_tema[id].nom : id || '';
-  }
-
-  /** Nom d'una etiqueta del web de Sigues tu («Empatia», «Drogues»). */
-  function nom_siguestu(id) {
-    return per_siguestu[id] ? per_siguestu[id].nom : id || '';
   }
 
   function nom_grup(id) {
@@ -74,6 +66,35 @@
   /** Nom de la família de categories («Dinàmiques de grup», «Programa HEBE»). */
   function families() {
     return taxonomia.families || [];
+  }
+
+  /** Famílies que són un programa de tutoria (l'HEBE): les seves categories
+      fan de filtre propi. Les dels jocs de grup i de Sigues tu queden recollides
+      a la temàtica. */
+  function familia_programa(id) {
+    var c = per_categoria[id];
+    var f = c && (taxonomia.families || []).filter(function (x) {
+      return x.id === (c.familia || 'grup');
+    })[0];
+    return f && f.programa ? f : null;
+  }
+
+  function blocs_temes() {
+    return taxonomia.blocs_temes || [];
+  }
+
+  /** Temes d'un bloc, en l'ordre de la taxonomia. */
+  function temes_de_bloc(bloc) {
+    return (taxonomia.temes || []).filter(function (t) { return t.bloc === bloc; });
+  }
+
+  /** Com es presenta una fitxa a les targetes: el bloc del programa (HEBE) o,
+      si no és d'un programa, el primer dels seus temes. */
+  function classificacio(d) {
+    if (familia_programa(d.categoria) || !(d.temes || []).length) {
+      return { nom: nom_categoria(d.categoria), filtre: 'cat=' + d.categoria };
+    }
+    return { nom: nom_tema(d.temes[0]), filtre: 'tem=' + d.temes[0] };
   }
 
   /** Categories d'una família, en l'ordre de la taxonomia. */
@@ -126,7 +147,6 @@
       d.etiquetes = d.etiquetes || [];
       d.nivells = d.nivells || [];
       d.temes = d.temes || [];
-      d.siguestu = d.siguestu || [];
       d.tipus = d.tipus || 'dinamica';
       d.durada = Number(d.durada) || 15;
       d._cerca = text_cercable(d);
@@ -144,8 +164,7 @@
 
   function obte(id) { return index[id] || null; }
 
-  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus, nivell, tema
-      i etiqueta de Sigues tu. */
+  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus, nivell i tema. */
   function recomptes(conjunt) {
     var categories = {};
     var etiquetes = {};
@@ -153,7 +172,6 @@
     var tipus = {};
     var nivells = {};
     var temes = {};
-    var siguestu = {};
     (conjunt || llista).forEach(function (d) {
       categories[d.categoria] = (categories[d.categoria] || 0) + 1;
       grups[d.grup] = (grups[d.grup] || 0) + 1;
@@ -161,11 +179,10 @@
       d.etiquetes.forEach(function (t) { etiquetes[t] = (etiquetes[t] || 0) + 1; });
       d.nivells.forEach(function (n) { nivells[n] = (nivells[n] || 0) + 1; });
       d.temes.forEach(function (t) { temes[t] = (temes[t] || 0) + 1; });
-      d.siguestu.forEach(function (t) { siguestu[t] = (siguestu[t] || 0) + 1; });
     });
     return {
       categories: categories, etiquetes: etiquetes, grups: grups,
-      tipus: tipus, nivells: nivells, temes: temes, siguestu: siguestu,
+      tipus: tipus, nivells: nivells, temes: temes,
     };
   }
 
@@ -213,7 +230,10 @@
     nom_categoria: nom_categoria,
     nom_etiqueta: nom_etiqueta,
     nom_tema: nom_tema,
-    nom_siguestu: nom_siguestu,
+    blocs_temes: blocs_temes,
+    temes_de_bloc: temes_de_bloc,
+    familia_programa: familia_programa,
+    classificacio: classificacio,
     nom_grup: nom_grup,
     nom_tipus: nom_tipus,
     nom_nivell: nom_nivell,

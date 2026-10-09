@@ -48,9 +48,11 @@ async function llegeix_opcional(fitxer, per_defecte) {
 
 const taxonomia = JSON.parse(await readFile(path.join(ROOT, 'data', 'taxonomia.json'), 'utf8'));
 const categories = new Set(taxonomia.categories.map((c) => c.id));
+/* Les categories dels jocs de grup porten els temes (i algunes etiquetes) que
+   hereten totes les seves fitxes; així no cal repetir-los fitxa a fitxa. */
+const per_categoria = new Map(taxonomia.categories.map((c) => [c.id, c]));
 const etiquetes = new Set(taxonomia.etiquetes.map((t) => t.id));
 const temes = new Set((taxonomia.temes || []).map((t) => t.id));
-const siguestu = new Set((taxonomia.siguestu || []).map((t) => t.id));
 const grups = new Set(taxonomia.grups.map((g) => g.id));
 const tipus = new Set(taxonomia.tipus.map((t) => t.id));
 const nivells = new Set(taxonomia.nivells.map((n) => n.id));
@@ -99,12 +101,6 @@ for (const fitxer of fitxers) {
         avisos++;
       }
     }
-    for (const t of d.siguestu || []) {
-      if (!siguestu.has(t)) {
-        console.warn(`  avís  ${d.id}: etiqueta de Sigues tu desconeguda "${t}"`);
-        avisos++;
-      }
-    }
     if (d.grup && !grups.has(d.grup)) {
       console.warn(`  avís  ${d.id}: mida de grup desconeguda "${d.grup}"`);
       avisos++;
@@ -120,6 +116,7 @@ for (const fitxer of fitxers) {
       }
     }
 
+    const categoria = per_categoria.get(d.categoria) || {};
     const net = {
       id: d.id,
       titol: d.titol,
@@ -127,13 +124,18 @@ for (const fitxer of fitxers) {
          (activitats i unitats didàctiques) ho diuen expressament. */
       tipus: d.tipus || 'dinamica',
       categoria: d.categoria,
-      etiquetes: [...new Set(d.etiquetes || [])].sort(),
+      etiquetes: [...new Set([...(d.etiquetes || []), ...(categoria.etiquetes || [])])].sort(),
       durada: Number(d.durada) || 15,
       grup: d.grup || 'mitja',
     };
     if (d.nivells && d.nivells.length) net.nivells = [...d.nivells];
-    if (d.temes && d.temes.length) net.temes = [...new Set(d.temes)];
-    if (d.siguestu && d.siguestu.length) net.siguestu = [...new Set(d.siguestu)];
+    const temes_fitxa = [...new Set([...(d.temes || []), ...(categoria.temes || [])])];
+    if (temes_fitxa.length) {
+      net.temes = temes_fitxa;
+    } else {
+      console.warn(`  avís  ${d.id}: no té cap tema`);
+      avisos++;
+    }
     if (d.unitat) net.unitat = d.unitat;
     if (d.activitats && d.activitats.length) net.activitats = [...d.activitats];
     for (const camp of CAMPS_TEXT) {

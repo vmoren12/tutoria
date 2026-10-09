@@ -50,20 +50,28 @@
     return '<ul class="filtres__llista">' + html + '</ul>';
   }
 
-  /* Les categories venen de fonts amb lògiques diferents (les dinàmiques de
-     grup i els blocs del Programa HEBE) i es presenten separades perquè es vegi
-     d'on surt cada una. Els tres eixos de Sigues tu no hi surten: el programa té
-     el seu propi grup de filtres, amb les etiquetes del web, que són més fines. */
-  var FAMILIES_AMB_GRUP_PROPI = ['siguestu'];
+  /* La temàtica és la classificació comuna de totes les fonts: els jocs de
+     grup hi entren per la seva categoria i les dinàmiques de Sigues tu, per les
+     etiquetes del web. Els temes es presenten agrupats en blocs. */
+  function faceta_temes(seleccionats, recomptes) {
+    return TUT.data.blocs_temes().map(function (b) {
+      var opcions = TUT.data.temes_de_bloc(b.id);
+      if (!opcions.length) return '';
+      return '<p class="filtres__familia">' + esc(b.nom) + '</p>' +
+        opcions_faceta('temes:' + b.id, 'temes', opcions, seleccionats, recomptes, 'checkbox');
+    }).join('');
+  }
 
-  function faceta_categories(seleccionades, recomptes) {
-    return TUT.data.families().map(function (f) {
-      if (FAMILIES_AMB_GRUP_PROPI.indexOf(f.id) >= 0) return '';
+  /* Només els programes de tutoria (l'HEBE) tenen filtre propi, amb els seus blocs. */
+  function facetes_programes(seleccionades, recomptes) {
+    return TUT.data.families().filter(function (f) { return f.programa; }).map(function (f) {
       var opcions = TUT.data.categories_de(f.id);
       if (!opcions.length) return '';
-      return '<p class="filtres__familia">' + esc(f.nom) + '</p>' +
+      return '<div class="filtres__grup">' +
+        '<legend>' + esc(f.nom) + '</legend>' +
         opcions_faceta('categories:' + f.id, 'categories', opcions,
-          seleccionades, recomptes, 'checkbox');
+          seleccionades, recomptes, 'checkbox') +
+      '</div>';
     }).join('');
   }
 
@@ -76,7 +84,6 @@
     var rn = TUT.data.recomptes(TUT.search.filtra(tot, f, 'nivells'));
     var rm = TUT.data.recomptes(TUT.search.filtra(tot, f, 'temes'));
     var rc = TUT.data.recomptes(TUT.search.filtra(tot, f, 'categories'));
-    var rs = TUT.data.recomptes(TUT.search.filtra(tot, f, 'siguestu'));
     var re = TUT.data.recomptes(TUT.search.filtra(tot, f, 'etiquetes'));
     var rg = TUT.data.recomptes(TUT.search.filtra(tot, f, 'grups'));
 
@@ -95,21 +102,11 @@
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Temàtica</legend>' +
-        opcions_faceta('temes', 'temes', tax.temes || [], f.temes, rm.temes, 'checkbox') +
-        '<p class="filtres__ajuda">De què tracta la proposta. Els jocs de grup no en tenen: ' +
-          'es classifiquen per categoria.</p>' +
+        faceta_temes(f.temes, rm.temes) +
+        '<p class="filtres__ajuda">De què tracta la proposta o per a què serveix. ' +
+          'Una proposta pot tenir més d\'un tema.</p>' +
       '</div>' +
-      '<div class="filtres__grup">' +
-        '<legend>Categoria</legend>' +
-        faceta_categories(f.categories, rc.categories) +
-      '</div>' +
-      '<div class="filtres__grup">' +
-        '<legend>Programa Sigues tu</legend>' +
-        opcions_faceta('siguestu', 'siguestu', tax.siguestu || [], f.siguestu, rs.siguestu, 'checkbox') +
-        '<p class="filtres__ajuda">Les etiquetes del web siguestu.cat (habilitats per a la vida ' +
-          'i temes) de la sessió d\'on surt cada dinàmica. Totes les dinàmiques del programa ' +
-          'en tenen alguna.</p>' +
-      '</div>' +
+      facetes_programes(f.categories, rc.categories) +
       '<div class="filtres__grup">' +
         '<legend>Etiquetes</legend>' +
         opcions_faceta('etiquetes', 'etiquetes', tax.etiquetes, f.etiquetes, re.etiquetes, 'checkbox') +
@@ -173,7 +170,6 @@
     f.nivells.forEach(function (n) { xip(TUT.data.nom_nivell(n), 'nivells', n); });
     f.temes.forEach(function (t) { xip(TUT.data.nom_tema(t), 'temes', t); });
     f.categories.forEach(function (c) { xip(TUT.data.nom_categoria(c), 'categories', c); });
-    f.siguestu.forEach(function (t) { xip(TUT.data.nom_siguestu(t), 'siguestu', t); });
     f.etiquetes.forEach(function (t) { xip(TUT.data.nom_etiqueta(t), 'etiquetes', t); });
     f.grups.forEach(function (g) { xip(TUT.data.nom_grup(g), 'grups', g); });
     if (f.durada_max) xip('Fins a ' + f.durada_max + ' min', 'durada_max');
@@ -332,6 +328,7 @@
     var llegit = TUT.search.de_parametres(parametres);
     estat.filtres = llegit.filtres;
     estat.ordre = llegit.ordre || TUT.store.estat.preferencies.ordre || 'titol';
+    if (estat.ordre === 'categoria') estat.ordre = 'tematica';   // enllaços antics
     estat.vista = TUT.store.estat.preferencies.vista || 'graella';
     estat.limit = PASSA;
 
@@ -341,7 +338,7 @@
           '<h1 class="vista__titol">Catàleg de propostes</h1>' +
           '<p class="vista__descripcio">Dinàmiques de grup, activitats de tutoria i unitats ' +
             'didàctiques. Cerca per paraula clau i filtra per tipus de proposta, nivell, ' +
-            'temàtica, categoria, durada, mida de grup o material per muntar la sessió.</p>' +
+            'temàtica, programa, durada, mida de grup o material per muntar la sessió.</p>' +
         '</div>' +
         '<div class="vista__accions">' +
           '<a class="boto" href="#/dinamica/nova">' + dom.icona('mes') + 'Nova proposta</a>' +
@@ -363,7 +360,7 @@
               '<option value="tipus">Tipus de proposta</option>' +
               '<option value="durada-asc">Durada, de menys a més</option>' +
               '<option value="durada-desc">Durada, de més a menys</option>' +
-              '<option value="categoria">Categoria</option>' +
+              '<option value="tematica">Temàtica</option>' +
             '</select>' +
             '<select id="vista" class="eines__select" aria-label="Format de la llista">' +
               '<option value="graella">Vista de targetes</option>' +

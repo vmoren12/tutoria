@@ -14,7 +14,7 @@ El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
 
 ```
 data/
-├── taxonomia.json          categories, temes, etiquetes, etiquetes de Sigues tu, mides de grup, nivells
+├── taxonomia.json          categories, temes i blocs, etiquetes, mides de grup, nivells
 ├── bibliografia.json       obres d'origen de les dinàmiques
 ├── dinamiques/
 │   ├── presentacio.json
@@ -51,8 +51,7 @@ avisa dels **títols repetits**, que solen ser fitxes duplicades.
   "categoria": "presentacio",        // obligatori, id de data/taxonomia.json
   "etiquetes": ["cercle", "sense-material"],
   "nivells": ["3eso"],               // opcional; sense nivells serveix per a qualsevol curs
-  "temes": ["convivencia"],          // opcional; de què tracta la proposta
-  "siguestu": ["empatia"],           // opcional; etiquetes del web, només a les fitxes de Sigues tu
+  "temes": ["convivencia"],          // de què tracta la proposta (els jocs de grup l'hereten)
   "durada": 20,                      // minuts, nombre enter
   "grup": "mitja",                   // petit | mitja | gran
   "materials": "Un cabdell de llana",
@@ -81,19 +80,18 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
 - **`durada`**: minuts orientatius; a la sessió es pot ajustar bloc a bloc.
 - **`tipus`** i **`nivells`**: han d'existir a `data/taxonomia.json`. Si s'ometen, la fitxa
   és una `dinamica` sense nivell assignat, i el filtre de nivell no la descarta mai.
-- **`temes`**: la temàtica de la proposta (afectivitat i sexualitat, assetjament,
-  pantalles...), de la llista `temes` de `data/taxonomia.json`. A diferència del nivell,
-  una fitxa sense temes **no** surt quan es filtra per temàtica, així que només els porten
-  les propostes que tracten un tema concret: les de l'HEBE i les de Sigues tu. Els jocs de
-  grup no en tenen i es classifiquen per categoria. Els temes de l'HEBE es fixen per unitat
-  a `TEMES`, dins de `scripts/extract_hebe.py`, i les activitats hereten els de la seva unitat.
-- **`siguestu`**: només a les fitxes del programa *Sigues tu*. Són les etiquetes que el web
-  siguestu.cat dona a la sessió d'on surt la fitxa (es veuen a la pàgina de la sessió), amb
-  els identificadors de la llista `siguestu` de `data/taxonomia.json`. Totes les dinàmiques
-  d'una mateixa sessió porten les mateixes. Si una sessió no en té cap, s'hi posa l'habilitat
-  per a la vida que declara. Si una etiqueta encara no és a la taxonomia, cal afegir-la-hi.
-  Totes les fitxes de Sigues tu n'han de tenir alguna, perquè és el filtre del programa al
-  menú lateral.
+- **`temes`**: la temàtica de la proposta, de la llista `temes` de `data/taxonomia.json`.
+  És el filtre principal del catàleg i totes les fitxes n'han de tenir almenys un: una
+  fitxa sense temes **no** surt quan es filtra per temàtica, i `npm run build` en avisa.
+  - Els **jocs de grup** no el porten a la fitxa: l'hereten de la categoria, que declara
+    els seus temes a la taxonomia. Si crees una categoria de jocs, dona-li `temes`.
+  - Els de l'**HEBE** es fixen per unitat a `TEMES`, dins de `scripts/extract_hebe.py`, i
+    les activitats hereten els de la seva unitat.
+  - Els de **Sigues tu** s'escriuen a cada fitxa: els temes propis de la dinàmica més la
+    traducció de les etiquetes que el web dona a la seva sessió (es veuen a la pàgina de la
+    sessió). Per exemple, Empatia o Assertivitat → `comunicacio`; Drogues, Tabac o Oci
+    nocturn → `consums`; Gestió de l'estrès o Salut mental → `emocions`; Pensament crític o
+    Presa de decisions → `pensament`; Cohesió de grup o Participació → `cohesio`.
 
 ### Unitats didàctiques i les seves activitats
 
@@ -115,7 +113,7 @@ fitxa de la unitat llista les seves activitats i la de l'activitat enllaça amb 
 
 1. Afegeix una entrada a `categories` de `data/taxonomia.json`:
    ```json
-   { "id": "orientacio", "nom": "Orientació acadèmica", "descripcio": "..." }
+   { "id": "orientacio", "familia": "grup", "temes": ["orientacio"], "nom": "Orientació acadèmica", "descripcio": "..." }
    ```
 2. Crea `data/dinamiques/orientacio.json` amb `[]` i hi vas afegint dinàmiques.
 3. `npm run build`.
@@ -232,5 +230,5 @@ cada una. Si n'hi trobes cap més, afegeix-la-hi i torna a executar `npm run ext
 
 Del que queda, encara hi ha una vintena de parells que **comparteixen títol però són
 propostes diferents** (dos jocs anomenats «El nus», per exemple). No s'esborren: es
-distingeixen per la categoria, que surt a la targeta, i `npm run build` els llista com a
+distingeixen pel contingut i per la categoria d'origen, i `npm run build` els llista com a
 avís.

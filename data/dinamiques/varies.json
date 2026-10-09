@@ -9,6 +9,9 @@
       "sense-material",
       "subgrups"
     ],
+    "temes": [
+      "autoconeixement"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "",
@@ -34,6 +37,9 @@
       "reflexio",
       "subgrups",
       "ulls-tapats"
+    ],
+    "temes": [
+      "comunicacio"
     ],
     "durada": 30,
     "grup": "mitja",

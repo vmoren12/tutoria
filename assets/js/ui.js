@@ -145,7 +145,7 @@
       (vegades ? ' targeta--a-la-sessio' : '') + '">' +
       '<div class="fila" style="gap:6px">' +
         marca_tipus(d) +
-        '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.nom_categoria(d.categoria)) + '</span>' +
+        '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.classificacio(d).nom) + '</span>' +
         marca_nivells(d) +
         marca_origen(d) +
         marca_sessio(vegades) +
@@ -175,7 +175,7 @@
         '<h3 class="targeta__titol"><a href="#/dinamica/' + esc(d.id) + '">' + esc(d.titol) + '</a></h3>' +
         '<div class="targeta__meta" style="margin-top:4px">' +
           marca_tipus(d) +
-          '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.nom_categoria(d.categoria)) + '</span>' +
+          '<span class="etiqueta etiqueta--categoria">' + esc(TUT.data.classificacio(d).nom) + '</span>' +
           marca_nivells(d) +
           '<span>' + dom.icona('rellotge') + dom.minuts(d.durada) + '</span>' +
           '<span>' + dom.icona('grup') + esc(TUT.data.nom_grup(d.grup)) + '</span>' +

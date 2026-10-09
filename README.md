@@ -8,15 +8,14 @@ tutoria, i munta sessions** llestes per imprimir o desar en PDF.
   - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
   - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
 
-  Classificades en 30 categories i etiquetades per durada, mida de grup, nivell i material
+  Classificades en 26 temes i etiquetades per durada, mida de grup, nivell i material
   necessari. De les fitxes traduïdes, l'original castellà es conserva i es pot mostrar des
   dels ajustos.
-- **Cerca facetada** per paraula clau, tipus de proposta, nivell, temàtica, categoria,
-  etiquetes, durada màxima, mida de grup, material i origen. La temàtica (afectivitat i
-  sexualitat, assetjament, pantalles, orientació...) creua les fonts i reuneix les unitats de
-  l'HEBE i les dinàmiques de Sigues tu sobre un mateix tema. Les dinàmiques de Sigues tu
-  tenen el seu propi grup de filtres, amb les etiquetes del web del programa (Empatia,
-  Drogues, Cohesió de grup, Pensament crític...).
+- **Cerca facetada** per paraula clau, tipus de proposta, nivell, temàtica, bloc del Programa
+  HEBE, etiquetes, durada màxima, mida de grup, material i origen. La temàtica és la
+  classificació comuna de totes les fonts: 26 temes en set blocs (grup i aula, tècniques de
+  grup, persona, relacions i afectivitat, salut, societat i estudi i futur), de manera que
+  un mateix tema reuneix jocs de grup, unitats de l'HEBE i dinàmiques de Sigues tu.
 - **Constructor de sessions**: seqüència de blocs amb temps assignat, càlcul d'horaris i
   control de la durada prevista.
 - **Full de sessió imprimible** amb el contingut que triïs, pensat per a A4.
@@ -87,7 +86,7 @@ Per desar en PDF: **Full de sessió → Imprimeix** i, al diàleg del navegador,
 index.html                pàgina única
 assets/css/               base, aplicació i impressió
 assets/js/                mòduls (dom, store, data, search, ui, vistes, app)
-data/taxonomia.json       tipus, categories, temes, etiquetes (també les de Sigues tu), mides de grup i nivells
+data/taxonomia.json       tipus, categories, temes i blocs, etiquetes, mides de grup i nivells
 data/dinamiques/*.json    el catàleg original en castellà, un fitxer per categoria
 data/traduccions/ca/*.json  traducció al català, un fitxer per categoria
 data/bibliografia.json    obres d'origen de les fitxes
@@ -156,8 +155,8 @@ dinàmica d'una sessió és una fitxa escrita directament en català, classifica
 tres eixos del programa — **Convivència**, **Sexualitats** i **Consums i hàbits
 saludables** — i amb l'enllaç a la sessió original a les notes. De moment hi ha les de les
 etiquetes del web que comencen de la A a la P (de «Abusos sexuals» a «Pressió de grup»).
-Cada fitxa porta també les etiquetes que el web dona a la seva sessió, que fan de filtre
-del programa al menú lateral en lloc dels tres eixos.
+Les etiquetes que el web dona a cada sessió (Empatia, Drogues, Cohesió de grup...) es
+tradueixen als temes del catàleg.
 També hi ha les sessions per a l'ESO i primària i les dels itineraris per a centres
 d'educació especial; queden fora les que són només d'infantil, de primària o dels CFA. Aquestes
 fitxes mantenen la llicència d'origen: es poden reutilitzar sense finalitat comercial,
@@ -171,7 +170,7 @@ La llista completa és a `data/bibliografia.json` i es consulta des de la vista
 Les quatre obres de *700 dinámicas grupales* comparteixen molts jocs, i l'extracció els
 duplicava. `npm run deduplica` compara el desenvolupament de cada parell, conserva la fitxa
 més completa i esborra la resta. En queda una vintena de parells que **comparteixen títol
-però són propostes diferents**; es distingeixen per la categoria, que surt a la targeta, i
+però són propostes diferents**; es distingeixen pel contingut i per la categoria d'origen, i
 `npm run build` els llista com a avís.
 
 El *Manual de técnicas y dinámicas* beu de la mateixa tradició d'educació popular i repeteix

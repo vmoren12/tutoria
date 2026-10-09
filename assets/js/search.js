@@ -11,7 +11,6 @@
     nivells: [],
     temes: [],
     categories: [],
-    siguestu: [],
     etiquetes: [],
     grups: [],
     durada_max: 0,     // 0 = sense límit
@@ -25,8 +24,7 @@
 
   function actius(filtres) {
     return !!(filtres.consulta || filtres.tipus.length || filtres.nivells.length ||
-      filtres.temes.length || filtres.categories.length || filtres.siguestu.length ||
-      filtres.etiquetes.length ||
+      filtres.temes.length || filtres.categories.length || filtres.etiquetes.length ||
       filtres.grups.length || filtres.durada_max || filtres.material !== 'tot' ||
       filtres.origen !== 'tot');
   }
@@ -56,7 +54,8 @@
       }
 
       /* A diferència del nivell, una fitxa sense temes no surt quan es filtra
-         per tema: els temes només els tenen les propostes que en tracten. */
+         per tema. Totes les del catàleg en tenen; els jocs de grup els hereten
+         de la seva categoria. N'hi ha prou que en tingui un dels marcats. */
       if (excepte !== 'temes' && filtres.temes.length &&
           !d.temes.some(function (t) { return filtres.temes.indexOf(t) >= 0; })) {
         return false;
@@ -64,13 +63,6 @@
 
       if (excepte !== 'categories' && filtres.categories.length &&
           filtres.categories.indexOf(d.categoria) < 0) return false;
-
-      /* Les etiquetes del web de Sigues tu es combinen com els temes: n'hi ha
-         prou que la fitxa en tingui una de les marcades. */
-      if (excepte !== 'siguestu' && filtres.siguestu.length &&
-          !d.siguestu.some(function (t) { return filtres.siguestu.indexOf(t) >= 0; })) {
-        return false;
-      }
 
       if (excepte !== 'etiquetes' && filtres.etiquetes.length &&
           !conte_totes(d.etiquetes, filtres.etiquetes)) return false;
@@ -104,13 +96,14 @@
     },
     'durada-asc': function (a, b) { return a.durada - b.durada || ORDRES.titol(a, b); },
     'durada-desc': function (a, b) { return b.durada - a.durada || ORDRES.titol(a, b); },
-    categoria: function (a, b) {
-      return TUT.data.nom_categoria(a.categoria).localeCompare(
-        TUT.data.nom_categoria(b.categoria), 'ca') || ORDRES.titol(a, b);
+    tematica: function (a, b) {
+      return TUT.data.classificacio(a).nom.localeCompare(
+        TUT.data.classificacio(b).nom, 'ca') || ORDRES.titol(a, b);
     },
   };
 
   function ordena(dinamiques, ordre) {
+    if (ordre === 'categoria') ordre = 'tematica';   // enllaços antics
     var fn = ORDRES[ordre] || ORDRES.titol;
     return dinamiques.slice().sort(fn);
   }
@@ -123,7 +116,6 @@
     if (filtres.nivells.length) p.set('niv', filtres.nivells.join(','));
     if (filtres.temes.length) p.set('tem', filtres.temes.join(','));
     if (filtres.categories.length) p.set('cat', filtres.categories.join(','));
-    if (filtres.siguestu.length) p.set('st', filtres.siguestu.join(','));
     if (filtres.etiquetes.length) p.set('eti', filtres.etiquetes.join(','));
     if (filtres.grups.length) p.set('grup', filtres.grups.join(','));
     if (filtres.durada_max) p.set('max', String(filtres.durada_max));
@@ -141,7 +133,6 @@
     f.nivells = (p.get('niv') || '').split(',').filter(Boolean);
     f.temes = (p.get('tem') || '').split(',').filter(Boolean);
     f.categories = (p.get('cat') || '').split(',').filter(Boolean);
-    f.siguestu = (p.get('st') || '').split(',').filter(Boolean);
     f.etiquetes = (p.get('eti') || '').split(',').filter(Boolean);
     f.grups = (p.get('grup') || '').split(',').filter(Boolean);
     f.durada_max = Number(p.get('max')) || 0;
