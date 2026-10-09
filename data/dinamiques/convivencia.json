@@ -16,6 +16,9 @@
     "temes": [
       "compromis"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "L'alumnat aixeca els braços o els creua segons si està d'acord amb afirmacions sobre l'activisme i els moviments socials, i el grup en construeix la definició.",
@@ -49,6 +52,13 @@
       "violencies",
       "emocions"
     ],
+    "siguestu": [
+      "abusos-sexuals",
+      "afectivitat-sexualitat",
+      "comunicacio-interpersonal",
+      "gestio-de-les-emocions",
+      "negociacio-i-refus"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Música per acompanyar la dinàmica (opcional).",
@@ -79,6 +89,11 @@
     "temes": [
       "diversitat",
       "compromis"
+    ],
+    "siguestu": [
+      "diversitat",
+      "empatia",
+      "prejudicis"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -111,6 +126,9 @@
       "convivencia",
       "autoconeixement"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Per torns, cadascú surt al centre de la rotllana i diu o fa qualsevol cosa, i el grup l'aplaudeix amb eufòria com si acabés de veure una gran obra de teatre.",
@@ -142,6 +160,11 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Després d'uns minuts amb els ulls tancats, cadascú es presenta dient quina emoció té més present i en quina part del cos la nota.",
@@ -168,6 +191,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -199,6 +226,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "El grup explica entre tots un conte popular, tros a tros i per torns aleatoris, mantenint-ne l'essència però fent-hi passar coses diferents.",
@@ -227,6 +257,10 @@
     "temes": [
       "convivencia",
       "comunicacio"
+    ],
+    "siguestu": [
+      "convivencia",
+      "empatia"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -257,6 +291,10 @@
     "temes": [
       "diversitat",
       "comunicacio"
+    ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip",
+      "diversitat-funcional"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -289,6 +327,11 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "convivencia",
+      "presa-de-decisions-i-resolucio-de-problemes"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Papers i bolígrafs. Situacions de conflicte escrites.",
@@ -319,6 +362,11 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "cooperacio-i-treball-en-equip",
+      "participacio"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "El grup ha de comptar de l'1 al 10 sense ordre establert: cada número el diu una sola persona i, si dues parlen alhora, es torna a començar.",
@@ -346,6 +394,10 @@
     ],
     "temes": [
       "orientacio"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "sentit-de-coherencia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -377,6 +429,10 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "convivencia",
+      "empatia"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Pòsits i bolígrafs. Gomets (opcional).",
@@ -404,6 +460,9 @@
     ],
     "temes": [
       "compromis"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -436,6 +495,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "creativitat"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "En rotllana, cadascú afegeix una sola paraula per construir entre tots un conte, com més ràpid millor.",
@@ -463,6 +526,9 @@
     "temes": [
       "diversitat",
       "compromis"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -492,6 +558,10 @@
     ],
     "temes": [
       "comunicacio"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "comunicacio-interpersonal"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -523,6 +593,10 @@
       "diversitat",
       "compromis"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "diversitat"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Deu papers petits per persona (o un full dividit en requadres) i llapis. Targetes amb els noms i les definicions de diferents estructures familiars (la fitxa original de Sigues tu n'inclou un annex).",
@@ -553,6 +627,10 @@
     "temes": [
       "diversitat"
     ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip",
+      "diversitat-funcional"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Pissarra, papers i bolígrafs.",
@@ -582,6 +660,9 @@
     "temes": [
       "convivencia",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -616,6 +697,9 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Música tranquil·la. Mocadors o antifaços (opcional).",
@@ -649,6 +733,9 @@
       "emocions",
       "comunicacio"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Pissarra.",
@@ -679,6 +766,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -712,6 +803,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Mocadors o antifaços. Un objecte per grup per amagar per l'aula.",
@@ -741,6 +836,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -772,6 +871,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Un gat persegueix els ratolins, que només se salven quan estan abraçats per parelles; el ratolí atrapat passa a ser el gat.",
@@ -801,6 +903,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "acceptacio",
+      "cohesio-de-grup"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Revistes, tisores, cola, pintura i paper per al mural.",
@@ -828,6 +934,10 @@
     "temes": [
       "autoconeixement",
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -857,6 +967,10 @@
     "temes": [
       "orientacio",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "sentit-de-coherencia"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -888,6 +1002,9 @@
     "temes": [
       "convivencia",
       "comunicacio"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -923,6 +1040,9 @@
       "convivencia",
       "emocions"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Papers, bolígrafs, una capsa o un bol, i música suau.",
@@ -950,6 +1070,11 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "convivencia",
+      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -982,6 +1107,9 @@
       "violencies",
       "afectivitat"
     ],
+    "siguestu": [
+      "negociacio-i-refus"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Una targeta vermella i una de verda per grup.",
@@ -1009,6 +1137,11 @@
     ],
     "temes": [
       "assetjament"
+    ],
+    "siguestu": [
+      "assetjament",
+      "ciberassetjament",
+      "pensament-critic"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1042,6 +1175,11 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Amb els ulls tancats, cadascú imagina un termòmetre del 0 al 10 i mostra amb els dits quanta tranquil·litat sent a l'aula; després el grup observa el resultat en silenci.",
@@ -1074,6 +1212,9 @@
       "convivencia",
       "emocions"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Un objecte que faci de tòtem. Música relaxant. Opcionalment, una tela, flors o altres elements per decorar el centre.",
@@ -1103,6 +1244,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "acceptacio",
+      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1135,6 +1280,10 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "comunicacio-interpersonal"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "Asseguts al costat d'algú amb qui no es relacionen gaire, l'alumnat s'explica per parelles una situació del grup que no li agrada i després la resumeix a la classe intentant endevinar l'emoció de l'altre.",
@@ -1161,6 +1310,10 @@
     ],
     "temes": [
       "orientacio"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "sentit-de-coherencia"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1193,6 +1346,10 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "comunicacio-interpersonal"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Per parelles, una persona mira fixament alguna cosa de l'aula i l'altra ha d'endevinar què és fixant-se en els seus ulls i el seu cos.",
@@ -1222,6 +1379,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "acceptacio",
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Cinta o guix per marcar quadrats a terra.",
@@ -1250,6 +1411,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "cooperacio-i-treball-en-equip"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1282,6 +1447,11 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "En una roda de presentació, cadascú diu el seu nom i representa amb mímica la seva afició preferida; la persona del costat l'endevina i qui la comparteix s'aixeca fent un moviment divertit.",
@@ -1310,6 +1480,11 @@
     "temes": [
       "emocions"
     ],
+    "siguestu": [
+      "convivencia",
+      "dol-i-perdues",
+      "gestio-de-les-emocions"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "En cercle, el grup comparteix què li evoca la paraula «pèrdua» i descobreix que el dol és un procés normal que no només té a veure amb la mort.",
@@ -1337,6 +1512,12 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup",
+      "comunicacio-interpersonal",
+      "gestio-de-les-emocions"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1369,6 +1550,12 @@
       "diversitat",
       "comunicacio"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "estereotips",
+      "etiquetes",
+      "prejudicis"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Etiquetes adhesives o paperets amb paraules.",
@@ -1400,6 +1587,12 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup",
+      "comunicacio-interpersonal",
+      "gestio-de-les-emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "L'objecte de paraula que es faci servir a l'aula per al cercle de paraula.",
@@ -1427,6 +1620,14 @@
     ],
     "temes": [
       "emocions"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "comunicacio-interpersonal",
+      "empatia",
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "salut-mental",
+      "teatre"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1460,6 +1661,9 @@
       "diversitat",
       "convivencia"
     ],
+    "siguestu": [
+      "autoconeixement"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Imatges i pictogrames. El que calgui per a una petita celebració (música, menjar, un espai tranquil...).",
@@ -1491,6 +1695,10 @@
     "temes": [
       "convivencia",
       "emocions"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "habilitats-per-a-la-vida"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1524,6 +1732,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "creativitat"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Una peça de fusta (o un objecte petit) per persona.",
@@ -1556,6 +1768,11 @@
       "emocions",
       "autoconeixement"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Imatges diverses (es poden triar segons el tema que es vulgui treballar: violències, masclisme, estrès...). Fulls i bolígrafs.",
@@ -1587,6 +1804,9 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Animals de joguina. Un espai d'un metre quadrat (unes taules juntes o un tros de terra) que faci d'escenari.",
@@ -1617,6 +1837,10 @@
       "convivencia",
       "comunicacio"
     ],
+    "siguestu": [
+      "negociacio-i-refus",
+      "pressio-de-grup"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pòsits o papers petits i bolígrafs. La fórmula de la comunicació no violenta a la pissarra.",
@@ -1645,6 +1869,12 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup",
+      "comunicacio-interpersonal",
+      "gestio-de-les-emocions"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1679,6 +1909,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Música suau. Antifaços (opcional). Un mirall (opcional).",
@@ -1712,6 +1945,14 @@
       "violencies",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cohesio-de-grup",
+      "convivencia",
+      "pressio-de-grup",
+      "respecte-per-un-mateix",
+      "seguretat"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "En dues files enfrontades, una persona s'acosta a la seva parella fins que aquesta li indica que ja és dins el seu espai vital.",
@@ -1743,6 +1984,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "En rotllana i agafats de les mans, les persones numerades amb 1 es tiren enrere i les numerades amb 2, endavant, i el grup ha de trobar l'equilibri sense caure.",
@@ -1772,6 +2016,10 @@
       "convivencia",
       "comunicacio",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "negociacio-i-refus",
+      "pressio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1805,6 +2053,11 @@
       "emocions",
       "autoconeixement"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pòsits i bolígrafs. Ordinador i projector per veure el vídeo «Ballant davant del mirall» (https://www.videoman.gr/es/98979).",
@@ -1835,6 +2088,9 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1869,6 +2125,9 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "negociacio-i-refus"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Paper d'embalar, retalls, colors i altres materials plàstics.",
@@ -1898,6 +2157,12 @@
     "temes": [
       "comunicacio",
       "convivencia"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "estereotips",
+      "etiquetes",
+      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1930,6 +2195,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Una cadira per persona.",
@@ -1960,6 +2228,10 @@
     "temes": [
       "convivencia",
       "comunicacio"
+    ],
+    "siguestu": [
+      "negociacio-i-refus",
+      "pressio-de-grup"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1992,6 +2264,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Tot el grup s'estira a terra de bocaterrosa formant una catifa humana i, amb moviments ondulatoris, fa passar per sobre una persona d'una punta a l'altra.",
@@ -2020,6 +2296,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "cooperacio-i-treball-en-equip"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Un cabdell de llana per al tancament.",
@@ -2047,6 +2327,12 @@
     ],
     "temes": [
       "diversitat"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "estereotips",
+      "etiquetes",
+      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2078,6 +2364,9 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Papers petits i bolígrafs.",
@@ -2106,6 +2395,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "convivencia",
+      "empatia"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2139,6 +2432,9 @@
       "convivencia",
       "emocions"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Peces de fusta per construir.",
@@ -2168,6 +2464,10 @@
     "temes": [
       "autoconeixement",
       "convivencia"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2201,6 +2501,9 @@
       "diversitat",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En rotllana, surten al mig les persones que comparteixen cada necessitat que es va dient, i el grup parla d'accessibilitat i de com entendre les necessitats dels altres.",
@@ -2227,6 +2530,11 @@
     ],
     "temes": [
       "diversitat"
+    ],
+    "siguestu": [
+      "diversitat",
+      "empatia",
+      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2256,6 +2564,10 @@
     "temes": [
       "orientacio",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "sentit-de-coherencia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2289,6 +2601,10 @@
       "convivencia",
       "emocions"
     ],
+    "siguestu": [
+      "acceptacio",
+      "cohesio-de-grup"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "En rotllana, fan un pas endavant les persones a qui els agrada una cosa i un pas enrere les que no; després expressen què els fa sentir bé a classe.",
@@ -2319,6 +2635,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Un mocador.",
@@ -2344,6 +2664,9 @@
     ],
     "temes": [
       "compromis"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2376,6 +2699,9 @@
     "temes": [
       "emocions"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "En cercle, una persona al centre diu què necessita quan sent una emoció i qui necessita el mateix fa un pas endavant, més o menys gran segons la intensitat.",
@@ -2407,6 +2733,9 @@
       "autoconeixement",
       "orientacio"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Fulls, pòsits i bolígrafs.",
@@ -2436,6 +2765,11 @@
     ],
     "temes": [
       "emocions"
+    ],
+    "siguestu": [
+      "convivencia",
+      "dol-i-perdues",
+      "gestio-de-les-emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2468,6 +2802,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
+    ],
     "durada": 10,
     "grup": "mitja",
     "materials": "Un cèrcol per grup.",
@@ -2495,6 +2833,11 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "convivencia",
+      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2530,6 +2873,9 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Música que ajudi a connectar amb cada emoció (opcional).",
@@ -2560,6 +2906,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2592,6 +2942,10 @@
       "diversitat",
       "compromis"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "diversitat"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Les targetes de les estructures familiars, paper i retoladors per als cartells.",
@@ -2621,6 +2975,11 @@
     ],
     "temes": [
       "emocions"
+    ],
+    "siguestu": [
+      "convivencia",
+      "dol-i-perdues",
+      "gestio-de-les-emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2653,6 +3012,11 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Cartes de les emocions o imatges diverses.",
@@ -2684,6 +3048,10 @@
       "convivencia",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Una cadira per persona menys una.",
@@ -2714,6 +3082,11 @@
     "temes": [
       "assetjament"
     ],
+    "siguestu": [
+      "assetjament",
+      "ciberassetjament",
+      "pensament-critic"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pissarra per dibuixar l'esquema de rols de l'assetjament.",
@@ -2743,6 +3116,10 @@
     "temes": [
       "convivencia"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Amb els ulls clucs, el grup ha d'endevinar, fent preguntes, qui és la persona que s'ha posat al centre de la rotllana.",
@@ -2770,6 +3147,9 @@
     "temes": [
       "diversitat",
       "compromis"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -2803,6 +3183,11 @@
       "autoconeixement",
       "convivencia"
     ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Una cartolina per persona, colors i retoladors, i gomets.",
@@ -2831,6 +3216,11 @@
     ],
     "temes": [
       "assetjament"
+    ],
+    "siguestu": [
+      "assetjament",
+      "ciberassetjament",
+      "pensament-critic"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -2861,6 +3251,10 @@
     "temes": [
       "orientacio"
     ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "sentit-de-coherencia"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Ronda en què cadascú diu què volia ser de gran quan era petit, i després s'aixequen els qui encara ho volen, els qui han canviat d'idea i els qui no ho saben.",
@@ -2888,6 +3282,11 @@
     ],
     "temes": [
       "diversitat"
+    ],
+    "siguestu": [
+      "diversitat",
+      "empatia",
+      "prejudicis"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -2919,6 +3318,10 @@
     ],
     "temes": [
       "convivencia"
+    ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "participacio"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -2953,6 +3356,9 @@
       "emocions",
       "convivencia"
     ],
+    "siguestu": [
+      "cohesio-de-grup"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Música (opcional).",
@@ -2984,6 +3390,13 @@
       "convivencia",
       "autoconeixement"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions",
+      "participacio"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Ronda de presentació en què cadascú diu el seu nom i què seria si fos un estri de cuina, un moble, un animal, un plat o una planta, i per què.",
@@ -3013,6 +3426,11 @@
     ],
     "temes": [
       "diversitat"
+    ],
+    "siguestu": [
+      "diversitat",
+      "empatia",
+      "prejudicis"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -3044,6 +3462,13 @@
       "convivencia",
       "autoconeixement"
     ],
+    "siguestu": [
+      "cohesio-de-grup",
+      "comunicacio-interpersonal",
+      "empatia",
+      "gestio-de-les-emocions",
+      "participacio"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Pòsits, bolígrafs i una bossa o capsa.",
@@ -3073,6 +3498,9 @@
     ],
     "temes": [
       "diversitat",
+      "autoconeixement"
+    ],
+    "siguestu": [
       "autoconeixement"
     ],
     "durada": 35,
@@ -3106,6 +3534,10 @@
       "convivencia",
       "diversitat"
     ],
+    "siguestu": [
+      "acceptacio",
+      "cohesio-de-grup"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Un paper i un bolígraf per a cada usuari del taxi, i les consignes secretes dels taxistes.",
@@ -3135,6 +3567,10 @@
     ],
     "temes": [
       "autoconeixement"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -3166,6 +3602,10 @@
       "autoconeixement",
       "convivencia"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "cohesio-de-grup"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Un full per persona, pinces d'estendre roba i bolígrafs.",
@@ -3193,6 +3633,10 @@
     ],
     "temes": [
       "diversitat"
+    ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip",
+      "diversitat-funcional"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -3222,6 +3666,9 @@
     "temes": [
       "diversitat",
       "compromis"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social"
     ],
     "durada": 35,
     "grup": "mitja",

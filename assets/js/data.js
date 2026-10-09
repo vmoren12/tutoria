@@ -21,6 +21,8 @@
   (taxonomia.nivells || []).forEach(function (n) { per_nivell[n.id] = n; });
   var per_tema = {};
   (taxonomia.temes || []).forEach(function (t) { per_tema[t.id] = t; });
+  var per_siguestu = {};
+  (taxonomia.siguestu || []).forEach(function (t) { per_siguestu[t.id] = t; });
 
   var llista = [];
   var index = {};
@@ -35,6 +37,7 @@
       (d.nivells || []).map(nom_nivell).join(' '),
       (d.etiquetes || []).map(nom_etiqueta).join(' '),
       (d.temes || []).map(nom_tema).join(' '),
+      (d.siguestu || []).map(nom_siguestu).join(' '),
     ].join(' '));
   }
 
@@ -48,6 +51,11 @@
 
   function nom_tema(id) {
     return per_tema[id] ? per_tema[id].nom : id || '';
+  }
+
+  /** Nom d'una etiqueta del web de Sigues tu («Empatia», «Drogues»). */
+  function nom_siguestu(id) {
+    return per_siguestu[id] ? per_siguestu[id].nom : id || '';
   }
 
   function nom_grup(id) {
@@ -118,6 +126,7 @@
       d.etiquetes = d.etiquetes || [];
       d.nivells = d.nivells || [];
       d.temes = d.temes || [];
+      d.siguestu = d.siguestu || [];
       d.tipus = d.tipus || 'dinamica';
       d.durada = Number(d.durada) || 15;
       d._cerca = text_cercable(d);
@@ -135,7 +144,8 @@
 
   function obte(id) { return index[id] || null; }
 
-  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus, nivell i tema. */
+  /** Recompte de fitxes per categoria, etiqueta, mida de grup, tipus, nivell, tema
+      i etiqueta de Sigues tu. */
   function recomptes(conjunt) {
     var categories = {};
     var etiquetes = {};
@@ -143,6 +153,7 @@
     var tipus = {};
     var nivells = {};
     var temes = {};
+    var siguestu = {};
     (conjunt || llista).forEach(function (d) {
       categories[d.categoria] = (categories[d.categoria] || 0) + 1;
       grups[d.grup] = (grups[d.grup] || 0) + 1;
@@ -150,10 +161,11 @@
       d.etiquetes.forEach(function (t) { etiquetes[t] = (etiquetes[t] || 0) + 1; });
       d.nivells.forEach(function (n) { nivells[n] = (nivells[n] || 0) + 1; });
       d.temes.forEach(function (t) { temes[t] = (temes[t] || 0) + 1; });
+      d.siguestu.forEach(function (t) { siguestu[t] = (siguestu[t] || 0) + 1; });
     });
     return {
       categories: categories, etiquetes: etiquetes, grups: grups,
-      tipus: tipus, nivells: nivells, temes: temes,
+      tipus: tipus, nivells: nivells, temes: temes, siguestu: siguestu,
     };
   }
 
@@ -201,6 +213,7 @@
     nom_categoria: nom_categoria,
     nom_etiqueta: nom_etiqueta,
     nom_tema: nom_tema,
+    nom_siguestu: nom_siguestu,
     nom_grup: nom_grup,
     nom_tipus: nom_tipus,
     nom_nivell: nom_nivell,

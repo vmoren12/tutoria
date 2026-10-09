@@ -68,6 +68,7 @@
     var rn = TUT.data.recomptes(TUT.search.filtra(tot, f, 'nivells'));
     var rm = TUT.data.recomptes(TUT.search.filtra(tot, f, 'temes'));
     var rc = TUT.data.recomptes(TUT.search.filtra(tot, f, 'categories'));
+    var rs = TUT.data.recomptes(TUT.search.filtra(tot, f, 'siguestu'));
     var re = TUT.data.recomptes(TUT.search.filtra(tot, f, 'etiquetes'));
     var rg = TUT.data.recomptes(TUT.search.filtra(tot, f, 'grups'));
 
@@ -93,6 +94,12 @@
       '<div class="filtres__grup">' +
         '<legend>Categoria</legend>' +
         faceta_categories(f.categories, rc.categories) +
+      '</div>' +
+      '<div class="filtres__grup">' +
+        '<legend>Etiquetes de Sigues tu</legend>' +
+        opcions_faceta('siguestu', 'siguestu', tax.siguestu || [], f.siguestu, rs.siguestu, 'checkbox') +
+        '<p class="filtres__ajuda">Les etiquetes del web siguestu.cat (habilitats per a la vida ' +
+          'i temes) de la sessió d\'on surt cada dinàmica del programa.</p>' +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Etiquetes</legend>' +
@@ -157,6 +164,7 @@
     f.nivells.forEach(function (n) { xip(TUT.data.nom_nivell(n), 'nivells', n); });
     f.temes.forEach(function (t) { xip(TUT.data.nom_tema(t), 'temes', t); });
     f.categories.forEach(function (c) { xip(TUT.data.nom_categoria(c), 'categories', c); });
+    f.siguestu.forEach(function (t) { xip(TUT.data.nom_siguestu(t), 'siguestu', t); });
     f.etiquetes.forEach(function (t) { xip(TUT.data.nom_etiqueta(t), 'etiquetes', t); });
     f.grups.forEach(function (g) { xip(TUT.data.nom_grup(g), 'grups', g); });
     if (f.durada_max) xip('Fins a ' + f.durada_max + ' min', 'durada_max');

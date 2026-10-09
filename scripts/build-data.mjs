@@ -50,6 +50,7 @@ const taxonomia = JSON.parse(await readFile(path.join(ROOT, 'data', 'taxonomia.j
 const categories = new Set(taxonomia.categories.map((c) => c.id));
 const etiquetes = new Set(taxonomia.etiquetes.map((t) => t.id));
 const temes = new Set((taxonomia.temes || []).map((t) => t.id));
+const siguestu = new Set((taxonomia.siguestu || []).map((t) => t.id));
 const grups = new Set(taxonomia.grups.map((g) => g.id));
 const tipus = new Set(taxonomia.tipus.map((t) => t.id));
 const nivells = new Set(taxonomia.nivells.map((n) => n.id));
@@ -98,6 +99,12 @@ for (const fitxer of fitxers) {
         avisos++;
       }
     }
+    for (const t of d.siguestu || []) {
+      if (!siguestu.has(t)) {
+        console.warn(`  avís  ${d.id}: etiqueta de Sigues tu desconeguda "${t}"`);
+        avisos++;
+      }
+    }
     if (d.grup && !grups.has(d.grup)) {
       console.warn(`  avís  ${d.id}: mida de grup desconeguda "${d.grup}"`);
       avisos++;
@@ -126,6 +133,7 @@ for (const fitxer of fitxers) {
     };
     if (d.nivells && d.nivells.length) net.nivells = [...d.nivells];
     if (d.temes && d.temes.length) net.temes = [...new Set(d.temes)];
+    if (d.siguestu && d.siguestu.length) net.siguestu = [...new Set(d.siguestu)];
     if (d.unitat) net.unitat = d.unitat;
     if (d.activitats && d.activitats.length) net.activitats = [...d.activitats];
     for (const camp of CAMPS_TEXT) {

@@ -16,6 +16,10 @@
       "habits",
       "medi-ambient"
     ],
+    "siguestu": [
+      "benestar-animal",
+      "empatia"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Pissarra.",
@@ -44,6 +48,11 @@
     "temes": [
       "pantalles",
       "comunicacio"
+    ],
+    "siguestu": [
+      "ciberassetjament",
+      "comunicacio-interpersonal",
+      "us-de-pantalles"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -76,6 +85,10 @@
       "autoconeixement",
       "emocions"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "drogues"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pòsits, bolígrafs i pissarra.",
@@ -104,6 +117,13 @@
     "temes": [
       "consums",
       "compromis"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "drogues",
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "seguretat",
+      "us-dels-medicaments"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -134,6 +154,10 @@
       "pantalles",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "us-de-pantalles"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En una línia del 0 al 10, l'alumnat es posiciona sobre diverses frases segons com és a casa, a l'institut, amb les amistats i a les pantalles.",
@@ -163,6 +187,10 @@
       "habits",
       "medi-ambient"
     ],
+    "siguestu": [
+      "benestar-animal",
+      "empatia"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pissarra, papers i bolígrafs.",
@@ -190,6 +218,10 @@
     ],
     "temes": [
       "habits"
+    ],
+    "siguestu": [
+      "alimentacio",
+      "gestio-de-les-emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -219,6 +251,10 @@
     "temes": [
       "habits",
       "emocions"
+    ],
+    "siguestu": [
+      "activitat-i-descans",
+      "gestio-de-l-estres"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -250,6 +286,9 @@
       "habits",
       "convivencia"
     ],
+    "siguestu": [
+      "activitat-i-descans"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Fulls de diari.",
@@ -279,6 +318,11 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "drogues",
+      "empatia"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -310,6 +354,10 @@
       "habits",
       "emocions"
     ],
+    "siguestu": [
+      "alimentacio",
+      "gestio-de-les-emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "En cercle, l'alumnat s'acosta al centre com més s'identifica amb afirmacions sobre quan i per què menja dolços.",
@@ -336,6 +384,13 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "drogues",
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "seguretat",
+      "us-dels-medicaments"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -365,6 +420,9 @@
     ],
     "temes": [
       "medi-ambient"
+    ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -397,6 +455,10 @@
       "pantalles",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "us-de-pantalles"
+    ],
     "durada": 20,
     "grup": "mitja",
     "resum": "Cada persona es presenta dient què destacaria de si mateixa en el seu perfil de xarxes socials, i el grup reflexiona sobre la identitat i les pantalles.",
@@ -428,6 +490,9 @@
       "habits",
       "convivencia"
     ],
+    "siguestu": [
+      "activitat-i-descans"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Un mocador i un dau.",
@@ -438,6 +503,39 @@
     "descripcio": "Dividiu el grup en dos equips, cadascun a una banda del camp. Al mig, una persona aguanta un mocador penjant de la mà.\n\nEs juga com al mocador tradicional, però els participants no corren sols sinó en parelles agafades de la mà. La parella que agafa el mocador ha de tornar a la seva zona sense que la parella perseguidora l'atrapi.\n\nNo hi ha eliminats ni presoners. La parella que guanya la jugada tira un dau, i la puntuació se suma al marcador del seu equip. Així, és l'atzar qui decideix quin equip suma més punts.",
     "avaluacio": "Havíeu jugat mai a aquesta versió? Us ha agradat? Per què?\nUs ha estat fàcil col·laborar? Us ha costat coordinar-vos per anar a buscar el mocador?\nQuè reforça aquest joc?",
     "notes": "Forma part de la sessió «Activitat física» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16565-activitat-fisica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-pressupost-de-promocio-de-la-salut",
+    "titol": "El pressupost de promoció de la salut",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "drogues",
+      "tabac"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs. Pissarra. Opcionalment, ordinador i projector per consultar informació.",
+    "resum": "Els grups defensen davant la classe un tema relacionat amb el tabac i el cànnabis per aconseguir part d'un pressupost de 120.000 euros, i la classe vota com es reparteix.",
+    "objectius": "Descobrir la complexitat dels consums i els aspectes que s'hi relacionen, i practicar com exposar i defensar idees perquè arribin a qui escolta.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Plantegeu la situació: hi ha un pressupost de 120.000 euros per tirar endavant un projecte de promoció de la salut sobre el tabac i el cànnabis. Cada grup ha d'exposar un tema d'interès i, al final, la classe votarà quin percentatge s'hi destina. Les propostes es fan de 10.000 en 10.000 euros i cada grup decideix quant demana.\n\nApunteu els temes a la pissarra perquè cada grup en triï un i vegi quins altres hi ha:\n\n- Presa de decisions.\n- Mites i falses creences.\n- Influències.\n- Expectatives del consum.\n- Efectes i conseqüències del consum.\n- El negoci de les drogues.\n- Reducció de riscos i danys.\n- Perspectiva de gènere.\n- Factors de risc i protecció.\n- Dependència.\n- Sexualitat.\n- Resolució de conflictes.\n- Consumisme.\n\nEls grups preparen l'exposició fixant-se en quines idees defensen, com les expliquen i com poden arribar a qui els escolta. Després, cada grup exposa i demana la seva part, i la classe vota el repartiment.",
+    "avaluacio": "Feu una ronda en què cadascú diu què ha après, què l'ha sorprès o quins dubtes li han quedat. Per aprofundir, podeu consultar els apartats de tabac, vàper i porros d'elPep.info.",
+    "notes": "Forma part de la sessió «Fumar?» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16555-fumar.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -459,6 +557,9 @@
     "temes": [
       "habits",
       "convivencia"
+    ],
+    "siguestu": [
+      "activitat-i-descans"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -487,6 +588,10 @@
     "temes": [
       "autoconeixement",
       "emocions"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "drogues"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -519,6 +624,9 @@
     "temes": [
       "medi-ambient"
     ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Papers, bolígrafs, colors.",
@@ -549,6 +657,9 @@
     "temes": [
       "medi-ambient"
     ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Antifaços o mocadors per tapar els ulls (opcional). Paper per al tancament.",
@@ -559,6 +670,40 @@
     "descripcio": "Per parelles: una persona porta els ulls tapats i l'altra la guia per l'espai. Si heu fet un mapa sensorial, poden seguir-ne la ruta i aturar-se als punts que hi han marcat perquè l'explorador els toqui, els olori o els escolti.\n\nA mig temps, intercanvien els papers.",
     "avaluacio": "Què ha estat més difícil? Com us heu sentit confiant en l'altra persona?\n\nPer tancar, trieu una opció:\n- El cercle de les fulles: cadascú agafa una fulla del terra i hi escriu al revers un aspecte positiu de l'experiència. En cercle, comparteixen una paraula o frase que resumeixi el taller i deixen les fulles al centre formant un mandala.\n- Compromís: cadascú escriu un compromís per passar més temps a la natura i el deseu en una capsa per revisar-lo d'aquí a un temps.\n- Acció col·lectiva: el grup acorda una activitat a la natura o un projecte ecològic per fer junts.",
     "notes": "Forma part de la sessió «Connexió amb la natura» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21548-connexio-amb-la-natura.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-i-per-que-fumar",
+    "titol": "I per què fumar?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "consums"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "drogues",
+      "tabac"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "Pluja d'idees de motius per fumar i per no fumar, i improvisació d'una discussió entre una persona adulta i un adolescent que defensa que fumar «no passa res», mentre el grup observa com es comuniquen.",
+    "objectius": "Reflexionar sobre els motius individuals i de context que poden empènyer una persona a fumar, i observar els estils de comunicació en una discussió.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "La proposta és de prevenció universal: reforceu la idea que no fumar tabac ni cànnabis és una bona manera d'evitar problemes i recordeu que qui hi sigui més a prop ha d'extremar la prudència i, si cal, demanar ajuda. Parleu en termes generals i poseu l'accent en el comportament majoritari (segons l'enquesta Estudes 2023, el 73,1 % dels joves de 14 a 18 anys no ha fumat mai cànnabis i el consum de tabac és el més baix des que es fa l'enquesta, tot i que el del vàper s'ha disparat). Eviteu preguntes directes («Quins efectes teniu quan fumeu un porro?») i generalitzacions que donin força al consum («La majoria de joves vapeja»).\n\nPer començar, cadascú diu el seu nom i quantes persones fumadores coneix (de tabac, vàper o cànnabis), i ho apunteu a la pissarra. Presenteu l'habilitat amb preguntes: què és la comunicació interpersonal? Té res a veure amb el consum? El consum pot afectar la manera de relacionar-se?",
+    "descripcio": "Feu una pluja d'idees en què cadascú diu un motiu per fumar o per no fumar; si cal, feu una segona ronda. Aneu-los apuntant a la pissarra en dues columnes. Poden sortir, per exemple:\n\n- Per fumar: pel gust, perquè relaxa, per semblar més gran, per impressionar, per entretenir-se, per no engreixar-se, perquè les amistats fumen, perquè no s'aconsegueix deixar-ho, perquè tothom ho fa, per rebel·lar-se.\n- Per no fumar: perjudica la salut pròpia i la de l'entorn, costa molt deixar-ho, està mal vist, és car, fa fàstic i fa pudor, afecta l'esport i la respiració, per motius culturals o religiosos.\n\nDemaneu voluntaris per improvisar en parelles o en grups de tres una escena entre una persona adulta (pare, mare, tutor, avi...) i un adolescent de 16 anys. El jove explica per què fuma i defensa que «no passa res»; l'adult defensa la posició contrària. Han de fer sortir almenys dos dels motius de la pissarra.\n\nLa resta del grup es fixa en com es comuniquen: quins estils i quines estratègies fan servir?",
+    "avaluacio": "Us semblen bons motius per fumar? Creieu que amb els cigarrets s'aconsegueixen aquests beneficis? Es podrien aconseguir d'alguna altra manera?",
+    "notes": "Si la persona adulta que dinamitza fuma, la guia «Connecta amb els teus fills» proposa explicar com va començar i com s'hi va quedar enganxada sense adonar-se'n, no parlar mai del tabac en positiu i deixar clar que espera que l'alumnat no fumi mai.\n\nForma part de la sessió «Fumar?» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16555-fumar.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -578,6 +723,11 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "negociacio-i-refus",
+      "oci-nocturn"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -610,6 +760,9 @@
     "temes": [
       "emocions"
     ],
+    "siguestu": [
+      "cooperacio-i-treball-en-equip"
+    ],
     "durada": 15,
     "grup": "mitja",
     "espai": "A l'exterior: al pati o, si és possible, en un espai natural.",
@@ -639,6 +792,9 @@
       "habits",
       "convivencia"
     ],
+    "siguestu": [
+      "activitat-i-descans"
+    ],
     "durada": 10,
     "grup": "mitja",
     "resum": "Una filera agafada de les mans s'enrotlla en espiral fins a fer una gran abraçada col·lectiva, i després s'ha de desfer sense deixar-se anar.",
@@ -666,6 +822,12 @@
     ],
     "temes": [
       "pantalles"
+    ],
+    "siguestu": [
+      "addiccions",
+      "pensament-critic",
+      "teatre",
+      "us-de-pantalles"
     ],
     "durada": 120,
     "grup": "mitja",
@@ -696,6 +858,9 @@
       "habits",
       "convivencia"
     ],
+    "siguestu": [
+      "activitat-i-descans"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Mocadors per tapar els ulls (opcional).",
@@ -724,6 +889,11 @@
     "temes": [
       "consums",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "drogues",
+      "empatia"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -756,6 +926,11 @@
       "pantalles",
       "comunicacio"
     ],
+    "siguestu": [
+      "ciberassetjament",
+      "comunicacio-interpersonal",
+      "us-de-pantalles"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En dos cercles concèntrics, les parelles canvien cada deu segons i s'han de dir opinions ràpides, de les agradables a les desagradables.",
@@ -782,6 +957,11 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "addiccions",
+      "negociacio-i-refus",
+      "tabac"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -810,6 +990,11 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "drogues",
+      "empatia"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -842,6 +1027,11 @@
       "consums",
       "habits"
     ],
+    "siguestu": [
+      "consum-d-alcohol",
+      "negociacio-i-refus",
+      "oci-nocturn"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Papers i bolígrafs. Pissarra.",
@@ -873,6 +1063,10 @@
       "autoconeixement",
       "emocions"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "drogues"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "Caminant per l'espai, l'alumnat s'aparella diverses vegades i respon «Què t'agrada?» sense poder repetir mai la resposta.",
@@ -899,6 +1093,11 @@
     "temes": [
       "pantalles",
       "comunicacio"
+    ],
+    "siguestu": [
+      "ciberassetjament",
+      "comunicacio-interpersonal",
+      "us-de-pantalles"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -928,6 +1127,10 @@
       "habits",
       "emocions",
       "pantalles"
+    ],
+    "siguestu": [
+      "activitat-i-descans",
+      "gestio-de-l-estres"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -959,6 +1162,10 @@
       "habits",
       "emocions"
     ],
+    "siguestu": [
+      "activitat-i-descans",
+      "gestio-de-l-estres"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Música relaxant (opcional).",
@@ -987,6 +1194,11 @@
     ],
     "temes": [
       "consums"
+    ],
+    "siguestu": [
+      "addiccions",
+      "negociacio-i-refus",
+      "tabac"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -1019,6 +1231,10 @@
       "habits",
       "emocions"
     ],
+    "siguestu": [
+      "alimentacio",
+      "gestio-de-les-emocions"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pissarra. Cartells amb les emocions bàsiques.",
@@ -1048,6 +1264,10 @@
       "pantalles",
       "genere"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "us-de-pantalles"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Pissarra i retoladors.",
@@ -1076,6 +1296,10 @@
     "temes": [
       "habits",
       "medi-ambient"
+    ],
+    "siguestu": [
+      "benestar-animal",
+      "empatia"
     ],
     "durada": 20,
     "grup": "mitja",

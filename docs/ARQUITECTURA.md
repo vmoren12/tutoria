@@ -106,6 +106,13 @@ quina funció té, i el tema diu de què tracta. Així, filtrar per «Afectivita
 reuneix unitats de l'HEBE i dinàmiques de Sigues tu. Al contrari que el nivell, una fitxa
 sense temes queda fora quan el filtre és actiu, i per això els jocs de grup no en porten.
 
+El camp `siguestu` només el tenen les dinàmiques de Sigues tu: són les etiquetes que el web
+siguestu.cat dona a la sessió d'on surt cada fitxa (habilitats per a la vida com «Empatia»
+o «Pensament crític» i temes com «Drogues» o «Gènere»), amb la llista a `siguestu` de la
+taxonomia. Al panell de filtres fan un grup propi i es combinen com els temes: n'hi ha prou
+que la fitxa en tingui una de les marcades. El formulari d'edició no les mostra, però les
+conserva en desar.
+
 ## Catàleg bilingue
 
 Cada fitxa del bundle porta el text **català** als camps principals i l'**original

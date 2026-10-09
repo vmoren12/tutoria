@@ -14,7 +14,7 @@ El catàleg conté **tres tipus de proposta**, distingits pel camp `tipus`:
 
 ```
 data/
-├── taxonomia.json          categories, temes, etiquetes, mides de grup, nivells
+├── taxonomia.json          categories, temes, etiquetes, etiquetes de Sigues tu, mides de grup, nivells
 ├── bibliografia.json       obres d'origen de les dinàmiques
 ├── dinamiques/
 │   ├── presentacio.json
@@ -52,6 +52,7 @@ avisa dels **títols repetits**, que solen ser fitxes duplicades.
   "etiquetes": ["cercle", "sense-material"],
   "nivells": ["3eso"],               // opcional; sense nivells serveix per a qualsevol curs
   "temes": ["convivencia"],          // opcional; de què tracta la proposta
+  "siguestu": ["empatia"],           // opcional; etiquetes del web, només a les fitxes de Sigues tu
   "durada": 20,                      // minuts, nombre enter
   "grup": "mitja",                   // petit | mitja | gran
   "materials": "Un cabdell de llana",
@@ -86,6 +87,11 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
   les propostes que tracten un tema concret: les de l'HEBE i les de Sigues tu. Els jocs de
   grup no en tenen i es classifiquen per categoria. Els temes de l'HEBE es fixen per unitat
   a `TEMES`, dins de `scripts/extract_hebe.py`, i les activitats hereten els de la seva unitat.
+- **`siguestu`**: només a les fitxes del programa *Sigues tu*. Són les etiquetes que el web
+  siguestu.cat dona a la sessió d'on surt la fitxa (es veuen a la pàgina de la sessió), amb
+  els identificadors de la llista `siguestu` de `data/taxonomia.json`. Totes les dinàmiques
+  d'una mateixa sessió porten les mateixes. Si una sessió no en té cap, s'hi posa l'habilitat
+  per a la vida que declara. Si una etiqueta encara no és a la taxonomia, cal afegir-la-hi.
 
 ### Unitats didàctiques i les seves activitats
 

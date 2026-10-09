@@ -19,6 +19,10 @@
       "violencies",
       "genere"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "us-de-pantalles"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "Els grups trien una situació injusta relacionada amb la sexualitat que passi a l'institut i dissenyen accions col·lectives per denunciar-la.",
@@ -44,6 +48,10 @@
       "subgrups"
     ],
     "temes": [
+      "autoconeixement",
+      "genere"
+    ],
+    "siguestu": [
       "autoconeixement",
       "genere"
     ],
@@ -78,6 +86,13 @@
       "genere",
       "pantalles"
     ],
+    "siguestu": [
+      "agressions-sexuals",
+      "mites-sexualitat",
+      "oci-nocturn",
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "violencia-masclista"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Fulls, retoladors, pissarra. Ordinador i projector per mostrar imatges de persones famoses (opcional).",
@@ -107,6 +122,10 @@
     "temes": [
       "afectivitat",
       "violencies"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "negociacio-i-refus"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -139,6 +158,11 @@
       "autoconeixement",
       "genere"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "autoconeixement",
+      "pensament-critic"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "L'alumnat es col·loca entre l'acord i el desacord davant afirmacions sobre bellesa, lligar i estereotips, i n'argumenta la posició.",
@@ -164,6 +188,10 @@
     ],
     "temes": [
       "afectivitat"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -192,6 +220,11 @@
     "temes": [
       "afectivitat",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "genere",
+      "mites-sexualitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -223,6 +256,11 @@
     "temes": [
       "afectivitat",
       "emocions"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "empatia",
+      "gestio-de-les-emocions"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -257,6 +295,10 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Una ploma i una pilota petita per parella. També serveixen teles, esponges, cotó o altres objectes suaus o rugosos.",
@@ -284,6 +326,11 @@
     ],
     "temes": [
       "genere"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "diversitat",
+      "pensament-critic"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -314,6 +361,10 @@
       "violencies",
       "pantalles",
       "afectivitat"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-l-estres"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -347,6 +398,14 @@
       "afectivitat",
       "genere",
       "violencies"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "convivencia",
+      "estereotips",
+      "genere",
+      "teatre",
+      "violencia-masclista"
     ],
     "durada": 60,
     "grup": "mitja",
@@ -382,6 +441,11 @@
       "afectivitat",
       "violencies"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip",
+      "empatia"
+    ],
     "durada": 50,
     "grup": "mitja",
     "materials": "Cordill gruixut o guix per marcar cercles a terra. Fang, o paper i ceres.",
@@ -412,6 +476,10 @@
     "temes": [
       "pantalles",
       "violencies"
+    ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "us-de-pantalles"
     ],
     "durada": 40,
     "grup": "mitja",
@@ -446,6 +514,10 @@
       "afectivitat",
       "autoconeixement"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "autoconeixement"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "Per torns, una persona es posa al mig de la rotllana i demana al grup què necessita rebre: una pluja suau amb els dits, paraules boniques, una cançó, silenci...",
@@ -476,6 +548,10 @@
     ],
     "temes": [
       "afectivitat",
+      "autoconeixement"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
       "autoconeixement"
     ],
     "durada": 15,
@@ -512,6 +588,11 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "empatia",
+      "gestio-de-les-emocions"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Música tranquil·la (opcional).",
@@ -545,6 +626,12 @@
       "violencies",
       "afectivitat"
     ],
+    "siguestu": [
+      "abusos-sexuals",
+      "agressions-sexuals",
+      "genere",
+      "negociacio-i-refus"
+    ],
     "durada": 40,
     "grup": "mitja",
     "materials": "Trossos de corda (millor de roba) o guixos si es fa al pati. Fang o paper i colors. Música.",
@@ -575,6 +662,11 @@
       "afectivitat",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "genere",
+      "mites-sexualitat"
+    ],
     "durada": 15,
     "grup": "mitja",
     "resum": "A partir de preguntes cada vegada més íntimes sobre com ens mirem al mirall, l'alumnat s'aixeca si s'hi identifica i observa què li passa en exposar-se davant el grup.",
@@ -603,6 +695,10 @@
     ],
     "temes": [
       "emocions"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -633,6 +729,10 @@
     "temes": [
       "afectivitat",
       "violencies"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "pensament-critic"
     ],
     "durada": 35,
     "grup": "mitja",
@@ -665,6 +765,11 @@
       "autoconeixement",
       "genere"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "autoconeixement",
+      "pensament-critic"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Fulls i bolígrafs, o plastilina de diversos colors.",
@@ -696,6 +801,10 @@
       "emocions",
       "violencies"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "El docent fa de parella gelosa i manipuladora davant tota la classe, que fa de l'altre membre de la parella; després analitzen les estratègies de control i xantatge que han aparegut.",
@@ -726,6 +835,10 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "La motxilla de paper d'embalar amb els crítics interns, colors i papers.",
@@ -753,6 +866,10 @@
       "escriptura"
     ],
     "temes": [
+      "autoconeixement",
+      "genere"
+    ],
+    "siguestu": [
       "autoconeixement",
       "genere"
     ],
@@ -786,6 +903,10 @@
       "autoconeixement",
       "convivencia"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "autoconeixement"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Figures d'animals o peces de fusta de formes i mides diferents, i una taula.",
@@ -816,6 +937,11 @@
       "genere",
       "violencies"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "afectivitat-sexualitat",
+      "violencia-masclista"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fulls, bolígrafs i pissarra.",
@@ -845,6 +971,10 @@
     ],
     "temes": [
       "afectivitat"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "presa-de-decisions-i-resolucio-de-problemes"
     ],
     "durada": 60,
     "grup": "mitja",
@@ -877,6 +1007,10 @@
       "pantalles",
       "afectivitat"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-l-estres"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Ordinador i projector per veure el vídeo «La història de la Megan» (sobre el sexpreading).",
@@ -908,6 +1042,10 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 20,
     "grup": "mitja",
     "materials": "Paper d'embalar amb una motxilla gran dibuixada, papers petits, bolígrafs.",
@@ -938,6 +1076,10 @@
     "temes": [
       "afectivitat",
       "emocions"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -971,6 +1113,10 @@
       "compromis",
       "violencies"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip"
+    ],
     "durada": 45,
     "grup": "mitja",
     "materials": "Pòsits, bolígrafs. El mural dels drets, si s'ha fet.",
@@ -1003,6 +1149,11 @@
       "violencies",
       "emocions"
     ],
+    "siguestu": [
+      "agressions-sexuals",
+      "gestio-de-les-emocions",
+      "violencia-masclista"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En parelles o trios, l'alumnat pensa quines són les línies vermelles que no s'haurien de tolerar en una relació sexoafectiva, les socials i les pròpies.",
@@ -1031,6 +1182,10 @@
     "temes": [
       "afectivitat",
       "emocions"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1061,6 +1216,10 @@
     "temes": [
       "afectivitat"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "pensament-critic"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "L'alumnat camina i representa amb el cos què sent en diferents llocs imaginats; després el grup s'adona de quines parts del cos no ha anomenat i per què.",
@@ -1088,6 +1247,11 @@
     ],
     "temes": [
       "genere"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "diversitat",
+      "pensament-critic"
     ],
     "durada": 25,
     "grup": "mitja",
@@ -1118,6 +1282,11 @@
     "temes": [
       "autoconeixement",
       "pantalles"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "genere",
+      "mites-sexualitat"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1150,6 +1319,11 @@
       "genere",
       "violencies"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "afectivitat-sexualitat",
+      "violencia-masclista"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Pissarra, paper i bolígraf.",
@@ -1178,6 +1352,13 @@
     "temes": [
       "violencies",
       "genere"
+    ],
+    "siguestu": [
+      "agressions-sexuals",
+      "mites-sexualitat",
+      "oci-nocturn",
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "violencia-masclista"
     ],
     "durada": 45,
     "grup": "mitja",
@@ -1208,6 +1389,10 @@
     "temes": [
       "afectivitat",
       "compromis"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1241,6 +1426,10 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Imatges o pictogrames d'elements que poden donar plaer a través dels cinc sentits, escampats per l'aula.",
@@ -1272,6 +1461,10 @@
       "afectivitat",
       "violencies"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "negociacio-i-refus"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Papers, bolígrafs i pissarra.",
@@ -1300,6 +1493,11 @@
     ],
     "temes": [
       "genere"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1331,6 +1529,9 @@
     "temes": [
       "afectivitat"
     ],
+    "siguestu": [
+      "pensament-critic"
+    ],
     "durada": 35,
     "grup": "mitja",
     "materials": "Fulls, colors, revistes, tisores i cola. Pissarra. Opcionalment, imatges relacionades amb diferents aspectes de la sexualitat.",
@@ -1360,6 +1561,12 @@
       "violencies",
       "afectivitat"
     ],
+    "siguestu": [
+      "abusos-sexuals",
+      "agressions-sexuals",
+      "genere",
+      "negociacio-i-refus"
+    ],
     "durada": 30,
     "grup": "mitja",
     "resum": "Voluntaris improvisen situacions quotidianes de parella i d'amistat en què algú vol una cosa i l'altre no, i la classe les analitza.",
@@ -1387,6 +1594,11 @@
     "temes": [
       "afectivitat",
       "emocions"
+    ],
+    "siguestu": [
+      "agressions-sexuals",
+      "gestio-de-les-emocions",
+      "violencia-masclista"
     ],
     "durada": 15,
     "grup": "mitja",
@@ -1421,6 +1633,11 @@
       "compromis",
       "afectivitat"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "afectivitat-sexualitat",
+      "pensament-critic"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Targetes amb frases sobre situacions i targetes amb drets sexuals i reproductius (vegeu la fitxa original de Sigues tu o la guia «Tens drets sexuals i reproductius, ho saps?» de DINCAT). Targetes en blanc i bolígrafs.",
@@ -1448,6 +1665,11 @@
     ],
     "temes": [
       "genere"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip",
+      "diversitat"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1479,6 +1701,9 @@
     "temes": [
       "afectivitat"
     ],
+    "siguestu": [
+      "pensament-critic"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "Amb l'aula dividida entre el sí i el no, l'alumnat es posiciona davant mites sobre la sexualitat i en debat.",
@@ -1506,6 +1731,11 @@
     "temes": [
       "afectivitat",
       "autoconeixement"
+    ],
+    "siguestu": [
+      "autoconeixement",
+      "genere",
+      "mites-sexualitat"
     ],
     "durada": 10,
     "grup": "mitja",
@@ -1536,6 +1766,11 @@
       "afectivitat",
       "violencies",
       "emocions"
+    ],
+    "siguestu": [
+      "agressions-sexuals",
+      "gestio-de-les-emocions",
+      "violencia-masclista"
     ],
     "durada": 30,
     "grup": "mitja",
@@ -1570,6 +1805,10 @@
       "afectivitat",
       "autoconeixement"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "autoconeixement"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Música tranquil·la de fons.",
@@ -1600,6 +1839,10 @@
     "temes": [
       "afectivitat",
       "emocions"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
     ],
     "durada": 20,
     "grup": "mitja",
@@ -1632,6 +1875,11 @@
       "genere",
       "compromis"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip",
+      "diversitat"
+    ],
     "durada": 25,
     "grup": "mitja",
     "resum": "En grups, l'alumnat pensa accions per fer al centre perquè les violències de gènere no facin més difícil l'estada de ningú, i la classe decideix quines farà.",
@@ -1660,6 +1908,10 @@
     "temes": [
       "afectivitat",
       "comunicacio"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "comunicacio-interpersonal"
     ],
     "durada": 50,
     "grup": "mitja",
@@ -1693,6 +1945,11 @@
       "afectivitat",
       "autoconeixement"
     ],
+    "siguestu": [
+      "autoconeixement",
+      "genere",
+      "mites-sexualitat"
+    ],
     "durada": 15,
     "grup": "mitja",
     "materials": "Paper i bolígraf.",
@@ -1724,6 +1981,11 @@
       "diversitat",
       "violencies"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "afectivitat-sexualitat",
+      "pensament-critic"
+    ],
     "durada": 30,
     "grup": "mitja",
     "materials": "Ordinador i projector per veure el tràiler de la pel·lícula «Margarita with a Straw».",
@@ -1754,6 +2016,11 @@
       "violencies",
       "compromis"
     ],
+    "siguestu": [
+      "advocacio-i-compromis-social",
+      "afectivitat-sexualitat",
+      "pensament-critic"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Pissarra.",
@@ -1783,6 +2050,10 @@
       "afectivitat",
       "emocions"
     ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "gestio-de-les-emocions"
+    ],
     "durada": 25,
     "grup": "mitja",
     "materials": "Fulls i material per dibuixar. Pissarra.",
@@ -1810,6 +2081,11 @@
     ],
     "temes": [
       "genere"
+    ],
+    "siguestu": [
+      "afectivitat-sexualitat",
+      "cooperacio-i-treball-en-equip",
+      "diversitat"
     ],
     "durada": 20,
     "grup": "mitja",

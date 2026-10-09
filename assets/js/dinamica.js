@@ -93,6 +93,11 @@
         esc(TUT.data.nom_tema(t)) + '</a>';
     }).join(' ');
 
+    var siguestu = (d.siguestu || []).map(function (t) {
+      return '<a class="etiqueta" href="#/cataleg?st=' + esc(t) + '">' +
+        esc(TUT.data.nom_siguestu(t)) + '</a>';
+    }).join(' ');
+
     contenidor.innerHTML = '' +
       '<a class="enllac-tornar no-imprimir" href="' + TUT.app.enllac_cataleg() +
         '">Torna al catàleg</a>' +
@@ -143,6 +148,8 @@
           '</dl>' +
           (temes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Temàtica</div>' +
             '<div class="etiquetes">' + temes + '</div></div>' : '') +
+          (siguestu ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes de Sigues tu</div>' +
+            '<div class="etiquetes">' + siguestu + '</div></div>' : '') +
           (etiquetes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes</div>' +
             '<div class="etiquetes">' + etiquetes + '</div></div>' : '') +
           (d.font ? '<p class="petit tenue" style="margin-top:16px">Font: ' + esc(d.font) + '</p>' : '') +
@@ -375,6 +382,8 @@
       /* Els vincles entre unitat i activitats no s'editen des del formulari,
          però s'han de conservar en desar la fitxa. */
       if (d.unitat) resultat.unitat = d.unitat;
+      /* Tampoc les etiquetes del web de Sigues tu, que vénen de la sessió original. */
+      if (d.siguestu && d.siguestu.length) resultat.siguestu = d.siguestu.slice();
       if (d.activitats && d.activitats.length) resultat.activitats = d.activitats.slice();
       ['materials', 'participants', 'espai', 'resum', 'objectius', 'preparacio',
         'consignes', 'avaluacio', 'notes', 'font'].forEach(function (camp) {
