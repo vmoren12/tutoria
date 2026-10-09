@@ -148,7 +148,7 @@
           '</dl>' +
           (temes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Temàtica</div>' +
             '<div class="etiquetes">' + temes + '</div></div>' : '') +
-          (siguestu ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes de Sigues tu</div>' +
+          (siguestu ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Programa Sigues tu</div>' +
             '<div class="etiquetes">' + siguestu + '</div></div>' : '') +
           (etiquetes ? '<div style="margin-top:16px"><div class="fitxa__etiqueta-seccio">Etiquetes</div>' +
             '<div class="etiquetes">' + etiquetes + '</div></div>' : '') +

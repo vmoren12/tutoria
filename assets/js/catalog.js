@@ -25,7 +25,11 @@
 
   function opcions_faceta(clau, nom, opcions, seleccionades, recomptes, tipus) {
     var desplegat = estat.desplegat[clau];
-    var visibles = desplegat ? opcions : opcions.slice(0, VISIBLES_PER_FACETA);
+    /* Plegada, la faceta ensenya les primeres opcions i, a més, les marcades,
+       perquè un filtre actiu no quedi mai amagat. */
+    var visibles = desplegat ? opcions : opcions.filter(function (o, i) {
+      return i < VISIBLES_PER_FACETA || seleccionades.indexOf(o.id) >= 0;
+    });
     var html = visibles.map(function (o) {
       var n = recomptes[o.id] || 0;
       var marcat = seleccionades.indexOf(o.id) >= 0;
@@ -40,17 +44,21 @@
 
     if (opcions.length > VISIBLES_PER_FACETA) {
       html += '<li><button type="button" class="filtres__mes" data-desplega="' + clau + '">' +
-        (desplegat ? 'Mostra\'n menys' : 'Mostra\'n ' + (opcions.length - VISIBLES_PER_FACETA) + ' més') +
+        (desplegat ? 'Mostra\'n menys' : 'Mostra\'n ' + (opcions.length - visibles.length) + ' més') +
         '</button></li>';
     }
     return '<ul class="filtres__llista">' + html + '</ul>';
   }
 
   /* Les categories venen de fonts amb lògiques diferents (les dinàmiques de
-     grup, els blocs del Programa HEBE i els eixos de Sigues tu) i es presenten
-     separades perquè es vegi d'on surt cada una. */
+     grup i els blocs del Programa HEBE) i es presenten separades perquè es vegi
+     d'on surt cada una. Els tres eixos de Sigues tu no hi surten: el programa té
+     el seu propi grup de filtres, amb les etiquetes del web, que són més fines. */
+  var FAMILIES_AMB_GRUP_PROPI = ['siguestu'];
+
   function faceta_categories(seleccionades, recomptes) {
     return TUT.data.families().map(function (f) {
+      if (FAMILIES_AMB_GRUP_PROPI.indexOf(f.id) >= 0) return '';
       var opcions = TUT.data.categories_de(f.id);
       if (!opcions.length) return '';
       return '<p class="filtres__familia">' + esc(f.nom) + '</p>' +
@@ -96,10 +104,11 @@
         faceta_categories(f.categories, rc.categories) +
       '</div>' +
       '<div class="filtres__grup">' +
-        '<legend>Etiquetes de Sigues tu</legend>' +
+        '<legend>Programa Sigues tu</legend>' +
         opcions_faceta('siguestu', 'siguestu', tax.siguestu || [], f.siguestu, rs.siguestu, 'checkbox') +
         '<p class="filtres__ajuda">Les etiquetes del web siguestu.cat (habilitats per a la vida ' +
-          'i temes) de la sessió d\'on surt cada dinàmica del programa.</p>' +
+          'i temes) de la sessió d\'on surt cada dinàmica. Totes les dinàmiques del programa ' +
+          'en tenen alguna.</p>' +
       '</div>' +
       '<div class="filtres__grup">' +
         '<legend>Etiquetes</legend>' +

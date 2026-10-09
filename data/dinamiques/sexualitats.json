@@ -493,6 +493,42 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-els-ingredients-de-l-amor",
+    "titol": "Els ingredients de l'amor",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "genere"
+    ],
+    "siguestu": [
+      "empatia",
+      "estereotips",
+      "genere",
+      "masculinitats",
+      "mites-sexualitat",
+      "violencia-masclista"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "Pluja d'idees sobre què és bàsic per connectar amb altres persones i estimar, que acaba posant l'empatia com l'eina que fa possible la resta.",
+    "objectius": "Reconèixer els elements d'una relació sana i el paper de l'empatia en la confiança, el respecte i la comunicació.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Feu una pluja d'idees: què és bàsic per connectar amb les altres persones o per generar amor? Aneu escrivint els «ingredients» a la pissarra.\n\nQuan surtin idees com confiança, respecte o comunicació, feu preguntes sobre l'empatia:\n\n- Com mostrem empatia a l'altra persona quan hi confiem?\n- Quan ens escolten de veritat, com ens sentim? Ens ajuda a confiar?\n- Es pot estimar algú sense empatia?\n\nSi l'empatia no surt, afegiu-la a la llista i expliqueu que és l'eina que permet construir la resta d'ingredients.\n\nDesprés, reflexioneu sobre d'on ens vénen aquestes idees i com s'aconsegueixen: si no són autèntiques, es poden mantenir en el temps?",
+    "avaluacio": "Per tancar, feu una enquesta ràpida amb les mans (amunt, al mig o avall, de molt a poc): avui he pensat coses noves sobre l'amor? He entès millor com es poden sentir altres persones en les relacions? M'ha agradat la sessió?",
+    "notes": "Per aprofundir, podeu consultar el material «Mites de l'amor romàntic» de la cooperativa Nus.\n\nForma part de la sessió «Ai, l'amor...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu», a partir de la Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13203-ai-lamor.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-ens-cuidem-entre-tots",
     "titol": "Ens cuidem entre tots",
     "tipus": "dinamica",
@@ -1129,6 +1165,44 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-linia-de-foc-mites-de-l-amor-romantic",
+    "titol": "Línia de foc: mites de l'amor romàntic",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "genere"
+    ],
+    "siguestu": [
+      "empatia",
+      "estereotips",
+      "genere",
+      "masculinitats",
+      "mites-sexualitat",
+      "violencia-masclista"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "No cal material.",
+    "espai": "Aula amb espai per moure's d'una banda a l'altra.",
+    "resum": "L'alumnat es col·loca entre el «sí» i el «no» davant de frases sobre l'amor romàntic i explica per què, mentre el grup es pregunta com ho viuria qui ho veu diferent.",
+    "objectius": "Qüestionar les creences de l'amor romàntic i practicar l'empatia amb qui pensa diferent.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Un extrem de l'aula és «hi estic d'acord» i l'altre, «no hi estic d'acord»; l'espai del mig també es pot ocupar segons la tendència. Llegiu les frases una a una i deixeu que tothom es col·loqui:\n\n- Si m'enamoro, serà per a tota la vida.\n- Com a les pel·lícules: si una persona em mira, és que em vol fer petons.\n- Qui cerca, troba.\n- Si sent gelosia, és perquè m'estima.\n- Tothom aprèn l'amor de la mateixa manera.\n\nDesprés de cada frase, demaneu a algú de cada zona que expliqui per què s'hi ha posat i afegiu preguntes empàtiques: com creus que se sent algú que ho veu diferent? Hi ha cap situació en què aquesta idea pogués fer mal a algú sense voler?",
+    "avaluacio": "Recordeu que el consentiment ha de ser constant, que cal escoltar sempre el desig propi i el de l'altra persona, i que les persones, els desitjos i les relacions canvien. Anomeneu també que la manera com estimem està condicionada pel gènere, l'origen o l'orientació sexual.",
+    "notes": "Forma part de la sessió «Ai, l'amor...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu», a partir de la Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13203-ai-lamor.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-linies-vermelles",
     "titol": "Línies vermelles",
     "tipus": "dinamica",
@@ -1403,6 +1477,44 @@
     "preparacio": "Podeu començar dialogant: què és un dret? Teniu drets? I deures? Amb què creieu que estan relacionats els drets sexuals i reproductius? Totes les persones tenim drets, i deures lligats a aquests drets: per exemple, tenim dret a no ser agredits i el deure de no agredir.",
     "descripcio": "Feu grups de 4 o 5 persones. Repartiu a l'atzar les targetes de títols i de descripcions, de manera que cada grup n'hagi d'intercanviar amb els altres per aparellar-les.\n\nEls drets són:\n\n1. Igualtat i no-discriminació: gaudir de la sexualitat sense ser discriminat per gènere, edat, religió, orientació sexual, identitat o expressió de gènere o discapacitat.\n2. Vida, llibertat i seguretat: que no et facin mal ni físicament ni psicològicament.\n3. Autonomia i integritat del cos: decidir lliurement sobre el teu cos i la teva sexualitat.\n4. Privacitat: tenir espais protegits de la mirada dels altres i controlar què se sap de la teva sexualitat.\n5. Gaudir d'una sexualitat saludable: relacions plaents i segures, i serveis de salut sexual adequats.\n6. Beneficiar-te dels avenços científics.\n7. Informació sobre sexualitat: real, senzilla i accessible.\n8. Educació sexual integral: adequada a l'edat, basada en la ciència i en la igualtat de gènere.\n9. Casar-te o viure en parella, o no fer-ho, en una relació d'igualtat i lliure consentiment, i trencar-la quan vulguis.\n10. Tenir o no tenir fills.\n11. Llibertat d'opinió sobre la sexualitat i la reproducció.\n12. Associar-te i participar en la política per defensar els teus drets.\n13. Accedir a la justícia si es vulneren els teus drets.\n\nQuan ho tenen tot aparellat, ho enganxen en ordre al paper de mural i el decoren.",
     "notes": "El mural pot quedar penjat a l'aula per anar-hi afegint, al llarg del curs, situacions en què es vulneren aquests drets.\n\nForma part de la sessió «Drets sexuals i reproductius» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: cooperació i treball en equip). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21550-drets-sexuals-i-reproductius.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-en-pensem-de-l-amor",
+    "titol": "Què en pensem, de l'amor?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "genere"
+    ],
+    "siguestu": [
+      "empatia",
+      "estereotips",
+      "genere",
+      "masculinitats",
+      "mites-sexualitat",
+      "violencia-masclista"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Mig foli i un llapis o bolígraf per persona.",
+    "resum": "Cadascú dibuixa què és l'amor per a ell i, a partir dels dibuixos posats al centre del cercle, el grup descobreix els mites de l'amor romàntic que hi apareixen.",
+    "objectius": "Identificar els símbols i els mites amb què el grup pensa l'amor (la mitja taronja, l'amor per sempre, el cor trencat...) i qüestionar-los des de l'empatia.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Introduïu la sessió parlant de l'amor cap a altres persones: quan tenim ganes d'apropar-nos a algú, el desig, la necessitat que ens estimin o la por al rebuig poden ser tan intensos que és fàcil passar els límits propis o els d'altri. L'empatia funciona com una brúixola emocional que ens ajuda a no perdre'ns en el que sentim i a veure què necessiten les persones que estimem.\n\nFeu una ronda de noms en què cadascú digui com se sent avui: saber com estem i què necessitem és el primer pas per respectar els límits propis i els dels altres.",
+    "descripcio": "Doneu mig foli a cadascú i demaneu que dibuixi què és l'amor per a ell o ella. Col·loqueu els dibuixos al centre del cercle. No importa qui ha fet cada dibuix, sinó amb quins símbols pensa l'amor el grup.\n\nObriu el debat:\n\n- Què us sorprèn d'aquests dibuixos? Hi ha coses que es repeteixen?\n- L'amor és innat o après? La part apresa, d'on l'aprenem?\n- Com són i com actuen les parelles de les sèries i les pel·lícules?\n\nSegons el que hagi sortit, tireu del fil dels mites:\n\n- Molts cors: només sentim l'amor al cor? Els sentiments passen per tot el cos (la panxa, la suor, els tremolors, els genitals...).\n- Cors perfectes: l'amor és simètric i net? En l'amor també hi ha conflictes, moments d'eufòria i moments de calma.\n- Cupido i la fletxa: existeix l'amor a primera vista? Què ens fa sentir bé amb algú (la confiança, conèixer-lo)?\n- El cor trencat: «sense tu em moro». Per què no hi ha cançons així sobre l'amistat? Hi ha vida després de l'amor?\n- La mitja taronja: hi ha algú predestinat a completar-nos? I si no el trobem?\n- L'amor per sempre: totes les relacions són així? Què necessita una persona que té por de perdre l'altra?\n- Estereotips: com són les persones dibuixades? Hi ha parelles del mateix sexe? Totes les noies tenen els cabells llargs?",
+    "avaluacio": "Quins mites han sortit més? Com se sent algú que creu que només hi ha una persona al món per a ell? Què pot fer mal d'aquestes idees?",
+    "notes": "Forma part de la sessió «Ai, l'amor...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu», a partir de la Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13203-ai-lamor.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {

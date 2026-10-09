@@ -605,6 +605,106 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-en-posicions-joc-apostes-i-estres",
+    "titol": "En posicions: joc, apostes i estrès",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra. Tres rètols: «Sí», «No» i «Depèn».",
+    "espai": "Aula amb tres espais marcats.",
+    "resum": "Després d'una pluja d'idees sobre el joc i les apostes, l'alumnat es posiciona en el «sí», el «no» o el «depèn» davant de frases sobre jugar, apostar i desconnectar de l'estrès.",
+    "objectius": "Detectar idees preconcebudes sobre el joc i les apostes i la relació que poden tenir amb l'estrès.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Escriviu a la pissarra la paraula JOC i, després, APOSTES, i demaneu les paraules, sensacions o idees que els vinguin al cap. Pregunteu: què diferencia el joc per diversió del joc amb diners? Què busca algú quan aposta? Pot ser que algú ho faci per evadir-se de l'estrès o de la pressió?",
+    "descripcio": "Marqueu a l'aula tres espais: «Sí», «No» i «Depèn». Llegiu les frases i cadascú es col·loca segons la seva opinió i experiència:\n\n- Jugar per internet és només per passar l'estona.\n- Pots controlar quan parar de jugar.\n- Jo controlo; només es juguen diners.\n- Si ets intel·ligent, sempre pots guanyar.\n- L'estrès fa que a vegades necessiti «desconnectar» com sigui.\n- Els anuncis de joc tenen influència sobre mi.\n\nDemaneu a persones de cada espai que expliquin per què s'hi han posat.",
+    "avaluacio": "La relació entre el joc i l'estrès va en tots dos sentits: jugar pot ser una vàlvula d'escapament davant d'una situació que no es vol afrontar, però també una font d'estrès quan el joc és violent o molt competitiu, o quan es perden diners i hi ha conflictes a casa. Si fugir jugant o apostant es torna un hàbit, es perd l'oportunitat d'aprendre a gestionar les tensions.",
+    "notes": "L'Organització Mundial de la Salut reconeix el trastorn per joc d'apostes i el trastorn per videojocs; l'ús excessiu d'internet o del mòbil, en canvi, no està reconegut com a trastorn per manca d'evidència.\n\nForma part de la sessió «Joc i apostes» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21553-joc-i-apostes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-escenaris-de-decisio-estres-i-apostes",
+    "titol": "Escenaris de decisió: estrès i apostes",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Una targeta amb una situació per grup.",
+    "resum": "Cada grup analitza una situació en què l'estrès es barreja amb el joc o les apostes (una aposta gratuïta abans d'un examen, comprar millores amb la targeta del pare...) i busca alternatives per gestionar-la millor.",
+    "objectius": "Practicar la presa de decisions des del benestar i no des de l'estrès en situacions de risc relacionades amb el joc.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Doneu a cada grup una targeta amb una situació:\n\n- Tens un examen difícil i estàs molt angoixat. Et salta una notificació d'una casa d'apostes que t'ofereix una jugada gratuïta.\n- Tens problemes a casa i un amic et diu que jugar en línia el desconnecta i li dona emoció.\n- Les amistats han quedat i no t'han avisat. Et passes la tarda jugant a un videojoc.\n- Perds en un joc nou perquè els contrincants tenen millores. Agafes la targeta de crèdit del teu pare per comprar-ne.\n- Saps molt de futbol i un amic et diu que podries guanyar molts diners apostant en línia. Proves amb 5 euros i la primera vegada en guanyes 20.\n\nCada grup decideix què faria, quines emocions hi detecta, quines alternatives hi hauria per gestionar millor el moment i si les solucions són transitòries o definitives. Després ho exposen a la classe.",
+    "avaluacio": "Tanqueu destacant la importància de prendre decisions des del benestar i no des de l'estrès. En rotllana, cadascú diu una idea nova que s'emporta, una cosa que pot fer per gestionar millor l'estrès i alguna cosa que no sabia sobre el joc i les apostes.",
+    "notes": "Per aprofundir, podeu consultar «Aposta per tu», del Canal Salut de la Generalitat de Catalunya.\n\nForma part de la sessió «Joc i apostes» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21553-joc-i-apostes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-estres-expres",
+    "titol": "Estrès exprés",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs.",
+    "resum": "En petits grups, l'alumnat representa una situació estressant de dues maneres: amb una reacció impulsiva i amb una resposta saludable.",
+    "objectius": "Distingir les respostes impulsives a l'estrès (fugir, aïllar-se, apostar) de les saludables (parlar-ne, fer esport, organitzar-se, demanar ajuda).",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Cadascú escriu de manera anònima una situació que li genera estrès. Barregeu els papers i, en petits grups, cada grup en tria un.\n\nAmb aquella situació, el grup prepara dues escenes curtes:\n\n- Una reacció impulsiva: fugir, evadir-se, apostar, aïllar-se, irritar-se...\n- Una resposta saludable: parlar-ne, fer esport, descansar, organitzar-se, demanar ajuda...\n\nCada grup representa les seves escenes davant la classe.",
+    "avaluacio": "Com ens afecta l'estrès? Quines opcions saludables tenim? Per què a vegades triem les que no ho són?",
+    "notes": "Forma part de la sessió «Joc i apostes» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21553-joc-i-apostes.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-exploracio-sensorial-a-la-natura",
     "titol": "Exploració sensorial a la natura",
     "tipus": "dinamica",
@@ -1041,6 +1141,38 @@
     "descripcio": "Demaneu que cadascú escrigui en un paper almenys dues maneres de divertir-se: a què dedica el temps d'oci, és a dir, allò que fa sense que sigui una obligació (tot i que tenir oci és gairebé obligatori per a la salut).\n\nRecolliu els papers doblegats, barregeu-los i torneu-los a repartir. Tothom s'aixeca i busca la persona a qui creu que correspon el paper que li ha tocat.\n\nA mesura que es troben, les parelles apunten a la pissarra les activitats d'oci dels dos papers i s'asseuen. Si una activitat ja hi és, hi afegiu un palet.\n\nComenteu com ha anat: ha estat fàcil trobar la persona? Què ho ha fet fàcil o difícil?\n\nPer acabar, mireu el resultat: «Veiem que X és el que més feu en el temps lliure. Té a veure amb l'alcohol?».",
     "avaluacio": "Quines maneres de divertir-se no tenen res a veure amb l'alcohol? Què en podeu aprofitar per quan sortiu?",
     "notes": "Forma part de la sessió «Alcohol i oci» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16554-alcohol-i-oci.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-hi-ha-darrere-de-l-estres",
+    "titol": "Què hi ha darrere de l'estrès?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "consums",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Pòsits i bolígrafs.",
+    "resum": "Cadascú recorda una situació recent d'estrès i respon per escrit què la va causar, què va fer per sentir-se millor i si li va servir de debò o només el va distreure.",
+    "objectius": "Adonar-se que sovint actuem per evitar sentir-nos malament i que algunes d'aquestes accions, com jugar o apostar, distreuen però no resolen.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Demaneu que cadascú pensi en una situació recent en què es va sentir molt estressat. No cal que l'expliqui encara.\n\nRepartiu pòsits perquè responguin tres preguntes, amb el nom o de manera anònima:\n\n- Què et va generar estrès?\n- Què vas fer per sentir-te millor?\n- Et va ajudar de veritat o només et va distreure un moment?\n\nPoseu-ho en comú de manera voluntària i reflexioneu sobre com sovint fem coses per no sentir-nos malament, i com aquestes coses poden ser útils o perjudicials.",
+    "avaluacio": "Introduïu la idea que el joc i les apostes poden aparèixer com una d'aquestes respostes impulsives a l'estrès.",
+    "notes": "Forma part de la sessió «Joc i apostes» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21553-joc-i-apostes.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {

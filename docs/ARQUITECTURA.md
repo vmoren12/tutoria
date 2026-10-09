@@ -93,7 +93,7 @@ una activitat solta.
 
 Les categories també venen de les obres d'origen, i per això a la taxonomia porten un camp
 `familia` (`grup`, `hebe` o `siguestu`) que el panell de filtres fa servir per presentar-les
-separades.
+separades (les de `siguestu` hi queden substituïdes per les etiquetes del web; vegeu més avall).
 Les tècniques del *Manual de técnicas y dinámicas* comparteixen família amb les dinàmiques
 de grup i n'hi afegeixen tres categories: `analisi`, `dramatitzacio` i `tancament`.
 
@@ -109,8 +109,11 @@ sense temes queda fora quan el filtre és actiu, i per això els jocs de grup no
 El camp `siguestu` només el tenen les dinàmiques de Sigues tu: són les etiquetes que el web
 siguestu.cat dona a la sessió d'on surt cada fitxa (habilitats per a la vida com «Empatia»
 o «Pensament crític» i temes com «Drogues» o «Gènere»), amb la llista a `siguestu` de la
-taxonomia. Al panell de filtres fan un grup propi i es combinen com els temes: n'hi ha prou
-que la fitxa en tingui una de les marcades. El formulari d'edició no les mostra, però les
+taxonomia. Al panell de filtres fan el grup «Programa Sigues tu» i es combinen com els
+temes: n'hi ha prou que la fitxa en tingui una de les marcades. Com que les etiquetes són
+més fines que els tres eixos del programa i totes les fitxes de Sigues tu en tenen alguna,
+els eixos no surten al filtre de categoria (`FAMILIES_AMB_GRUP_PROPI` a `catalog.js`),
+tot i que cada fitxa conserva la seva categoria. El formulari d'edició no les mostra, però les
 conserva en desar.
 
 ## Catàleg bilingue

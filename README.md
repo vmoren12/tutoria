@@ -3,8 +3,8 @@
 Aplicació de referència per a tutors i tutores d'ESO: **cerca, crea i edita propostes de
 tutoria, i munta sessions** llestes per imprimir o desar en PDF.
 
-- **1.082 fitxes** en català, de tres menes:
-  - **923 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
+- **1.103 fitxes** en català, de tres menes:
+  - **944 dinàmiques de grup** — jocs, exercicis i tècniques que es fan sols.
   - **125 activitats de tutoria** — activitats d'aula amb material i pauta de treball.
   - **34 unitats didàctiques** — propostes de diverses sessions que agrupen activitats.
 
@@ -15,8 +15,8 @@ tutoria, i munta sessions** llestes per imprimir o desar en PDF.
   etiquetes, durada màxima, mida de grup, material i origen. La temàtica (afectivitat i
   sexualitat, assetjament, pantalles, orientació...) creua les fonts i reuneix les unitats de
   l'HEBE i les dinàmiques de Sigues tu sobre un mateix tema. Les dinàmiques de Sigues tu
-  es poden filtrar, a més, per les etiquetes del web del programa (Empatia, Drogues,
-  Cohesió de grup, Pensament crític...).
+  tenen el seu propi grup de filtres, amb les etiquetes del web del programa (Empatia,
+  Drogues, Cohesió de grup, Pensament crític...).
 - **Constructor de sessions**: seqüència de blocs amb temps assignat, càlcul d'horaris i
   control de la durada prevista.
 - **Full de sessió imprimible** amb el contingut que triïs, pensat per a A4.
@@ -155,9 +155,9 @@ Les **dinàmiques d'educació per a la salut**, de les sessions per a l'ESO del 
 dinàmica d'una sessió és una fitxa escrita directament en català, classificada en un dels
 tres eixos del programa — **Convivència**, **Sexualitats** i **Consums i hàbits
 saludables** — i amb l'enllaç a la sessió original a les notes. De moment hi ha les de les
-etiquetes del web que comencen per A, B, C, D i E (de «Abusos sexuals» a «Etiquetes»).
-Cada fitxa porta també les etiquetes que el web dona a la seva sessió, que es poden fer
-servir com a filtre.
+etiquetes del web que comencen de la A a la L (de «Abusos sexuals» a «Lideratge»).
+Cada fitxa porta també les etiquetes que el web dona a la seva sessió, que fan de filtre
+del programa al menú lateral en lloc dels tres eixos.
 També hi ha les sessions per a l'ESO i primària i les dels itineraris per a centres
 d'educació especial; queden fora les que són només d'infantil, de primària o dels CFA. Aquestes
 fitxes mantenen la llicència d'origen: es poden reutilitzar sense finalitat comercial,

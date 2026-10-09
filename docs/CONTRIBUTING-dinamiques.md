@@ -92,6 +92,8 @@ s'ometen si estan buits: l'aplicació només mostra els que tenen contingut.
   els identificadors de la llista `siguestu` de `data/taxonomia.json`. Totes les dinàmiques
   d'una mateixa sessió porten les mateixes. Si una sessió no en té cap, s'hi posa l'habilitat
   per a la vida que declara. Si una etiqueta encara no és a la taxonomia, cal afegir-la-hi.
+  Totes les fitxes de Sigues tu n'han de tenir alguna, perquè és el filtre del programa al
+  menú lateral.
 
 ### Unitats didàctiques i les seves activitats
 

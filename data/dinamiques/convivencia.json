@@ -106,6 +106,40 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-allo-que-ens-preocupa-del-planeta",
+    "titol": "Allò que ens preocupa del planeta",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions",
+      "medi-ambient"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "No cal material.",
+    "resum": "Després d'imaginar uns segons un futur amb els efectes del canvi climàtic, l'alumnat comparteix en petits grups què li preocupa del planeta i com el fa sentir.",
+    "objectius": "Posar nom a les emocions relacionades amb el futur del planeta (l'ecoansietat) i validar-les.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Com a presentació, cadascú diu el seu nom i quin ésser de la natura seria, l'últim lloc amb natura on ha anat o el seu espai natural preferit. Si algú diu que seria una persona, valideu-ho: les persones també som natura.\n\nPresenteu l'habilitat de gestió de l'estrès amb preguntes: heu sentit a parlar de l'ecoansietat? En parleu amb la família o les amistats? Hi ha notícies o vídeos sobre el medi ambient que us hagin impactat? Quan penseu en el planeta, hi ha coses que us donen esperança?\n\nL'Associació Americana de Psicologia defineix l'ecoansietat com «la por crònica a la catàstrofe ambiental». No és un diagnòstic clínic, però pot afectar la salut mental: impotència, tristesa o culpa ecològica, problemes de son, ansietat o dificultat per concentrar-se.",
+    "descripcio": "Demaneu que tanquin els ulls durant trenta segons i imaginin un futur en què els efectes del canvi climàtic són molt evidents: fenòmens meteorològics extrems, ecosistemes que desapareixen...\n\nQuan obrin els ulls, en grups reduïts comparteixen com s'han sentit i reflexionen:\n\n- Hi ha coses del planeta que us preocupen? Quines?\n- Com us fan sentir?\n\nDesprés, cada grup explica a la classe el que ha sortit. Valideu totes les emocions que apareguin.",
+    "avaluacio": "Ara que hem compartit el que ens pesa, què ens podria ajudar a transformar-ho?",
+    "notes": "Forma part de la sessió «Ecoansietat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21552-ecoansietat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-aplaudim-l-autoestima",
     "titol": "Aplaudim l'autoestima",
     "tipus": "dinamica",
@@ -1019,6 +1053,39 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-el-pacte-verd",
+    "titol": "El pacte verd",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions",
+      "medi-ambient"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Tres trossos de paper d'embalar. Retoladors. Targetes de paper o cartolina, una per persona. Opcionalment, una llavor per persona i una cistella amb terra.",
+    "resum": "En grups, l'alumnat acorda un compromís per cuidar-se, un compromís ambiental i una acció col·lectiva per al grup classe, i tanca la sessió escrivint la «llavor» que es vol endur.",
+    "objectius": "Transformar la preocupació pel planeta en accions concretes i veure que actuar també ajuda a gestionar l'estrès.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Obriu amb preguntes al grup classe: hi ha cap manera de transformar la preocupació pel planeta en alguna cosa útil? Quan us enfadeu o us entristiu pel que passa amb el planeta, us ajuda fer alguna acció concreta? Com us fa sentir actuar?\n\nEn grups de cinc o sis, acorden i anoten:\n\n- Un compromís personal per cuidar-se (respirar profundament, desconnectar de les pantalles, caminar per la natura...).\n- Un compromís ambiental (reutilitzar materials, consumir menys plàstic, parlar-ne a casa...).\n- Una acció col·lectiva per al grup o la classe (una setmana sense plàstic, cuidar un espai verd, fer-ne difusió a l'escola...).\n\nCada grup anota els seus compromisos en els tres papers d'embalar repartits per l'aula: un per als personals, un per als ambientals i un per a les accions col·lectives.",
+    "avaluacio": "Per tancar, cadascú escriu en una targeta, amb una paraula o una frase curta, la «llavor» que es vol endur de la sessió: esperança, calma, cuidar el planeta, sortir al bosc amb les amistats... Si teniu llavors, en repartiu una a cadascú com a símbol del que vol fer créixer. Un a un, la dipositen en una cistella amb terra que es queda a l'aula, o bé se l'emporten.",
+    "notes": "Sentir por o angoixa davant la situació del planeta és una resposta legítima: no cal negar-la, sinó entendre-la perquè esdevingui motor de canvi. Per aprofundir, podeu consultar la guia «Salut i natura» de la Societat Catalana d'Educació Ambiental.\n\nForma part de la sessió «Ecoansietat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21552-ecoansietat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-el-pou-dels-desitjos",
     "titol": "El pou dels desitjos",
     "tipus": "dinamica",
@@ -1085,6 +1152,40 @@
     "descripcio": "Repartiu un paper petit a cada persona. Cadascú hi escriu el seu nom en petit a la part de dalt i el doblega dues vegades.\n\nRecolliu els papers i torneu-los a repartir a l'atzar. Que els obrin de seguida: si a algú li toca el seu, el canvia.\n\nCadascú escriu tres coses positives de la persona que li ha tocat. Voluntàriament, també hi pot demanar disculpes o donar les gràcies.\n\nQuan tothom hagi acabat, aneu dient els noms un per un: qui té el paper d'aquella persona s'aixeca i l'hi dona. Qui el rep diu el seu nom i quina emoció sent.",
     "avaluacio": "Opcional: demaneu propostes de com es poden cuidar com a grup (petits gestos, accions, paraules), escriviu-les en papers i pengeu-les classificades al suro. També podeu demanar que cadascú pensi, per a si, què pot fer per millorar la cura dins del grup i què vol començar a posar en pràctica.",
     "notes": "Forma part de la sessió «Com cuidar-nos» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16568-com-cuidar-nos.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-el-semafor-de-les-emocions",
+    "titol": "El semàfor de les emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "escriptura",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-les-emocions"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Tres cartolines (vermella, taronja i verda) dividides en cinc parts. Cinc pòsits i un retolador per persona. Música opcional.",
+    "resum": "Davant de situacions de relació amb amistats, parella o família, l'alumnat va a la zona vermella, taronja o verda de l'aula i hi enganxa un pòsit amb l'emoció que sent.",
+    "objectius": "Reconèixer les emocions que desperten diferents situacions de relació i veure que la mateixa situació no fa sentir igual a tothom.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Poseu una cartolina de cada color en un espai diferent de l'aula, dividida en tantes parts com situacions plantejareu:\n\n- Vermell: odi, ràbia, enuig, vergonya, ira, frustració, gelosia...\n- Taronja: tristesa, melancolia, nostàlgia, desmotivació...\n- Verd: alegria, calma, amistat, benestar, amor, satisfacció...\n\nRecordeu que les emocions de la zona vermella no són dolentes, però potser són les que cal aprendre a gestionar de manera més sana perquè no ens facin mal a nosaltres ni als altres.",
+    "descripcio": "L'alumnat camina per l'aula, si voleu amb música. Llegiu una situació; cadascú va a la cartolina del color que li correspon, escriu en un pòsit l'emoció que sent i l'enganxa a la part d'aquella situació. Per exemple:\n\n- Una amistat et demana el mòbil per mirar les teves converses.\n- Volies passar la tarda amb una persona i ella prefereix passar-la amb algú altre.\n- T'agrada una persona molt vergonyosa i tens ganes de parlar-hi.\n- Les teves amistats de l'escola no són a la teva classe.\n- És la festa major i la colla s'hi estarà fins a la una, però a casa només et deixen fins a les onze.\n\nTambé podeu fer servir situacions reals: abans de la dinàmica, cadascú escriu de manera anònima tres situacions viscudes a l'aula (una per color), sense dir quina emoció li van fer sentir.",
+    "avaluacio": "On s'ha col·locat més gent? Hi ha emocions que es repeteixen o que no han sortit mai? Hi ha cap situació en què tothom hagi sentit el mateix? Hi ha diferències entre com expressen les emocions els nois i les noies? Hi ha emocions més acceptades que altres?",
+    "notes": "Forma part de la sessió «Emocions i relacions» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16480-emocions-i-relacions.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -1191,6 +1292,41 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-el-tren-de-les-emocions",
+    "titol": "El tren de les emocions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-les-emocions"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Cinc cartolines per fila amb els rètols «Què passa?», «Què penso?», «Què sento?», «Què faig?» i «El resultat».",
+    "resum": "En grups de tres, una persona recorre els «vagons» d'un conflicte (què passa, què penso, què sento, què faig i el resultat) i el grup busca en quin punt podria canviar el trajecte per arribar a un resultat millor.",
+    "objectius": "Entrenar una fórmula per aturar-se i reflexionar davant d'un conflicte, sobretot familiar, i veure que el que pensem i fem canvia el resultat.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Poseu les cinc cartolines a terra, en ordre, com els vagons d'un tren. Si l'aula ho permet, feu-ne diverses files.",
+    "descripcio": "Feu grups de tres. Una persona del grup va passant d'un vagó a l'altre explicant una situació, mentre la resta l'escolta. Per exemple:\n\n- Què passa? El pare sempre em diu que soc un gandul.\n- Què penso? Tinc tots els deures fets; no entenc què vol.\n- Què sento? Decepció, incomprensió, frustració: mai no faig prou.\n- Què faig? Li contesto de males maneres que ja ho he fet tot.\n- El resultat: el pare s'enfada encara més i em comença a retreure l'habitació desendreçada i la bicicleta amb la roda punxada.\n\nEl grup parla de què es podria haver fet per arribar a un resultat més satisfactori: el resultat és bo per a mi i per als altres? Si no ho és, es pot tornar enrere de vagó i provar quin punt és més fàcil de canviar.\n\nDesprés, es canvien els papers perquè passi pel tren una altra persona.",
+    "avaluacio": "Compartiu les estratègies i les conclusions que han sortit i anoteu-les a la pissarra.",
+    "notes": "El tren serveix per a situacions que s'estan vivint, per preparar-ne de futures (un examen), per desentrellar un estat d'ànim (porto dies de mal humor) o per aturar un pensament que torna (tinc molta mala sort). La dinàmica és de José Luis Bimbela («Gimnàstica emocional»). La sessió també inclou una dinàmica de «busca qui» que el catàleg ja té com «El bingo de presentació».\n\nForma part de la sessió «Comunicació familiar» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16522-comunicacio-familiar.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-el-totem",
     "titol": "El tòtem",
     "tipus": "dinamica",
@@ -1226,6 +1362,38 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-els-actius-de-natura-del-nostre-entorn",
+    "titol": "Els actius de natura del nostre entorn",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "escriptura"
+    ],
+    "temes": [
+      "emocions",
+      "medi-ambient"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pòsits i bolígrafs. Pissarra o paper d'embalar per fer el mapa.",
+    "resum": "Per parelles, l'alumnat identifica els llocs de natura propers que l'ajuden a calmar-se i, entre tots, en fan un mapa del barri o del poble.",
+    "objectius": "Conèixer el concepte d'actiu de salut i identificar els espais naturals de l'entorn que afavoreixen el benestar.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Expliqueu què és un actiu de salut: un recurs que promou la salut i el benestar de les persones o dels grups d'una comunitat. Poden ser persones, entorns, equipaments o activitats.\n\nPer parelles, parlen dels llocs de natura propers que els ajuden a calmar-se i del que hi fan, i ho anoten en pòsits.\n\nDesprés, poseu-ho en comú i recolliu tots els actius a la pissarra per construir entre tots un mapa dels espais naturals propers al centre, al barri o al poble.",
+    "avaluacio": "Quins d'aquests llocs feu servir de veritat? Quin us agradaria visitar més sovint?",
+    "notes": "Forma part de la sessió «Ecoansietat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21552-ecoansietat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-els-compromisos-per-a-la-convivencia",
     "titol": "Els compromisos per a la convivència",
     "tipus": "dinamica",
@@ -1257,6 +1425,41 @@
     "participants": "Alumnat d'ESO; també s'adreça a primària.",
     "descripcio": "Primera part. Repartiu tres pòsits de colors diferents a cada persona. De manera anònima, perquè se sentin còmodes i s'expressin amb llibertat, en cada pòsit responen una pregunta:\n\n- Què passa a l'aula?\n- Com em fa sentir?\n- Què puc fer jo per millorar-ho?\n\nEnganxeu els pòsits en tres espais diferents de l'aula i feu-ne una lectura global. Podeu agrupar les respostes per tipus. Després, en grup, busqueu accions de millora per a les situacions que han sortit.\n\nSegona part (opcional): l'escala del compromís. En un mural, dibuixeu una escala. A cada esglaó escriviu una acció de millora grupal i, al voltant dels esglaons, les accions individuals. A l'esglaó de dalt de tot hi anoteu l'objectiu: el compromís de millorar la convivència i com ens volem sentir a l'aula.\n\nPer saber en quin punt de l'escala sou, feu servir un indicador (per exemple, una emoticona creada per l'alumnat) que anireu movent amunt i avall segons si us acosteu o us allunyeu de l'objectiu.",
     "notes": "Cal fer-ne revisions periòdiques, per exemple cada dues setmanes a l'hora de tutoria, per veure com evolucionen l'objectiu i les accions. Si hi ha dificultats, demaneu la col·laboració de tot el grup per superar-les.\n\nForma part de la sessió «Dinàmiques de cohesió de grup i acceptació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16589-dinamiques-de-cohesio-de-grup-i-acceptacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-els-critics-interns",
+    "titol": "Els crítics interns",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres",
+      "salut-mental"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Papers i bolígrafs.",
+    "resum": "L'alumnat escriu què li diu la seva veu crítica interior; després, un voluntari fa de «crític» a partir d'un dels papers i la resta del grup li respon amb estratègies per sortir d'aquell pensament.",
+    "objectius": "Reconèixer la veu crítica interior, entendre com alimenta l'estrès i practicar una manera de parlar-se més amable.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Expliqueu què són els crítics interns: una part de nosaltres que vol evitar el judici o el rebuig dels altres i protegir-nos del dolor. Quan es desregula, es manifesta com a preocupació excessiva pel que diran, renúncia a ser autèntics, por d'intentar coses per si fracassem o dificultat per obrir-nos. Parla amb missatges crítics sobre nosaltres o el nostre cos, perfeccionisme, comparacions constants, autocensura i dubtes. L'objectiu és equilibrar-lo amb una mirada més compassiva i realista, i fins i tot convertir-lo en un aliat.",
+    "descripcio": "Cadascú escriu en un paper quins crítics interns té i què li diuen aquestes veus.\n\nRecolliu els papers. En rotllana, una persona voluntària n'agafa un i fa de crític: improvisa un discurs a partir del pensament que hi llegeix. La resta del grup li respon amb estratègies per sortir d'aquell pensament. Repetiu-ho amb altres papers i voluntaris.\n\nAlgunes estratègies que poden sortir o que podeu suggerir:\n\n- Identificar la veu crítica i posar-li nom per prendre-hi distància.\n- Observar què diu exactament i amb quin to.\n- Activar la veu amiga: què em diria algú que m'estima? Què li diria jo a una amistat que es parlés així?\n- Detectar en quines situacions el crític apareix amb més força per anticipar-s'hi.\n- Fer una pausa per respirar, perquè el crític creix amb l'estrès.\n- Fer activitats que agradin i estar amb persones que ens acceptin tal com som.",
+    "avaluacio": "Com esteu després de la dinàmica? Els crítics interns ens poden estressar més? La manera com ens parlem té relació amb la salut mental? Què passaria si en comptes de criticar-nos ens animéssim? Hi ha factors externs que ho dificultin (expectatives de la família, pressió acadèmica, el grup, les xarxes)?",
+    "notes": "Forma part de la sessió «La salut mental» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16558-la-salut-mental.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -1391,6 +1594,40 @@
     "participants": "Alumnat d'ESO; també s'adreça a primària.",
     "descripcio": "Demaneu a l'alumnat que formi grups (normalment es faran per afinitat). Marqueu quadrats a terra i cada grup se'n queda un.\n\nAneu donant consignes. Les persones a qui afecti cada consigna surten al mig, es miren i tornen al seu quadrat. Exemples:\n\n- Qui té animals a casa.\n- A qui li agrada ballar.\n- A qui li agrada l'esport.\n- Qui juga a videojocs.\n- Qui està connectat molt sovint a les xarxes socials.\n- Qui s'ha sentit jutjat alguna vegada.\n- A qui li han dit una mala paraula alguna vegada.\n- Qui s'ha sentit malament per alguna cosa que ha fet un company o companya.\n- Qui ha fet mal a alguna persona.",
     "notes": "Si l'alumnat no s'hi anima, el docent pot participar-hi i fer els primers moviments: «Tothom, d'una manera o d'una altra, té alguna cosa en comú».\n\nVariant sense quadrats: tothom comença dret al fons de l'aula. Quan qui dinamitza diu un ítem («Les persones a qui agrada ballar, a la dreta de l'aula»), qui s'hi identifica s'hi mou a poc a poc i s'hi queda, mirant-se amb els altres; amb l'ítem següent («...a l'esquerra») es van recol·locant. Comenceu amb ítems superficials (porto pantalons llargs, m'agrada la platja, tinc una mascota) i aneu cap a ítems més emocionals: m'he sentit ignorat, incomprès o sol alguna vegada; m'han trencat el cor; he tractat malament algú; no ho passo bé quan no hi ha bon ambient a l'aula; he suspès després d'haver estudiat molt. Si algú es queda sol, acosteu-vos-hi i pregunteu-li com està.\n\nForma part de la sessió «Dinàmiques de cohesió de grup i acceptació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16589-dinamiques-de-cohesio-de-grup-i-acceptacio.html També recull variants de «Dinàmiques d'acceptació i semblances grupals»: https://www.siguestu.cat/ca/recursos2/l/17299-dinamiques-dacceptacio-i-semblances-grupals.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-enquadrats-el-malestar-que-compartim",
+    "titol": "Enquadrats: el malestar que compartim",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres",
+      "salut-mental"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "No cal material.",
+    "espai": "Aula amb espai per moure's.",
+    "resum": "L'alumnat es desplaça a un espai de l'aula cada vegada que s'identifica amb una frase sobre el malestar emocional («Les persones que alguna vegada han fingit estar bé...») i descobreix que no està sol.",
+    "objectius": "Visibilitzar pensaments, emocions i sensacions compartides a l'aula i trencar la sensació d'estar sol amb el malestar.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Indiqueu a l'aula l'espai on s'han de desplaçar els qui s'identifiquin amb cada frase, que comença sempre per «Les persones que...»:\n\n- A vegades han actuat d'una manera que no volien.\n- A vegades no han tingut ganes de fer res, només de tancar-se a l'habitació i dormir.\n- Han tingut ansietat o angoixa alguna vegada.\n- Necessiten estar soles quan es desborden.\n- S'irriten o s'enfaden amb facilitat i sovint sense gaire motiu.\n- Sovint no saben identificar què els passa.\n- Sovint es qüestionen la seva vàlua.\n- Senten que ningú les entén.\n- Han perdut l'interès per coses que abans les motivaven.\n- Alguna vegada han fingit estar bé per no preocupar ningú.\n- Alguna vegada han intentat tapar el malestar amb humor, pantalles o menjar.\n- Han sentit por o vergonya de demanar ajuda o d'explicar el que senten.\n- Han sentit que havien de ser fortes i aguantar, encara que estiguessin malament.\n- S'han sentit culpables per no poder tirar endavant com s'esperava.\n\nCada persona decideix si es mou; no cal donar explicacions.",
+    "avaluacio": "Com us heu sentit? Us ha sorprès alguna cosa? Hi ha alguna situació que no hagi sortit i que voldríeu afegir?",
+    "notes": "És una versió temàtica d'«Enquadrats!», la dinàmica de cohesió del mateix programa. Tingueu a mà els recursos d'ajuda del centre i de l'entorn per si algú en necessita.\n\nForma part de la sessió «La salut mental» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16558-la-salut-mental.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -2514,6 +2751,40 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-linia-de-foc-emocions-i-relacions",
+    "titol": "Línia de foc: emocions i relacions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-les-emocions"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "No cal material.",
+    "espai": "Aula amb espai per moure's d'una banda a l'altra.",
+    "resum": "L'alumnat es col·loca en una escala entre el «totalment d'acord» i el «gens d'acord» davant de frases sobre emocions, i el grup aclareix conceptes com la diferència entre controlar i gestionar.",
+    "objectius": "Presentar l'habilitat de gestió de les emocions i reflexionar sobre com el que sentim influeix en com tractem els altres.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Com a presentació, cadascú diu el seu nom i quantes emocions ha sentit des que s'ha llevat (deixeu-los un moment per pensar-hi).",
+    "descripcio": "Un costat de l'aula és «hi estic totalment d'acord» i l'altre, «no hi estic gens d'acord»; el mig és una escala. Llegiu les frases i demaneu que cadascú es posicioni pensant per si mateix, sense deixar-se portar pel grup:\n\n- Manejar les emocions és el mateix que controlar-les.\n- Les emocions i els sentiments són diferents.\n- Les emocions poden ser positives i negatives.\n- Et costa saber com et sents o explicar-ho.\n- Et fa vergonya parlar d'algunes emocions.\n- Quan estàs enfadat, ho expresses sense fer mal a ningú.\n- El teu estat d'ànim influeix en com tractes els altres.\n- Et sents més segur per expressar-te si tens confiança amb algú.\n\nPer a cada frase, demaneu a persones dels dos extrems i del mig que expliquin per què s'hi han posat. Si algú es queda sol en un costat, poseu-vos al seu costat.\n\nAprofiteu les tres primeres frases per aclarir conceptes: controlar sovint vol dir reprimir, mentre que gestionar inclou reconèixer, entendre i regular; les emocions són reaccions ràpides (por, alegria) i els sentiments duren més i apareixen quan hi reflexionem; i les emocions «negatives» no són dolentes: totes són necessàries i ens donen informació, per això és millor parlar d'emocions agradables i desagradables.",
+    "avaluacio": "Les emocions i les relacions estan molt connectades: el que sentim influeix en com ens comportem amb els altres, i com ens tracten fa que ens sentim millor o pitjor. Com ho heu vist en les vostres respostes?",
+    "notes": "Forma part de la sessió «Emocions i relacions» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16480-emocions-i-relacions.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-linia-de-foc-mites-sobre-la-migracio",
     "titol": "Línia de foc: mites sobre la migració",
     "tipus": "dinamica",
@@ -2613,6 +2884,40 @@
     "descripcio": "Disposeu el grup en rotllana. Com si fos un joc, demaneu que facin un pas endavant les persones a qui agradi la sopa de bròquil. Quan tornin al lloc, que facin un pas endavant les que els agradi llevar-se tard. Continueu amb altres propostes: cantar, ballar, plorar...\n\nEs pot fer amb els ulls tancats: un cop fet el pas, obren els ulls per veure com s'ha col·locat la resta.\n\nFeu el mateix amb el que no agrada, però en aquest cas fent un pas enrere.\n\nDesprés, qui vulgui fa un pas endavant i diu alguna cosa que el fa sentir bé: «Com a alumne em sento bé quan...». Qui senti el mateix també fa un pas endavant. Tornen a la posició inicial i una altra persona continua. Seguiu mentre la dinàmica tingui energia.",
     "avaluacio": "Com em sento expressant els meus sentiments?\nVeiem que hi ha altres persones que se senten com nosaltres?\nCom ens fa sentir veure que altres persones senten el mateix?",
     "notes": "Forma part de la sessió «Dinàmiques de cohesió de grup i acceptació» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, empatia). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16589-dinamiques-de-cohesio-de-grup-i-acceptacio.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-mites-sobre-la-salut-mental",
+    "titol": "Mites sobre la salut mental",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres",
+      "salut-mental"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "espai": "Aula amb espai per moure's.",
+    "resum": "Després de definir entre tots què és la salut mental, l'alumnat es posiciona en el «sí» o el «no» davant de creences comunes sobre els trastorns mentals i el grup les desmunta.",
+    "objectius": "Desfer mites i estigmes sobre la salut mental i relacionar-la amb la gestió de l'estrès.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Pregunteu què és per a ells la salut mental i feu una llista a la pissarra amb les paraules i idees que surtin. Després, expliqueu-la breument: segons l'OMS, és l'estat d'equilibri i benestar emocional, psicològic i social que ens permet afrontar els reptes de la vida, gestionar l'estrès, relacionar-nos i prendre decisions, i es construeix i es transforma al llarg de la vida.",
+    "descripcio": "Delimiteu dos espais, «sí» i «no»; podeu acordar deixar el mig per al «depèn», tot i que és interessant que es posicionin. Llegiu cada frase, deixeu que es col·loquin i obriu el debat abans de donar la resposta:\n\n- Tothom pot tenir un trastorn mental. Sí: és una vulnerabilitat universal, i per això cal parlar-ne obertament i sense estigma, cosa que ajuda a detectar-los aviat i a tractar-los.\n- La salut mental depèn de factors biològics, socioeconòmics, culturals i ambientals. Sí: hi influeixen les característiques de la persona (habilitats emocionals, estil de vida, genètica) i l'entorn (família, amistats, gènere, feina, lloc on vius). Una xarxa de suport o uns hàbits saludables la protegeixen; la pobresa, la violència o el consum de drogues hi són factors de risc.\n- Les persones amb un trastorn mental són violentes. No: tenen les mateixes possibilitats de ser-ho que qualsevol altra, i en canvi tenen més risc de ser-ne víctimes.\n- Els trastorns mentals són incurables. No: la majoria de persones es recuperen totalment o parcialment amb el tractament i el suport adequats, sobretot si es detecta aviat. Recuperar-se vol dir poder viure una vida plena i autònoma, no necessàriament la curació total.\n- Es neix amb un trastorn mental. No: es pot néixer amb una vulnerabilitat, però el trastorn apareix per la combinació de factors biològics, psicològics i socials.\n\nSegons el Canal Salut, una de cada quatre persones tindrà un problema de salut mental al llarg de la vida, i la meitat dels trastorns apareixen abans dels 14 anys.",
+    "avaluacio": "Com us heu sentit? Per què creieu que hi ha tants mites sobre la salut mental? Teniu espais on en podeu parlar amb llibertat? L'estrès us ha ajudat mai a fer millor alguna cosa? I us ha bloquejat? Quan passa de ser útil a ser perjudicial?",
+    "notes": "Forma part de la sessió «La salut mental» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16558-la-salut-mental.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -3481,6 +3786,39 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-sociograma-familiar-l-univers-de-relacions",
+    "titol": "Sociograma familiar: l'univers de relacions",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "convivencia",
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-les-emocions"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Un full i un bolígraf per persona.",
+    "resum": "Cadascú dibuixa el seu univers de relacions familiars, amb el seu nom al centre i les persones més o menys a prop segons la força del vincle, i el grup reflexiona sobre els valors i les emocions que hi apareixen.",
+    "objectius": "Prendre consciència dels vincles familiars i de les emocions que desperten, i conèixer la tècnica del sociograma per aplicar-la en altres contextos.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Abans de començar, tingueu present que hi pot haver alumnat que viu en un centre de menors, que té la família lluny o que no té l'estructura familiar més coneguda. Expliqueu que la família no sempre té a veure amb els lligams de sang i que l'activitat pot remoure. També es pot fer amb les relacions de l'aula.\n\nExpliqueu que el sociograma és una tècnica per fer una radiografia d'un grup: mostra de manera gràfica els vincles, les influències i les preferències entre les persones.",
+    "descripcio": "Cadascú escriu el seu nom al centre del full. A prop hi posa les persones amb qui sent el vincle més fort i, més lluny, aquelles amb qui el vincle és més distant. És un retrat, sense judicis, de com viu les relacions en aquest moment. Recordeu que un sociograma no és permanent: les relacions canvien.\n\nQuan l'acabin, poseu en comú:\n\n- Ha estat fàcil fer-lo?\n- Quins valors apareixen en les relacions més properes? (Em cuiden, em dediquen temps, m'ajuden amb els deures, treballen perquè tinguem casa i menjar...)\n- I en les més distants? (Frustració, acceptació, indiferència, ràbia, rebuig...)\n- Quines emocions us desperten unes i altres?",
+    "avaluacio": "Què podríeu fer per apropar alguna relació que voldríeu més propera? Amb qui podeu comptar quan les coses van malament?",
+    "notes": "Forma part de la sessió «Comunicació familiar» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16522-comunicacio-familiar.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-som-extraterrestres",
     "titol": "Som extraterrestres",
     "tipus": "dinamica",
@@ -3551,6 +3889,73 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-una-carta-per-dir-com-estic",
+    "titol": "Una carta per dir com estic",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres",
+      "salut-mental"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Cartes del Dixit o d'un joc semblant, amb imatges evocadores.",
+    "resum": "Cadascú tria entre les cartes escampades al centre de la rotllana una imatge que el representi i es presenta explicant amb què el connecta i què li fa sentir.",
+    "objectius": "Expressar estats interns difícils de posar en paraules i descobrir que expressar-se i sentir-se escoltat redueix l'estrès.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Presenteu l'habilitat de gestió de l'estrès amb preguntes: què és l'estrès? Sempre és negatiu? Quan pot ser útil? Heu sentit mai que teniu massa coses a fer, que no podeu dormir perquè entreu en bucle o que esteu malament sense saber per què? Com està el cos en aquests moments (mal de panxa, mal de cap, tensió)?",
+    "descripcio": "Escampeu les cartes a terra, al centre de la rotllana. Cadascú en tria una amb què connecti i pensa què diu d'ell, amb què s'identifica i quina emoció li desperta. La imatge pot ajudar a expressar un estat difícil de dir amb paraules.\n\nDesprés, en la ronda de presentació, cadascú diu el seu nom i explica la seva carta. Fixeu-vos en com, a vegades, costa posar paraules al que ens passa.",
+    "avaluacio": "És fàcil posar paraules al que sentim? Costa més parlar dels malestars que de les coses agradables? Com ens sentim quan no podem expressar el que ens passa? Parlar-ne ens ajuda a ordenar-nos per dins? Què ens faria sentir més còmodes per parlar d'emocions?",
+    "notes": "Forma part de la sessió «La salut mental» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16558-la-salut-mental.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-una-emocio-en-context",
+    "titol": "Una emoció en context",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "subgrups",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-les-emocions"
+    ],
+    "durada": 35,
+    "grup": "mitja",
+    "materials": "Mig full i un bolígraf per persona. Pissarra.",
+    "resum": "Cadascú recorda una situació en què va sentir una emoció intensa i la desgrana amb tot detall (el cos, el lloc, les persones, el que necessitava); després, en grups, comparteixen semblances i construeixen una llista d'estratègies de gestió emocional.",
+    "objectius": "Reconèixer com es manifesten les emocions i com hi influeix el context, i descobrir estratègies per gestionar-les de manera saludable.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Individualment, cadascú busca una situació en què es va sentir molt a gust, a disgust, enfadat, avergonyit... i la resumeix. Després la detalla al màxim amb l'ajuda d'aquestes preguntes, que podeu escriure a la pissarra:\n\n- Com sabia que sentia aquesta emoció? Tenia forma, color o so?\n- Com estava el cos? Com va reaccionar?\n- On era, amb qui i què feia?\n- Què necessitava? Què m'hauria ajudat?\n- Com podia gestionar l'emoció de manera saludable? A qui podia demanar ajuda?\n- Era un context de confiança o un espai nou?\n- Què passava a la meva vida a banda d'això (algú malalt a casa, una baralla, molts suspesos...)?\n- En puc treure alguna conclusió per si torna a passar?\n\nDeixeu temps perquè ho facin amb calma: és un entrenament. A qui acabi de pressa, demaneu-li que s'hi torni a posar i que busqui més detalls.\n\nDesprés, agrupeu l'alumnat pel color de l'emoció, com al semàfor (vermell, taronja, verd), i, si un grup és molt gran, pel context de la situació (família, amistats, escola, extraescolars, xarxes, jocs). Cadascú comparteix el que vulgui, sense haver d'explicar-ho tot. Hi ha semblances? Molta diferència?\n\nPer acabar, el grup classe fa una llista d'estratègies de gestió emocional que hagin sortit.",
+    "avaluacio": "En rotllana: com ens podem ajudar mútuament a gestionar les emocions? La sessió ens ha ajudat a entendre-les millor? Què podem fer per continuar treballant-ho a l'aula?",
+    "notes": "Un exemple per orientar: «Estic amb la colla i hi ha una persona que m'agrada que flirteja amb una amiga. Sento enveja i em desconnecto del grup, irritable; tinc el cos contingut i mal de panxa. A més, a casa no tenim diners i no sé si podré pagar el regal d'aniversari que estem planificant. La conclusió és que el millor seria dir-li què sento i escoltar què sent ella».\n\nForma part de la sessió «Emocions i relacions» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16480-emocions-i-relacions.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-valorar-me",
     "titol": "Valorar-me",
     "tipus": "dinamica",
@@ -3615,6 +4020,70 @@
     "descripcio": "Cada persona porta un full enganxat amb una pinça a l'esquena (pot ser el revers del full de «Valorar-me»).\n\nTothom s'aixeca i escriu una cosa positiva a l'esquena dels companys. També es pot donar les gràcies a algú, com a alternativa si algú es bloqueja.\n\nAneu mirant els fulls per assegurar-vos que es compleix la consigna i que tothom té més o menys el mateix nombre de qualitats escrites. Si algú en té poques, digueu en veu alta, sense dir noms: «Mirem tothom, que tothom tingui un nombre semblant de paraules: tothom és important en aquest grup».\n\nQuan acaben, cadascú torna al lloc i llegeix el que li han escrit.",
     "avaluacio": "Algú vol compartir alguna cosa: si l'ha sorprès, li ha agradat, li ha cridat l'atenció...?\nRecordeu que ara es tracta d'integrar-ho al dia a dia: un grup que és conscient de les qualitats dels altres i les expressa construeix un espai de cura més fort i segur.",
     "notes": "Forma part de la sessió «Ens cuidem? - Cohesió de grup» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: autoconeixement). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16481-ens-cuidem--cohesio-de-grup.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-visualitzacio-arrelar-se-com-un-arbre",
+    "titol": "Visualització: arrelar-se com un arbre",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "emocions"
+    ],
+    "temes": [
+      "emocions",
+      "medi-ambient"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Música suau o sons de la natura.",
+    "resum": "Visualització guiada en què l'alumnat s'imagina en un bosc i es converteix en un arbre fort i arrelat, per experimentar la natura com a recurs de calma.",
+    "objectius": "Practicar una estratègia de relaxació i viure la connexió amb la natura com a recurs de benestar davant l'estrès.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Demaneu silenci i que es posin còmodes, asseguts o estirats, amb els ulls tancats o la mirada baixa. Poseu música suau o sons de la natura i guieu la visualització amb veu pausada:\n\n«Pren una respiració profunda. Inspira pel nas i expira per la boca. Torna-ho a fer, a poc a poc, i nota com el cos es relaxa.\n\nImagina que ets en un bosc tranquil. Fa bon temps i la llum entra entre els arbres. Sents els ocells i una brisa suau a la cara.\n\nAra et converteixes en un arbre fort, bell i únic. Els peus són arrels que s'endinsen a la terra i, amb cada respiració, s'hi enfonsen més. Sents la força i la calma de la terra. Passi el que passi, ets aquí, arrelat.\n\nEl tronc s'allarga cap amunt i les branques s'obren cap al cel, acollint la llum i el vent. Hi ha moviment, però no et desequilibres: saps adaptar-te i saps respirar.\n\nAra, a poc a poc, torna. Nota el cos, mou els dits de les mans i dels peus, respira profundament una última vegada i, quan estiguis a punt, obre els ulls sense presses.»",
+    "avaluacio": "Com us heu sentit? Connectar amb la natura us pot ajudar quan us preocupen aquests temes? Com us podeu cuidar quan teniu pensaments negatius sobre el planeta? Teniu alguna estratègia per posar límit a l'allau de notícies? Com ens podem ajudar entre nosaltres?",
+    "notes": "Forma part de la sessió «Ecoansietat» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/21552-ecoansietat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-visualitzacio-connexio-interior",
+    "titol": "Visualització: connexió interior",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "silenci",
+      "emocions"
+    ],
+    "temes": [
+      "emocions"
+    ],
+    "siguestu": [
+      "gestio-de-l-estres",
+      "salut-mental"
+    ],
+    "durada": 10,
+    "grup": "mitja",
+    "materials": "Música suau, opcional.",
+    "resum": "Visualització guiada per tancar la sessió: un lloc segur, les persones que ens accepten i un mirall on mirar-se amb amabilitat.",
+    "objectius": "Acabar la sessió amb calma i practicar una mirada amable i compassiva cap a un mateix.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Demaneu que tanquin els ulls uns cinc minuts i, si voleu, poseu música suau. Guieu la visualització:\n\n- Imagineu un lloc que us agradi, on us sentiu segurs, tranquils i lliures de ser vosaltres mateixos.\n- Penseu en persones que estimeu i que us accepten tal com sou. Si voleu, convideu-les a compartir aquest lloc. Gaudiu un moment d'aquesta calma i companyia.\n- Ara visualitzeu un mirall. Mireu-vos-hi amb una mirada amable i positiva. Què us diríeu de bo? Quin missatge us motivaria? Com us podeu cuidar millor? Us podeu donar les gràcies per alguna cosa?\n- Acomiadeu-vos del reflex i, a poc a poc, torneu a l'aula.",
+    "avaluacio": "Com us sentiu després de la visualització?",
+    "notes": "Per aprofundir, podeu consultar l'informe sobre la salut mental del jovent de Catalunya del Consell Nacional de la Joventut (2023), la guia «Encarem el suïcidi juvenil» i l'associació Obertament.\n\nForma part de la sessió «La salut mental» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16558-la-salut-mental.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
