@@ -185,6 +185,37 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-barometre-del-plaer-mites-sobre-la-sexualitat",
+    "titol": "Baròmetre del plaer: mites sobre la sexualitat",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "pensament",
+      "afectivitat",
+      "genere"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "espai": "Aula amb dos espais diferenciats i un espai neutral al mig.",
+    "resum": "L'alumnat es posiciona entre l'acord i el desacord davant de mites sobre l'edat de la primera relació, el desig dels nois i les noies, la vulva i el preservatiu, i el grup els desmunta.",
+    "objectius": "Qüestionar mites sobre la sexualitat i els estereotips de gènere que hi ha al darrere, des del pensament crític.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Tothom comença dret al mig de l'aula. Llegiu cada afirmació; l'alumnat va cap a l'espai d'acord, el de desacord o un punt entremig, i pot canviar de lloc si els arguments el convencen. Pregunteu per què s'hi han posat abans d'aportar la reflexió:\n\n- L'edat ideal per començar a tenir relacions sexuals és dels 14 als 18 anys. No hi ha una edat bona o dolenta: què considerem una primera relació? Perquè sigui sana ha de ser desitjada, plaent i amb escolta. No haver tingut relacions genitals no vol dir no tenir una sexualitat satisfactòria.\n- La sexualitat és innata i no s'ha d'aprendre. Què és innat i què aprenem? Si no ens qüestionem el que aprenem, reproduïm una sexualitat heterosexual, masclista i centrada en els genitals.\n- Els nois tenen més desig sexual que les noies. És un estereotip de gènere («elles parlen d'amor; ells, de sexe»). La testosterona la té tothom i no determina el desig. Què es diu d'una noia que parla obertament de sexe? I d'un noi que no en parla mai?\n- Es dibuixen més penis que vulves perquè són més fàcils de dibuixar. Sabem dibuixar una vulva? Com és el clítoris? Per què els penis sempre es dibuixen erectes? Parleu de la pressió sobre els nois per estar sempre disponibles i sobre les noies per complaure més que gaudir.\n- Amb el preservatiu se sent menys plaer. Els preservatius actuals no en treuen; negar-se a fer-ne servir posa en risc la salut de l'altra persona i és una forma de violència. Recordeu que el líquid preseminal també pot fecundar.",
+    "avaluacio": "Tanqueu amb el pensament crític: què ens ajuda a desenvolupar-lo? Quines fonts d'informació sobre sexualitat coneixeu? Com hem posat en pràctica l'habilitat en aquesta sessió?",
+    "notes": "Per aprofundir, podeu consultar la sèrie «El punt D» de TV3 i la guia sobre violències sexuals «El soroll del silenci» de la cooperativa Candela.\n\nForma part de la sessió «Si no gaudeixo no és sexualitat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16503-si-no-gaudeixo-no-es-sexualitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-canvis-a-la-pubertat",
     "titol": "Canvis a la pubertat",
     "tipus": "dinamica",
@@ -1081,6 +1112,34 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-les-dimensions-de-la-salut-sexual",
+    "titol": "Les dimensions de la salut sexual",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "reflexio"
+    ],
+    "temes": [
+      "pensament",
+      "afectivitat"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "resum": "El grup construeix una definició de sexualitat centrada en el plaer i la relaciona amb les quatre dimensions de la salut sexual: física, social, mental i espiritual.",
+    "objectius": "Entendre la sexualitat com una dimensió de tota la vida orientada al plaer i al benestar, i no només com a prevenció de riscos.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Pregunteu: si haguéssiu d'explicar què és la sexualitat a algú que no en sap res, com la definiríeu? Recolliu les propostes i aporteu-hi aquesta idea: la sexualitat és una energia que ens mou a buscar el plaer; ens acompanya tota la vida i no vol dir necessàriament practicar sexe. Què fa que estiguem a gust per gaudir?\n\nConstruïu la definició repassant les quatre dimensions de la salut sexual:\n\n- Física: mètodes barrera, infeccions i embarassos, conèixer el cos i la diversitat de genitals.\n- Social: els mites i els estereotips «se'ns fiquen al llit»: si crec que masturbar-me és dolent, ho faré amb por; si al passadís es fa servir «marieta» com a insult, afecta la salut sexual de tothom. També inclou la intimitat: explicar com és el cos d'algú o què va passar trenca la intimitat de la relació.\n- Mental: la comunicació. Dir què ens agrada i què no, poder riure... Què passa si dissimulem una incomoditat?\n- Espiritual: què vol dir plaer per a cadascú en cada moment. No sempre ha de ser el sexe.\n\nRemarqueu el consentiment: comunicació constant, decisions conjuntes i el mateix pes per a totes les persones.",
+    "avaluacio": "L'educació sexual sovint es queda en la salut física, centrada en la por i el dolor. Què canvia si posem el plaer i el benestar al centre?",
+    "notes": "Forma part de la sessió «Si no gaudeixo no és sexualitat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16503-si-no-gaudeixo-no-es-sexualitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-lligar-quantes-preguntes",
     "titol": "Lligar... quantes preguntes!",
     "tipus": "dinamica",
@@ -1646,6 +1705,37 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-sexe-sexe-sexe",
+    "titol": "Sexe, sexe, sexe",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "pensament",
+      "afectivitat"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Paper i bolígraf per parella. Pissarra.",
+    "resum": "Per parelles, l'alumnat diu paraules sobre sexualitat en cadena i, quan es classifiquen a la pissarra (pràctiques, cos, identitat, emocions, cures, relacions...), el grup descobreix que té una idea molt reduïda de la sexualitat.",
+    "objectius": "Posar en dubte la visió limitada de la sexualitat que solem aprendre i ampliar-la a les emocions, el cos sencer i les diverses pràctiques.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Com a presentació, cadascú diu el seu nom i alguna cosa que li agrada, què faria aquest cap de setmana encara que fos impossible o quin superpoder voldria tenir, per començar a connectar amb el desig.",
+    "descripcio": "Per parelles, una persona repeteix «sexe, sexe, sexe» i l'altra respon amb la primera paraula sobre sexualitat que li passi pel cap; la primera les va anotant. Després canvien els papers.\n\nAboqueu totes les paraules a la pissarra i classifiqueu-les en columnes (podeu posar-hi els títols abans o demanar-los després al grup):\n\n- Pràctiques: petons, carícies, masturbació, sexe oral, penetració, joguines...\n- Feina: pornografia, prostitució, assistència sexual...\n- Cos: parts del cos, fluids, regla, embaràs, hormones...\n- Identitat: heterosexual, gai, lesbiana, trans...\n- Emocions.\n- Cura del cos: preservatiu, lubricant, higiene...\n- Relacions: monogàmia, poliamor, relacions romàntiques...\n- Violència: abusos, insults LGTBI, masclisme... (en una columna a part).\n\nPregunteu com s'han sentit dient les paraules: ha costat anomenar-ne alguna? Recordeu que encara és un tema que fa vergonya o fàstic.",
+    "avaluacio": "Analitzeu la pissarra: hi ha paraules que no coneixeu? Quines columnes són plenes i quines buides? (Sovint les pràctiques són plenes i les emocions, buides.) Què hi falta? Sovint no hi surten la pell ni el cervell, ni la por, la curiositat o l'avorriment, i les pràctiques sense penetració es veuen com a «preliminars». La sexualitat que aprenem segueix el guió de les pel·lícules o de la pornografia, i és molt més àmplia.",
+    "notes": "Forma part de la sessió «Si no gaudeixo no és sexualitat» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16503-si-no-gaudeixo-no-es-sexualitat.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-sexualitat-i-drets",
     "titol": "Sexualitat i drets",
     "tipus": "dinamica",
@@ -1799,6 +1889,38 @@
     "descripcio": "Formeu grups de 4 o 5 persones. Agrupeu els papers que han sortit per emocions i doneu a cada grup una emoció amb les situacions corresponents.\n\nQuines situacions poden generar por, ràbia, alegria, amor...? S'assemblen? Què tenen en comú? En què es diferencien?\n\nA partir de l'emoció i de les situacions, cada grup pensa una foto fixa que la representi (en pot pensar més d'una). Deixeu una estona perquè ho parlin i ho preparin.\n\nCada grup presenta la seva foto al gran grup i debateu com es podria canviar aquella imatge.",
     "avaluacio": "Què us genera veure aquesta imatge?\nÉs real? Passa o pot passar?\nCom es pot resoldre o continuar?\nQuina seria la foto ideal? Com podem passar de la real a la ideal? Què necessitem?",
     "notes": "Forma part de la sessió «Línies vermelles» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16507-linies-vermelles.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-teatre-analisi-quan-algu-ens-agrada",
+    "titol": "Teatre-anàlisi: quan algú ens agrada",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "expressio-corporal",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "emocions",
+      "afectivitat"
+    ],
+    "durada": 40,
+    "grup": "mitja",
+    "materials": "Una targeta amb un cas per grup. Pissarra.",
+    "resum": "En grups de quatre, l'alumnat representa situacions de relació que poden fer por o vergonya (t'agrada la mateixa persona que a un amic, no saps com dir-li a algú que t'agrada...) i la resta les analitza i proposa sortides.",
+    "objectius": "Reconèixer la por i la vergonya que podem sentir quan ens relacionem i buscar maneres de gestionar-les.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Com a presentació, cadascú diu el seu nom i alguna cosa que li fa por (les serps, la foscor, quedar-se sol...). Parleu de la por: és útil? Com la gestionem? Ens pot paralitzar? La por és una emoció intensa davant d'una situació que percebem perillosa, real o imaginada; ens ajuda a evitar riscos i ens informa del que ens importa. Davant la por podem fugir, amagar-nos o quedar-nos paralitzats. S'hi relacionen la vergonya, la inseguretat, la confusió, la gelosia o l'enveja.\n\nPer escalfar, podeu fer una ronda de «Qui com jo» amb frases com «Qui com jo s'enrogeix quan s'acosta algú que li agrada».",
+    "descripcio": "Feu grups de quatre i doneu a cada grup un cas:\n\n- A un amic teu li agrada la mateixa persona que a tu.\n- Sembla que també li agrades a la noia que t'agrada.\n- Li agrades a una persona, però a tu no t'agrada.\n- La parella de la teva amiga no la tracta bé.\n- La teva amiga no tracta bé la seva parella.\n- No saps com relacionar-te amb la teva parella.\n- T'agrada molt una persona i no saps si dir-li-ho ni com.\n- T'agrada una amistat, però tu no li agrades.\n\nCada grup analitza el seu cas i el representa breument davant la classe. Escriviu a la pissarra les preguntes d'anàlisi perquè la resta les tingui presents: què passa objectivament? Què vol i què necessita cada personatge? Quines emocions hi apareixen? Què fan davant la situació?\n\nDesprés de cada representació, la resta del grup l'analitza i proposa dues opcions per resoldre el cas. Deixeu-hi temps i procureu que hi participi el màxim d'alumnat.",
+    "avaluacio": "Heu descobert alguna cosa nova que vulgueu compartir? Quines emocions s'han repetit més en els casos? Què ens ajuda a afrontar la por i la vergonya en les relacions?",
+    "notes": "Forma part de la sessió «De què tinc por?» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: gestió de l'estrès). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16454-de-que-tinc-por.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
