@@ -681,6 +681,41 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-estrategies-i-linies-vermelles-per-lligar",
+    "titol": "Estratègies i línies vermelles per lligar",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat",
+      "violencies"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "pressio-de-grup"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pòsits i bolígrafs.",
+    "espai": "Aula amb espai per moure's d'una banda a l'altra.",
+    "resum": "L'alumnat escriu maneres de lligar i línies vermelles que no tolera i, amb una línia de foc, es posiciona entre el «em sento còmode» i el «no va amb mi» davant de cada pòsit.",
+    "objectius": "Identificar maneres respectuoses de lligar i reconèixer els límits propis i les conductes que són una falta de respecte.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Cadascú escriu en pòsits, un per idea, maneres de lligar que coneix o que fa servir. Per exemple: demanar a les amistats que hi parlin, obrir-li conversa per Instagram, proposar de quedar, dir-li-ho on sigui, el llenguatge no verbal...\n\nDesprés, fan el mateix amb les línies vermelles, el que no toleren: anar-hi a riure-se'n, humiliar, fer xantatge, amenaçar, provar-ho amb dues amigues alhora davant de l'altra, que la persona hagi pres alcohol o drogues, aprofitar una discussió...\n\nFeu una línia de foc: un extrem de l'aula és «em sento còmode, ho faig, ho tolero» i l'altre, «em sento incòmode, no ho tolero, no és el meu estil». Llegiu pòsits variats de les dues llistes i l'alumnat es col·loca on cregui. Demaneu algunes opinions a cada posició.",
+    "avaluacio": "En parelles o grups de tres, comenten com ha anat la sessió: amb què estan d'acord i amb què no, si se'ls ha fet estrany parlar-ne amb la classe, què els ha sorprès. Cada grup comparteix una o dues conclusions.",
+    "notes": "Per aprofundir, podeu consultar la guia sobre violències sexuals «El soroll del silenci» i el vídeo «Com lligar?» de la Lore, totes dues de la cooperativa Candela.\n\nForma part de la sessió «Com lligar» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16508-com-lligar.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-et-mires-al-mirall",
     "titol": "Et mires al mirall?",
     "tipus": "dinamica",
@@ -1165,6 +1200,39 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-lligar-quantes-preguntes",
+    "titol": "Lligar... quantes preguntes!",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "pressio-de-grup"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "No cal material.",
+    "resum": "Conversa oberta sobre lligar: la pressió de la família i les amistats, els estigmes, les etiquetes que posen a qui lliga o no lliga i la idea que entre nois i noies no hi pot haver amistat.",
+    "objectius": "Reflexionar sobre la pressió social que hi ha al voltant de les relacions afectives i sexuals i sobre com pot afectar la construcció de la identitat.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Com a presentació, cadascú diu el seu nom i un tema de conversa que li agradi o li interessi.",
+    "descripcio": "Obriu un espai de diàleg perquè l'alumnat doni lliurement la seva opinió sobre «lligar». Si no surten sols, exploreu aquests quatre punts:\n\n- Els estigmes d'estar en parella (creences, cultures, religions, estatus): heu parlat mai del que diuen les religions o les creences de les vostres famílies sobre lligar?\n- La pressió de la família i les amistats: us han preguntat mai «Ja tens parella?» o «Encara no t'has enrotllat amb ningú?»?\n- L'impacte en la identitat i les etiquetes («és una fàcil», «és una santa», «les persones guais lliguen»): a tothom li agrada el mateix tipus de persona? Hi ha una edat ideal per començar a lligar? Per què un noi guapo a qui agrada una persona grassa podria no voler dir-ho a ningú?\n- La pressió perquè algunes relacions no puguin ser només d'amistat: un noi i una noia poden ser només amics?\n\nAcompanyeu la conversa sense jutjar, preguntant amb curiositat i posant exemples del contrari del que es diu, no per portar la contrària sinó per obrir el ventall i que tothom senti que la seva idea pot ser vàlida. Per exemple, si diuen que lligar és cosa de gent gran, podeu explicar que hi ha persones que hi tenen curiositat molt joves i d'altres que no la tenen mai.",
+    "avaluacio": "Quines pressions us han semblat més fortes? D'on vénen? Com es pot sentir algú que no té cap interès a lligar?",
+    "notes": "Tingueu present que hi pot haver persones que no tenen interès a lligar ni en les relacions sexoafectives, i que també és vàlid.\n\nForma part de la sessió «Com lligar» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16508-com-lligar.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-linia-de-foc-mites-de-l-amor-romantic",
     "titol": "Línia de foc: mites de l'amor romàntic",
     "tipus": "dinamica",
@@ -1515,6 +1583,39 @@
     "descripcio": "Doneu mig foli a cadascú i demaneu que dibuixi què és l'amor per a ell o ella. Col·loqueu els dibuixos al centre del cercle. No importa qui ha fet cada dibuix, sinó amb quins símbols pensa l'amor el grup.\n\nObriu el debat:\n\n- Què us sorprèn d'aquests dibuixos? Hi ha coses que es repeteixen?\n- L'amor és innat o après? La part apresa, d'on l'aprenem?\n- Com són i com actuen les parelles de les sèries i les pel·lícules?\n\nSegons el que hagi sortit, tireu del fil dels mites:\n\n- Molts cors: només sentim l'amor al cor? Els sentiments passen per tot el cos (la panxa, la suor, els tremolors, els genitals...).\n- Cors perfectes: l'amor és simètric i net? En l'amor també hi ha conflictes, moments d'eufòria i moments de calma.\n- Cupido i la fletxa: existeix l'amor a primera vista? Què ens fa sentir bé amb algú (la confiança, conèixer-lo)?\n- El cor trencat: «sense tu em moro». Per què no hi ha cançons així sobre l'amistat? Hi ha vida després de l'amor?\n- La mitja taronja: hi ha algú predestinat a completar-nos? I si no el trobem?\n- L'amor per sempre: totes les relacions són així? Què necessita una persona que té por de perdre l'altra?\n- Estereotips: com són les persones dibuixades? Hi ha parelles del mateix sexe? Totes les noies tenen els cabells llargs?",
     "avaluacio": "Quins mites han sortit més? Com se sent algú que creu que només hi ha una persona al món per a ell? Què pot fer mal d'aquestes idees?",
     "notes": "Forma part de la sessió «Ai, l'amor...» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: empatia). Autoria: Equip «Sigues tu», a partir de la Cooperativa Candela. Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13203-ai-lamor.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-ens-cal-per-lligar",
+    "titol": "Què ens cal per lligar?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "sexualitats",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "silenci",
+      "reflexio"
+    ],
+    "temes": [
+      "afectivitat"
+    ],
+    "siguestu": [
+      "comunicacio-interpersonal",
+      "pressio-de-grup"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Pissarra i retoladors.",
+    "resum": "El grup fa una llista de què cal per lligar i, en una rotllana mirant enfora amb els ulls tancats, cadascú obre la mà quan s'hi identifica, mentre es compten les mans a la pissarra.",
+    "objectius": "Descobrir que el que sembla evident per lligar no ho és per a tothom, i posar en valor el coneixement d'un mateix i la comunicació.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Primer pregunteu: què necessitem per lligar? Recolliu les respostes a la pissarra i, si cal, orienteu-les. Poden sortir:\n\n- Que t'interessi lligar; tenir ganes de compartir-te.\n- Saber què vols.\n- Sinceritat i seguretat.\n- Conèixer-me bé: els meus límits, les pors, el que m'agrada.\n- Saber quines són les meves vergonyes i inseguretats.\n- Poder expressar el que sento, vull i necessito.\n- Saber trobar el moment i la manera.\n\nDesprés, l'alumnat fa una rotllana asseguda mirant cap enfora, amb les mans darrere la cadira, els punys tancats i, si poden, els ulls tancats. Llegiu les aportacions de la llista una a una: qui s'hi identifica obre la mà. Anoteu a la pissarra quantes mans s'obren en cada frase.",
+    "avaluacio": "Mireu els resultats: allò que semblava evident té molts vots o pocs? Quina frase en té més? Com pot ser?",
+    "notes": "Forma part de la sessió «Com lligar» del programa Sigues tu de Dipsalut (eix sexualitats; habilitat per a la vida: comunicació interpersonal). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16508-com-lligar.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {

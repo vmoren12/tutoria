@@ -1529,6 +1529,40 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-els-quatre-passos-de-la-comunicacio-no-violenta",
+    "titol": "Els quatre passos de la comunicació no violenta",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cercle",
+      "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "convivencia"
+    ],
+    "siguestu": [
+      "convivencia",
+      "negociacio-i-refus"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Una cadira per persona. Pissarra.",
+    "resum": "Després de conèixer els quatre passos de la comunicació no violenta, l'alumnat canvia de cadira cada vegada que una afirmació sobre empatia, necessitats i demanar ajuda és certa per a ell.",
+    "objectius": "Conèixer els quatre passos de la comunicació no violenta i reflexionar sobre la capacitat d'identificar i expressar les pròpies necessitats.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Escriviu a la pissarra els quatre passos de la comunicació no violenta i resoleu els dubtes:\n\n1. Observar els fets concrets que afecten el nostre benestar.\n2. Identificar què sentim davant del que observem.\n3. Identificar les necessitats no satisfetes que originen aquests sentiments.\n4. Demanar clarament a l'altra persona el que ens agradaria que fes.\n\nCadascú seu en una cadira, en rotllana. Llegiu afirmacions: qui les trobi certes s'aixeca i canvia de cadira amb algú altre que també s'hagi aixecat. Comenceu amb unes de prova (m'agrada la xocolata, m'agrada l'hora del pati) i continueu amb altres sobre la sessió i la comunicació:\n\n- He proposat un nom per a l'objecte de la classe.\n- He estat d'acord amb algun dels noms que s'han dit.\n- Em considero una persona empàtica.\n- M'agrada fixar-me en el que em fa sentir bé a classe.\n- Em sento capaç d'expressar les meves necessitats a l'aula.\n- Sé identificar què necessito quan estic malament.\n- Sé demanar ajuda o dir quines són les meves prioritats.\n- Em respecto i em tracto bé.\n\nSi hi ha temps, comenteu què senten a mesura que surten les afirmacions o deixeu que el grup en proposi de noves.",
+    "avaluacio": "Acabeu amb aquesta frase de Marshall B. Rosenberg: «Dir que no d'una manera compassiva no és rebutjar la persona, sinó cuidar les meves pròpies necessitats». Què en penseu?",
+    "notes": "Fa servir el mecanisme d'«El sol brilla», amb afirmacions sobre la comunicació.\n\nForma part de la sessió «Ens comuniquem?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16567-ens-comuniquem.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-endevina-que-estic-mirant",
     "titol": "Endevina què estic mirant",
     "tipus": "dinamica",
@@ -1765,6 +1799,40 @@
     "preparacio": "Prepareu les targetes amb el nom de cada alumne o alumna (també es poden fer a l'aula amb el grup) i poseu-les dins la bossa o el sobre.",
     "descripcio": "Col·loqueu el grup en rotllana.\n\nCada alumne o alumna treu una targeta de la bossa sense mirar i no diu a ningú quin nom li ha tocat.\n\nRepartiu un paper de color i un retolador per persona. Cadascú escriu un desig per a la persona que li ha tocat.\n\nQuan tothom ha acabat, un per un i en veu alta, cadascú va fins a la persona que li ha tocat i li diu el desig que li ha escrit.",
     "notes": "Alternativa: cadascú escriu un desig sense saber a qui anirà, més universal i menys personal. Els desitjos es posen a la bossa i cadascú n'agafa un a l'atzar.\n\nForma part de la sessió «Desitjos pel futur» del programa Sigues tu de Dipsalut (eix convivència; habilitats per a la vida: autoconeixement, comunicació interpersonal, presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/13461-desitjos-pel-futur.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-et-dono-les-gracies",
+    "titol": "Et dono les gràcies",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "emocions",
+      "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "convivencia"
+    ],
+    "siguestu": [
+      "convivencia",
+      "negociacio-i-refus"
+    ],
+    "durada": 15,
+    "grup": "mitja",
+    "materials": "Tres pòsits de colors diferents per persona i bolígrafs.",
+    "resum": "Cadascú escriu tres agraïments: per l'ajuda rebuda d'un company, per l'ajuda que ha donat i a si mateix per alguna cosa que ha fet bé; després se'n llegeixen alguns de manera anònima.",
+    "objectius": "Expressar i rebre agraïment sincer, que ens connecta amb els altres, i aprendre a reconèixer-se el que s'ha fet bé.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Expliqueu que en la comunicació no violenta l'agraïment serveix per celebrar, no per influir en la conducta de l'altra persona: s'esmenta l'acció concreta que ens ha millorat la vida, la necessitat que ha satisfet i com ens ha fet sentir.\n\nRepartiu tres pòsits de colors diferents a cadascú perquè hi escrigui un agraïment:\n\n- Per l'ajuda rebuda d'un company o companya de classe, o per algun acte solidari. Es pot dir a qui.\n- Per l'ajuda que ha donat o algun gest altruista amb un company.\n- A si mateix, per alguna cosa que ha aconseguit o ha fet bé. Sovint dediquem molt més temps a pensar en el que lamentem que en el que ens alegra d'haver fet.\n\nLlegiu-ne alguns en veu alta de manera anònima: un tipus, dos o tots tres.",
+    "avaluacio": "Si hi ha temps, feu una última ronda oral d'agraïments a l'ajuda que el grup ha rebut durant el curs. Com us heu sentit escrivint-los i escoltant-los?",
+    "notes": "Forma part de la sessió «Ens comuniquem?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16567-ens-comuniquem.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
@@ -2887,6 +2955,41 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-m-ajudes-dir-que-no-a-la-pressio",
+    "titol": "M'ajudes? Dir que no a la pressió",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "parelles",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "convivencia"
+    ],
+    "siguestu": [
+      "convivencia",
+      "negociacio-i-refus"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Pissarra.",
+    "resum": "Per parelles, una persona insisteix perquè l'altra faci alguna cosa que no vol (copiar en un examen, participar en una burla, deixar diners...) i l'altra manté el «no»; després canvien els rols i analitzen amb quina actitud han respost.",
+    "objectius": "Prendre consciència de la importància de saber posar límits i dir que no, i reconèixer els estils de resposta passiu, agressiu i assertiu.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "preparacio": "Presenteu l'habilitat de negociació i refús amb una pluja d'idees: què vol dir negociar i rebutjar? Us costa? Sabeu arribar a acords? Amb qui pacteu? Heu sentit parlar de la comunicació no violenta?\n\nExpliqueu que la comunicació no violenta és una eina per comunicar-se amb empatia i resoldre els conflictes sense violència ni coacció: canvia els judicis sobre què està bé i què està malament per l'expressió sincera i l'escolta empàtica, buscant que totes les parts en surtin satisfetes.",
+    "descripcio": "Cada parella tria una situació:\n\n- Et proposen una novatada o un acte humiliant per entrar en un grup.\n- Et demanen que deixis copiar en un examen o un treball.\n- Les amistats volen sortir i tu vols descansar o fer una altra cosa.\n- Et pressionen per canviar la manera de vestir o de fer per encaixar.\n- Et demanen ajuda constantment sense respectar els teus límits de temps o emocionals.\n- Et demanen diners o favors que et fan sentir incòmode.\n- Et demanen que participis en burles o assetjament contra algú.\n\nUna persona fa d'insistent i intenta aconseguir el que planteja la situació; l'altra resisteix la pressió i manté el «no». El diàleg dura uns dos minuts. Després canvien els papers. Si voleu, una part de la classe pot observar les actituds i les estratègies que fan servir.\n\nPresenteu a la pissarra els estils de resposta (passiu, agressiu i assertiu) i que cada parella valori amb quin ha actuat.",
+    "avaluacio": "Quines estratègies us han funcionat per mantenir el «no»? Què us ha costat més? Es podia arribar a algun acord sense cedir en el que és important per a vosaltres?",
+    "notes": "Forma part de la sessió «Ens comuniquem?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16567-ens-comuniquem.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-mites-sobre-la-salut-mental",
     "titol": "Mites sobre la salut mental",
     "tipus": "dinamica",
@@ -3294,6 +3397,40 @@
     "participants": "Alumnat de 3r i 4t d'ESO.",
     "descripcio": "Doneu a cada alumne un full gran o una cartolina i poseu música suau de fons.\n\nConvideu-los a dibuixar o representar com senten la pèrdua. Poden pensar en una pèrdua concreta o fer-ho de manera general, en la mort o en altres pèrdues, i la representació pot ser literal (objectes, persones, moments) o simbòlica (colors, formes, paisatges). Remarqueu que no es pot fer «bé» o «malament»: no busquem una obra d'art, sinó un espai d'expressió personal.\n\nPreguntes que poden servir de guia: «Com et sents quan perds alguna cosa o algú? Què passa dins teu? On ho notes al cos? Quin color o forma té?».\n\nQuan acabin, cadascú posa un títol a la seva obra.",
     "notes": "Si surt algun cas personal sensible, acolliu-lo amb naturalitat i oferiu-ne seguiment si cal.\n\nForma part de la sessió «El dol i les pèrdues: expressar, agrair» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: gestió de les emocions). Autoria: Equip «Sigues tu» i Carme Dolz (Intel·ligència Emocional i Acompanyament al Dol). Fitxa original: https://www.siguestu.cat/ca/recursos2/l/24253-el-dol-i-les-perdues-expressar-agrair.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-posem-nom-a-l-objecte-de-la-classe",
+    "titol": "Posem nom a l'objecte de la classe",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "convivencia",
+    "nivells": [
+      "3eso",
+      "4eso"
+    ],
+    "etiquetes": [
+      "cercle",
+      "cooperatiu",
+      "reflexio"
+    ],
+    "temes": [
+      "comunicacio",
+      "convivencia"
+    ],
+    "siguestu": [
+      "convivencia",
+      "negociacio-i-refus"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Un objecte amb què el grup es pugui identificar, com un peluix, que farà de referent al llarg del curs. Un cronòmetre.",
+    "resum": "Amb l'objecte al centre de la rotllana, el grup té tres minuts per posar-li un nom per consens, sense votació imposada i amb el docent només observant, i després analitza com ho ha fet.",
+    "objectius": "Experimentar què cal per arribar a un acord en grup i reflexionar sobre la participació i les estratègies de comunicació.",
+    "participants": "Alumnat de 3r i 4t d'ESO.",
+    "descripcio": "Seieu en rotllana amb l'objecte a terra, al mig. El repte és trobar-li un nom. Expliqueu les normes abans de començar:\n\n- El nom es decideix entre totes les persones de l'aula.\n- Tothom hi ha d'estar d'acord, també el docent.\n- Ha de ser respectuós i no pot fer referència a ningú de la classe ni del centre.\n- Hi ha tres minuts (adaptables segons la mida del grup).\n- El docent observa en silenci els dos primers minuts i només pot participar en l'últim.\n\nQuan s'acabi el temps, pregunteu a la persona delegada si s'ha aconseguit. Tant si sí com si no, valoreu el procés sense jutjar.",
+    "avaluacio": "S'ha aconseguit? Quines estratègies de comunicació heu fet servir? Tothom hi ha participat i hi ha estat d'acord? S'ha tingut en compte l'opinió de tothom? Hi ha hagut votació? Què cal per arribar a un acord? Què podríeu haver fet diferent?",
+    "notes": "L'objecte es pot quedar a l'aula tot el curs com a símbol del grup.\n\nForma part de la sessió «Ens comuniquem?» del programa Sigues tu de Dipsalut (eix convivència; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16567-ens-comuniquem.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {

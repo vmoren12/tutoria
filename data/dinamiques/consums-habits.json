@@ -302,6 +302,39 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-debat-en-moviment-les-pantalles-no-son-neutrals",
+    "titol": "Debat en moviment: les pantalles no són neutrals",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "reflexio"
+    ],
+    "temes": [
+      "pantalles"
+    ],
+    "siguestu": [
+      "pensament-critic",
+      "us-de-pantalles"
+    ],
+    "durada": 30,
+    "grup": "mitja",
+    "materials": "Paper i bolígraf per persona per al tancament.",
+    "espai": "Aula amb espai per moure's d'una banda a l'altra.",
+    "resum": "L'alumnat es desplaça a un costat o a l'altre de l'aula segons si creu que són certes afirmacions sobre contrasenyes, mems, la bretxa digital o l'impacte ambiental dels mòbils, i el grup en debat.",
+    "objectius": "Conèixer l'impacte humà, social i ambiental de la tecnologia, i construir una opinió pròpia sobre la suposada neutralitat de les pantalles.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "L'alumnat fa una fila al centre de l'aula. Llegiu cada afirmació: qui cregui que és veritat va a un costat i qui no, a l'altre. Després de cada una, obriu el debat i aporteu la reflexió:\n\n- Si una persona m'estima, li he de donar totes les meves contrasenyes. Parleu de privacitat, confiança, control i relacions de poder.\n- Un iPhone contamina menys que un Android. No és cert: tots els mòbils tenen materials escassos (cobalt, liti, tungstè) que generen conflictes als països d'on s'extreuen i, en el cas del cobalt, explotació infantil.\n- Si m'envien un mem o una foto que fa riure, no faig mal a ningú si la reenvio. Falta al respecte a algú o a algun col·lectiu? Sobretot si són bromes masclistes, racistes, homòfobes, gordofòbiques, capacitistes o classistes.\n- Tothom té internet a casa. Tenir connexió i dispositius és un privilegi, i no tenir-ne és motiu de discriminació en un món on són imprescindibles.\n- La gent gran s'ha d'espavilar a aprendre a fer servir les aplicacions i els caixers; el món no es pot aturar per ells. A moltes persones grans els costa molt o no poden, i queden fora de gestions bàsiques del dia a dia.\n- Una persona sorda no té cap problema per fer servir el mòbil. Moltes aplicacions no estan adaptades a persones sordes, cegues o amb mobilitat reduïda.",
+    "avaluacio": "Cadascú escriu què ha après en la sessió i si es planteja fer alguna cosa diferent a partir d'ara.",
+    "notes": "Forma part de la sessió «Pantalles - Visió crítica» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15040-pantalles--visio-critica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-del-consum-puntual-al-consum-problematic",
     "titol": "Del consum puntual al consum problemàtic",
     "tipus": "dinamica",
@@ -1074,6 +1107,40 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-on-heu-estat-les-dades-que-deixem-a-les-pantalles",
+    "titol": "On heu estat? Les dades que deixem a les pantalles",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "escriptura",
+      "expressio-corporal",
+      "reflexio"
+    ],
+    "temes": [
+      "pantalles"
+    ],
+    "siguestu": [
+      "pensament-critic",
+      "us-de-pantalles"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Paper i bolígraf per persona.",
+    "resum": "L'alumnat apunta on ha estat els dos últims dies i quant temps, i en un joc de rol un empresari de mòbils fa servir aquesta informació per vendre un telèfon a mida, cosa que obre el debat sobre les dades que deixem a les pantalles.",
+    "objectius": "Prendre consciència de la informació personal que queda registrada a les pantalles i de l'ús que en poden fer les empreses.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Presenteu l'habilitat de pensament crític: què vol dir? Hi ha algun tema que us preocupi especialment (alimentació, medi ambient, diversitat, cossos, consum...)? Què hi tenen a veure les pantalles?",
+    "descripcio": "Cadascú fa una llista detallada dels llocs on ha estat els dos últims dies i del temps que hi ha passat.\n\nDemaneu dos voluntaris per a un joc de rol. Un fa d'empresari d'una gran companyia de telèfons que vol vendre un mòbil. L'altre li ensenya la seva llista (aviseu-lo abans, perquè la mostrarà davant de la classe). Quina informació necessita l'empresari per vendre-li el mòbil? Què en pot treure? (Si ha anat d'excursió, un mòbil amb brúixola i mapes; si fa classes de música, un mòbil que capti millor el so...)\n\nExpliqueu que a les pantalles queda registrat tot el que fem i que les grans empreses poden aconseguir aquesta informació.",
+    "avaluacio": "Què creieu que fan les empreses amb la nostra informació? Com l'aconsegueixen? Podrien saber què ens agrada o a què dediquem el temps?",
+    "notes": "Forma part de la sessió «Pantalles - Visió crítica» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: pensament crític). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15040-pantalles--visio-critica.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-persona-substancia-i-context",
     "titol": "Persona, substància i context",
     "tipus": "dinamica",
@@ -1109,6 +1176,40 @@
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
+    "id": "st-qui-com-jo-quan-les-pantalles-ens-atrapen",
+    "titol": "Qui com jo: quan les pantalles ens atrapen",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "moviment",
+      "cercle",
+      "reflexio"
+    ],
+    "temes": [
+      "pantalles",
+      "habits"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "us-de-pantalles"
+    ],
+    "durada": 25,
+    "grup": "mitja",
+    "materials": "Una cadira per persona menys una. Paper i bolígraf per al tancament.",
+    "resum": "En una rotllana amb una cadira de menys, qui és al mig diu «Qui com jo...» i un senyal d'abús de les pantalles; tothom a qui li passa ha de canviar de cadira, i qui es queda dret continua.",
+    "objectius": "Reconèixer els indicadors que avisen que l'ús de les pantalles s'està convertint en abús, i generar estratègies per fer-ne un bon ús.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "descripcio": "Col·loqueu les cadires en rotllana, una menys que persones. Qui no té cadira (pot començar el docent) es posa al mig i diu: «Qui com jo... acaba amb els ulls cansats després d'estar molta estona davant de les pantalles». Tothom a qui li passi s'aixeca i busca una altra cadira (no val la del costat); qui era al mig també seu. Qui es queda sense cadira passa al mig i diu una altra frase. Si ningú s'identifica amb una frase, tothom canvia de cadira.\n\nFrases que poden sortir o que podeu proposar:\n\n- Sovint discuteixo amb la família o el professorat per les pantalles.\n- Passo més de quatre hores al dia davant d'una pantalla, sumant classe i lleure.\n- Sovint no dormo prou.\n- Només em sento lliure o feliç quan faig servir les xarxes o els videojocs.\n- Em fan mal els ulls, l'esquena o les mans per les hores de pantalla.\n- No tinc altres aficions.\n- M'oblido dels deures, de les feines de casa o de cites amb algú.\n- Les meves úniques relacions de confiança són a través de les pantalles.\n- Ho prioritzo per davant de quedar amb les amistats.\n- Si no hi puc dedicar les hores que vull, m'irrito o m'enfado.",
+    "avaluacio": "Cadascú escriu un repte personal per millorar la seva relació amb les pantalles i qui vulgui el comparteix. Després, penseu què podeu fer com a classe per ajudar-vos: proposar activitats diverses, no aplaudir qui és líder en un joc ni menysprear qui hi és nou, parlar d'altres coses, no presumir de les hores de joc, dir-vos-ho quan algú fa estona que només mira el mòbil...",
+    "notes": "Fa servir el mecanisme d'«El sol brilla», amb frases que ajuden a detectar l'abús de les pantalles.\n\nForma part de la sessió «Pantalles - Ús i abús» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15039-pantalles--us-i-abus.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
     "id": "st-quin-oci-teniu",
     "titol": "Quin oci teniu?",
     "tipus": "dinamica",
@@ -1141,6 +1242,41 @@
     "descripcio": "Demaneu que cadascú escrigui en un paper almenys dues maneres de divertir-se: a què dedica el temps d'oci, és a dir, allò que fa sense que sigui una obligació (tot i que tenir oci és gairebé obligatori per a la salut).\n\nRecolliu els papers doblegats, barregeu-los i torneu-los a repartir. Tothom s'aixeca i busca la persona a qui creu que correspon el paper que li ha tocat.\n\nA mesura que es troben, les parelles apunten a la pissarra les activitats d'oci dels dos papers i s'asseuen. Si una activitat ja hi és, hi afegiu un palet.\n\nComenteu com ha anat: ha estat fàcil trobar la persona? Què ho ha fet fàcil o difícil?\n\nPer acabar, mireu el resultat: «Veiem que X és el que més feu en el temps lliure. Té a veure amb l'alcohol?».",
     "avaluacio": "Quines maneres de divertir-se no tenen res a veure amb l'alcohol? Què en podeu aprofitar per quan sortiu?",
     "notes": "Forma part de la sessió «Alcohol i oci» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: negociació i refús). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/16554-alcohol-i-oci.html",
+    "font": "Sigues tu (Dipsalut) — siguestu.cat"
+  },
+  {
+    "id": "st-que-feu-per-divertir-vos",
+    "titol": "Què feu per divertir-vos?",
+    "tipus": "dinamica",
+    "idioma": "ca",
+    "categoria": "consums-habits",
+    "nivells": [
+      "1eso",
+      "2eso"
+    ],
+    "etiquetes": [
+      "subgrups",
+      "escriptura",
+      "reflexio"
+    ],
+    "temes": [
+      "pantalles",
+      "habits"
+    ],
+    "siguestu": [
+      "presa-de-decisions-i-resolucio-de-problemes",
+      "us-de-pantalles"
+    ],
+    "durada": 20,
+    "grup": "mitja",
+    "materials": "Pòsits i retoladors.",
+    "resum": "En grups, l'alumnat escriu en pòsits què fa per divertir-se; després, en una altra taula, separa les activitats relacionades amb les pantalles de la resta i el grup valora quant temps hi dedica.",
+    "objectius": "Prendre consciència dels diferents usos de les pantalles i del lloc que ocupen en el temps lliure.",
+    "participants": "Alumnat de 1r i 2n d'ESO.",
+    "preparacio": "Com a presentació, feu una ronda en què cadascú diu un ús que fa de les pantalles sense repetir-ne cap. Presenteu l'habilitat de presa de decisions: quines decisions podem prendre sobre les pantalles? Quins problemes i quins beneficis hi trobem?",
+    "descripcio": "Feu grups de cinc al voltant d'una taula. Amb la consigna «Què feu per divertir-vos?», cada grup escriu les seves activitats, una per pòsit, i les enganxa a la taula.\n\nAl cap de cinc minuts, els grups canvien de taula. A la nova, separen els pòsits relacionats amb les pantalles de la resta.\n\nPoseu en comú el resultat.",
+    "avaluacio": "A què dediqueu més temps? Feu totes aquestes activitats? Quant temps hi dediqueu? I a les pantalles? És el temps que us agradaria?",
+    "notes": "Forma part de la sessió «Pantalles - Ús i abús» del programa Sigues tu de Dipsalut (eix consums i hàbits saludables; habilitat per a la vida: presa de decisions i resolució de problemes). Autoria: Equip «Sigues tu». Fitxa original: https://www.siguestu.cat/ca/recursos2/l/15039-pantalles--us-i-abus.html",
     "font": "Sigues tu (Dipsalut) — siguestu.cat"
   },
   {
